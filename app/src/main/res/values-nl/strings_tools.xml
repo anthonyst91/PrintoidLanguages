@@ -7,9 +7,6 @@
     <string name="headX_target_temperature_label">Ext.%d (doel)</string>
     <string name="bed_current_temperature_label">Bed</string>
     <string name="bed_target_temperature_label">Bed (doel)</string>
-    <string name="current_temperature">%.1f°</string>
-    <string name="current_bed">%.1f°</string>
-    <string name="target_temperature">%.1f°</string>
 
     <string name="printer_head_level">Extruder\n%d°</string>
     <string name="printer_headX_level">Extruder %1$d\n%2$d°</string>

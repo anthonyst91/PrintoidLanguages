@@ -53,13 +53,6 @@
     <string name="alert_license_invalid_title">License is invalid</string>
     <string name="alert_license_invalid_message">Your license of Printoid seems not valid. The features of the %1$s version will be automatically deactivated.\n\nDo you want to purchase the %2$s version of Printoid from Google Play?\n\n(If you have already purchased the %3$s version, please click on the \"Help\" button)\n\n[Error to communicate to the developer: %4$s]</string>
     <string name="purchase">Purchase</string>
-    <string name="license_error_contacting_server" translatable="false">ERROR_CONTACTING_SERVER</string>
-    <string name="license_error_server_failure" translatable="false">ERROR_SERVER_FAILURE</string>
-    <string name="license_error_invalid_package_name" translatable="false">ERROR_INVALID_PACKAGE_NAME</string>
-    <string name="license_error_non_matching_uid" translatable="false">ERROR_NON_MATCHING_UID</string>
-    <string name="license_error_not_market_managed" translatable="false">ERROR_NOT_MARKET_MANAGED</string>
-    <string name="license_error_over_quota" translatable="false">ERROR_OVER_QUOTA</string>
-    <string name="license_error_not_licensed" translatable="false">NOT_LICENSED</string>
 
     <string name="alert_theme_changed_title">Restart to apply the new theme</string>
     <string name="alert_theme_changed_msg">You must restart the application to apply the new theme. Do you want to restart it now?</string>
@@ -67,7 +60,6 @@
     <string name="alert_language_changed_title">Restart to apply the new language</string>
     <string name="alert_language_changed_msg">You must restart the application to apply the new language. Do you want to restart it now?</string>
 
-    <string name="alert_manage_file_title" translatable="false">File \'%s\'</string>
     <string name="alert_manage_file_msg">What do you want to do with this file? You can upload it on the current server, or render it in 2D or 3D.</string>
 
     <string name="alert_permission_denied_title">Permission denied</string>
@@ -88,11 +80,8 @@
 
     <string name="alert_choose_ip_title">Choose IP</string>
     <string name="alert_choose_ip_msg">Printoid seems currently not connected to your OctoPrint server.\nPlease choose the IP address (or hostname) to be used for this SSH command</string>
-    <string name="alert_choose_ip_lan" translatable="false">LAN</string>
-    <string name="alert_choose_ip_wan" translatable="false">WAN</string>
 
     <string name="intro_printoid_website">Discover https://printoid.net, the Printoid\'s official website! Full changelogs, next releases, new features, useful tips &amp; more!</string>
-    <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
 
     <string name="intro_spool_manager">Manage your stock of spools with the Filament Spool Manager module, compatible with Printoid PREMIUM! The free version of this module allows you to manage up to 2 spools.</string>
     <string name="intro_spool_manager_button">Install now</string>

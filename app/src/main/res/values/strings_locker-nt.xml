@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_password_bullet" translatable="false">○</string>
+    <string name="locker_password_bullet_full" translatable="false">⦿</string>
+    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
+
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="render_activity_name" translatable="false">Printoid Viewer</string>
+
+    <string name="render_file_z_height_value_mm" translatable="false">%.2fmm</string>
+    <string name="render_file_z_height_value_cm" translatable="false">%.3fcm</string>
+
+</resources>

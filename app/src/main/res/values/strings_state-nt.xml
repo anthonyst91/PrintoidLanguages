@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="empty" translatable="false">&#8212;</string>
+    <string name="dimensions_format" translatable="false">%1$.1fmm × %2$.1fmm × %3$.1fmm</string>
+    <string name="dimensions_reduced_format" translatable="false">%1$.1f×%2$.1f×%3$.1f mm</string>
+    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
+    <string name="current_z_value" translatable="false">%.2f mm</string>
+    <string name="current_z_empty" translatable="false">&#8212; mm</string>
+
+</resources>

@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="debug_item_connection" translatable="false">Connection</string>
-    <string name="debug_item_files" translatable="false">Files</string>
-    <string name="debug_item_job" translatable="false">Job</string>
-    <string name="debug_item_bed_historic" translatable="false">Bed historic</string>
-    <string name="debug_item_printer_profiles" translatable="false">Printer profiles</string>
-    <string name="debug_item_printer_state" translatable="false">Printer state</string>
-    <string name="debug_item_tools_historic" translatable="false">Tools historic</string>
-    <string name="debug_item_settings" translatable="false">Settings</string>
-    <string name="debug_item_slicers" translatable="false">Slicing</string>
-    <string name="debug_item_system_commands" translatable="false">System commands</string>
-    <string name="debug_item_timelapses" translatable="false">Timelapses</string>
-    <string name="debug_item_version" translatable="false">Versions</string>
-
     <string name="debug_message">The Printoid Debug Bridge is a tool used by the developer of the application when you run into issue regarding the OctoPrint features. Please use it when requested by the developer ;)</string>
 
     <string name="debug_item_connection_desc">GET /api/connection returns the description of the current printer connection status.</string>

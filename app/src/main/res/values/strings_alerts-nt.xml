@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="license_error_contacting_server" translatable="false">ERROR_CONTACTING_SERVER</string>
+    <string name="license_error_server_failure" translatable="false">ERROR_SERVER_FAILURE</string>
+    <string name="license_error_invalid_package_name" translatable="false">ERROR_INVALID_PACKAGE_NAME</string>
+    <string name="license_error_non_matching_uid" translatable="false">ERROR_NON_MATCHING_UID</string>
+    <string name="license_error_not_market_managed" translatable="false">ERROR_NOT_MARKET_MANAGED</string>
+    <string name="license_error_over_quota" translatable="false">ERROR_OVER_QUOTA</string>
+    <string name="license_error_not_licensed" translatable="false">NOT_LICENSED</string>
+
+    <string name="alert_manage_file_title" translatable="false">File \'%s\'</string>
+
+    <string name="alert_choose_ip_lan" translatable="false">LAN</string>
+    <string name="alert_choose_ip_wan" translatable="false">WAN</string>
+
+    <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
+
+</resources>

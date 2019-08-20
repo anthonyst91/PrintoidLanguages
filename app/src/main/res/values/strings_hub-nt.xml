@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_hub" translatable="false">Printoid Hub</string>
+
+    <string name="hub_introduction_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/03/d2hv6wnxcaa2cjr.jpg_large_framed-1.png</string>
+    <string name="hub_introduction_more_info_url" translatable="false">https://printoid.net/2019/04/13/introducing-printoid-hub-all-your-octoprint-servers-on-the-same-screen/</string>
+
+</resources>

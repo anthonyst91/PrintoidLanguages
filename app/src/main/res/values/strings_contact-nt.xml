@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_email" translatable="false">contact@printoid.net</string>
+
+    <string name="contact_version_premium" translatable="false">PREMIUM</string>
+    <string name="contact_version_pro" translatable="false">PRO</string>
+    <string name="contact_version_trial" translatable="false">LITE</string>
+
+</resources>

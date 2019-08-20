@@ -7,9 +7,6 @@
     <string name="headX_target_temperature_label">Ext.%d (objetivo)</string>
     <string name="bed_current_temperature_label">Cama</string>
     <string name="bed_target_temperature_label">Cama (objetivo)</string>
-    <string name="current_temperature">%.1f°</string>
-    <string name="target_temperature">%.1f°</string>
-    <string name="current_bed">%.1f°</string>
 
     <string name="printer_head_level">Extrusor\n%d°</string>
     <string name="printer_headX_level">Extrusor %1$d\n%2$d°</string>

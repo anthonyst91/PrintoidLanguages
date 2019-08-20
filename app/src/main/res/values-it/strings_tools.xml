@@ -7,9 +7,6 @@
     <string name="headX_target_temperature_label">Est.%d (obiettivo)</string>
     <string name="bed_current_temperature_label">Piatto</string>
     <string name="bed_target_temperature_label">Piatto (obiettivo)</string>
-    <string name="current_temperature">%.1f°</string>
-    <string name="target_temperature">%.1f°</string>
-    <string name="current_bed">%.1f°</string>
 
     <string name="printer_head_level">Estrusore\n%d°</string>
     <string name="printer_headX_level">Estrusore %1$d\n%2$d°</string>

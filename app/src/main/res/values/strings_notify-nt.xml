@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
+
+</resources>

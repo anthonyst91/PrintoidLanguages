@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile" translatable="false">@string/menu_app_settings</string>
-    <string name="settings_printer_profile_with_version_msg" translatable="false">Printoid %1$s v%2$s</string>
-
     <string name="setting_title_general">General settings</string>
     <string name="setting_title_communication">Communication settings</string>
     <string name="setting_title_ui_settings">HMI settings</string>
@@ -228,10 +225,6 @@
     <string name="setting_certificate_tip">SSL/TLS Certificate file</string>
     <string name="setting_certificate_select_tip">Select…</string>
 
-    <string name="setting_hint_id" translatable="false">ID</string>
-    <string name="setting_hint_temp" translatable="false">240</string>
-    <string name="setting_hint_fan" translatable="false">500</string>
-    <string name="setting_hint_extrusion" translatable="false">5</string>
     <string name="setting_hint_login">User name</string>
     <string name="setting_hint_pwd">Password</string>
 
@@ -279,12 +272,5 @@
 
     <string name="baby_stepping_distance">Baby Stepping distance</string>
     <string name="baby_stepping_disabled">Disabled</string>
-    <string name="baby_stepping_reprap_118" translatable="false">RepRapFirmware (v1.18+)</string>
-    <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
-    <string name="baby_stepping_repetier" translatable="false">Repetier</string>
-    <string name="baby_stepping_marlin_117" translatable="false">Marlin (v1.1.7+)</string>
-
-    <string name="widget_setting_text_color" translatable="false">Text</string>
-    <string name="widget_setting_background_color" translatable="false">Back</string>
 
 </resources>

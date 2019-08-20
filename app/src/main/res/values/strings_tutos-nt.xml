@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_available_in_pro_version" translatable="false">@string/tutorial_available_in_premium_version</string>
+
+    <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
+    <string name="tutorial_comparator_lite_title" translatable="false">Printoid LITE</string>
+
+    <string name="tutorial_backup_from_other_app_premium" translatable="false">PREMIUM</string>
+    <string name="tutorial_backup_from_other_app_pro" translatable="false">PRO</string>
+    <string name="tutorial_backup_from_other_app_trial" translatable="false">LITE</string>
+
+    <!-- LINKS -->
+    <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
+    <string name="printoid_facebook_app_link" translatable="false">fb://facewebmodal/f?href=https://www.facebook.com/printoid/</string>
+    <string name="printoid_twitter_url" translatable="false">https://twitter.com/AndroidPrintoid</string>
+    <string name="printoid_twitter_app_link" translatable="false">twitter://user?screen_name=AndroidPrintoid</string>
+    <string name="printoid_patreon_url" translatable="false">https://www.patreon.com/printoid</string>
+
+</resources>
