@@ -52,13 +52,6 @@
     <string name="alert_license_invalid_title">无效的许可证书</string>
     <string name="alert_license_invalid_message">您的Printoid许可证书似乎是无效的. %1$s版的功能将会被自动关闭.\n\n您是否想要从Google Play中购买Printoid %2$s版?\n\n(如果您已经购买过 %3$s版本, 请点击 \"帮助\" 按钮)\n\n[无法和开发人员取得联系: %4$s]</string>
     <string name="purchase">购买</string>
-    <string name="license_error_contacting_server" translatable="false">ERROR_CONTACTING_SERVER</string>
-    <string name="license_error_server_failure" translatable="false">ERROR_SERVER_FAILURE</string>
-    <string name="license_error_invalid_package_name" translatable="false">ERROR_INVALID_PACKAGE_NAME</string>
-    <string name="license_error_non_matching_uid" translatable="false">ERROR_NON_MATCHING_UID</string>
-    <string name="license_error_not_market_managed" translatable="false">ERROR_NOT_MARKET_MANAGED</string>
-    <string name="license_error_over_quota" translatable="false">ERROR_OVER_QUOTA</string>
-    <string name="license_error_not_licensed" translatable="false">NOT_LICENSED</string>
 
     <string name="alert_theme_changed_title">重启以应用新主题</string>
     <string name="alert_theme_changed_msg">您必须重启本应用才能让新主题生效. 您是否想要立刻重启?</string>
@@ -66,7 +59,6 @@
     <string name="alert_language_changed_title">重启以应用新语言</string>
     <string name="alert_language_changed_msg">您必须重启本应用才能让新语言生效. 您是否想要立刻重启?</string>
 
-    <string name="alert_manage_file_title" translatable="false">文件 \'%s\'</string>
     <string name="alert_manage_file_msg">您希望如何处理该文件? 您可以上传到当前服务器或者以2D或3D的形式预览.</string>
 
     <string name="alert_permission_denied_title">权限不足</string>
@@ -87,11 +79,8 @@
 
     <string name="alert_choose_ip_title">选择IP地址</string>
     <string name="alert_choose_ip_msg">Printoid似乎无法连接到您的OctoPrint服务.\n请选择用于该SSH命令的IP地址(或者域名)</string>
-    <string name="alert_choose_ip_lan" translatable="false">LAN</string>
-    <string name="alert_choose_ip_wan" translatable="false">WAN</string>
 
     <string name="intro_printoid_website">访问Printoid的官方网站 https://printoid.net ! 这里有完整的更新日志、新的发布信息、新的功能信息、实用技巧以及更多!</string>
-    <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
 
     <string name="intro_spool_manager">使用耗材管理器模块来管理您的耗材, 该功能兼容Printoid旗舰版! 该模块的免费版本允许您管理最多两卷耗材.</string>
     <string name="intro_spool_manager_button">马上安装</string>

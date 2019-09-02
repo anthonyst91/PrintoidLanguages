@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile" translatable="false">@string/menu_app_settings</string>
-    <string name="settings_printer_profile_with_version_msg" translatable="false">Printoid %1$s v%2$s</string>
-
     <string name="setting_title_general">通用设置</string>
     <string name="setting_title_communication">通讯设置</string>
     <string name="setting_title_ui_settings">界面设置</string>
@@ -228,10 +225,6 @@
     <string name="setting_certificate_tip">SSL/TLS证书文件</string>
     <string name="setting_certificate_select_tip">选择…</string>
 
-    <string name="setting_hint_id" translatable="false">ID</string>
-    <string name="setting_hint_temp" translatable="false">240</string>
-    <string name="setting_hint_fan" translatable="false">500</string>
-    <string name="setting_hint_extrusion" translatable="false">5</string>
     <string name="setting_hint_login">用户名</string>
     <string name="setting_hint_pwd">密码</string>
 
@@ -261,7 +254,7 @@
     <string name="backup_completed_other">备份已成功完成.\n\n现在您可以关闭本应用了.</string>
     <string name="backup_partial_other">备份部分成功.\n\n现在您可以关闭本应用了.</string>
     <string name="backup_error_fnfe">备份错误(FileNotFound异常), 请联系Printoid开发人员</string>
-    <string name="backup_error_ioe"备份错误(IO异常), 请联系Printoid开发人员</string>
+    <string name="backup_error_ioe">备份错误(IO异常), 请联系Printoid开发人员</string>
     <string name="backup_error">备份错误, 请联系Printoid开发人员</string>
     <string name="backup_error_permission">发生关于写权限的错误</string>
     <string name="backup_error_unknown">发送未知错误, 请联系Printoid开发人员</string>
@@ -279,12 +272,5 @@
 
     <string name="baby_stepping_distance">微量调整距离</string>
     <string name="baby_stepping_disabled">已禁用</string>
-    <string name="baby_stepping_reprap_118" translatable="false">RepRapFirmware (v1.18+)</string>
-    <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
-    <string name="baby_stepping_repetier" translatable="false">Repetier</string>
-    <string name="baby_stepping_marlin_117" translatable="false">Marlin (v1.1.7+)</string>
-
-    <string name="widget_setting_text_color" translatable="false">文本</string>
-    <string name="widget_setting_background_color" translatable="false">背景</string>
 
 </resources>

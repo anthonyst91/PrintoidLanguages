@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="render_activity_name" translatable="false">Printoid查看器</string>
-
     <string name="download_file_dialog_title">正在下载中</string>
     <string name="download_file_dialog_msg">Printoid正在下载您的文件,请等待…</string>
 
@@ -31,8 +29,6 @@
     <string name="render_file_no_file">目前没有文件在打印中</string>
     <string name="render_file_remaining_time">剩余时间:</string>
     <string name="render_file_z_height">Z轴高度:</string>
-    <string name="render_file_z_height_value_mm" translatable="false">%.2fmm</string>
-    <string name="render_file_z_height_value_cm" translatable="false">%.3fcm</string>
     <string name="render_file_layers">%1$d / %2$d</string>
 
     <string name="render_error_not_supported_title">GCODE格式不支持</string>

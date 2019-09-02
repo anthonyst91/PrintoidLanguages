@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="locker_password_bullet" translatable="false">○</string>
-    <string name="locker_password_bullet_full" translatable="false">⦿</string>
-    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
-
     <string name="locker_enter_password">输入密码</string>
     <string name="locker_enter_password_or_fingerprint">输入密码或者使用指纹验证</string>
     <string name="locker_cancel">取消</string>

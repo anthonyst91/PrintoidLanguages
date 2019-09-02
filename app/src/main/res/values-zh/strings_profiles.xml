@@ -80,9 +80,6 @@
     <string name="alert_modern_tls_title">使用modern TLS</string>
     <string name="alert_modern_tls_msg">请勿启用该功能, 除非开发人员告诉您这么做! 取决于您的服务器配置这将造成若干连接问题.</string>
 
-    <string name="alert_profile_identifier_title" translatable="false">配置项ID</string>
-    <string name="alert_profile_identifier_msg" translatable="false">当前配置项的ID是 %1$s\n\n当前配置项ID是 %2$s</string>
-
     <string name="unknown_profile">未知配置项</string>
     <string name="all_available_profiles">所有可用的配置项</string>
 

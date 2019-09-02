@@ -13,7 +13,7 @@
     <string name="previous">上一个</string>
     <string name="quit">退出</string>
     <string name="terminate">终止</string>
-    <string name="search">在文件中搜索...</string>
+    <string name="search">在文件中搜索…</string>
     <string name="retry">重试</string>
     <string name="set_home">归位XYZ</string>
     <string name="backup">备份</string>
@@ -57,8 +57,6 @@
     <string name="copied_to_clipboard">已复制到剪贴板</string>
     <string name="never_ask_again">不再询问</string>
 
-    <string name="google_drive" translatable="false">磁盘</string>
-
     <string name="heated_bed">热床</string>
     <string name="heated_chamber">加热箱</string>
     <string name="heated_head">加热头%d</string>
@@ -69,16 +67,10 @@
     <string name="simple_day_offset_format">%1$s (D+%2$d)</string>
 
     <string name="simple_hour_format">hh:mm:ss a</string>
-    <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
-    <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>
 
     <string name="simple_hour_reduced_format">hh:mm a</string>
-    <string name="simple_hour_reduced_format_12" translatable="false">hh:mm a</string>
-    <string name="simple_hour_reduced_format_24" translatable="false">HH:mm</string>
 
     <string name="simple_date_format">dd MMM yyyy - hh:mm a</string>
-    <string name="simple_date_format_12" translatable="false">@string/simple_date_format</string>
-    <string name="simple_date_format_24" translatable="false">dd MMM yyyy - HH:mm</string>
 
     <string name="overlay_tile_title">Printoid视频流</string>
     <string name="snapshot_tile_title">Printoid快照</string>
@@ -87,8 +79,6 @@
     <string name="network_type_mobile">移动数据</string>
     <string name="network_type_none">无网络连接</string>
     <string name="network_type_unknown">未知网络类型</string>
-
-    <string name="arrow" translatable="false">→</string>
 
     <string name="image_picker_tool_folders">文件夹</string>
     <string name="image_picker_tool_tap">点击选中</string>

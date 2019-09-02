@@ -24,7 +24,6 @@
     <string name="alarm_setting_value_z_height">当打印头达到该高度(mm)时提醒</string>
     <string name="alarm_settins_value">提醒触发数值</string>
     <string name="alarm_setting_vibration_pattern">震动模式</string>
-    <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
 
     <string name="alarm_created">新的提醒已被创建</string>
     <string name="alarm_updated">提醒已更新</string>
