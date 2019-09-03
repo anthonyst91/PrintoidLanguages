@@ -134,7 +134,7 @@
     <string name="setting_enable_keyboard_control_tip">Bedien de interface met een fysiek toetsenbord</string>
     <string name="setting_manage_account_tip">Meld u aan / meld u aan bij uw Printoid-account</string>
     <string name="setting_enable_ask_profile_tip">Vraag welk profiel u wilt gebruiken bij het starten van de app</string>
-    <string name="setting_enable_auto_screen_locker_tip">Vergrendel het scherm na 15 seconden zonder activiteit</string>
+    <string name="setting_enable_auto_screen_locker_tip">Vergrendel het scherm na X seconden zonder activiteit</string>
     <string name="setting_improve_connection_tip">Er is grofe locatietoestemming vereist om de WiFI SSID te verkrijgen</string>
     <string name="setting_enable_screensaver_tip">Toon alleen de huidige taakdetails na inactiviteitsperiode</string>
     <string name="setting_battery_optimizations_tip">Deze systeemoptimalisaties kunnen het Printoid-proces doden</string>

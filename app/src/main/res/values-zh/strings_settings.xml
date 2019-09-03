@@ -133,7 +133,7 @@
     <string name="setting_enable_keyboard_control_tip">使用物理键盘控制界面</string>
     <string name="setting_manage_account_tip">注册 / 登录 / 登出 您的Printoid帐号</string>
     <string name="setting_enable_ask_profile_tip">应用启动时选择需要连接的服务器</string>
-    <string name="setting_enable_auto_screen_locker_tip">未活动15秒后锁屏</string>
+    <string name="setting_enable_auto_screen_locker_tip">未活动X秒后锁屏</string>
     <string name="setting_improve_connection_tip">需要网络粗略定位权限以获取WiFI SSID</string>
     <string name="setting_enable_screensaver_tip">在未活动间隔后只显示当前任务信息</string>
     <string name="setting_enable_fix_octoprint_updates_tip">如果您无法连接到OctoPrint, 开启此项</string>

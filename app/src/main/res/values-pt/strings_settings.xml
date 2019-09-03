@@ -133,7 +133,7 @@
     <string name="setting_enable_keyboard_control_tip">Controle a interface com um teclado físico</string>
     <string name="setting_manage_account_tip">Inscreva-se / faça login / logout em sua conta Printoid</string>
     <string name="setting_enable_ask_profile_tip">Solicitar qual perfil se conectar ao iniciar o aplicativo</string>
-    <string name="setting_enable_auto_screen_locker_tip">Bloquear a tela após 15 segundos de inatividade</string>
+    <string name="setting_enable_auto_screen_locker_tip">Bloquear a tela após X segundos de inatividade</string>
     <string name="setting_improve_connection_tip">Necessária permissão de localização COARSE para obter o SSID do WiFI</string>
     <string name="setting_enable_screensaver_tip">Mostrar apenas detalhes do trabalho atual após o período de inatividade</string>
     <string name="setting_enable_fix_octoprint_updates_tip">Ativar somente se você não conseguir se conectar ao OctoPrint</string>
