@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="notif_channel_name_pull_service">Printoid achtergrond client</string>
-
     <string name="notif_foreground_service_msg">Printoid communiceert met OctoPrint is achtergrond…</string>
 
     <string name="notif_print_completed">Printen is klaar</string>

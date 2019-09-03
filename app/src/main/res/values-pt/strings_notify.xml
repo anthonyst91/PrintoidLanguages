@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="notif_channel_name_pull_service">Cliente de segundo plado do Printoid</string>
-
-    <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
     <string name="notif_foreground_service_msg">Comunicação do Printoid com o OctoPrint está em segundo plano</string>
 
     <string name="notif_print_completed">Impressão finalizada</string>

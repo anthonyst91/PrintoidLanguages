@@ -2,6 +2,7 @@
 <resources>
 
     <string name="notif_channel_name_pull_service">Client Printoid en arrière plan</string>
+    <string name="notif_channel_name_job_notif">Progression de l\'impression en cours</string>
 
     <string name="notif_foreground_service_msg">Printoid communique avec OctoPrint en arrière plan…</string>
 
