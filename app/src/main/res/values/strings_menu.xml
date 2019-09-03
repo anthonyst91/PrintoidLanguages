@@ -2,6 +2,7 @@
 <resources>
 
     <string name="menu_title_partners">Partners</string>
+    <string name="menu_title_servers">Servers</string>
     <string name="menu_title_configuration">Configuration</string>
     <string name="menu_title_help">Help &amp; support</string>
 
@@ -21,7 +22,7 @@
     <string name="menu_minimize">Minimize view</string>
     <string name="menu_printer_profiles_settings">OctoPrint servers</string>
     <string name="menu_app_settings">App settings</string>
-    <string name="menu_profile_settings">Server parameters</string>
+    <string name="menu_profile_settings">Current server settings</string>
     <string name="menu_alarms">Alerts manager</string>
     <string name="menu_plugins">OctoPrint\'s plugins</string>
     <string name="menu_spools">Spools manager</string>

@@ -3,6 +3,7 @@
 
     <string name="menu_title_partners">Partners</string>
     <string name="menu_title_configuration">Configurazione</string>
+    <string name="menu_title_servers">Servers</string>
     <string name="menu_title_help">Aiuto &amp; supporto</string>
 
     <string name="menu_account">Conto Printoid</string>
@@ -33,7 +34,7 @@
     <string name="menu_tos">Termini di servizio</string>
     <string name="menu_printer_tools">Strumenti di stampa</string>
     <string name="menu_gcode_scripts">Script Gcode</string>
-    <string name="menu_profile_settings">Parametri del server</string>
+    <string name="menu_profile_settings">Parametri server correnti</string>
 
     <string name="menu_lite_label_promote">Ti piace Printoid Lite?</string>
     <string name="menu_lite_text_promote">Supporta lo sviluppatore e goditi la versione completa PREMIUM!</string>

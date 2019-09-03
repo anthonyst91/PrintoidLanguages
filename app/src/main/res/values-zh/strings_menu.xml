@@ -3,6 +3,7 @@
 
     <string name="menu_title_partners">合作伙伴</string>
     <string name="menu_title_configuration">配置</string>
+    <string name="menu_title_servers">服务器</string>
     <string name="menu_title_help">帮助与支持</string>
 
     <string name="menu_account">Printoid帐号</string>
@@ -21,7 +22,7 @@
     <string name="menu_minimize">最小化视图</string>
     <string name="menu_printer_profiles_settings">OctoPrint服务器</string>
     <string name="menu_app_settings">应用参数</string>
-    <string name="menu_profile_settings">服务器参数</string>
+    <string name="menu_profile_settings">当前服务器的设置</string>
     <string name="menu_alarms">提醒管理器</string>
     <string name="menu_plugins">OctoPrint插件</string>
     <string name="menu_spools">耗材管理器</string>
