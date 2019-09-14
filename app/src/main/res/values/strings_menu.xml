@@ -1,45 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="menu_title_partners">Partners</string>
-    <string name="menu_title_servers">Servers</string>
-    <string name="menu_title_configuration">Configuration</string>
-    <string name="menu_title_help">Help &amp; support</string>
+    <string name="menu_title_partners">Партнеры</string>
+    <string name="menu_title_configuration">Kонфигурация</string>
+    <string name="menu_title_servers">Серверы</string>
+    <string name="menu_title_help">Помогите &amp; помощь</string>
 
-    <string name="menu_account">Printoid account</string>
-    <string name="menu_connect_server">Connect OctoPrint</string>
-    <string name="menu_connect_printer">Connect printer</string>
-    <string name="menu_connecting_printer">Connecting printer</string>
-    <string name="menu_disconnect_printer">Disconnect printer</string>
-    <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Commands</string>
-    <string name="menu_full_screen">Expand view</string>
-    <string name="menu_full_screen_streaming">Expand video</string>
-    <string name="menu_full_screen_realtime_visualizer">Expand visualizer</string>
-    <string name="menu_full_screen_commands">Expand commands</string>
-    <string name="menu_full_screen_slicer">Expand slicer</string>
-    <string name="menu_full_screen_more_tools">Expand tools</string>
-    <string name="menu_minimize">Minimize view</string>
-    <string name="menu_printer_profiles_settings">OctoPrint servers</string>
-    <string name="menu_app_settings">App settings</string>
-    <string name="menu_profile_settings">Current server settings</string>
-    <string name="menu_alarms">Alerts manager</string>
-    <string name="menu_plugins">OctoPrint\'s plugins</string>
-    <string name="menu_spools">Spools manager</string>
-    <string name="menu_app_infos">Help</string>
-    <string name="menu_octoprint_web">OctoPrint web-interface</string>
-    <string name="menu_files">Files</string>
-    <string name="menu_printoid_web">3DQuality website</string>
-    <string name="menu_timelapse">Timelapses</string>
-    <string name="menu_contact_developer">Contact the developer</string>
-    <string name="menu_tos">Terms of service</string>
-    <string name="menu_printer_tools">Printer tools</string>
-    <string name="menu_gcode_scripts">Gcode scripts</string>
+    <string name="menu_account">Printoid учетная запись</string>
+    <string name="menu_connect_server">Подключить OctoPrint сервер</string>
+    <string name="menu_connect_printer">Подключить принтер</string>
+    <string name="menu_disconnect_printer">Отключить принтер</string>
+    <string name="menu_connecting_printer">Подключение принтера</string>
+    <string name="menu_video_streaming">Видео</string>
+    <string name="menu_commands">Команды</string>
+    <string name="menu_full_screen">На полный экран</string>
+    <string name="menu_full_screen_streaming">Видео на весь экран</string>
+    <string name="menu_full_screen_commands">Команды на весь экран</string>
+    <string name="menu_full_screen_realtime_visualizer">Визуализация на весь экран</string>
+    <string name="menu_full_screen_slicer">Слайсер на весь экран</string>
+    <string name="menu_full_screen_more_tools">Инструменты на весь экран</string>
+    <string name="menu_minimize">Свернуть</string>
+    <string name="menu_printer_profiles_settings">OctoPrint серверы</string>
+    <string name="menu_app_settings">Настройки</string>
+    <string name="menu_app_infos">Помощь</string>
+    <string name="menu_octoprint_web">Web интерфейс OctoPrint</string>
+    <string name="menu_files">Файлы</string>
+    <string name="menu_spools">Kатушки</string>
+    <string name="menu_printoid_web">Сайт 3DQuality</string>
+    <string name="menu_timelapse">Видеоролики</string>
+    <string name="menu_alarms">Оповещения</string>
+    <string name="menu_contact_developer">Вопрос автору</string>
+    <string name="menu_plugins">Плагины OctoPrint</string>
+    <string name="menu_tos">Условия обслуживания</string>
+    <string name="menu_printer_tools">Инструменты принтера</string>
+    <string name="menu_gcode_scripts">Gcode скрипты</string>
+    <string name="menu_profile_settings">Настройки текущего сервера</string>
 
-    <string name="menu_lite_label_promote">Do you like Printoid Lite?</string>
-    <string name="menu_lite_text_promote">Support the developer and enjoy the PREMIUM full-featured version!</string>
+    <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
+    <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PREMIUM!</string>
 
-    <string name="menu_profiles_create">Add profile</string>
-    <string name="menu_profiles_edit">Manage profiles</string>
+    <string name="menu_profiles_create">Добавить профиль
+</string>
+    <string name="menu_profiles_edit">Управление профилями</string>
 
 </resources>

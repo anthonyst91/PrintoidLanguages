@@ -1,101 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="commands_panel_label">Commands</string>
-    <string name="commands_history_label">GCODE history</string>
-    <string name="commands_editing_label">Command editor</string>
+    <string name="commands_panel_label">Kоманды</string>
+    <string name="commands_history_label">GCODE история</string>
+    <string name="commands_editing_label">Редактор команд</string>
 
-    <string name="abitrary_gcode_command">Send a GCODE command…</string>
-    <string name="add_command">Add new command</string>
-    <string name="add_command_type">Type</string>
-    <string name="add_command_curl_type">Method</string>
-    <string name="add_command_label">Label</string>
-    <string name="add_command_command_title">Command to execute</string>
-    <string name="add_command_content">Command arguments</string>
-    <string name="add_command_icon">Icon</string>
-    <string name="add_command_color">Icon color</string>
-    <string name="add_command_show_on_home">Show on home</string>
-    <string name="add_command_favorite">Mark as favorite</string>
-    <string name="add_command_request_confirmation">Confirmation</string>
-    <string name="add_command_wait_result">Show command response</string>
-    <string name="add_command_name">Command label</string>
-    <string name="add_command_command">Command</string>
-    <string name="add_command_argument">Argument</string>
-    <string name="delete_command_title">Delete command</string>
-    <string name="delete_command_msg">Delete a command can not be undone, are you sure?</string>
-    <string name="add_command_error_name">Invalid command name, please verify your value</string>
-    <string name="add_command_error_command">Invalid command, please verify your value</string>
-    <string name="add_command_error_command_octoprint">Invalid command, no OctoPrint command available</string>
-    <string name="command_detail_ssh">SSH command : %s</string>
-    <string name="command_detail_gcode">Gcode command : %s</string>
-    <string name="command_sent">Command sent</string>
-    <string name="command_sent_answer">Command response</string>
-    <string name="command_not_sent">Error while sending command: %s</string>
-    <string name="command_not_sent_reason">Error while sending command: %1$s (%2$s)</string>
-    <string name="send_command_error">Command error: %1$s (%2$d)</string>
+    <string name="abitrary_gcode_command">Отправить команду GCODE…</string>
+    <string name="add_command">Добавить команду</string>
+    <string name="add_command_type">Тип</string>
+    <string name="add_command_curl_type">Mетод</string>
+    <string name="add_command_label">Метка</string>
+    <string name="add_command_command_title">Выполнить</string>
+    <string name="add_command_icon">Значек</string>
+    <string name="add_command_color">Цвет значка</string>
+    <string name="add_command_content">Содержание команды</string>
+    <string name="add_command_argument">Aргумент</string>
+    <string name="add_command_favorite">Избранная</string>
+    <string name="add_command_show_on_home">Показать на главной</string>
+    <string name="add_command_wait_result">Показать ответ команды</string>
+    <string name="add_command_name">Название</string>
+    <string name="add_command_command">Выполнить</string>
+    <string name="add_command_request_confirmation">Подтверждение</string>
+    <string name="delete_command_title">Удалить команду</string>
+    <string name="delete_command_msg">Удаление не отменить, Вы уверены?</string>
+    <string name="add_command_error_name">Неверное имя, пожалуйста проверьте</string>
+    <string name="add_command_error_command">Неверная команда, пожалуйста проверьте</string>
+    <string name="add_command_error_command_octoprint">В OctoPrint нет такой команды</string>
+    <string name="command_detail_ssh">SSH команда : %s</string>
+    <string name="command_detail_gcode">Gcode команда : %s</string>
+    <string name="command_sent">Команда отправлена</string>
+    <string name="command_sent_answer">Ответ команды</string>
+    <string name="command_not_sent">Ошибка при отправки команды: %s</string>
+    <string name="command_not_sent_reason">Ошибка при отправки команды: %1$s (%2$s)</string>
+    <string name="send_command_error">Ошибка команды: %1$s (%2$d)</string>
 
-    <string name="command_help_for">Click here to see the tutorial for %s commands</string>
+    <string name="command_help_for">Нажмите здесь для показа %s справки</string>
 
-    <string name="command_add_new">Add new…</string>
+    <string name="command_add_new">Добавить</string>
 
-    <string name="alert_command_help_title">What is a custom command?</string>
-    <string name="alert_command_help_message">Printoid allows you to customize your app with your own commands.\n\n
-    1/ <b>OctoPrint system commands:</b> Printoid is able to execute the commands you have defined in config.yaml\n\n
-    2/ <b>GCODE commands:</b> you can send your own GCODE commands to your 3D printer. Can be a unique command or a group of commands (separated by carriage returns)\n\n
-    3/ <b>SSH commands:</b> you can send instructions to your Raspberry Pi over SSH, such as GPIO or script execution commands for example\n\n
-    4/ <b>CURL commands:</b> you can send instructions to your Raspberry Pi over CURL commands (should looks like command?enable=relay1 or api/plugin/psucontrol in Printoid, for example, with an eventual JSON argument)\n\n
-    More informations on the official website https://printoid.net</string>
+    <string name="alert_command_help_title">Что такое пользовательские команды?</string>
+    <string name="alert_command_help_message">Printoid позволяет добавить Ваши собственные команды.\n\n
+    1/ <b>Системные команды OctoPrint:</b> Printoid может выполнить команды определенные в config.yaml\n\n
+    2/ <b>GCODE команды:</b> Вы можете выполнить Ваши GCODE команды. Команда может быть одна или целая группа команд (разделенных Enter)\n\n
+    3/ <b>SSH команды:</b> вы можете управлять Вашим Raspberry Pi, например GPIO или скриптами\n\n
+    4/ <b>CURL команды:</b> Вы можете посылать команды Raspberry Pi поверх команд CURL (например, команда выглядит command?enable=relay1 или api/plugin/psucontrol в Printoid, с возможным аргументом в формате JSON)\n\n
+    Подробнее на https://printoid.net</string>
 
-    <string name="max_home_commands_reached_title">Max home commands reached</string>
-    <string name="max_home_commands_reached_msg">You already have selected %d commands to display on the home screen.\n\nPlease deselect one of them before adding this one.</string>
+    <string name="max_home_commands_reached_title">Достигнуто максимальное количество команд</string>
+    <string name="max_home_commands_reached_msg">Вы уже выбрали %d команд для отображения на главном экране.\n\nПожалуйста отмените выбор одной из них чтобы добавить эту.</string>
 
-    <string name="command_confirmation_title">Send command confirmation</string>
-    <string name="command_confirmation_msg">Printoid will send the following command: %s\n\nAre you sure?</string>
+    <string name="command_confirmation_title">Подтвердите выполнение</string>
+    <string name="command_confirmation_msg">Printoid пошлет следующую команду: %s\n\nВы уверены?</string>
 
-    <string name="command_list_empty">No command available</string>
-    <string name="command_list_no_favs">No favorite commands</string>
-    <string name="gcode_base_list_empty">Unknown GCODE command</string>
+    <string name="command_list_empty">Нет команд</string>
+    <string name="gcode_base_list_empty">Неизвестная GCODE команда</string>
+    <string name="command_list_no_favs">Нет избранных команд</string>
 
-    <string name="command_psu_turn_off_alert_title">Turn OFF PSU</string>
-    <string name="command_psu_turn_off_alert_msg">Your PSU is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
-    <string name="command_psu_turn_on_alert_title">Turn ON PSU</string>
-    <string name="command_psu_turn_on_alert_msg">Your PSU is actually OFF.\n\nDo you want to turn it ON right now?</string>
-    <string name="command_psu_turned_off">PSU turned OFF</string>
-    <string name="command_psu_turned_on">PSU turned ON</string>
-    <string name="command_psu_turn_off_error">Turn OFF PSU error</string>
-    <string name="command_psu_turn_on_error">Turn ON PSU error</string>
+    <string name="command_psu_turn_off_alert_title">Выключить блок питания</string>
+    <string name="command_psu_turn_off_alert_msg">Ваш блок питания фактически включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли вы в настоящее время печатаете, текущее задание будет прервано, и результат будет потерян.</string>
+    <string name="command_psu_turn_on_alert_title">Включить блок питания</string>
+    <string name="command_psu_turn_on_alert_msg">Ваш блок питания фактически выключен.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_psu_turned_off">Блок питания отключен</string>
+    <string name="command_psu_turned_on">Блок питания включен</string>
+    <string name="command_psu_turn_off_error">Ошибка выключения</string>
+    <string name="command_psu_turn_on_error">Ошибка включения</string>
 
-    <string name="command_tplink_turn_off_alert_title">Turn OFF TPLink</string>
-    <string name="command_tplink_turn_off_alert_msg">Your TPLink is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
-    <string name="command_tplink_turn_on_alert_title">Turn ON TPLink</string>
-    <string name="command_tplink_turn_on_alert_msg">Your TPLink is actually OFF.\n\nDo you want to turn it ON right now?</string>
-    <string name="command_tplink_turned_off">TPLink turned OFF</string>
-    <string name="command_tplink_turned_on">TPLink turned ON</string>
-    <string name="command_tplink_turn_off_error">Turn OFF TPLink error</string>
-    <string name="command_tplink_turn_on_error">Turn ON TPLink error</string>
+    <string name="command_tplink_turn_off_alert_title">Выключить TPLink питание</string>
+    <string name="command_tplink_turn_off_alert_msg">Ваш TPLink питание включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли Вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_tplink_turn_on_alert_title">Включить TPLink питание</string>
+    <string name="command_tplink_turn_on_alert_msg">Ваш TPLink питание отключено.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_tplink_turned_off">TPLink питание отключено</string>
+    <string name="command_tplink_turned_on">TPLink питание включено</string>
+    <string name="command_tplink_turn_off_error">Ошибка выключения TPLink</string>
+    <string name="command_tplink_turn_on_error">Ошибка включения TPLink</string>
 
-    <string name="command_wemo_turn_off_alert_title">Turn OFF WemoSwitch</string>
-    <string name="command_wemo_turn_off_alert_msg">Your WemoSwitch is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
-    <string name="command_wemo_turn_on_alert_title">Turn ON WemoSwitch</string>
-    <string name="command_wemo_turn_on_alert_msg">Your WemoSwitch is actually OFF.\n\nDo you want to turn it ON right now?</string>
-    <string name="command_wemo_turned_off">WemoSwitch turned OFF</string>
-    <string name="command_wemo_turned_on">WemoSwitch turned ON</string>
-    <string name="command_wemo_turn_off_error">Turn OFF WemoSwitch error</string>
-    <string name="command_wemo_turn_on_error">Turn ON WemoSwitch error</string>
+    <string name="command_wemo_turn_off_alert_title">Выключить WemoSwitch питание</string>
+    <string name="command_wemo_turn_off_alert_msg">Ваш WemoSwitch питание включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли Вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_wemo_turn_on_alert_title">Включить WemoSwitch питание</string>
+    <string name="command_wemo_turn_on_alert_msg">Ваш WemoSwitch питание отключено.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_wemo_turned_off">WemoSwitch питание отключено</string>
+    <string name="command_wemo_turned_on">WemoSwitch питание включено</string>
+    <string name="command_wemo_turn_off_error">Ошибка выключения WemoSwitch</string>
+    <string name="command_wemo_turn_on_error">Ошибка включения WemoSwitch</string>
 
-    <string name="commands_not_loaded_title">System commands not loaded</string>
-    <string name="commands_not_loaded_msg">The OctoPrint system commands are currently not loaded for this profile, please wait a few seconds and retry.</string>
+    <string name="commands_not_loaded_title">Системные команды не загружены</string>
+    <string name="commands_not_loaded_msg">Системные команды OctoPrint в настоящее время не загружены для этого профиля, подождите несколько секунд и повторите попытку.</string>
 
-    <string name="commands_empty_title">No system commands</string>
-    <string name="commands_empty_msg">There are no OctoPrint system commands for this profile. You can configure some new system commands in the config.yaml of OctoPrint.</string>
+    <string name="commands_empty_title">Нет системных команд</string>
+    <string name="commands_empty_msg">Для этого профиля нет системных команд OctoPrint. Вы можете настроить новые системные команды в файле config.yaml OctoPrint.</string>
 
-    <string name="commands_config_menu_title">Commands configuration</string>
-    <string name="commands_show_only_favorites">Show only favorites</string>
-    <string name="commands_show_temperatures">Show temperature commands</string>
-    <string name="commands_filter_temperatures">Filter temperature commands</string>
-    <string name="commands_filter_temperatures_on">Filter temperature commands ON</string>
-    <string name="commands_filter_temperatures_off">Filter temperature commands OFF</string>
-    <string name="commands_show_only_favorites_on">Show only favorite commands</string>
-    <string name="commands_show_only_favorites_off">Show all commands</string>
+    <string name="commands_config_menu_title">Конфигурация команд</string>
+    <string name="commands_show_only_favorites">Показать только избранные</string>
+    <string name="commands_show_temperatures">Показать команды температуры</string>
+    <string name="commands_filter_temperatures">Фильтр команд температуры</string>
+    <string name="commands_filter_temperatures_on">Включен фильтр команд температуры</string>
+    <string name="commands_filter_temperatures_off">Фильтр команд температуры выключен</string>
+    <string name="commands_show_only_favorites_on">Показать только избранные команды</string>
+    <string name="commands_show_only_favorites_off">Показать все команды</string>
 
 </resources>

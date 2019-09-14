@@ -2,74 +2,74 @@
 <resources>
 
     <string-array name="security_settings_array">
-        <item>Auto</item>
+        <item>Авто</item>
         <item>HTTP</item>
         <item>HTTPS</item>
     </string-array>
 
-    <string-array name="setting_connection_mode_array">
-        <item>Auto</item>
-        <item>LAN first</item>
-        <item>WAN first</item>
+    <string-array name="screen_orientations_array">
+        <item>Авто</item>
+        <item>Книжная</item>
+        <item>Книжная переверн.</item>
+        <item>Альбомная</item>
+        <item>Альбомная переверн.</item>
     </string-array>
 
-    <string-array name="screen_orientations_array">
-        <item>Auto</item>
-        <item>Portrait</item>
-        <item>Inverted Portrait</item>
-        <item>Landscape</item>
-        <item>Inverted Landscape</item>
+    <string-array name="setting_connection_mode_array">
+        <item>Авто</item>
+        <item>сначала LAN </item>
+        <item>сначала WAN</item>
     </string-array>
 
     <string-array name="streaming_method_array">
-        <item>Video player</item>
-        <item>Web view</item>
-        <item>Snapshot</item>
-    </string-array>
-
-    <string-array name="setting_sound_array">
-        <item>Sound 1</item>
-        <item>Sound 2</item>
-        <item>Sound 3</item>
-        <item>Sound 4</item>
-        <item>Sound 5</item>
-        <item>Sound 6</item>
-        <item>Sound OFF</item>
+	    <item>Видеоплеер</item>
+        <item>Web просмотр</item>
+        <item>Снимок</item>
     </string-array>
 
     <string-array name="ssl_modes_array">
-        <item>Both</item>
-        <item>LAN only</item>
-        <item>WAN only</item>
+        <item>Оба</item>
+        <item>Только LAN</item>
+        <item>Только WAN</item>
     </string-array>
 
-    <string-array name="setting_cost_methods">
-        <item>Price/meter</item>
-        <item>Price/kg</item>
-    </string-array>
-
-    <string-array name="setting_force_clock_array">
-        <item>OFF</item>
-        <item>12H</item>
-        <item>24H</item>
+    <string-array name="setting_sound_array">
+        <item>Звук 1</item>
+        <item>Звук 2</item>
+        <item>Звук 3</item>
+        <item>Звук 4</item>
+        <item>Звук 5</item>
+        <item>Звук 6</item>
+        <item>Звук выкл</item>
     </string-array>
 
     <string-array name="after_slicing_array">
-        <item>Do nothing</item>
-        <item>Select for printing</item>
-        <item>Start printing</item>
+        <item>Ничего</item>
+        <item>Выбор для печати</item>
+        <item>Начать печать</item>
     </string-array>
 
     <string-array name="render_mode_array">
-        <item>Normal</item>
-        <item>Overhang</item>
-        <item>Transparent</item>
+        <item>Обычный</item>
+        <item>Грани</item>
+        <item>Прозрачный</item>
         <item>X-ray</item>
     </string-array>
 
     <string-array name="render_mode_gcode_array">
-        <item>Normal</item>
-        <item>Transparent</item>
+        <item>Обычный</item>
+        <item>Прозрачный</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>выкл</item>
+        <item>12ч</item>
+        <item>24ч</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>цена за метр</item>
+        <item>цена за кг</item>
     </string-array>
 
 </resources>

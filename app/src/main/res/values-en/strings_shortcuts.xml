@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_load">Load</string>
+    <string name="shortcut_print">Print</string>
+    <string name="shortcut_input">Input</string>
+    <string name="shortcut_render3D">3D view</string>
+    <string name="shortcut_render2D">2D view</string>
+    <string name="shortcut_download">Download</string>
+    <string name="shortcut_delete">Delete</string>
+    <string name="shortcut_slice">Slice</string>
+
+</resources>

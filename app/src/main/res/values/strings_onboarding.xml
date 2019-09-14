@@ -1,59 +1,59 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="onboarding_welcome_title">Configuration of your first OctoPrint profile</string>
-    <string name="onboarding_welcome_message">Printoid will guide you in the creation and the configuration of your first OctoPrint profile in the application.\n\n
-        It is very easy and will only take you a few minutes. Please read and follow all the instructions carefully.</string>
+    <string name="onboarding_welcome_title">Конфигурация вашего первого профиля OctoPrint</string>
+    <string name="onboarding_welcome_message">Printoid поможет вам в создании и настройке вашего первого профиля OctoPrint в приложении.\n\n
+        Это очень просто и займет у вас всего несколько минут. Пожалуйста, внимательно прочитайте и следуйте всем инструкциям.</string>
 
-    <string name="onboarding_profile_name_title">Profile name</string>
-    <string name="onboarding_profile_name_message">Give a name and set a picture to this profile to identify it easily in the app.</string>
-    <string name="onboarding_profile_name_error">Please provide a valid profile name</string>
+    <string name="onboarding_profile_name_title">Имя профиля</string>
+    <string name="onboarding_profile_name_message">Дайте имя и установите изображение для этого профиля, чтобы легко идентифицировать его в приложении.</string>
+    <string name="onboarding_profile_name_error">Пожалуйста, укажите правильное имя профиля</string>
 
-    <string name="onboarding_local_ip_title">Local IP address</string>
-    <string name="onboarding_local_ip_message">The local IP address (or hostname) allows Printoid to connect to your OctoPrint server from your local network.\n
-        Provide a port value only and only if you have changed the default one (80).</string>
-    <string name="onboarding_local_ip_port">Local port (optional)</string>
-    <string name="onboarding_local_ip_address_error">Please provide a valid IP (or hostname)</string>
-    <string name="onboarding_local_ip_port_error">Please provide a valid port</string>
+    <string name="onboarding_local_ip_title">Локальный IP-адрес</string>
+    <string name="onboarding_local_ip_message">Локальный IP-адрес (или имя хоста) позволяет Printoid подключаться к вашему серверу OctoPrint из локальной сети.\n
+        Укажите значение порта только и только в том случае, если вы изменили значение по умолчанию (80).</string>
+    <string name="onboarding_local_ip_port">Локальный порт (необязательно)</string>
+    <string name="onboarding_local_ip_address_error">Пожалуйста, укажите действительный IP (или имя хоста)</string>
+    <string name="onboarding_local_ip_port_error">Пожалуйста, укажите действительный порт</string>
 
-    <string name="onboarding_public_ip_title">Public IP address (optional)</string>
-    <string name="onboarding_public_ip_message"><![CDATA[The public IP address (or hostname) allows Printoid to connect to your OctoPrint server over the Internet (\'outside\' of your network).\n
-        <a href="https://printoid.net/access-octoprint-from-the-internet/">Please follow this tutorial</a> before trying to access to your server over the 3G/4G, for example.]]></string>
+    <string name="onboarding_public_ip_title">Публичный IP-адрес (необязательно)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[Публичный IP-адрес (или имя хоста) позволяет Printoid подключаться к вашему серверу OctoPrint через Интернет («вне вашей сети»).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Пожалуйста, следуйте этому руководству </a>, прежде чем пытаться получить доступ к вашему серверу через 3G/4G, например.]]></string>
     <string name="onboarding_public_ip">@string/config_wan_ip</string>
-    <string name="onboarding_public_ip_port">Public port (optional)</string>
+    <string name="onboarding_public_ip_port">Общественный порт (необязательно)</string>
     <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
 
-    <string name="onboarding_api_key_title">OctoPrint API key</string>
-    <string name="onboarding_api_key_message">Printoid needs the OctoPrint API key to connect to your server.\n
-        The API key can be found in the settings of your OctoPrint web interface, in the menu \'API\'. The \'Enable\' checkbox has to be checked.</string>
-    <string name="onboarding_api_key_error">Please provide your OctoPrint API key</string>
+    <string name="onboarding_api_key_title">Ключ API OctoPrint</string>
+    <string name="onboarding_api_key_message">Для подключения к вашему серверу Printoid требуется ключ API OctoPrint.\n
+        Ключ API можно найти в настройках веб-интерфейса OctoPrint, в меню «API». Флажок «Включить» должен быть отмечен.</string>
+    <string name="onboarding_api_key_error">Пожалуйста, предоставьте свой ключ API OctoPrint</string>
 
-    <string name="onboarding_baudrate_title">Printer\'s baudrate</string>
-    <string name="onboarding_baudrate_message">In order to instantiate the connection with your 3D printer, please provide its baudrate.\n
-        This can be easily changed if you have more than one 3D printer connected.</string>
+    <string name="onboarding_baudrate_title">Скорость печати принтера</string>
+    <string name="onboarding_baudrate_message">Чтобы создать экземпляр соединения с вашим 3D-принтером, укажите его скорость передачи.\n
+        Это можно легко изменить, если у вас подключено более одного 3D-принтера.</string>
 
-    <string name="onboarding_credentials_title">OctoPrint credentials (optional)</string>
-    <string name="onboarding_credentials_message">Power up the interface and show information faster! Give to Printoid the credentials you use to login in your OctoPrint web app. It is optional, but encouraged, especially to feed the terminal and the list of plugins (It is an OctoPrint requirement since version 1.3.10).</string>
-    <string name="onboarding_credentials_login_error">Please provide your OctoPrint login</string>
-    <string name="onboarding_credentials_password_error">Please provide your OctoPrint password</string>
+    <string name="onboarding_credentials_title">Учетные данные OctoPrint (необязательно)</string>
+    <string name="onboarding_credentials_message">Включите интерфейс и покажите информацию быстрее! Предоставьте Printoid учетные данные, которые вы используете для входа в веб-приложение OctoPrint. Это необязательно, но рекомендуется, особенно для загрузки терминала и списка плагинов (это требование OctoPrint начиная с версии 1.3.10).</string>
+    <string name="onboarding_credentials_login_error">Пожалуйста, укажите ваш логин OctoPrint</string>
+    <string name="onboarding_credentials_password_error">Пожалуйста, укажите ваш пароль OctoPrint</string>
 
-    <string name="onboarding_security_title">Security (optional)</string>
-    <string name="onboarding_security_message_basic_auth"><![CDATA[Provide your Basic Authentication credentials if you have enabled this feature in your server.\n
-        <a href="https://printoid.net/access-octoprint-from-the-internet/">Read this page</a> for more information.]]></string>
-    <string name="onboarding_security_basic_auth_login_error">Please provide your login</string>
-    <string name="onboarding_security_basic_auth_password_error">Please provide your password</string>
-    <string name="onboarding_security_message_https">Enable this option only if communication with HTTPS (SSL/TLS) has been enabled in your server.</string>
+    <string name="onboarding_security_title">Безопасность (необязательно)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[Укажите свои учетные данные для базовой аутентификации, если вы включили эту функцию на своем сервере.\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">Прочтите эту страницу </a> для получения дополнительной информации.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">Пожалуйста, введите ваш логин</string>
+    <string name="onboarding_security_basic_auth_password_error">Пожалуйста, введите ваш пароль</string>
+    <string name="onboarding_security_message_https">Включите эту опцию, только если на вашем сервере была включена связь с HTTPS (SSL / TLS).</string>
 
-    <string name="onboarding_ssh_title">Secure Shell commands (optional)</string>
-    <string name="onboarding_ssh_message"><![CDATA[Provide your SSH credentials if you want to send SSH commands to your server.\n
-        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Read this page</a> for more information about SSH commands.\n
-        Provide a public port for distant SSH only (by default, port 22 is used locally)]]></string>
-    <string name="onboarding_ssh_login">SSH login</string>
-    <string name="onboarding_ssh_pwd">SSH password</string>
-    <string name="onboarding_ssh_port">Public SSH port (optional)</string>
+    <string name="onboarding_ssh_title">Команды Secure Shell (необязательно)</string>
+    <string name="onboarding_ssh_message"><![CDATA[Укажите свои учетные данные SSH, если вы хотите отправлять команды SSH на ваш сервер.\n
+        <a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">Прочтите эту страницу </a> для получения дополнительной информации о командах SSH.\n
+        Предоставьте общедоступный порт только для удаленного SSH (по умолчанию порт 22 используется локально)]]></string>
+    <string name="onboarding_ssh_login">SSH логин</string>
+    <string name="onboarding_ssh_pwd">Пароль SSH</string>
+    <string name="onboarding_ssh_port">Общедоступный порт SSH (необязательно)</string>
 
-    <string name="onboarding_confirmation_title">Confirmation</string>
-    <string name="onboarding_confirmation_message">You are almost done!\nPlease review your configuration and double check all the values you have provided.</string>
+    <string name="onboarding_confirmation_title">подтверждение</string>
+    <string name="onboarding_confirmation_message">Вы почти закончили!\n
+        Просмотрите вашу конфигурацию и дважды проверьте все предоставленные вами значения.</string>
 
 
 </resources>

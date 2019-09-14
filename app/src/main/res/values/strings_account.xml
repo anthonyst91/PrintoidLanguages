@@ -1,51 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="account_introduction_message">Your Printoid account helps you to synchronize your settings across multiple devices over the cloud.</string>
-    <string name="account_introduction_signed_as">Signed-in as %s</string>
-    <string name="account_introduction_read_more"><u>Terms of service &amp; privacy policy</u></string>
+    <string name="account_introduction_message">Ваша учетная запись Printoid помогает синхронизировать настройки на нескольких устройствах в облаке.</string>
+    <string name="account_introduction_signed_as">Войти как %s</string>
+    <string name="account_introduction_read_more"><u>Условия пользования Политика конфиденциальности</u></string>
 
-    <string name="account_sign_up_introduction">Create your Printoid account with your email address:</string>
-    <string name="account_i_have_an_account">I already have an account</string>
-    <string name="account_sign_up">Sign-up</string>
-    <string name="account_confirm_password">Password confirmation</string>
-    <string name="account_email_invalid">Please provide a valid email</string>
-    <string name="account_password_error_empty">Please provide a password</string>
-    <string name="account_password_error_size">Min password length is 8</string>
-    <string name="account_password_error_lower">Shall contain at least one lowercase</string>
-    <string name="account_password_error_upper">Shall contain at least one uppercase</string>
-    <string name="account_password_error_digit">Shall contain at least one digit</string>
-    <string name="account_password_confirm_does_not_match">Passwords do not match</string>
+    <string name="account_sign_in_with_email">Войти через е-мейл</string>
+    <string name="account_sign_in_with_google">Войти через Google</string>
+    <string name="account_sign_out">Выход</string>
 
-    <string name="account_password_lost"><u>I have lost my password</u></string>
-    <string name="account_password_lost_email_sent">An email to reset your password has been sent to %s</string>
-    <string name="account_password_lost_email_error">Unable to reset password for %s, please retry later.</string>
+    <string name="account_sign_up_introduction">Создайте свою учетную запись Printoid с вашим адресом электронной почты:</string>
+    <string name="account_i_have_an_account">У меня уже есть аккаунт</string>
+    <string name="account_sign_up">Вход вверх</string>
+    <string name="account_confirm_password">Подтверждение пароля</string>
+    <string name="account_email_invalid">Укажите правильный эл.почта</string>
+    <string name="account_password_error_empty">Пожалуйста, введите пароль</string>
+    <string name="account_password_error_size">Минимальная длина пароля составляет 8</string>
+    <string name="account_password_error_lower">Должен содержать хотя бы одну строчную букву</string>
+    <string name="account_password_error_upper">Должен содержать хотя бы одну заглавную букву</string>
+    <string name="account_password_error_digit">Должен содержать хотя бы одну цифру</string>
+    <string name="account_password_confirm_does_not_match">Пароли не совпадают</string>
 
-    <string name="account_sign_in_with_email">Sign-in with email</string>
-    <string name="account_sign_in_with_google">Sign-in with Google</string>
-    <string name="account_sign_out">Sign-out</string>
+    <string name="account_password_lost"><u>Я потерял свой пароль</u></string>
+    <string name="account_password_lost_email_sent">Письмо для сброса пароля было отправлено на адрес %s</string>
+    <string name="account_password_lost_email_error">Не удалось сбросить пароль для %s, повторите попытку позже.</string>
 
-    <string name="account_backup">Backup settings in account</string>
-    <string name="account_restore">Restore settings from account</string>
-    <string name="account_automatic_backup">Automatic backup</string>
-    <string name="account_automatic_restore">Warn on settings change from account</string>
+    <string name="account_backup">Резервное копирование настроек в аккаунте</string>
+    <string name="account_restore">Восстановить настройки из аккаунта</string>
+    <string name="account_automatic_backup">Автоматическое резервное копирование</string>
+    <string name="account_automatic_restore">Предупреждать об изменении настроек из учетной записи</string>
 
-    <string name="account_backup_success">Your Printoid settings have been backed-up in your account!</string>
-    <string name="account_backup_failure">Failed to backup your Printoid settings, please retry later!</string>
-    <string name="account_restore_success">Your Printoid settings have been restored from your account, the app will restart!</string>
-    <string name="account_restore_failure">Failed to restore your Printoid settings, please retry later!</string>
-    <string name="account_restore_not_needed">Your settings are already up-to-date, they do not need to be restored from your account</string>
+    <string name="account_backup_success">Ваши настройки Printoid были сохранены в вашей учетной записи!</string>
+    <string name="account_backup_failure">Не удалось сделать резервную копию настроек Printoid, повторите попытку позже!</string>
+    <string name="account_restore_success">Ваши настройки Printoid были восстановлены из вашей учетной записи, приложение перезапустится!</string>
+    <string name="account_restore_failure">Не удалось восстановить настройки Printoid, повторите попытку позже!</string>
+    <string name="account_restore_not_needed">Ваши настройки уже обновлены, их не нужно восстанавливать из вашей учетной записи</string>
 
-    <string name="account_created_with_success">Account created with success! Welcome, %s!</string>
-    <string name="account_created_with_failure">Account not created, please retry later!</string>
+    <string name="account_created_with_success">Аккаунт создан с успехом! желанный, %s!</string>
+    <string name="account_created_with_failure">Аккаунт не создан, повторите попытку позже!</string>
 
-    <string name="account_logged_with_success">Account signed-in with success! Welcome back, %s</string>
-    <string name="account_logged_with_failure">Account not signed-in, please retry later!</string>
+    <string name="account_logged_with_success">Аккаунт успешно зарегистрирован! Добро пожаловать, %s</string>
+    <string name="account_logged_with_failure">Аккаунт не зарегистрирован, повторите попытку позже!</string>
 
-    <string name="account_alert_settings_changed_title">Settings from account changed</string>
-    <string name="account_alert_settings_changed_message">The settings stored in your Printoid account seem to have changed. Do you want to restore them now on this device?\n\nPrintoid will need to restart after applying the modifications.</string>
+    <string name="account_alert_settings_changed_title">Настройки из аккаунта изменены</string>
+    <string name="account_alert_settings_changed_message">Настройки, сохраненные в вашей учетной записи Printoid, похоже, изменились. Вы хотите восстановить их сейчас на этом устройстве?\n\nПринтоид нужно будет перезагрузить после применения изменений.</string>
 
-    <string name="account_alert_settings_too_modern_title">Settings version does not match</string>
-    <string name="account_alert_settings_too_modern_message">The settings stored in your Printoid account seem to come from an higher version of Printoid. Please update the application on this device first.</string>
+    <string name="account_alert_settings_too_modern_title">Версия настроек не совпадает</string>
+    <string name="account_alert_settings_too_modern_message">Настройки, сохраненные в вашей учетной записи Printoid, похоже, относятся к более поздней версии Printoid. Пожалуйста, сначала обновите приложение на этом устройстве.</string>
 
 </resources>

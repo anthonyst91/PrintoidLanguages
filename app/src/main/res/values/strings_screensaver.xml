@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="temperatures_state_all_correct">All the temperatures are correct!</string>
-    <string name="temperatures_state_bed_issue_only">Heated bed heat issue: %1$.1f / %2$.1f</string>
-    <string name="temperatures_state_ext_issue_only">Heated head %1$d heat issue: %2$.1f / %3$.1f</string>
-    <string name="temperatures_state_ext_issues">Heated heads %s heat issues!</string>
+    <string name="temperatures_state_all_correct">Все температуры в норме!</string>
+    <string name="temperatures_state_bed_issue_only">Проблема с нагревом стола: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">Проблема с нагревом хотэнда %1$d: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">Проблема с нагревом хотэндов %s!</string>
 
 </resources>

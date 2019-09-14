@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="widget_no_snapshot_connection">Can\'t retrieve snapshot\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Can\'t retrieve snapshot</string>
+    <string name="widget_unknown_profile">Unknown profile</string>
+
+    <string name="widget_starter_error_no_profiles">Can\'t select profile: no profile available</string>
+    <string name="widget_starter_error_profile_not_found">Can\'t select profile: not found or no more available</string>
+    <string name="widget_starter_error_null_id">Can\'t select profile: identifier not valid</string>
+
+</resources>

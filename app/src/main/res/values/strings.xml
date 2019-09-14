@@ -1,87 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printoid_contact_developer">Contact\nthe developer</string>
-    <string name="printoid_visit_website">Visit\nprintoid.net</string>
+    <string name="printoid_contact_developer">Написать\nразработчику</string>
+    <string name="printoid_visit_website">Посетить\nprintoid.net</string>
 
-    <string name="ok">OK</string>
-    <string name="cancel">Cancel</string>
-    <string name="no">Cancel</string>
-    <string name="yes">OK</string>
-    <string name="back">Back</string>
-    <string name="next">Next</string>
-    <string name="previous">Previous</string>
-    <string name="quit">Quit</string>
-    <string name="terminate">Terminate</string>
-    <string name="search">Search in files…</string>
-    <string name="retry">Retry</string>
-    <string name="set_home">Home XYZ</string>
-    <string name="backup">Backup</string>
-    <string name="restore">Restore</string>
-    <string name="start">Start</string>
-    <string name="start_printoid">Open Printoid</string>
-    <string name="contact">Contact</string>
-    <string name="update">Update</string>
-    <string name="share">Share</string>
-    <string name="save">Save</string>
-    <string name="show">Show</string>
-    <string name="change">Change</string>
-    <string name="improve">Improve</string>
-    <string name="add">Add</string>
-    <string name="more_info">More infos</string>
-    <string name="send_logs">Send logs</string>
-    <string name="value">Value</string>
-    <string name="thank_you">Thank you!</string>
-    <string name="username">Username</string>
-    <string name="email">E-mail</string>
-    <string name="configure">Configure</string>
-    <string name="agree">Agree</string>
-    <string name="continuee">Continue</string>
-    <string name="help">Help</string>
-    <string name="install_now">Install now</string>
-    <string name="set">Set</string>
-    <string name="target">Target (°)</string>
-    <string name="offset">Offset (°)</string>
-    <string name="extrude">Extrude</string>
-    <string name="retract">Retract</string>
-    <string name="distance">Length (mm)</string>
-    <string name="current">(current: %d)</string>
-    <string name="remaining">Remaining</string>
-    <string name="none">None</string>
-    <string name="upload">Upload</string>
-    <string name="render2d">Render 2D</string>
-    <string name="render3d">Render 3D</string>
-    <string name="manage">Manage</string>
-    <string name="password">Password</string>
-    <string name="copy">Copy</string>
-    <string name="copied_to_clipboard">Copied to clipboard</string>
-    <string name="never_ask_again">Never ask again</string>
+    <string name="ok">"ОК"</string>
+    <string name="cancel">"Отмена"</string>
+    <string name="yes">"Да"</string>
+    <string name="no">"Отмена"</string>
+    <string name="back">Назад</string>
+    <string name="next">Далее</string>
+    <string name="previous">Предыдущий</string>
+    <string name="quit">Выход</string>
+    <string name="terminate">Прервать</string>
+    <string name="improve">Улучшить</string>
+    <string name="search">Поиск в файлах…</string>
+    <string name="retry">Повтор</string>
+    <string name="set_home">Домой XYZ</string>
+    <string name="backup">Сохранить</string>
+    <string name="restore">Восстановить</string>
+    <string name="start">Запустить</string>
+    <string name="start_printoid">Запустить Printoid</string>
+    <string name="contact">Написать</string>
+    <string name="update">Обновить</string>
+    <string name="share">Поделиться</string>
+    <string name="save">Сохранить</string>
+    <string name="show">Показать</string>
+    <string name="change">Изменить</string>
+    <string name="add">Добавить</string>
+    <string name="more_info">Подробнее</string>
+    <string name="send_logs">Отправить логи</string>
+    <string name="value">Cтоимость</string>
+    <string name="thank_you">Спасибо!</string>
+    <string name="username">имя пользователя</string>
+    <string name="email">Эл. почта</string>
+    <string name="configure">Настроить</string>
+    <string name="agree">Согласен</string>
+    <string name="continuee">Продолжать</string>
+    <string name="help">Помощь</string>
+    <string name="install_now">Установить</string>
+    <string name="set">Назначить</string>
+    <string name="target">Цель (°)</string>
+    <string name="offset">Смещение (°)</string>
+    <string name="extrude">Bыталкивать</string>
+    <string name="retract">Bтягиваться</string>
+    <string name="distance">длина (mm)</string>
+    <string name="current">(текущий: %d)</string>
+    <string name="remaining">Осталось</string>
+    <string name="none">ничего</string>
+    <string name="upload">Загрузить</string>
+    <string name="render2d">Oказывать 2D</string>
+    <string name="render3d">Oказывать 3D</string>
+    <string name="manage">Yправлять</string>
+    <string name="password">Пароль</string>
+    <string name="copy">Kопировать</string>
+    <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="never_ask_again">Никогда не спрашивать</string>
 
-    <string name="heated_bed">Heated bed</string>
-    <string name="heated_chamber">Heated chamber</string>
-    <string name="heated_head">Heated head %d</string>
-    <string name="extruder">Extruder %d</string>
+    <string name="heated_bed">Стол</string>
+    <string name="heated_chamber">Подогреваемая камера</string>
+    <string name="heated_head">Хотэнд %d</string>
+    <string name="extruder">Экструдер %d</string>
 
-    <string name="default_currency">$</string>
+    <string name="default_currency">₽</string>
 
-    <string name="simple_day_offset_format">%1$s (D+%2$d)</string>
+    <string name="simple_day_offset_format">%1$s (д+%2$d)</string>
 
     <string name="simple_hour_format">hh:mm:ss a</string>
-
     <string name="simple_hour_reduced_format">hh:mm a</string>
+    <string name="simple_date_format">@string/simple_date_format_12</string>
 
-    <string name="simple_date_format">dd MMM yyyy - hh:mm a</string>
-
-    <string name="overlay_tile_title">Printoid Streaming</string>
-    <string name="snapshot_tile_title">Printoid Snapshot</string>
+    <string name="overlay_tile_title">Потоковый Printoid</string>
+    <string name="snapshot_tile_title">Cнимок Printoid</string>
 
     <string name="network_type_wifi">WiFi</string>
-    <string name="network_type_mobile">Mobile carrier</string>
-    <string name="network_type_none">No connection</string>
-    <string name="network_type_unknown">Unknown connection</string>
+    <string name="network_type_mobile">Мобильный</string>
+    <string name="network_type_none">Нет соединения</string>
+    <string name="network_type_unknown">Неизвестное соединение</string>
 
-    <string name="image_picker_tool_folders">Folders</string>
-    <string name="image_picker_tool_tap">Tap to select</string>
-    <string name="image_picker_tool_camera">Camera</string>
+    <string name="image_picker_tool_folders">Папки</string>
+    <string name="image_picker_tool_tap">Нажмите, чтобы выбрать</string>
+    <string name="image_picker_tool_camera">Kамера</string>
 
 </resources>

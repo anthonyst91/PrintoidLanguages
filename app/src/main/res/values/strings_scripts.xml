@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="scripts_before_print_started">Before print job starts</string>
-    <string name="scripts_after_print_done">After print job completes</string>
-    <string name="scripts_after_print_cancelled">After print job is cancelled</string>
-    <string name="scripts_after_print_paused">After print job is paused</string>
-    <string name="scripts_before_print_resumed">Before print job is resumed</string>
-    <string name="scripts_before_tool_changed">Before tool change</string>
-    <string name="scripts_after_tool_changed">After tool change</string>
-    <string name="scripts_after_printer_connected">After connection to printer is established</string>
-    <string name="scripts_before_printer_disconnected">Before connection to printer is closed</string>
+    <string name="scripts_before_print_started">Перед началом работы печати</string>
+    <string name="scripts_after_print_done">После завершения задания на печать</string>
+    <string name="scripts_after_print_cancelled">После отмены задания на печать</string>
+    <string name="scripts_after_print_paused">После того, как задание на печать приостановлено</string>
+    <string name="scripts_before_print_resumed">До возобновления печати</string>
+    <string name="scripts_before_tool_changed">Перед сменой инструмента</string>
+    <string name="scripts_after_tool_changed">После смены инструмента</string>
+    <string name="scripts_after_printer_connected">После подключения к принтеру</string>
+    <string name="scripts_before_printer_disconnected">До того, как соединение с принтером закрыто</string>
 
-    <string name="scripts_hint">Add a GCODE script to execute on action triggered…</string>
+    <string name="scripts_hint">Добавьте сценарий GCODE для выполнения при действии…</string>
 
 </resources>

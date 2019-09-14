@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="security_settings_array">
+        <item>Auto</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>Auto</item>
+        <item>LAN first</item>
+        <item>WAN first</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>Auto</item>
+        <item>Portrait</item>
+        <item>Inverted Portrait</item>
+        <item>Landscape</item>
+        <item>Inverted Landscape</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>Video player</item>
+        <item>Web view</item>
+        <item>Snapshot</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+        <item>Sound 4</item>
+        <item>Sound 5</item>
+        <item>Sound 6</item>
+        <item>Sound OFF</item>
+    </string-array>
+
+    <string-array name="ssl_modes_array">
+        <item>Both</item>
+        <item>LAN only</item>
+        <item>WAN only</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>Price/meter</item>
+        <item>Price/kg</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>OFF</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>Do nothing</item>
+        <item>Select for printing</item>
+        <item>Start printing</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>Normal</item>
+        <item>Overhang</item>
+        <item>Transparent</item>
+        <item>X-ray</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>Normal</item>
+        <item>Transparent</item>
+    </string-array>
+
+</resources>

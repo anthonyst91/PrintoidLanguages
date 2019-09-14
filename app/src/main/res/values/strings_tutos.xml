@@ -1,99 +1,99 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_premium_version">Available in the PREMIUM version</string>
-    <string name="tutorial_only_in_lite_version">Only in the LITE version</string>
+    <string name="tutorial_available_in_premium_version">Доступно в версии PREMIUM</string>
+    <string name="tutorial_only_in_lite_version">Только в версии LITE</string>
 
     <!-- WELCOME -->
-    <string name="tutorial_message_welcome">Welcome in Printoid %s</string>
-    <string name="tutorial_message_welcome_2">This short introduction will show you the content of the application</string>
+    <string name="tutorial_message_welcome">Добро пожаловать в Printoid %s</string>
+    <string name="tutorial_message_welcome_2">Спасибо, что нашли время подробнее ознакомиться с возможностями Printoid</string>
 
     <!-- VERSIONS COMPARATOR -->
-    <string name="tutorial_comparator_title">Versions comparator</string>
-    <string name="tutorial_comparator_premium_content">Video streaming, custom commands, 2D &amp; 3D visualizers, real-time simulator, advanced control, widgets and more…</string>
-    <string name="tutorial_comparator_lite_content">Basic pack of features for free &amp; for an unlimited duration</string>
-    <string name="tutorial_comparator_button_1">Compare the versions</string>
+    <string name="tutorial_comparator_title">Отличия версий</string>
+    <string name="tutorial_comparator_premium_content">Bидео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени, расширенный контроль, виджеты и многое другое…</string>
+    <string name="tutorial_comparator_lite_content">Бесплатный базовый пакет функций и неограниченное время использования</string>
+    <string name="tutorial_comparator_button_1">Сравните версии</string>
 
     <!-- WIDGETS -->
-    <string name="tutorial_widgets_title">Exclusive widgets</string>
-    <string name="tutorial_widgets_message">Monitor your 3D printer(s) without having to start the application!</string>
-    <string name="tutorial_widgets_message_2">Camera Widget: show a fresh image from your camera with one click!</string>
-    <string name="tutorial_widgets_message_3">Server Status Widget: show the current printing job progress without having to start the app!</string>
+    <string name="tutorial_widgets_title">Эксклюзивные виджеты</string>
+    <string name="tutorial_widgets_message">Мониторим 3D-принтеры даже не запуская приложение!</string>
+    <string name="tutorial_widgets_message_2">Camera Widget: покажите свежее изображение с камеры одним щелчком мыши!</string>
+    <string name="tutorial_widgets_message_3">Виджет состояния сервера: показывает текущее состояние печати без необходимости запуска приложения!</string>
 
     <!-- STREAMING -->
-    <string name="tutorial_video_title">Video streaming</string>
-    <string name="tutorial_video_message">Always keep an eye on what\'s happening on your 3D printer plate!</string>
-    <string name="tutorial_video_message_2">In-app video player, launcher widget and floating icon to see your video from anywhere</string>
-    <string name="tutorial_video_button_1">Setup my camera</string>
-    <string name="tutorial_video_button_2">Start low/high quality</string>
-    <string name="tutorial_video_button_3">Support 2 cameras</string>
+    <string name="tutorial_video_title">Видео поток</string>
+    <string name="tutorial_video_message">Всегда контролируйте что происходит на столе Вашего 3D принтера!</string>
+    <string name="tutorial_video_message_2">Видеопроигрыватель в приложении, виджет запуска и плавающий значок, позволяющий просматривать видео в любом месте</string>
+    <string name="tutorial_video_button_1">Настройка камеры</string>
+    <string name="tutorial_video_button_2">Низкое/высокое качество</string>
+    <string name="tutorial_video_button_3">Поддержка 2 камер</string>
 
     <!-- COMMANDS -->
-    <string name="tutorial_commands_title">Your own commands</string>
-    <string name="tutorial_commands_message">Customize Printoid with your own commands &amp; features!</string>
-    <string name="tutorial_commands_message_2">Create your own buttons to send GCODE commands to your 3D printer</string>
-    <string name="tutorial_commands_message_3">Communicate with your Raspberry Pi over SSH (control a relay…)</string>
-    <string name="tutorial_commands_message_4">Access to your OctoPrint built-in commands (registered in config.yaml)</string>
-    <string name="tutorial_commands_button_1">GCODE commands</string>
-    <string name="tutorial_commands_button_2">SSH commands</string>
-    <string name="tutorial_commands_button_3">HTTP commands</string>
+    <string name="tutorial_commands_title">Ваши собственные команды</string>
+    <string name="tutorial_commands_message">Возможность Printoid выполнять любые Ваши команды!</string>
+    <string name="tutorial_commands_message_2">Создайте Ваши кнопки для отправки GCODE команд Вашему 3D принтеру</string>
+    <string name="tutorial_commands_message_3">Управляйте Raspberry Pi по SSH</string>
+    <string name="tutorial_commands_message_4">Доступ к вашим встроенным командам OctoPrint (описаным в config.yaml)</string>
+    <string name="tutorial_commands_button_1">GCODE команды</string>
+    <string name="tutorial_commands_button_2">SSH команды</string>
+    <string name="tutorial_commands_button_3">HTTP команды</string>
 
     <!-- MULTI PROFILES -->
-    <string name="tutorial_multi_profiles_title">Easy connection to OctoPrint servers</string>
-    <string name="tutorial_multi_profiles_message">Control and manage as many OctoPrint servers and 3D printers as you need!</string>
-    <string name="tutorial_multi_profiles_message_2">Support LAN and WAN configurations, basic authentication, SSL/TLS (HTTPS), TLS certificate, SSH…</string>
-    <string name="tutorial_multi_profiles_button_1">How to connect?</string>
-    <string name="tutorial_multi_profiles_button_2">Connect from outside (3G/4G)</string>
-    <string name="tutorial_multi_profiles_button_3">Adjusting the settings</string>
+    <string name="tutorial_multi_profiles_title">Простое подключение к OctoPrint</string>
+    <string name="tutorial_multi_profiles_message">Контроль и управление несколькими OctoPrint серверами и 3D принтерами!</string>
+    <string name="tutorial_multi_profiles_message_2">Поддержка конфигурации LAN и WAN, базовая аутентификация, SSL / TLS (HTTPS), сертификат TLS, SSH…</string>
+    <string name="tutorial_multi_profiles_button_1">Соединение OctoPrint</string>
+    <string name="tutorial_multi_profiles_button_2">Внешнее соединение (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_3">Отрегулируйте настройки</string>
 
     <!-- 2D / 3D RENDERERS -->
-    <string name="tutorial_render_title">2D &amp; 3D visualizers</string>
-    <string name="tutorial_render_message">Show layers of your GCODE files in 2D or visualize your STL or GCODE object in 3D!</string>
-    <string name="tutorial_render_message_2">Printoid also provides a real-time 2D simulator when you are printing an object</string>
-    <string name="tutorial_render_button_1">How does it work</string>
+    <string name="tutorial_render_title">2D и 3D просмотр</string>
+    <string name="tutorial_render_message">Проверьте каждый слой Вашего GCODE файла в 2D или просмотрите сразу STL или GCODE обьект в 3D прямо в приложении!</string>
+    <string name="tutorial_render_message_2">Printoid также позволяет в реальном времени 2D эмуляцию во время печати Вашего обьекта</string>
+    <string name="tutorial_render_button_1">Oперация</string>
 
     <!-- ANDROID WEAR -->
-    <string name="tutorial_wear_title">WearOS module</string>
-    <string name="tutorial_wear_message_1">Control and manage your 3D printer directly from your wrist!</string>
-    <string name="tutorial_wear_message_2">Printer informations, axis control, temperatures/ventilation/extruders management, files and commands lists</string>
-    <string name="tutorial_wear_message_3">This module is only available for WearOS (NOT available for Samsung Wear (Tizen))</string>
+    <string name="tutorial_wear_title">Модуль WearOS</string>
+    <string name="tutorial_wear_message_1">Контролируйте и управляйте 3D-принтером прямо с вашего запястья!</string>
+    <string name="tutorial_wear_message_2">Информация о принтере, управление осью, управление температурой/обдувом/экструдерами, списки файлов и команд</string>
+    <string name="tutorial_wear_message_3">Этот модуль доступен только для WearOS (недоступен для Samsung Wear (Tizen))</string>
 
     <!-- BASIC TOOLS -->
-    <string name="tutorial_basic_tools_title">All the tools you need for your 3D printer(s)</string>
-    <string name="tutorial_basic_tools_message">Supports up to 10 heated heads, heated bed, heated chamber, ventilation…</string>
-    <string name="tutorial_basic_tools_message_2">Control of feedrate, flowrate, extrusion, retraction, axis, homing, baby stepping…</string>
-    <string name="tutorial_basic_tools_message_3">Temperature targets, temperature offsets, button to stop motors, presets…</string>
-    <string name="tutorial_basic_tools_message_4">Timelapses, GCODE scripts, alerts and notifications…</string>
+    <string name="tutorial_basic_tools_title">Все инструменты, необходимые для вашего 3D-принтера (ов)</string>
+    <string name="tutorial_basic_tools_message">Поддерживает до 10 головок с подогревом, кровать с подогревом, камеру с подогревом, вентиляцию…</string>
+    <string name="tutorial_basic_tools_message_2">Контроль подачи, расхода, экструзии, втягивания, оси, перемещения, перемещения ребенка…</string>
+    <string name="tutorial_basic_tools_message_3">Температурные цели, температурные коррекции, кнопка остановки двигателей, предустановки…</string>
+    <string name="tutorial_basic_tools_message_4">Замедленная съемка, GCODE-скрипты, оповещения и уведомления…</string>
 
     <!-- WEBSITE -->
-    <string name="tutorial_support_title">Official website and support</string>
-    <string name="tutorial_support_message_1">You will be able to find all the responses to your questions on https://printoid.net</string>
-    <string name="tutorial_support_message_2">Constant updates, tricks &amp; tips, useful informations, development communication…</string>
-    <string name="tutorial_support_message_3">Feel free to contact the developer by e-mail for any issue or feature request!</string>
-    <string name="tutorial_support_button_1">News feed</string>
-    <string name="tutorial_support_button_2">Frequently Asked Questions</string>
-    <string name="tutorial_support_button_3">Contact the developer</string>
+    <string name="tutorial_support_title">Официальный веб-сайт и медиа</string>
+    <string name="tutorial_support_message_1">Вы можете найти все ответы на вопросы на https://printoid.net</string>
+    <string name="tutorial_support_message_2">Постоянные обновления, примеры и советы, полезная информация, планы…</string>
+    <string name="tutorial_support_message_3">Не стесняйтесь обращаться к разработчику по электронной почте, задать любой вопрос или предложение!</string>
+    <string name="tutorial_support_button_1">Последние статьи</string>
+    <string name="tutorial_support_button_2">Часто задаваемые вопросы</string>
+    <string name="tutorial_support_button_3">Написать разработчику</string>
 
     <!-- MORE FEATURES -->
-    <string name="tutorial_more_features_title">And much more in Printoid PREMIUM!</string>
-    <string name="tutorial_more_features_message_1">Supports OctoPrint plugins: Enclosure, Octolapse, PSU Control, TPLink Smartplugs, WemoSwitch…</string>
-    <string name="tutorial_more_features_message_2">Control with a physical keyboard or from ADB!</string>
-    <string name="tutorial_more_features_message_3">Printoid Hub: the status of all your OctoPrint servers within the same screen!</string>
-    <string name="tutorial_more_features_message_4">Filament spool manager: integration with RollingUp!</string>
-    <string name="tutorial_more_features_message_5">Protect the app with a PIN code or with your fingerprint!</string>
+    <string name="tutorial_more_features_title">И многое другое в Printoid PREMIUM!</string>
+    <string name="tutorial_more_features_message_1">Поддержка плагинов OctoPrint: Enclosure, Octolapse, PSU Control, TPLink Smartplugs, WemoSwitch…</string>
+    <string name="tutorial_more_features_message_2">Управление с физической клавиатуры или из АБР!</string>
+    <string name="tutorial_more_features_message_3">Printoid Hub: статус всех ваших серверов OctoPrint на одном экране!</string>
+    <string name="tutorial_more_features_message_4">Менеджер катушек накаливания: интеграция с RollingUp!</string>
+    <string name="tutorial_more_features_message_5">Защитите приложение с помощью PIN-кода или отпечатка пальца!</string>
 
     <!-- END -->
-    <string name="tutorial_end_message">Start Printoid</string>
+    <string name="tutorial_end_message">Запустить Printoid</string>
 
     <!-- BACKUP -->
-    <string name="tutorial_backup_read_permission_title">Backup &amp; restore</string>
-    <string name="tutorial_backup_read_permission_msg">Printoid is able to restore the whole configuration from a previous installation if needed (if you had installed Printoid LITE for example).\n\nTo achieve this, please accept the permission in the following dialog.</string>
-    <string name="tutorial_backup_from_other_error">Can\'t apply the backup from Printoid %s, an error occurred</string>
-    <string name="tutorial_backup_from_other_error_permission">Can\'t apply the backup from Printoid %s, its \'write external storage\' permission is not granted</string>
-    <string name="tutorial_backup_from_other_error_unknown">Can\'t apply the backup from Printoid %s, an unknown error occurred</string>
-    <string name="tutorial_backup_from_sdcard">Restore local backup</string>
-    <string name="tutorial_backup_from_other_app">Restore from Printoid %s</string>
-    <string name="tutorial_backup_from_account">I have an account</string>
-    <string name="tutorial_backup_more_backup_options">More backup options</string>
+    <string name="tutorial_backup_read_permission_title">Сохранение и восстановление</string>
+    <string name="tutorial_backup_read_permission_msg">Printoid позволяет восстановить настройки из предыдущей установки если необходимо (например если Вы установили Printoid LITE версию).\n\nДля этого пожалуйста подтвердите права в соотвествующем диалоге.</string>
+    <string name="tutorial_backup_from_other_error">Ошибка применения сохранения из Printoid %s,</string>
+    <string name="tutorial_backup_from_other_error_permission">Не могу применить сохранения из Printoid %s, нет разрешения на \'запись на внешний носитель\'</string>
+    <string name="tutorial_backup_from_other_error_unknown">Не могу применить сохранения из Printoid %s, неизвестная ошибка</string>
+    <string name="tutorial_backup_from_sdcard">Восстановить локальную резервную копию</string>
+    <string name="tutorial_backup_from_other_app">Восстановить из Printoid %s</string>
+    <string name="tutorial_backup_from_account">У меня есть аккаунт</string>
+    <string name="tutorial_backup_more_backup_options">Варианты Больше резервного копирования</string>
 
 </resources>
