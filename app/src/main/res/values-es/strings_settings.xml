@@ -133,7 +133,7 @@
     <string name="setting_enable_keyboard_control_tip">Controla la interfaz con un teclado físico</string>
     <string name="setting_manage_account_tip">Regístrese / inicie sesión / cierre de sesión en su cuenta de Printoid</string>
     <string name="setting_enable_ask_profile_tip">Solicite el perfil que desea conectar al iniciar la aplicación</string>
-    <string name="setting_enable_auto_screen_locker_tip">Bloquee la pantalla después de 15 segundos de inactividad</string>
+    <string name="setting_enable_auto_screen_locker_tip">Bloquee la pantalla después de X segundos de inactividad</string>
     <string name="setting_improve_connection_tip">El permiso de ubicación gruesa es necesario para obtener el SSID de WiFI</string>
     <string name="setting_enable_screensaver_tip">Mostrar solo los detalles del trabajo actual después del período de inactividad</string>
     <string name="setting_battery_optimizations_tip">Estas optimizaciones del sistema pueden cerrar el proceso de Printoid</string>

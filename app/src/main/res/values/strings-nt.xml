@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="google_drive" translatable="false">Drive</string>
+
+    <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
+    <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>
+
+    <string name="simple_hour_reduced_format_12" translatable="false">hh:mm a</string>
+    <string name="simple_hour_reduced_format_24" translatable="false">HH:mm</string>
+
+    <string name="simple_date_format_12" translatable="false">@string/simple_date_format</string>
+    <string name="simple_date_format_24" translatable="false">dd MMM yyyy - HH:mm</string>
+
+    <string name="arrow" translatable="false">→</string>
+
+</resources>

@@ -2,7 +2,6 @@
 <resources>
 
     <string name="tutorial_available_in_premium_version">在旗舰版中可用</string>
-    <string name="tutorial_available_in_pro_version" translatable="false">@string/tutorial_available_in_premium_version</string>
     <string name="tutorial_only_in_lite_version">仅在精简版中</string>
 
     <!-- WELCOME -->
@@ -11,9 +10,7 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">版本比较</string>
-    <string name="tutorial_comparator_premium_title" translatable="false">Printoid旗舰版</string>
     <string name="tutorial_comparator_premium_content">视频流监控, 自定义GCODE指令, 2D及3D查看器, 实时模拟器, 高级控制, 桌面部件等更多…</string>
-    <string name="tutorial_comparator_lite_title" translatable="false">Printoid精简版</string>
     <string name="tutorial_comparator_lite_content">包含免费的基础功能, 可永久使用的</string>
     <string name="tutorial_comparator_button_1">比较版本</string>
 
@@ -91,9 +88,6 @@
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">备份与恢复</string>
     <string name="tutorial_backup_read_permission_msg">如果需要, Printoid可以从之前的安装中恢复所有的配置(例如您之前安装的是精简版).\n\n如果需要恢复, 请在之后的对话框里允许操作权限.</string>
-    <string name="tutorial_backup_from_other_app_premium" translatable="false">旗舰版</string>
-    <string name="tutorial_backup_from_other_app_pro" translatable="false">专业版</string>
-    <string name="tutorial_backup_from_other_app_trial" translatable="false">精简版</string>
     <string name="tutorial_backup_from_other_error">无法从Printoid %s中恢复配置, 发生错误</string>
     <string name="tutorial_backup_from_other_error_permission">无法从Printoid %s中恢复配置, 未授权"写外部存储:的权限未没</string>
     <string name="tutorial_backup_from_other_error_unknown">无法从Printoid %s中恢复配置, 发生未知错误</string>
@@ -101,12 +95,5 @@
     <string name="tutorial_backup_from_other_app">从Printoid %s恢复</string>
     <string name="tutorial_backup_from_account">我有云端帐号</string>
     <string name="tutorial_backup_more_backup_options">更多备份选项</string>
-
-    <!-- LINKS -->
-    <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
-    <string name="printoid_facebook_app_link" translatable="false">fb://facewebmodal/f?href=https://www.facebook.com/printoid/</string>
-    <string name="printoid_twitter_url" translatable="false">https://twitter.com/AndroidPrintoid</string>
-    <string name="printoid_twitter_app_link" translatable="false">twitter://user?screen_name=AndroidPrintoid</string>
-    <string name="printoid_patreon_url" translatable="false">https://www.patreon.com/printoid</string>
 
 </resources>

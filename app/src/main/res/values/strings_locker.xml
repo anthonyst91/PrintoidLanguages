@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="locker_password_bullet" translatable="false">○</string>
-    <string name="locker_password_bullet_full" translatable="false">⦿</string>
-    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
-
     <string name="locker_enter_password">Enter password</string>
     <string name="locker_enter_password_or_fingerprint">Enter password or use your fingerprint</string>
     <string name="locker_cancel">Cancel</string>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
+
+</resources>

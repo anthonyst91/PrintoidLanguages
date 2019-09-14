@@ -80,9 +80,6 @@
     <string name="alert_modern_tls_title">Use modern TLS</string>
     <string name="alert_modern_tls_msg">Do not activate this feature if you have not been prompted to do so by the developer! This can causes connection issues depending on your server configuration.</string>
 
-    <string name="alert_profile_identifier_title" translatable="false">Profile ID</string>
-    <string name="alert_profile_identifier_msg" translatable="false">Profile ID for this profile is %1$s\n\nCurrent profile ID is %2$s</string>
-
     <string name="unknown_profile">Unknown profile</string>
     <string name="all_available_profiles">All available profiles</string>
 

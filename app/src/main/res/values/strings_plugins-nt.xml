@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plugin_name_psu" translatable="false">PSU Control</string>
+    <string name="plugin_name_autoshutdown" translatable="false">Automatic Shutdown</string>
+    <string name="plugin_name_tp_link" translatable="false">TP-Link SmartPlug</string>
+    <string name="plugin_name_wemo" translatable="false">WemoSwitch</string>
+    <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
+    <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
+    <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
+
+    <string name="plugin_author_psu" translatable="false">Shawn Bruce (@kantlivelong)</string>
+    <string name="plugin_author_autoshutdown" translatable="false">Nicanor Romero Venier(@octoprint)</string>
+    <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_wemo" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
+    <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
+    <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
+
+    <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
+    <string name="plugin_url_autoshutdown" translatable="false">https://github.com/OctoPrint/OctoPrint-AutomaticShutdown</string>
+    <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
+    <string name="plugin_url_wemo" translatable="false">https://github.com/jneilliii/OctoPrint-WemoSwitch</string>
+    <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
+    <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
+    <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
+
+    <string name="plugin_message_octolapse" translatable="false">none</string>
+
+    <string name="plugin_enclosure_rpi_output_pwm_hint" translatable="false">0%</string>
+
+</resources>

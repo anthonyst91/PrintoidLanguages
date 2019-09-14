@@ -3,6 +3,7 @@
 
     <string name="menu_title_partners">Vennoot</string>
     <string name="menu_title_configuration">Configuratie</string>
+    <string name="menu_title_servers">Servers</string>
     <string name="menu_title_help">Hulp &amp; ondersteuning</string>
 
     <string name="menu_account">Printoid-account</string>
@@ -33,7 +34,7 @@
     <string name="menu_tos">Servicevoorwaarden</string>
     <string name="menu_printer_tools">Printerhulpmiddelen</string>
     <string name="menu_gcode_scripts">Gcode-scripts</string>
-    <string name="menu_profile_settings">Server parameters</string>
+    <string name="menu_profile_settings">Huidige serverinstellingen</string>
 
     <string name="menu_lite_label_promote">Vind je Printoid Lite leuk?</string>
     <string name="menu_lite_text_promote">Verwijder advertenties en geniet van PREMIUM full-featured versie!</string>

@@ -10,10 +10,6 @@
     <string name="printer_state_printing">打印中&#8230;</string>
     <string name="printer_state_error">打印机连接错误</string>
 
-    <string name="empty" translatable="false">&#8212;</string>
-    <string name="dimensions_format" translatable="false">%1$.1fmm Ă %2$.1fmm Ă %3$.1fmm</string>
-    <string name="dimensions_reduced_format" translatable="false">%1$.1fĂ%2$.1fĂ%3$.1f mm</string>
-    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
     <string name="remaining_time_label">剩余时间:</string>
     <string name="file">文件: %s</string>
     <string name="file_label">文件:</string>
@@ -25,8 +21,6 @@
     <string name="printed_empty">&#8212;</string>
     <string name="printed_label">已打印:</string>
     <string name="current_z">Z:</string>
-    <string name="current_z_value" translatable="false">%.2f mm</string>
-    <string name="current_z_empty" translatable="false">&#8212; mm</string>
     <string name="printed">%1$s/%2$s</string>
     <string name="printed_time">已打印时间: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>

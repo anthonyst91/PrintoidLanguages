@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="contact_email" translatable="false">contact@printoid.net</string>
     <string name="contact_subject">Printoid技术支持 (已安装版本: v%1$s - %2$s)</string>
     <string name="contact_choose_client">请选择您的邮箱客户端:</string>
 
@@ -15,10 +14,6 @@
     我的消息:\n\n\n
     %6$s\n\n\n
     万分感谢</string>
-
-    <string name="contact_version_premium" translatable="false">PREMIUM</string>
-    <string name="contact_version_pro" translatable="false">PRO</string>
-    <string name="contact_version_trial" translatable="false">LITE</string>
 
     <string name="alert_contact_tutorials_label">教程</string>
     <string name="alert_contact_faq_label">常见问题解答</string>

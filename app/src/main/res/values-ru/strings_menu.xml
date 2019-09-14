@@ -3,6 +3,7 @@
 
     <string name="menu_title_partners">Партнеры</string>
     <string name="menu_title_configuration">Kонфигурация</string>
+    <string name="menu_title_servers">Серверы</string>
     <string name="menu_title_help">Помогите &amp; помощь</string>
 
     <string name="menu_account">Printoid учетная запись</string>
@@ -33,7 +34,7 @@
     <string name="menu_tos">Условия обслуживания</string>
     <string name="menu_printer_tools">Инструменты принтера</string>
     <string name="menu_gcode_scripts">Gcode скрипты</string>
-    <string name="menu_profile_settings">Параметры сервера</string>
+    <string name="menu_profile_settings">Настройки текущего сервера</string>
 
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
     <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PREMIUM!</string>

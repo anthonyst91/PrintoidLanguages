@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="notif_channel_name_pull_service">Printoid后台客户端</string>
-
-    <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
     <string name="notif_foreground_service_msg">Printoid将在后台与OctoPrint通讯…</string>
 
     <string name="notif_print_completed">打印结束</string>
