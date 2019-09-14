@@ -29,7 +29,7 @@
     <string name="command_detail_ssh">Commande SSH : %s</string>
     <string name="command_detail_gcode">Commande Gcode : %s</string>
     <string name="command_sent">Commande envoyée</string>
-    <string name="command_sent_answer">Réponse de la commande : %s</string>
+    <string name="command_sent_answer">Réponse de la commande</string>
     <string name="command_not_sent">Erreur lors de la commande : %s</string>
     <string name="command_not_sent_reason">Erreur lors de la commande : %1$s (%2$s)</string>
     <string name="send_command_error">Erreur de commande : %1$s (%2$d)</string>
