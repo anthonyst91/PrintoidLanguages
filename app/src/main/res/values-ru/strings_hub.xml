@@ -1,7 +1,5 @@
 <resources>
 
-    <string name="app_name_hub" translatable="false">Printoid Hub</string>
-
     <string name="hub_settings">настройки</string>
 
     <string name="hub_introduction">Printoid Hub - это функция PREMIUM, которая позволяет вам одновременно показывать состояние всех ваших 3D-принтеров на одном экране!\nНовый значок для запуска этой функции был добавлен в список приложений. Вы можете скрыть это в настройках Printoid Hub.</string>
