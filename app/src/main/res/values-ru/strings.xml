@@ -12,6 +12,7 @@
     <string name="next">Далее</string>
     <string name="previous">Предыдущий</string>
     <string name="quit">Выход</string>
+    <string name="refresh">Oбновление</string>
     <string name="terminate">Прервать</string>
     <string name="improve">Улучшить</string>
     <string name="search">Поиск в файлах…</string>

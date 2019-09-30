@@ -12,6 +12,7 @@
     <string name="next">下一个</string>
     <string name="previous">上一个</string>
     <string name="quit">退出</string>
+    <string name="refresh">刷新</string>
     <string name="terminate">终止</string>
     <string name="search">在文件中搜索…</string>
     <string name="retry">重试</string>

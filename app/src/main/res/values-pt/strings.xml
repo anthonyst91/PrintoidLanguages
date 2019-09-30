@@ -12,6 +12,7 @@
     <string name="next">Próxima</string>
     <string name="previous">Anterior</string>
     <string name="quit">Sair</string>
+    <string name="refresh">Atualizar</string>
     <string name="terminate">Terminar</string>
     <string name="search">Pesquisar nos arquivos…</string>
     <string name="retry">Tentar novamente</string>

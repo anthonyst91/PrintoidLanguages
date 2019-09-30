@@ -12,6 +12,7 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
     <string name="quit">Quit</string>
+    <string name="refresh">Refresh</string>
     <string name="terminate">Terminate</string>
     <string name="search">Search in files…</string>
     <string name="retry">Retry</string>
