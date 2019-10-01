@@ -73,7 +73,7 @@
     </string-array>
 
     <string-array name="dashboard_modes_array">
-        <item>All-in-one</item>
+        <item>Grid</item>
         <item>Tabs</item>
     </string-array>
 

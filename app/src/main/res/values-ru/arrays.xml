@@ -73,7 +73,7 @@
     </string-array>
 
     <string-array name="dashboard_modes_array">
-        <item>Все в одном</item>
+        <item>Cетка</item>
         <item>Bкладки</item>
     </string-array>
 
