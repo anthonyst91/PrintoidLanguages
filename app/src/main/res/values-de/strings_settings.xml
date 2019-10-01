@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Baby Stepping Entfernung</string>
     <string name="baby_stepping_disabled">Deaktiviert</string>
 
+    <string name="alert_current_server_settings_location_message">Diese Anzeige bezieht sich auf die Anwendungseinstellungen. Wenn Sie die aktuellen Servereinstellungen bearbeiten möchten, z. B. Kameradrehung, öffnen Sie stattdessen das folgende Fenster:</string>
+
 </resources>

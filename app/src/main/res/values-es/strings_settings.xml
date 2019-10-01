@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Distancia de Baby Stepping</string>
     <string name="baby_stepping_disabled">Discapacitado</string>
 
+    <string name="alert_current_server_settings_location_message">Este panel es relativo a la configuración de la aplicación. Si desea editar la configuración actual del servidor, como la rotación de la cámara, por ejemplo, abra el siguiente panel:</string>
+
 </resources>

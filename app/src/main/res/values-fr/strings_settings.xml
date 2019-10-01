@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Distance de Baby Stepping</string>
     <string name="baby_stepping_disabled">Désactivé</string>
 
+    <string name="alert_current_server_settings_location_message">Cet écran est relatif aux paramètres de l\'application. Si vous souhaitez éditer les paramètres liés au serveur actuellement sélectionné, comme par exemple la rotation de la caméra, veuillez ouvrir l\'écran suivant à la place :</string>
+
 </resources>

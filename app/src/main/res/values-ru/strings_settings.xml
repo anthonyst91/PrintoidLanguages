@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Pасстояние Baby Stepping</string>
     <string name="baby_stepping_disabled">Инвалид</string>
 
+    <string name="alert_current_server_settings_location_message">Эта панель относится к настройкам приложения. Если вы хотите редактировать текущие настройки сервера, например, поворот камеры, откройте следующую панель:</string>
+
 </resources>

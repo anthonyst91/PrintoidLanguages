@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Distanza di Baby Stepping</string>
     <string name="baby_stepping_disabled">Disabilitato</string>
 
+    <string name="alert_current_server_settings_location_message">Questo pannello è relativo alle impostazioni dell\'applicazione. Se si desidera modificare le impostazioni correnti del server, ad esempio la rotazione della videocamera, aprire invece il pannello seguente:</string>
+
 </resources>

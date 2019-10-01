@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Baby Stepping distance</string>
     <string name="baby_stepping_disabled">Disabled</string>
 
+    <string name="alert_current_server_settings_location_message">This panel is relative to the application settings. If you want to edit the current server settings, such as camera rotation for example, please open the following panel instead:</string>
+
 </resources>

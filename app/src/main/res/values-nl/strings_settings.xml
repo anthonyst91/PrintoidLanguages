@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">Baby Stepping afstand</string>
     <string name="baby_stepping_disabled">Invalide</string>
 
+    <string name="alert_current_server_settings_location_message">Dit paneel is relatief ten opzichte van de applicatie-instellingen. Als u de huidige serverinstellingen wilt bewerken, zoals camerarotatie, opent u in plaats daarvan het volgende paneel:</string>
+
 </resources>

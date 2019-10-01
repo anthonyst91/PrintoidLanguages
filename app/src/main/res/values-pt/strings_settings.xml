@@ -277,4 +277,6 @@
     <string name="baby_stepping_distance">Distância de Baby Stepping</string>
     <string name="baby_stepping_disabled">Desativado</string>
 
+    <string name="alert_current_server_settings_location_message">Este painel é relativo às configurações do aplicativo. Se você deseja editar as configurações atuais do servidor, como rotação da câmera, por exemplo, abra o seguinte painel:</string>
+
 </resources>

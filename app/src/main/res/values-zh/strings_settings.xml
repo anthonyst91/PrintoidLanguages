@@ -273,4 +273,6 @@
     <string name="baby_stepping_distance">微量调整距离</string>
     <string name="baby_stepping_disabled">已禁用</string>
 
+    <string name="alert_current_server_settings_location_message">此面板与应用程序设置有关。 如果要编辑当前服务器设置，例如摄像机旋转，请改为打开以下面板:</string>
+
 </resources>
