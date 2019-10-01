@@ -123,37 +123,9 @@
         <item>Transparente</item>
     </string-array>
 
-    <string-array name="slicer_support_array" translatable="false">
-        <item>none</item>
-        <item>buildplate</item>
-        <item>everywhere</item>
-    </string-array>
-
-    <string-array name="slicer_support_type_array" translatable="false">
-        <item>grid</item>
-        <item>lines</item>
-    </string-array>
-
-    <string-array name="slicer_support_dual_extrusion_array" translatable="false">
-        <item>both</item>
-    </string-array>
-
-    <string-array name="slicer_platform_adhesion_array" translatable="false">
-        <item>none</item>
-        <item>brim</item>
-        <item>raft</item>
-    </string-array>
-
-    <string-array name="slicer_combing_array" translatable="false">
-        <item>off</item>
-        <item>all</item>
-        <item>no skin</item>
-    </string-array>
-
-    <string-array name="timelapse_type_array" translatable="false">
-        <item>off</item>
-        <item>timed</item>
-        <item>zchange</item>
+    <string-array name="dashboard_modes_array">
+        <item>Tudo em um</item>
+        <item>Abas</item>
     </string-array>
 
 </resources>

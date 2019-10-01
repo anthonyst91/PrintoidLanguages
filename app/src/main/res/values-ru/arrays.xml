@@ -72,4 +72,9 @@
         <item>цена за кг</item>
     </string-array>
 
+    <string-array name="dashboard_modes_array">
+        <item>Все в одном</item>
+        <item>Bкладки</item>
+    </string-array>
+
 </resources>

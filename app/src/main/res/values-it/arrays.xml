@@ -72,4 +72,9 @@
         <item>Transparente</item>
     </string-array>
 
+    <string-array name="dashboard_modes_array">
+        <item>Tutto in uno</item>
+        <item>Schede</item>
+    </string-array>
+
 </resources>
