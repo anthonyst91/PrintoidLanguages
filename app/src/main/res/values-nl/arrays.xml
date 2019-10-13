@@ -74,7 +74,7 @@
 
     <string-array name="dashboard_modes_array">
         <item>Rooster</item>
-        <item>Lipjes</item>
+        <item>Tabs</item>
     </string-array>
 
 </resources>
