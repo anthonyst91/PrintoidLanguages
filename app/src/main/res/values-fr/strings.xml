@@ -57,6 +57,8 @@
     <string name="copy">Copier</string>
     <string name="copied_to_clipboard">Copié dans le presse-papier</string>
     <string name="never_ask_again">Ne plus demander</string>
+    <string name="grid">Grille</string>
+    <string name="tabs">Onglets</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_chamber">Chambre chauffante</string>

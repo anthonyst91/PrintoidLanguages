@@ -94,4 +94,9 @@
         <item>zchange</item>
     </string-array>
 
+    <string-array name="dashboard_modes_array" translatable="false">
+        <item>@string/grid</item>
+        <item>@string/tabs</item>
+    </string-array>
+
 </resources>

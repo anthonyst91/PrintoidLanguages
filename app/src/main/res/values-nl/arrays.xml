@@ -72,9 +72,4 @@
         <item>Prijs/kg</item>
     </string-array>
 
-    <string-array name="dashboard_modes_array">
-        <item>Rooster</item>
-        <item>Tabs</item>
-    </string-array>
-
 </resources>

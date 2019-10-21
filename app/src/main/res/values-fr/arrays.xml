@@ -72,9 +72,4 @@
         <item>Prix/kg</item>
     </string-array>
 
-    <string-array name="dashboard_modes_array">
-        <item>Grille</item>
-        <item>Onglets</item>
-    </string-array>
-
 </resources>

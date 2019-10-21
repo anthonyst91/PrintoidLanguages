@@ -104,4 +104,7 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s послал</string>
 
+    <string name="alert_choose_dashboard_mode_title">Выберите режим панели инструментов</string>
+    <string name="alert_choose_dashboard_mode_message">Выберите, как вы хотите, чтобы Printoid отображал вашу панель (это можно изменить в настройках приложения позже)</string>
+
 </resources>

@@ -72,9 +72,4 @@
         <item>Precio/kg</item>
     </string-array>
 
-    <string-array name="dashboard_modes_array">
-        <item>Cuadrícula</item>
-        <item>Fichas</item>
-    </string-array>
-
 </resources>

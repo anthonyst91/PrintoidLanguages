@@ -104,4 +104,7 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s geschickt</string>
 
+    <string name="alert_choose_dashboard_mode_title">Wählen Sie Ihren Dashboard-Modus</string>
+    <string name="alert_choose_dashboard_mode_message">Wählen Sie aus, wie Printoid Ihr Dashboard anzeigen soll (dies kann später in den Einstellungen der App geändert werden).</string>
+
 </resources>

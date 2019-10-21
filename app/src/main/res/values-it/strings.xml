@@ -57,6 +57,8 @@
     <string name="copy">Copiare</string>
     <string name="copied_to_clipboard">Copiato negli appunti</string>
     <string name="never_ask_again">Non chiedere mai più</string>
+    <string name="grid">Griglia</string>
+    <string name="tabs">Schede</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>

@@ -72,9 +72,4 @@
         <item>Preis/kg</item>
     </string-array>
 
-    <string-array name="dashboard_modes_array">
-        <item>Gitter</item>
-        <item>Laschen</item>
-    </string-array>
-
 </resources>

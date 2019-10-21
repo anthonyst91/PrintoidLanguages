@@ -123,9 +123,4 @@
         <item>Transparente</item>
     </string-array>
 
-    <string-array name="dashboard_modes_array">
-        <item>Grade</item>
-        <item>Abas</item>
-    </string-array>
-
 </resources>
