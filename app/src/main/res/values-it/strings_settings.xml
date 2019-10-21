@@ -126,7 +126,9 @@
     <string name="settings_octoprint_credentials">Credenziali del server OctoPrint</string>
     <string name="setting_enable_hot_chamber">Abilita il controllo della camera riscaldata</string>
     <string name="setting_max_chamber_temp">Temperatura massima della camera riscaldata.</string>
+    <string name="setting_dashboard_mode">Modo de tela principal</string>
 
+    <string name="setting_dashboard_mode_tip">Cambia il modo di visualizzare le informazioni sulla schermata principale</string>
     <string name="setting_enable_hot_chamber_tip">Regola e mostra la temperatura della camera riscaldata</string>
     <string name="setting_max_chamber_temp_tip">Temperatura massima per la camera riscaldata</string>
     <string name="setting_enable_baby_stepping_tip">Consentire di spostare l\'asse in modo trasparente sul sistema di movimento</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">Distanza di Baby Stepping</string>
     <string name="baby_stepping_disabled">Disabilitato</string>
+
+    <string name="alert_current_server_settings_location_message">Questo pannello è relativo alle impostazioni dell\'applicazione. Se si desidera modificare le impostazioni correnti del server, ad esempio la rotazione della videocamera, aprire invece il pannello seguente:</string>
 
 </resources>

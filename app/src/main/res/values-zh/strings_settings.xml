@@ -126,7 +126,9 @@
     <string name="settings_octoprint_credentials">OctoPrint服务器认证信息</string>
     <string name="setting_enable_hot_chamber">启用加热箱控制</string>
     <string name="setting_max_chamber_temp">加热箱最大温度</string>
+    <string name="setting_dashboard_mode">主画面模式</string>
 
+    <string name="setting_dashboard_mode_tip">更改在主屏幕上显示信息的方式</string>
     <string name="setting_enable_hot_chamber_tip">调节并显示加热箱温度</string>
     <string name="setting_max_chamber_temp_tip">加热箱的最大温度</string>
     <string name="setting_enable_baby_stepping_tip">允许在打印中微量调整轴的偏移量</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">微量调整距离</string>
     <string name="baby_stepping_disabled">已禁用</string>
+
+    <string name="alert_current_server_settings_location_message">此面板与应用程序设置有关。 如果要编辑当前服务器设置，例如摄像机旋转，请改为打开以下面板:</string>
 
 </resources>

@@ -36,6 +36,10 @@
     <string name="menu_printer_tools">Printer tools</string>
     <string name="menu_gcode_scripts">Gcode scripts</string>
 
+    <string name="menu_monitor">Monitor</string>
+    <string name="menu_control">Control</string>
+    <string name="menu_temperatures">Temperatures</string>
+
     <string name="menu_lite_label_promote">Do you like Printoid Lite?</string>
     <string name="menu_lite_text_promote">Support the developer and enjoy the PREMIUM full-featured version!</string>
 

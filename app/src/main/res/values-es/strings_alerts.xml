@@ -105,4 +105,7 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s expedido</string>
 
+    <string name="alert_choose_dashboard_mode_title">Elige tu modo de tablero</string>
+    <string name="alert_choose_dashboard_mode_message">Elija cómo desea que Printoid muestre su panel de control (esto se puede cambiar desde la configuración de la aplicación más adelante)</string>
+
 </resources>

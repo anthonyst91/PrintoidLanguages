@@ -36,6 +36,10 @@
     <string name="menu_gcode_scripts">Gcode скрипты</string>
     <string name="menu_profile_settings">Настройки текущего сервера</string>
 
+    <string name="menu_monitor">Mонитор</string>
+    <string name="menu_control">Kонтроль</string>
+    <string name="menu_temperatures">Tемпература</string>
+
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
     <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PREMIUM!</string>
 

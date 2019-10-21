@@ -12,6 +12,7 @@
     <string name="next">下一个</string>
     <string name="previous">上一个</string>
     <string name="quit">退出</string>
+    <string name="refresh">刷新</string>
     <string name="terminate">终止</string>
     <string name="search">在文件中搜索…</string>
     <string name="retry">重试</string>
@@ -56,6 +57,8 @@
     <string name="copy">复制</string>
     <string name="copied_to_clipboard">已复制到剪贴板</string>
     <string name="never_ask_again">不再询问</string>
+    <string name="grid">格</string>
+    <string name="tabs">标签</string>
 
     <string name="heated_bed">热床</string>
     <string name="heated_chamber">加热箱</string>

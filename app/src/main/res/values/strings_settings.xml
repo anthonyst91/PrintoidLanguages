@@ -126,7 +126,9 @@
     <string name="settings_octoprint_credentials">OctoPrint server credentials</string>
     <string name="setting_enable_hot_chamber">Enable heated chamber control</string>
     <string name="setting_max_chamber_temp">Max heated chamber temp.</string>
+    <string name="setting_dashboard_mode">Dashboard mode</string>
 
+    <string name="setting_dashboard_mode_tip">Change the way to display info on the main screen</string>
     <string name="setting_enable_hot_chamber_tip">Adjust and show heated chamber temperature</string>
     <string name="setting_max_chamber_temp_tip">Max temperature for the heated chamber</string>
     <string name="setting_enable_baby_stepping_tip">Allow to move the axis transparently to the motion system</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">Baby Stepping distance</string>
     <string name="baby_stepping_disabled">Disabled</string>
+
+    <string name="alert_current_server_settings_location_message">This panel is relative to the application settings. If you want to edit the current server settings, such as camera rotation for example, please open the following panel instead:</string>
 
 </resources>

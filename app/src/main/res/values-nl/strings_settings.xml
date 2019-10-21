@@ -127,7 +127,9 @@
     <string name="settings_octoprint_credentials">OctoPrint-serverreferenties</string>
     <string name="setting_enable_hot_chamber">Schakel de besturing van de verwarmde kamer in</string>
     <string name="setting_max_chamber_temp">Max verwarmde kamertemperatuur.</string>
+    <string name="setting_dashboard_mode">Hoofdschermmodus</string>
 
+    <string name="setting_dashboard_mode_tip">Wijzig de manier om informatie op het hoofdscherm weer te geven</string>
     <string name="setting_enable_hot_chamber_tip">Pas de temperatuur van de verwarmde kamer aan en toon deze</string>
     <string name="setting_max_chamber_temp_tip">Maximale temperatuur voor de verwarmde kamer</string>
     <string name="setting_enable_baby_stepping_tip">Laat toe de as transparant naar het bewegingssysteem te verplaatsen</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">Baby Stepping afstand</string>
     <string name="baby_stepping_disabled">Invalide</string>
+
+    <string name="alert_current_server_settings_location_message">Dit paneel is relatief ten opzichte van de applicatie-instellingen. Als u de huidige serverinstellingen wilt bewerken, zoals camerarotatie, opent u in plaats daarvan het volgende paneel:</string>
 
 </resources>

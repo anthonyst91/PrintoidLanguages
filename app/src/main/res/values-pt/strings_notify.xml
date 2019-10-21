@@ -10,13 +10,15 @@
     <string name="notif_paused_percent">Pausada [ progresso: %1$.1f%% - %2$s ]</string>
 
     <string name="notification_file">Arquivo: %s</string>
-    <string name="notification_time_progress">Tempo de execução: %.1f%%</string>
-    <string name="notification_gcode_progress">Progresso do GCODE: %.1f%%</string>
+    <string name="notification_progress">Progresso: %1$.1f%% (estimado) - %2$.1f%% (real)</string>
+    <string name="notification_time_progress">Progresso estimado: %.1f%%</string>
+    <string name="notification_gcode_progress">Progresso real: %.1f%%</string>
     <string name="notification_remaining_time">Tempo remanescente: %s</string>
     <string name="notification_end_time">Hora final: %s</string>
     <string name="notification_temperature">Temperatura: %1$.1f° / %2$.1f°</string>
-    <string name="notification_temperature_ext_0">Ext0 [%1$.1f°/%2$.1f°]</string>
-    <string name="notification_temperature_ext_1">Ext1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_0">Ext1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_1">Ext2 [%1$.1f°/%2$.1f°]</string>
     <string name="notification_temperature_bed">Mesa [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_chamber">Câmara [%1$.1f°/%2$.1f°]</string>
 
 </resources>

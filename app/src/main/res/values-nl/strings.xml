@@ -12,6 +12,7 @@
     <string name="next">volgend</string>
     <string name="previous">Voorgaand</string>
     <string name="quit">Afbreken</string>
+    <string name="refresh">Verversen</string>
     <string name="terminate">Beeindigen</string>
     <string name="search">Zoeken in bestanden…</string>
     <string name="improve">Verbeteren</string>
@@ -56,6 +57,8 @@
     <string name="copy">Kopiëren</string>
     <string name="copied_to_clipboard">Gekopieerd naar het klembord</string>
     <string name="never_ask_again">Nooit meer vragen</string>
+    <string name="grid">Rooster</string>
+    <string name="tabs">Tabs</string>
 
     <string name="heated_bed">Bed</string>
     <string name="heated_chamber">Kamer</string>

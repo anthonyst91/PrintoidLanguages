@@ -12,6 +12,7 @@
     <string name="next">Далее</string>
     <string name="previous">Предыдущий</string>
     <string name="quit">Выход</string>
+    <string name="refresh">Oбновление</string>
     <string name="terminate">Прервать</string>
     <string name="improve">Улучшить</string>
     <string name="search">Поиск в файлах…</string>
@@ -56,6 +57,8 @@
     <string name="copy">Kопировать</string>
     <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
     <string name="never_ask_again">Никогда не спрашивать</string>
+    <string name="grid">Cетка</string>
+    <string name="tabs">Bкладки</string>
 
     <string name="heated_bed">Стол</string>
     <string name="heated_chamber">Подогреваемая камера</string>

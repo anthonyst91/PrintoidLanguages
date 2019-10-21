@@ -126,7 +126,9 @@
     <string name="settings_octoprint_credentials">Credenciales del servidor OctoPrint</string>
     <string name="setting_enable_hot_chamber">Habilitar el control de la cámara caliente</string>
     <string name="setting_max_chamber_temp">Temperatura máxima de la cámara calentada</string>
+    <string name="setting_dashboard_mode">Modo de pantalla principal</string>
 
+    <string name="setting_dashboard_mode_tip">Cambiar la forma de mostrar información en la pantalla principal</string>
     <string name="setting_enable_hot_chamber_tip">Ajustar y mostrar la temperatura de la cámara calentada.</string>
     <string name="setting_max_chamber_temp_tip">Temperatura máxima para la cámara calentada.</string>
     <string name="setting_enable_baby_stepping_tip">Permite mover el eje de forma transparente al sistema de movimiento.</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">Distancia de Baby Stepping</string>
     <string name="baby_stepping_disabled">Discapacitado</string>
+
+    <string name="alert_current_server_settings_location_message">Este panel es relativo a la configuración de la aplicación. Si desea editar la configuración actual del servidor, como la rotación de la cámara, por ejemplo, abra el siguiente panel:</string>
 
 </resources>

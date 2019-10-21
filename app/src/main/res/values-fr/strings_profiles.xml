@@ -63,7 +63,7 @@
     ✏ BAUDRATE : il s\'agit du baurate de communication de votre imprimante\n\n
     [ℹ OPTIONS AVANCEES]\n\n
     ✏ SSL (optionnel) : activez cette option pour communiquer par HTTPS au lieu de HTTP\n\n
-    ✏ BASIC AUTH (optionnel) : activez cette option et fournissez vos identifiants si vous avez activé l\'authentification par utilisateur sur votre Raspberry Pi\n\n
+    ✏ BASIC AUTH (optionnel) : activez cette option et fournissez vos identifiants si vous avez activé l\'identification basique par utilisateur sur votre Raspberry Pi\n\n
     ✏ SSH CREDENTIAL (optionnel) : ce sont les identifiants pour vous connecter à votre Raspberry Pi par SSH (utilisé dans l\'écran des commandes personnalisées)\n\n
     ✏ SSH PORT (optionnel) : il s\'agit du port vers lequel vous avez redirigé le port 22 sur votre routeur (utilisé quand Printoid est connecté via l\'IP WAN, le port 22 étant utilisé par défaut en local)\n\n
     [ℹ PLUS D\'INFORMATIONS]\n\nVous trouverez plus d\'informations sur la configuration de Printoid sur le site officiel : %s
@@ -110,7 +110,7 @@
     <string name="config_wan_ip_help">L\'IP WAN (ou nom d\'hôte) est l\'adresse utilisée pour contacter votre serveur depuis Internet. Veuillez lire les instructions sur https://printoid.net</string>
     <string name="config_api_key_help">La clé d\'API d\'OctoPrint se trouve dans les paramètres de son interface web, dans la section API</string>
 
-    <string name="config_ssl_help">HTTPS (via protocoles SSL/TLS) permet une communication sécurisée avec votre serveur. Cela doit être activé dans la configuration de votre serveur au préalable</string>
+    <string name="config_ssl_help"><![CDATA[HTTPS (via protocoles SSL/TLS) permet une communication sécurisée avec votre serveur. Cela doit être activé dans la configuration de votre serveur au préalable<br><br><b><font color=#FF4444>N\'activez pas cette option si cela n\'est pas configuré sur votre serveur, sinon la connexion ne fonctionnera pas.</font></b>]]></string>
     <string name="config_basic_auth_help">Vos identifiants d\'Authentification Basique HTTP. Cela doit être activé dans la configuration de votre serveur au préalable</string>
     <string name="config_octoprint_credentials_help">Vos identifiants pour vous connecter dans l\'interface web d\'OctoPrint. Cela peut être requis par le terminal de commandes et les plugins</string>
     <string name="config_ssh_credentials_help">Vos identifiants pour vous connecter à votre machine hôte, utilisé pour les commandes SSH personnalisées. Définissez un port publique pour un accès distant si besoin</string>

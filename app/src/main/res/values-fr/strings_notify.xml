@@ -13,13 +13,15 @@
     <string name="notif_paused_percent">En pause [ progression: %1$.1f%% - %2$s ]</string>
 
     <string name="notification_file">Fichier: %s</string>
+    <string name="notification_progress">Progression: %1$.1f%% (estimée) - %2$.1f%% (réelle)</string>
     <string name="notification_time_progress">Progression (temps): %.1f%%</string>
     <string name="notification_gcode_progress">Progression (Gcode): %.1f%%</string>
     <string name="notification_remaining_time">Temps restant: %s</string>
     <string name="notification_end_time">Fin estimée: %s</string>
     <string name="notification_temperature">Température: %1$.1f° / %2$.1f°</string>
-    <string name="notification_temperature_ext_0">Ext0 [%1$.1f°/%2$.1f°]</string>
-    <string name="notification_temperature_ext_1">Ext1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_0">Ext1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_1">Ext2 [%1$.1f°/%2$.1f°]</string>
     <string name="notification_temperature_bed">Lit [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_chamber">Chambre [%1$.1f°/%2$.1f°]</string>
 
 </resources>

@@ -40,7 +40,7 @@
     <string name="setting_enable_axis_control_display">Afficher le contrôle des axes</string>
     <string name="setting_enable_printer_info_display">Afficher les informations du serveur OctoPrint</string>
     <string name="setting_enable_ssl">Communication par HTTPS (SSL/TLS)</string>
-    <string name="setting_enable_basic_auth">Authentification basique</string>
+    <string name="setting_enable_basic_auth">Identification basique</string>
     <string name="setting_enable_overlay">Activer l\'icône flottante</string>
     <string name="setting_enable_autostart_overlay">Démarrage automatique de l\'icône flottante</string>
     <string name="setting_enable_auto_config">Récupérer la config automatiquement</string>
@@ -127,7 +127,9 @@
     <string name="settings_octoprint_credentials">Authentifiants du serveur OctoPrint</string>
     <string name="setting_enable_hot_chamber">Contrôle de la chambre chauffante</string>
     <string name="setting_max_chamber_temp">Temp. chambre max</string>
+    <string name="setting_dashboard_mode">Mode du dashboard</string>
 
+    <string name="setting_dashboard_mode_tip">Changer la manière d\'afficher les infos dans l\'écran principal</string>
     <string name="setting_enable_hot_chamber_tip">Ajuster et consulter la temp. de la chambre chauffante</string>
     <string name="setting_max_chamber_temp_tip">Température max de la chambre chauffante</string>
     <string name="setting_enable_baby_stepping_tip">Permettre de déplacer les axes indépendamment du système de mouvement</string>
@@ -272,5 +274,7 @@
 
     <string name="baby_stepping_distance">Distance de Baby Stepping</string>
     <string name="baby_stepping_disabled">Désactivé</string>
+
+    <string name="alert_current_server_settings_location_message">Cet écran est relatif aux paramètres de l\'application. Si vous souhaitez éditer les paramètres liés au serveur actuellement sélectionné, comme par exemple la rotation de la caméra, veuillez ouvrir l\'écran suivant à la place :</string>
 
 </resources>

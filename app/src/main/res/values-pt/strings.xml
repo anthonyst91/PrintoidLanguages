@@ -12,6 +12,7 @@
     <string name="next">Próxima</string>
     <string name="previous">Anterior</string>
     <string name="quit">Sair</string>
+    <string name="refresh">Atualizar</string>
     <string name="terminate">Terminar</string>
     <string name="search">Pesquisar nos arquivos…</string>
     <string name="retry">Tentar novamente</string>
@@ -56,6 +57,8 @@
     <string name="copy">Copiar</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência</string>
     <string name="never_ask_again">Nunca mais pergunte</string>
+    <string name="grid">Grade</string>
+    <string name="tabs">Abas</string>
 
     <string name="heated_bed">Cama aquecida</string>
     <string name="heated_chamber">Câmara aquecida</string>
