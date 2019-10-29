@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contributors_title" translatable="false">@string/menu_contributors</string>
+
+    <string name="contributors_patreons_title">Patreon</string>
+    <string name="contributors_donors_title">Donors</string>
+    <string name="contributors_translators_title">Translators</string>
+
+</resources>
