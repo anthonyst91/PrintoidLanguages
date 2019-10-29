@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="contributors_patreons_title">Patreons</string>
+    <string name="contributors_donors_title">donoren</string>
+    <string name="contributors_translators_title">vertalers</string>
+
+    <string name="contributors_patreons_message">De volgende gebruikers ondersteunen de ontwikkelaar van Printoid op Patreon, enorm bedankt! Patreon is het beste platform om de makers en hun werk te ondersteunen!</string>
+    <string name="contributors_donors_message">De volgende gebruikers ondersteunen de ontwikkelaar van Printoid met het bedrag van hun keuze. Het is de beste manier om een koffie of een biertje te kopen voor de ontwikkelaar!</string>
+    <string name="contributors_translators_message">De volgende gebruikers zijn geweldige gebruikers: zij hebben de vertaling van Printoid in vele talen gedaan. Veel dank aan hen voor hun enorme bijdrage aan het Printoid-project!</string>
+
+    <string name="contributors_button_patreon">Word Patreon!</string>
+    <string name="contributors_button_donors_1">Doneer 1€</string>
+    <string name="contributors_button_donors_2">Doneer 2€</string>
+    <string name="contributors_button_donors_3">Doneer 5€</string>
+    <string name="contributors_button_donors_4">Doneer 10€</string>
+    <string name="contributors_button_translators">Vertaal de app!</string>
+
+</resources>

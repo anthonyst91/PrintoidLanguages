@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="contributors_patreons_title">Patreons</string>
+    <string name="contributors_donors_title">Доноры</string>
+    <string name="contributors_translators_title">Переводчики</string>
+
+    <string name="contributors_patreons_message">Следующие пользователи поддерживают разработчика Printoid на Patreon, огромное им спасибо! Patreon - лучшая платформа для поддержки создателей и их работы!</string>
+    <string name="contributors_donors_message">Следующие пользователи поддерживают разработчика Printoid с пожертвованием суммы по своему выбору. Это лучший способ купить кофе или пиво для разработчика!</string>
+    <string name="contributors_translators_message">Следующие пользователи являются удивительными пользователями: они сделали перевод Printoid на многих языках. Огромное спасибо им за огромный вклад в проект Printoid!</string>
+
+    <string name="contributors_button_patreon">Стань Патреоном!</string>
+    <string name="contributors_button_donors_1">дать 1$</string>
+    <string name="contributors_button_donors_2">дать 2$</string>
+    <string name="contributors_button_donors_3">дать 5$</string>
+    <string name="contributors_button_donors_4">дать 10$</string>
+    <string name="contributors_button_translators">Переведите приложение!</string>
+
+</resources>
