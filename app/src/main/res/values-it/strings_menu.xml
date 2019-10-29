@@ -35,6 +35,7 @@
     <string name="menu_printer_tools">Strumenti di stampa</string>
     <string name="menu_gcode_scripts">Script Gcode</string>
     <string name="menu_profile_settings">Parametri server correnti</string>
+    <string name="menu_contributors">Contributori</string>
 
     <string name="menu_monitor">Monitore</string>
     <string name="menu_control">Controllo</string>
