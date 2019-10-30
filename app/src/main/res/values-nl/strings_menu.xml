@@ -35,6 +35,7 @@
     <string name="menu_printer_tools">Printerhulpmiddelen</string>
     <string name="menu_gcode_scripts">Gcode-scripts</string>
     <string name="menu_profile_settings">Huidige serverinstellingen</string>
+    <string name="menu_contributors">Nedewerkers</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Controle</string>

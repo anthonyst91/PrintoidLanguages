@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="contributors_patreons_title">Patreons</string>
+    <string name="contributors_donors_title">捐助者</string>
+    <string name="contributors_translators_title">译者</string>
+
+    <string name="contributors_patreons_message">以下用户在Patreon上支持Printoid的开发人员，非常感谢！ Patreon是支持创作者及其作品的最佳平台！</string>
+    <string name="contributors_donors_message">以下用户通过捐赠他们所选择的数量来支持Printoid开发人员。这是向开发商购买咖啡或啤酒的最佳方式！</string>
+    <string name="contributors_translators_message">下列用户是惊人的用户：他们用多种语言翻译了Printoid。非常感谢他们为Printoid项目做出的巨大贡献！</string>
+
+    <string name="contributors_button_patreon">成为Patreon！</string>
+    <string name="contributors_button_donors_1">捐赠1$</string>
+    <string name="contributors_button_donors_2">捐赠2$</string>
+    <string name="contributors_button_donors_3">捐赠5$</string>
+    <string name="contributors_button_donors_4">捐款10$</string>
+    <string name="contributors_button_translators">翻译应用程序！</string>
+
+    <string name="contributors_dononation_thanks_title">感谢您的捐款！</string>
+    <string name="contributors_dononation_thanks_message">非常感谢您的支持，非常感谢您的帮助！\n\n如果您想在应用程序的捐助者列表中填写自己的名字，请随时通过<b>contact@printoid.net</b>给我写信！</string>
+
+</resources>

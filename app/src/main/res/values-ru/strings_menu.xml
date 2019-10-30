@@ -35,6 +35,7 @@
     <string name="menu_printer_tools">Инструменты принтера</string>
     <string name="menu_gcode_scripts">Gcode скрипты</string>
     <string name="menu_profile_settings">Настройки текущего сервера</string>
+    <string name="menu_contributors">Авторы</string>
 
     <string name="menu_monitor">Mонитор</string>
     <string name="menu_control">Kонтроль</string>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contributors_patreons_title">Patreons</string>
+    <string name="contributors_donors_title">Donors</string>
+    <string name="contributors_translators_title">Translators</string>
+
+    <string name="contributors_patreons_message">Following users are supporting the developer of Printoid on Patreon, a huge thanks to them! Patreon is the best platform to support the creators and their work!</string>
+    <string name="contributors_donors_message">Following users are supporting the developer of Printoid with donation of the amount of their choice. It is the best way to buy a coffee or a beer to the developer!</string>
+    <string name="contributors_translators_message">Following users are amazing users: they did the translation of Printoid in many languages. A big thanks to them for their huge contribution to the Printoid project!</string>
+
+    <string name="contributors_button_patreon">Become a Patreon!</string>
+    <string name="contributors_button_donors_1">Donate 1$</string>
+    <string name="contributors_button_donors_2">Donate 2$</string>
+    <string name="contributors_button_donors_3">Donate 5$</string>
+    <string name="contributors_button_donors_4">Donate 10$</string>
+    <string name="contributors_button_translators">Translate the app!</string>
+
+    <string name="contributors_dononation_thanks_title">Thanks for your donation!</string>
+    <string name="contributors_dononation_thanks_message">Thank you so much for your support, I really appreciate your help!\n\nFeel free to write me at <b>contact@printoid.net</b> if you want to have your name in the list of donors in the app!</string>
+
+</resources>
