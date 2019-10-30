@@ -15,4 +15,7 @@
     <string name="contributors_button_donors_4">捐款10$</string>
     <string name="contributors_button_translators">翻译应用程序！</string>
 
+    <string name="contributors_dononation_thanks_title">感谢您的捐款！</string>
+    <string name="contributors_dononation_thanks_message">非常感谢您的支持，非常感谢您的帮助！\n\n如果您想在应用程序的捐助者列表中填写自己的名字，请随时通过<b>contact@printoid.net</b>给我写信！</string>
+
 </resources>

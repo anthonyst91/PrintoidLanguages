@@ -15,4 +15,7 @@
     <string name="contributors_button_donors_4">Doneer 10€</string>
     <string name="contributors_button_translators">Vertaal de app!</string>
 
+    <string name="contributors_dononation_thanks_title">Bedankt voor je donatie!</string>
+    <string name="contributors_dononation_thanks_message">Heel erg bedankt voor je steun, ik waardeer je hulp enorm!\n\nVoel je vrij om me te schrijven op <b>contact@printoid.net</b> als je je naam in de lijst met donoren in de app wilt hebben!</string>
+
 </resources>

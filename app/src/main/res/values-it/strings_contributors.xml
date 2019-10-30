@@ -15,4 +15,7 @@
     <string name="contributors_button_donors_4">Dona 10€</string>
     <string name="contributors_button_translators">Traduci l\'app!</string>
 
+    <string name="contributors_dononation_thanks_title">Grazie per la tua donazione!</string>
+    <string name="contributors_dononation_thanks_message">Grazie mille per il tuo supporto, apprezzo molto il tuo aiuto!\n\nSentiti libero di scrivermi a <b>contact@printoid.net</b> se vuoi avere il tuo nome nell\'elenco dei donatori nell\'app!</string>
+
 </resources>

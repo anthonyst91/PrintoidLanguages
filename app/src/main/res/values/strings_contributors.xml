@@ -16,4 +16,7 @@
     <string name="contributors_button_donors_4">Donate 10$</string>
     <string name="contributors_button_translators">Translate the app!</string>
 
+    <string name="contributors_dononation_thanks_title">Thanks for your donation!</string>
+    <string name="contributors_dononation_thanks_message">Thank you so much for your support, I really appreciate your help!\n\nFeel free to write me at <b>contact@printoid.net</b> if you want to have your name in the list of donors in the app!</string>
+
 </resources>
