@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="printer_state_loading">Выполняется загрузка…</string>
     <string name="printer_state_octo_disconnected">Сервер не подключен</string>
     <string name="printer_state_disconnected">Принтер отключен</string>
     <string name="printer_state_connecting">Подключение принтера&#8230;</string>

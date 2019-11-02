@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="printer_state_loading">Loading…</string>
     <string name="printer_state_octo_disconnected">Server not connected</string>
     <string name="printer_state_disconnected">Printer disconnected</string>
     <string name="printer_state_connecting">Connecting printer&#8230;</string>
@@ -10,7 +11,7 @@
     <string name="printer_state_printing">Printing&#8230;</string>
     <string name="printer_state_error">Printer connection error</string>
 
-    <string name="remaining_time_label">Ends in:</string>
+    <string name="remaining_time_label">Left:</string>
     <string name="file">File: %s</string>
     <string name="file_label">File:</string>
     <string name="file_empty">No loaded file</string>
