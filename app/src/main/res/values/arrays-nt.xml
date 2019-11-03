@@ -32,6 +32,7 @@
         <item>Red Fire</item>
         <item>Green Summer</item>
         <item>Black Shadow</item>
+        <item>Metal 2020</item>
     </string-array>
 
     <string-array translatable="false" name="keyboard_type_array">

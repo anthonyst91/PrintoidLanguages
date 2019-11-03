@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="printer_state_loading">Laden…</string>
     <string name="printer_state_octo_disconnected">Server nicht verbunden</string>
     <string name="printer_state_disconnected">Drucker getrennt</string>
     <string name="printer_state_connecting">Drucker anschließen&#8230;</string>

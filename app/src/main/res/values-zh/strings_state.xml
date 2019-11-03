@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="printer_state_loading">装载…</string>
     <string name="printer_state_octo_disconnected">服务未连接</string>
     <string name="printer_state_disconnected">打印机已断开</string>
     <string name="printer_state_connecting">正在连接打印机&#8230;</string>

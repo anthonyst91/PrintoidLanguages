@@ -8,4 +8,7 @@
     <string name="current_z_value" translatable="false">%.2f mm</string>
     <string name="current_z_empty" translatable="false">&#8212; mm</string>
 
+    <string name="cost_not_available" translatable="false">N/A</string>
+    <string name="filament_not_available" translatable="false">N/A</string>
+
 </resources>
