@@ -4,6 +4,7 @@
     <string name="debug_message">Printoid调试通道是一个针对开发人员的工具, 当你遇到有关OctoPrint功能的问题时就要用到它. 请在开发人员指示下使用 ;)</string>
 
     <string name="debug_item_connection_desc">获取 /api/connection 返回当前打印机连接状态的描述.</string>
+    <string name="debug_item_login_desc">POST /api/login 将您登录到OctoPrint并在websocket中.</string>
     <string name="debug_item_files_desc">获取 /api/files 返回所有存储文件以及目录的描述.</string>
     <string name="debug_item_job_desc">获取 /api/job 返回当前打印任务的描述.</string>
     <string name="debug_item_bed_historic_desc">获取 /api/printer/bed 返回热床温度历史记录的描述.</string>
