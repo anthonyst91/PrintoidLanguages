@@ -15,4 +15,6 @@
     <string name="debug_item_timelapses" translatable="false">Timelapses</string>
     <string name="debug_item_version" translatable="false">Versions</string>
 
+    <string name="debug_menu_apis" translatable="false">APIs</string>
+
 </resources>

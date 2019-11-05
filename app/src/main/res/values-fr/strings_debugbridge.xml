@@ -16,4 +16,9 @@
     <string name="debug_item_timelapses_desc">GET /api/timelapse renvoie la description des timelapses disponibles.</string>
     <string name="debug_item_version_desc">GET /api/version renvoie la description de la version du serveur OctoPrint.</string>
 
+    <string name="debug_menu_info">Info</string>
+    <string name="debug_menu_version">Version</string>
+
+    <string name="debug_install_date">Premier lancement le %s</string>
+
 </resources>

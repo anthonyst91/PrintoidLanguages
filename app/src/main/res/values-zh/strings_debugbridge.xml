@@ -17,4 +17,9 @@
     <string name="debug_item_timelapses_desc">获取 /api/timelapse 返回当前已保存的延时拍摄视频的描述.</string>
     <string name="debug_item_version_desc">获取 /api/version 返回当前OctoPrint服务版本号的描述.</string>
 
+    <string name="debug_menu_info">信息</string>
+    <string name="debug_menu_version">版</string>
+
+    <string name="debug_install_date">首次启动 %s</string>
+
 </resources>

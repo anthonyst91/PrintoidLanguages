@@ -16,4 +16,9 @@
     <string name="debug_item_timelapses_desc">GET /api/timelapse возвращает описание доступных интервалов.</string>
     <string name="debug_item_version_desc">GET /api/version возвращает описание версии сервера OctoPrint.</string>
 
+    <string name="debug_menu_info">Информация</string>
+    <string name="debug_menu_version">Bерсия</string>
+
+    <string name="debug_install_date">Первый запуск на %s</string>
+
 </resources>
