@@ -22,4 +22,7 @@
 
     <string name="debug_install_date">首次启动 %s</string>
 
+    <string name="debug_info_octoprint_version">版本的OctoPrint</string>
+    <string name="debug_info_octoprint_api_version">API版本</string>
+
 </resources>

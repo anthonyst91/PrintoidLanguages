@@ -21,4 +21,7 @@
 
     <string name="debug_install_date">Erster Start am %s</string>
 
+    <string name="debug_info_octoprint_version">OctoPrint version</string>
+    <string name="debug_info_octoprint_api_version">API version</string>
+
 </resources>

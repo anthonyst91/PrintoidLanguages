@@ -21,4 +21,7 @@
 
     <string name="debug_install_date">Первый запуск на %s</string>
 
+    <string name="debug_info_octoprint_version">OctoPrint Bерсия</string>
+    <string name="debug_info_octoprint_api_version">API Bерсия</string>
+
 </resources>
