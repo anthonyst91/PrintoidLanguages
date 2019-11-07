@@ -22,17 +22,21 @@
     </string-array>
 
     <string-array name="themes_array" translatable="false">
-        <item>Standard Edition</item>
-        <item>Black Edition</item>
+        <item>Printoid 2016</item>
+        <item>Default</item>
         <item>High-Contrast (OLED)</item>
-        <item>Dark Green</item>
-        <item>Dark Red</item>
-        <item>Dark Blue</item>
-        <item>Blue Ocean</item>
-        <item>Red Fire</item>
-        <item>Green Summer</item>
+        <item>Green (dark)</item>
+        <item>Red (dark)</item>
+        <item>Blue (dark)</item>
+        <item>Blue (light)</item>
+        <item>Red (light)</item>
+        <item>Green (light)</item>
         <item>Black Shadow</item>
         <item>Metal 2020</item>
+        <item>Red 2020</item>
+        <item>Green 2020</item>
+        <item>Purple 2020</item>
+        <item>Yellow 2020</item>
     </string-array>
 
     <string-array translatable="false" name="keyboard_type_array">
