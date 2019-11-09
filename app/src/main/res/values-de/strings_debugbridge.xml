@@ -3,6 +3,7 @@
     <string name="debug_message">Die Printoid Debug Bridge ist ein Tool, das vom Entwickler der Anwendung verwendet wird, wenn Sie Probleme mit den OctoPrint-Funktionen haben. Bitte benutzen Sie es auf Anfrage des Entwicklers ;)</string>
 
     <string name="debug_item_connection_desc">GET /api/connection gibt die Beschreibung des aktuellen Druckerverbindungsstatus zurück.</string>
+    <string name="debug_item_login_desc">POST /api/login Meldet Sie bei OctoPrint und im Websocket an.</string>
     <string name="debug_item_files_desc">GET /api/files gibt die Beschreibung aller gespeicherten Dateien einschließlich der Ordner zurück.</string>
     <string name="debug_item_job_desc">GET /api/job gibt die Beschreibung des aktuellen Druckauftrags zurück.</string>
     <string name="debug_item_bed_historic_desc">GET /api/printer/bed gibt die Beschreibung der historischen Betttemperaturen zurück.</string>
@@ -14,5 +15,13 @@
     <string name="debug_item_system_commands_desc">GET /api/system/commands die Beschreibung der verfügbaren OctoPrint-Systembefehle zurück.</string>
     <string name="debug_item_timelapses_desc">GET /api/timelapse gibt die Beschreibung der verfügbaren Zeitspannen zurück.</string>
     <string name="debug_item_version_desc">GET /api/version gibt die Beschreibung der OctoPrint-Serverversion zurück.</string>
+
+    <string name="debug_menu_info">Info</string>
+    <string name="debug_menu_version">Version</string>
+
+    <string name="debug_install_date">Erster Start am %s</string>
+
+    <string name="debug_info_octoprint_version">OctoPrint version</string>
+    <string name="debug_info_octoprint_api_version">API version</string>
 
 </resources>

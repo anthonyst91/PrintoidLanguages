@@ -2,6 +2,7 @@
 <resources>
 
     <string name="debug_item_connection" translatable="false">Connection</string>
+    <string name="debug_item_login" translatable="false">Login</string>
     <string name="debug_item_files" translatable="false">Files</string>
     <string name="debug_item_job" translatable="false">Job</string>
     <string name="debug_item_bed_historic" translatable="false">Bed historic</string>
@@ -13,5 +14,7 @@
     <string name="debug_item_system_commands" translatable="false">System commands</string>
     <string name="debug_item_timelapses" translatable="false">Timelapses</string>
     <string name="debug_item_version" translatable="false">Versions</string>
+
+    <string name="debug_menu_apis" translatable="false">APIs</string>
 
 </resources>

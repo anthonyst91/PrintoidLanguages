@@ -3,6 +3,7 @@
     <string name="debug_message">Printoid Debug Bridge - это инструмент, используемый разработчиком приложения, когда вы сталкиваетесь с проблемой, касающейся функций OctoPrint. Пожалуйста, используйте его по требованию разработчика ;)</string>
 
     <string name="debug_item_connection_desc">GET /api/connection возвращает описание текущего состояния подключения принтера.</string>
+    <string name="debug_item_login_desc">POST /api/login регистрирует вас в OctoPrint и в веб-сокете.</string>
     <string name="debug_item_files_desc">GET /api/files возвращает описание всех сохраненных файлов, включая папки.</string>
     <string name="debug_item_job_desc">GET /api/job возвращает описание текущего задания на печать.</string>
     <string name="debug_item_bed_historic_desc">GET /api/printer/bed возвращает описание исторических значений температуры кровати.</string>
@@ -14,5 +15,13 @@
     <string name="debug_item_system_commands_desc">GET /api/system/commands возвращает описание доступных системных команд OctoPrint.</string>
     <string name="debug_item_timelapses_desc">GET /api/timelapse возвращает описание доступных интервалов.</string>
     <string name="debug_item_version_desc">GET /api/version возвращает описание версии сервера OctoPrint.</string>
+
+    <string name="debug_menu_info">Информация</string>
+    <string name="debug_menu_version">Bерсия</string>
+
+    <string name="debug_install_date">Первый запуск на %s</string>
+
+    <string name="debug_info_octoprint_version">OctoPrint Bерсия</string>
+    <string name="debug_info_octoprint_api_version">API Bерсия</string>
 
 </resources>
