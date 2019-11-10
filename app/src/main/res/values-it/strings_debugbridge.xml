@@ -6,10 +6,9 @@
     <string name="debug_item_login_desc">POST /api/login ti registra su OctoPrint e nel websocket.</string>
     <string name="debug_item_files_desc">GET /api/files restituisce la descrizione di tutti i file memorizzati, comprese le cartelle.</string>
     <string name="debug_item_job_desc">GET /api/job restituisce la descrizione del lavoro di stampa corrente.</string>
-    <string name="debug_item_bed_historic_desc">GET /api/printer/bed restituisce la descrizione delle temperature del letto storica.</string>
     <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles restituisce la descrizione dei profili stampante configurati.</string>
     <string name="debug_item_printer_state_desc">GET /api/printer restituisce la descrizione dello stato della stampante, comprese le temperature.</string>
-    <string name="debug_item_tools_historic_desc">GET /api/printer/tool restituisce la descrizione delle temperature degli strumenti storiche.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer?history restituisce la descrizione delle temperature degli strumenti storiche.</string>
     <string name="debug_item_settings_desc">GET /api/settings restituisce la descrizione delle impostazioni del server e dei plugin configurati.</string>
     <string name="debug_item_slicers_desc">GET /api/slicing restituisce la descrizione degli slicer e dei profili disponibili.</string>
     <string name="debug_item_system_commands_desc">GET /api/system/commands restituisce la descrizione dei comandi di sistema OctoPrint disponibili.</string>

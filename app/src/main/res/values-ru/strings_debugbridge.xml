@@ -6,10 +6,9 @@
     <string name="debug_item_login_desc">POST /api/login регистрирует вас в OctoPrint и в веб-сокете.</string>
     <string name="debug_item_files_desc">GET /api/files возвращает описание всех сохраненных файлов, включая папки.</string>
     <string name="debug_item_job_desc">GET /api/job возвращает описание текущего задания на печать.</string>
-    <string name="debug_item_bed_historic_desc">GET /api/printer/bed возвращает описание исторических значений температуры кровати.</string>
     <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles возвращает описание настроенных профилей принтера.</string>
     <string name="debug_item_printer_state_desc">GET /api/printer возвращает описание состояния принтера, включая температуру.</string>
-    <string name="debug_item_tools_historic_desc">GET /api/printer/tool возвращает описание исторических значений температуры инструментов.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer?history возвращает описание исторических значений температуры инструментов.</string>
     <string name="debug_item_settings_desc">GET /api/settings возвращает описание настроек сервера и настроенных плагинов.</string>
     <string name="debug_item_slicers_desc">GET /api/slicing возвращает описание доступных слайсеров и профилей.</string>
     <string name="debug_item_system_commands_desc">GET /api/system/commands возвращает описание доступных системных команд OctoPrint.</string>
