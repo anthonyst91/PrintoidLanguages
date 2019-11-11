@@ -95,9 +95,9 @@
     <string name="new_octoprint_version">Nouvelle version d\'OctoPrint disponible ! (v%s)</string>
     <string name="new_octoprint_release_candidate">Nouvelle release candidate d\'OctoPrint disponible ! (v%s)</string>
 
-    <string name="promote_premium_message">Supportez le développeur de Printoid et achetez la version PREMIUM de l\'application !\n\nPrintoid PREMIUM est le meilleur outil pour votre(vos) imprimante(s) 3D : streaming vidéo, commandes personnalisées, support de plugins d\'OctoPrint, visualiseurs 2D et 3D, intégration avec RollingUp (manager de bobines) et bien plus encore !</string>
+    <string name="promote_premium_message">Vous aimez Printoid LITE ? Supportez le développeur de l\'appli et achetez la version <b>PREMIUM</b> de Printoid !\n\nPrintoid <b>PREMIUM</b> est le meilleur outil pour votre(vos) imprimante(s) 3D : streaming vidéo, commandes personnalisées, terminal, support de plugins d\'OctoPrint, visualiseurs 2D et 3D, verrouillage avec empreinte, interfaçage avec RollingUp (manager de filament) et bien plus encore !</string>
 
-    <string name="promote_donation_message">Vous aimez Printoid Premium ? Cette application est le meilleur compagnon pour votre imprimante 3D ?\n\nSi oui et si vous le souhaitez, vous pouvez donner le montant de votre choix pour supporter le développeur et son travail, et aider au développement de nouvelles fonctionnalités !</string>
+    <string name="promote_donation_message">Vous aimez Printoid PREMIUM ? Cette application est le meilleur compagnon pour votre imprimante 3D ?\n\nSi oui et si vous le souhaitez, vous pouvez donner le montant de votre choix pour supporter le développeur et son travail, et aider au développement de nouvelles fonctionnalités !</string>
 
     <string name="notif_channel_name_overlay">Notification du service de superposition</string>
     <string name="notif_overlay_running_title">Vidéo par superposition ouverte</string>
