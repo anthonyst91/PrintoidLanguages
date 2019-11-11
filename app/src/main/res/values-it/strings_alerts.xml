@@ -68,10 +68,10 @@
     <string name="alert_permission_denied_camera_msg">Printoid non è in grado di eseguire questa operazione poiché hai negato il permesso di accesso alla <b>camera</b>.\n\nVuoi attivarlo manualmente?</string>
 
     <string name="alert_select_tool_title">Seleziona strumento</string>
-    <string name="alert_select_tool_message">Selezionare la testina della stampante per %s:</string>
+    <string name="alert_select_tool_message">Selezionare la estrusore per %s:</string>
     <string name="alert_select_tool_message_retraction">retrazione</string>
     <string name="alert_select_tool_message_extrusion">estruzione</string>
-    <string name="alert_select_tool_extruder">Testina di stampa %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Estrusore %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Tieni lo strumento in memoria per i prossimi 30 secondi</string>
     <string name="alert_select_tool_error">Non è possibile selezionare lo strumento%d</string>
 

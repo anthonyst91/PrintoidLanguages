@@ -68,10 +68,10 @@
     <string name="alert_permission_denied_camera_msg">Printoid is not able to perform this operation since you have denied the <b>camera</b> permission when prompted.\n\nDo you want to activate it manually?</string>
 
     <string name="alert_select_tool_title">Select tool</string>
-    <string name="alert_select_tool_message">Select the printer head for the %s:</string>
+    <string name="alert_select_tool_message">Select the extruder for the %s:</string>
     <string name="alert_select_tool_message_retraction">retraction</string>
     <string name="alert_select_tool_message_extrusion">extrusion</string>
-    <string name="alert_select_tool_extruder">Printer head %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Extruder %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Keep tool in memory for the next 30sec</string>
     <string name="alert_select_tool_error">Can\'t select tool%d</string>
 

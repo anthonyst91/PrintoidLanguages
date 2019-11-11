@@ -70,10 +70,10 @@
     <string name="alert_permission_denied_camera_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>камера</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>
 
     <string name="alert_select_tool_title">Выбор сопла</string>
-    <string name="alert_select_tool_message">Выбирите сопло для %s:</string>
+    <string name="alert_select_tool_message">Выбирите экструдер для %s:</string>
     <string name="alert_select_tool_message_retraction">отката</string>
     <string name="alert_select_tool_message_extrusion">выдавливания</string>
-    <string name="alert_select_tool_extruder">Сопло %1$d (инструмент %2$d)</string>
+    <string name="alert_select_tool_extruder">Экструдер %1$d (инструмент %2$d)</string>
     <string name="alert_select_tool_keep_for">Запомнить инструмент на 30 секунд</string>
     <string name="alert_select_tool_error">Не могу выбрать сопло %d</string>
 

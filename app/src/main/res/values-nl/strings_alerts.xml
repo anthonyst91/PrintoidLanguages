@@ -70,10 +70,10 @@
     <string name="alert_manage_file_msg">Wat wil je met dit bestand doen? U kunt het uploaden op de huidige server of het in 2D of 3D weergeven.</string>
 
     <string name="alert_select_tool_title">Selekteer een tool</string>
-    <string name="alert_select_tool_message">Selekteer de printkop voor %s:</string>
+    <string name="alert_select_tool_message">Selekteer de extruder voor %s:</string>
     <string name="alert_select_tool_message_retraction">terugtrekking</string>
     <string name="alert_select_tool_message_extrusion">extrusie</string>
-    <string name="alert_select_tool_extruder">Printkop %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Extruder %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Onthou dit de komende 30sec</string>
     <string name="alert_select_tool_error">Kan tool%d niet selekteren</string>
 

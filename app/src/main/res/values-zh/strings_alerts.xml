@@ -67,10 +67,10 @@
     <string name="alert_permission_denied_camera_msg">Printoid无法执行该操作, 因为您拒绝了 <b>访问摄像头</b> 权限.\n\n您是否想要手动启用该权限?</string>
 
     <string name="alert_select_tool_title">选择打印头</string>
-    <string name="alert_select_tool_message">为 %s 选择打印头:</string>
+    <string name="alert_select_tool_message">为 %s 选择挤出机:</string>
     <string name="alert_select_tool_message_retraction">退料</string>
     <string name="alert_select_tool_message_extrusion">进料</string>
-    <string name="alert_select_tool_extruder">打印头 %1$d (工具头%2$d)</string>
+    <string name="alert_select_tool_extruder">挤出机 %1$d (工具头%2$d)</string>
     <string name="alert_select_tool_keep_for">记住打印头30秒</string>
     <string name="alert_select_tool_error">无法选择打印头 %d</string>
 

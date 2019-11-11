@@ -71,10 +71,10 @@
     <string name="alert_manage_file_msg">Que souhaitez-vous faire avec ce fichier ? Vous pouvez l\'uploader sur ce serveur, ou bien générer son rendu 2D ou 3D.</string>
 
     <string name="alert_select_tool_title">Sélectionnez un outil</string>
-    <string name="alert_select_tool_message">Sélectionnez la tête d\'impression pour %s:</string>
+    <string name="alert_select_tool_message">Sélectionnez l\'extrudeur pour %s:</string>
     <string name="alert_select_tool_message_retraction">la retractation</string>
     <string name="alert_select_tool_message_extrusion">l\'extrusion</string>
-    <string name="alert_select_tool_extruder">Tête d\'impression %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Extrudeur %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Mémoriser pour les prochaines 30sec</string>
     <string name="alert_select_tool_error">Impossible de sélectionner tool%d</string>
 
