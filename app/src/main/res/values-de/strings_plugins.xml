@@ -8,6 +8,7 @@
     <string name="plugin_desc_psu">Dieses OctoPrint-Plugin steuert ein ATX/AUX-Netzteil, um den Stromverbrauch und das Rauschen zu reduzieren, wenn der Drucker nicht verwendet wird.</string>
     <string name="plugin_desc_autoshutdown">Plugin zum automatischen Herunterfahren des Systems nach Abschluss des Druckvorgangs. Kann nur konfiguriert werden, wenn der Server in Betrieb ist.</string>
     <string name="plugin_desc_tp_link">Dieses Plugin ist von OctoPrint-PSUControl und dem TP-Link WiFi SmartPlug Client inspiriert und steuert einen TP-Link Smartplug über die OctoPrint-Navigationsleiste.</string>
+    <string name="plugin_desc_tuya">Dieses Plugin steuert Tuya-basierte SmartPlugs. Arbeit basiert auf OctoPrint-TPLinkSmartplug und Python-Tuya.</string>
     <string name="plugin_desc_wemo">Dieses Plugin ermöglicht die Steuerung von Belkin Wemo-Geräten über Navigationsschaltflächen und Gcode-Befehle.</string>
     <string name="plugin_desc_enclosure">Steuern Sie so ziemlich alles, was Sie mit Ihrem Raspberry Pi/OctoPrint/Enclosure tun möchten.</string>
     <string name="plugin_desc_navbartemp">Anzeige der Temperaturen in der Navigationsleiste von OctoPrint. Für Raspberry Pi-Benutzer kann dieses Plugin die CPU-Temperatur des Raspberry Pi automatisch in der Titelleiste der App anzeigen.</string>
@@ -15,6 +16,7 @@
 
     <string name="plugin_message_psu">Das PSU-Control-Plugin muss auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
     <string name="plugin_message_tp_link">Der TP-Link SmartPlug sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
+    <string name="plugin_message_tuya">Der Tuya Smartplug sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
     <string name="plugin_message_wemo">Der WemoSwitch sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
     <string name="plugin_message_enclosure">Dieses Plugin wird in Kürze in Printoid integriert, bitte haben Sie etwas Geduld :) Sie werden informiert, sobald es verfügbar ist.</string>
     <string name="plugin_message_navbartemp">Das Navbar Temp-Plugin sollte auf Ihrem OctoPrint-Server installiert sein.\n\nWenn Sie einen Raspberry Pi verwenden, wird seine CPU-Temperatur automatisch in der Titelleiste der App angezeigt.</string>
@@ -29,9 +31,15 @@
     
     <string name="plugin_psu_enable">Aktivieren Sie die PSU</string>
 
+    <!-- TPLING SMARTPLUG PLUGIN -->
     <string name="plugin_tplink_enable">Aktivieren Sie TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Aktuellen Zustand:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <!-- TUYA SMARTPLUG PLUGIN -->
+    <string name="plugin_tuya_enable">Aktivieren Sie Tuya SmartPlug</string>
+    <string name="plugin_tuya_state">Current state:</string>
+    <string name="plugin_tuya_ip">Smartplug etikett:</string>
 
     <!-- WEMO SWITCH PLUGIN -->
     <string name="plugin_wemo_enable">Aktivieren Sie WemoSwitch</string>

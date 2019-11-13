@@ -47,7 +47,7 @@
     <!-- TUYA SMARTPLUG PLUGIN -->
     <string name="plugin_tuya_enable">Enable Tuya SmartPlug</string>
     <string name="plugin_tuya_state">Current state:</string>
-    <string name="plugin_tuya_ip">Tuya SmartPlug IP:</string>
+    <string name="plugin_tuya_ip">Tuya SmartPlug label:</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">System SoC temperature</string>

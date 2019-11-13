@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">TPLink插座关闭错误</string>
     <string name="command_tplink_turn_on_error">TPLink插座打开错误</string>
 
+    <string name="command_tuya_turn_off_alert_title">关闭Tuya Smartplug智能插座</string>
+    <string name="command_tuya_turn_off_alert_msg">您的Tuya Smartplug插座处于通电状态.\n\n您是否现在关闭它?\n\n如果您现在正在打印中, 当前打印任务将会被终止, 正在打印中的物体将会报废.</string>
+    <string name="command_tuya_turn_on_alert_title">打开Tuya Smartplug智能插座</string>
+    <string name="command_tuya_turn_on_alert_msg">您的Tuya Smartplug插座处于断电状态.\n\n您是否想要现在打开它?</string>
+    <string name="command_tuya_turned_off">Tuya Smartplug插座已关闭</string>
+    <string name="command_tuya_turned_on">Tuya Smartplug插座已打开</string>
+    <string name="command_tuya_turn_off_error">Tuya Smartplug插座关闭错误</string>
+    <string name="command_tuya_turn_on_error">Tuya Smartplug插座打开错误</string>
+
     <string name="command_wemo_turn_off_alert_title">关闭Wemo智能插座</string>
     <string name="command_wemo_turn_off_alert_msg">您的Wemo插座处于通电状态.\n\n您是否现在关闭它?\n\n如果您现在正在打印中, 当前打印任务将会被终止, 正在打印中的物体将会报废.</string>
     <string name="command_wemo_turn_on_alert_title">打开Wemo智能插座</string>
