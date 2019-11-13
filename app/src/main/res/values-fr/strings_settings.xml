@@ -128,7 +128,9 @@
     <string name="setting_enable_hot_chamber">Contrôle de la chambre chauffante</string>
     <string name="setting_max_chamber_temp">Temp. chambre max</string>
     <string name="setting_dashboard_mode">Mode du dashboard</string>
+    <string name="setting_enable_shared_nozzle">Buse partagée</string>
 
+    <string name="setting_enable_shared_nozzle_tip">Buse chauffante partagée avec plusieurs extrudeurs</string>
     <string name="setting_dashboard_mode_tip">Changer la manière d\'afficher les infos dans l\'écran principal</string>
     <string name="setting_enable_hot_chamber_tip">Ajuster et consulter la temp. de la chambre chauffante</string>
     <string name="setting_max_chamber_temp_tip">Température max de la chambre chauffante</string>

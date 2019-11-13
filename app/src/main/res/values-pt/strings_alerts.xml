@@ -74,10 +74,10 @@
     <string name="alert_permission_denied_camera_msg">O Printoid não pode executar esta operação, uma vez que foi negada a permissão para <b>câmera</b>.\n\nVocê gostaria de ativar esta permissão manualmente?</string>
 
     <string name="alert_select_tool_title">Selecione a ferramenta</string>
-    <string name="alert_select_tool_message">Selecione a cabeça de impressão para %s:</string>
+    <string name="alert_select_tool_message">Selecione a extrusora para %s:</string>
     <string name="alert_select_tool_message_retraction">retração</string>
     <string name="alert_select_tool_message_extrusion">extrusão</string>
-    <string name="alert_select_tool_extruder">Cabeça de impressão %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Extrusora %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Manter a ferramenta na memória pelos próximos 30 seg</string>
     <string name="alert_select_tool_error">Não posso selecionar a ferramenta %d</string>
 
@@ -103,7 +103,7 @@
     <string name="new_octoprint_version">Nova versão do OctoPrint disponível! (v%s)</string>
     <string name="new_octoprint_release_candidate">Novo candidato a lançamento do OctoPrint disponível! (v%s)</string>
 
-    <string name="promote_premium_message">Apoie o desenvolvedor do Printoid e compre a versão PREMIUM do aplicativo!\n\nO Printoid PREMIUM é a melhor ferramenta para suas impressoras 3D: streaming de vídeo, comandos personalizados, suporte a plug-ins do OctoPrint, visualizadores 2D e 3D, widgets, integração com o RollingUp (gerenciador de spool) e muito mais!</string>
+    <string name="promote_premium_message">Apoie o desenvolvedor do Printoid e compre a versão <b>PREMIUM</b> do aplicativo!\n\nO Printoid <b>PREMIUM</b> é a melhor ferramenta para suas impressoras 3D: streaming de vídeo, comandos personalizados, suporte a plug-ins do OctoPrint, visualizadores 2D e 3D, widgets, integração com o RollingUp (gerenciador de spool) e muito mais!</string>
 
     <string name="promote_donation_message">Você gostou do Printoid Premium? Este app é o melhor companheiro para você e sua impressora 3D?\n\nSe você quiser, pode doar um valor de sua escolha para apoiar o desenvolvedor e seu trabalho, ajudando assim no desenvolvimento de mais recursos novos e incríveis!</string>
 

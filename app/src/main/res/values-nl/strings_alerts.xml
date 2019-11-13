@@ -70,10 +70,10 @@
     <string name="alert_manage_file_msg">Wat wil je met dit bestand doen? U kunt het uploaden op de huidige server of het in 2D of 3D weergeven.</string>
 
     <string name="alert_select_tool_title">Selekteer een tool</string>
-    <string name="alert_select_tool_message">Selekteer de printkop voor %s:</string>
+    <string name="alert_select_tool_message">Selekteer de extruder voor %s:</string>
     <string name="alert_select_tool_message_retraction">terugtrekking</string>
     <string name="alert_select_tool_message_extrusion">extrusie</string>
-    <string name="alert_select_tool_extruder">Printkop %1$d (tool%2$d)</string>
+    <string name="alert_select_tool_extruder">Extruder %1$d (tool%2$d)</string>
     <string name="alert_select_tool_keep_for">Onthou dit de komende 30sec</string>
     <string name="alert_select_tool_error">Kan tool%d niet selekteren</string>
 
@@ -94,7 +94,7 @@
     <string name="new_octoprint_version">Er is een nieuwe OctoPrint versie! (v%s)</string>
     <string name="new_octoprint_release_candidate">Er is een nieuwe OctoPrint \"release candidate\" versie! (v%s)</string>
 
-    <string name="promote_premium_message">Ondersteuning van de ontwikkelaar van Printoid en koop de PREMIUM-versie van de app!\n\nPrintoid PREMIUM is het beste hulpmiddel voor uw 3D-printer (s): videostreaming, aangepaste opdrachten, ondersteuning van OctoPrint-plug-ins, 2D- en 3D-viewers, widgets, integratie met RollingUp (spoolbeheer) en nog veel meer!</string>
+    <string name="promote_premium_message">Ondersteuning van de ontwikkelaar van Printoid en koop de <b>PREMIUM</b>-versie van de app!\n\nPrintoid <b>PREMIUM</b> is het beste hulpmiddel voor uw 3D-printer (s): videostreaming, aangepaste opdrachten, ondersteuning van OctoPrint-plug-ins, 2D- en 3D-viewers, widgets, integratie met RollingUp (spoolbeheer) en nog veel meer!</string>
 
     <string name="promote_donation_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nZo ja en als u wilt, kunt u het bedrag van uw keuze doneren om de ontwikkelaar en zijn werk te ondersteunen en helpen bij het ontwikkelen van nieuwe geweldige functies!</string>
 

@@ -127,7 +127,9 @@
     <string name="setting_enable_hot_chamber">Habilitar el control de la cámara caliente</string>
     <string name="setting_max_chamber_temp">Temperatura máxima de la cámara calentada</string>
     <string name="setting_dashboard_mode">Modo de pantalla principal</string>
+    <string name="setting_enable_shared_nozzle">Boquilla compartida</string>
 
+    <string name="setting_enable_shared_nozzle_tip">Boquilla individual y calentador compartido entre sus extrusoras</string>
     <string name="setting_dashboard_mode_tip">Cambiar la forma de mostrar información en la pantalla principal</string>
     <string name="setting_enable_hot_chamber_tip">Ajustar y mostrar la temperatura de la cámara calentada.</string>
     <string name="setting_max_chamber_temp_tip">Temperatura máxima para la cámara calentada.</string>

@@ -127,7 +127,9 @@
     <string name="setting_enable_hot_chamber">Aktivieren Sie die Steuerung der beheizten Kammer</string>
     <string name="setting_max_chamber_temp">Max beheizte Kammertemperatur</string>
     <string name="setting_dashboard_mode">Hauptbildschirmmodus</string>
+    <string name="setting_enable_shared_nozzle">Geteilte Düse</string>
 
+    <string name="setting_enable_shared_nozzle_tip">Einzeldüse und Heizung werden von den Extrudern gemeinsam genutzt</string>
     <string name="setting_dashboard_mode_tip">Ändern Sie die Art und Weise, wie Informationen auf dem Hauptbildschirm angezeigt werden</string>
     <string name="setting_enable_hot_chamber_tip">Justieren und zeigen beheizte Kammertemperatur</string>
     <string name="setting_max_chamber_temp_tip">Maximaltemperatur für die beheizte Kammer</string>

@@ -127,7 +127,9 @@
     <string name="setting_enable_hot_chamber">启用加热箱控制</string>
     <string name="setting_max_chamber_temp">加热箱最大温度</string>
     <string name="setting_dashboard_mode">主画面模式</string>
+    <string name="setting_enable_shared_nozzle">共用喷嘴</string>
 
+    <string name="setting_enable_shared_nozzle_tip">挤出机共用一个喷嘴和加热器</string>
     <string name="setting_dashboard_mode_tip">更改在主屏幕上显示信息的方式</string>
     <string name="setting_enable_hot_chamber_tip">调节并显示加热箱温度</string>
     <string name="setting_max_chamber_temp_tip">加热箱的最大温度</string>

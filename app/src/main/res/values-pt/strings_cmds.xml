@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Desligar erro do TPLink</string>
     <string name="command_tplink_turn_on_error">Ligar erro do TPLink</string>
 
+    <string name="command_tuya_turn_off_alert_title">Desligar o Tuya Smartplug</string>
+    <string name="command_tuya_turn_off_alert_msg">Seu Tuya Smartplug está atualmente LIGADO.\n\nVocê quer DESLIGÁ-LO agora mesmo?\n\nSe houver uma impressão em andamento, o job atual será abortado e o progresso do mesmo será perdido.</string>
+    <string name="command_tuya_turn_on_alert_title">Ligar o TPLink</string>
+    <string name="command_tuya_turn_on_alert_msg">Seu Tuya Smartplug está atualmente DESLIGADO.\n\nVocê quer LIGÁ-LO agora mesmo?</string>
+    <string name="command_tuya_turned_off">Tuya Smartplug desligado</string>
+    <string name="command_tuya_turned_on">Tuya Smartplug ligado</string>
+    <string name="command_tuya_turn_off_error">Desligar erro do Tuya Smartplug</string>
+    <string name="command_tuya_turn_on_error">Ligar erro do Tuya Smartplug</string>
+
     <string name="command_wemo_turn_off_alert_title">Desligar o TPLINK</string>
     <string name="command_wemo_turn_off_alert_msg">Seu TPLINK está atualmente LIGADO.\n\nVocê quer DESLIGÁ-LO agora mesmo?\n\nSe houver uma impressão em andamento, o job atual será abortado e o progresso do mesmo será perdido.</string>
     <string name="command_wemo_turn_on_alert_title">Ligar o WemoSwitch</string>

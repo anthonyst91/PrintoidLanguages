@@ -28,9 +28,7 @@
     <string name="printed_time_label">Tempo di stampa:</string>
     <string name="file_type_stl">File type: model</string>
     <string name="file_type_gcode">File type: machine code</string>
-    <string name="file_size">%s</string>
     <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
-    <string name="estimated_print_time">%s</string>
     <string name="uploaded_date">%s ago</string>
     <string name="file_size_label">Dimensione del file:</string>
     <string name="filament_label">Filamento:</string>

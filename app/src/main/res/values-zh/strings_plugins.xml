@@ -9,6 +9,7 @@
     <string name="plugin_desc_psu">该OctoPrint插件可以控制ATX/AUX电源模块, 可以在打印机闲置时降低功耗和噪音.</string>
     <string name="plugin_desc_autoshutdown">该插件可以在打印完成后自动关机.仅在服务器运行时才能配置.</string>
     <string name="plugin_desc_tp_link">受到OctoPrint-PSUControl及TP-Link WiFi SmartPlug Client两个插件启发, 该插件可以通过OctoPrint导航栏控制TP-Link智能插座.</string>
+    <string name="plugin_desc_tuya">该插件控制基于Tuya的SmartPlug。 基于OctoPrint-TPLinkSmartplug和python-tuya进行工.</string>
     <string name="plugin_desc_wemo">该插件允许通过导航栏按钮和GCODE指令来控制贝尔金Wemo智能插座.</string>
     <string name="plugin_desc_enclosure">支持几乎所有您想对树莓派/OctoPrint/保温箱进行的操作.</string>
     <string name="plugin_desc_navbartemp">在OctoPrint导航栏显示温度信息. 对于树莓派用户, 该插件自动会在应用导航栏显示树莓派CPU温度.</string>
@@ -16,6 +17,7 @@
 
     <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
+    <string name="plugin_message_tuya">Tuya Smartplug plugin插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_wemo">WemoSwitch plugin插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_enclosure">该插件很快就会被集成到Printoid中, 请耐心等待:) 当功能可用时,您将第一时间得到通知.</string>
     <string name="plugin_message_navbartemp">Navbar Temp插件应当被安装在您的OctoPrint服务器上.\n\n如果您使用的是树莓派, 那么它的CPU温度将会自动出现在应用标题栏中.</string>
@@ -36,6 +38,11 @@
     <string name="plugin_tplink_enable">打开TP-Link智能插座</string>
     <string name="plugin_tplink_state">当前状态:</string>
     <string name="plugin_tplink_ip">智能插座IP:</string>
+
+    <!-- TPLINK SMARTPLUG PLUGIN -->
+    <string name="plugin_tuya_enable">打开Tuya智能插座</string>
+    <string name="plugin_tuya_state">当前状态:</string>
+    <string name="plugin_tuya_ip">智能插头标签:</string>
 
     <!-- WEMO SWITCH PLUGIN -->
     <string name="plugin_wemo_enable">打开Wemo智能插座</string>

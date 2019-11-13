@@ -127,7 +127,9 @@
     <string name="setting_enable_hot_chamber">Enable heated chamber control</string>
     <string name="setting_max_chamber_temp">Max heated chamber temp.</string>
     <string name="setting_dashboard_mode">Dashboard mode</string>
+    <string name="setting_enable_shared_nozzle">Shared nozzle</string>
 
+    <string name="setting_enable_shared_nozzle_tip">Single nozzle and heater shared among its extruders</string>
     <string name="setting_dashboard_mode_tip">Change the way to display info on the main screen</string>
     <string name="setting_enable_hot_chamber_tip">Adjust and show heated chamber temperature</string>
     <string name="setting_max_chamber_temp_tip">Max temperature for the heated chamber</string>

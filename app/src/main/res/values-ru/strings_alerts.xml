@@ -70,10 +70,10 @@
     <string name="alert_permission_denied_camera_msg">Printoid не может выполнить эту операцию, так как Вы запретили <b>камера</b> при настроке прав доступа приложения.\n\nХотите это изменить вручную?</string>
 
     <string name="alert_select_tool_title">Выбор сопла</string>
-    <string name="alert_select_tool_message">Выбирите сопло для %s:</string>
+    <string name="alert_select_tool_message">Выбирите экструдер для %s:</string>
     <string name="alert_select_tool_message_retraction">отката</string>
     <string name="alert_select_tool_message_extrusion">выдавливания</string>
-    <string name="alert_select_tool_extruder">Сопло %1$d (инструмент %2$d)</string>
+    <string name="alert_select_tool_extruder">Экструдер %1$d (инструмент %2$d)</string>
     <string name="alert_select_tool_keep_for">Запомнить инструмент на 30 секунд</string>
     <string name="alert_select_tool_error">Не могу выбрать сопло %d</string>
 
@@ -94,7 +94,7 @@
     <string name="new_octoprint_version">Доступна новая версия OctoPrint! (v%s)</string>
     <string name="new_octoprint_release_candidate">Доступен новый выпуск OctoPrint! (v%s)</string>
 
-    <string name="promote_premium_message">Поддержите разработчика Printoid и приобретите PREMIUM-версию приложения!\n\nPrintoid PREMIUM - лучший инструмент для ваших 3D-принтеров: потоковое видео, пользовательские команды, поддержка плагинов OctoPrint, средства просмотра 2D и 3D, виджеты, интеграция с RollingUp (диспетчер спула) и многое другое!</string>
+    <string name="promote_premium_message">Поддержите разработчика Printoid и приобретите <b>PREMIUM</b>-версию приложения!\n\nPrintoid <b>PREMIUM</b> - лучший инструмент для ваших 3D-принтеров: потоковое видео, пользовательские команды, поддержка плагинов OctoPrint, средства просмотра 2D и 3D, виджеты, интеграция с RollingUp (диспетчер спула) и многое другое!</string>
 
     <string name="promote_donation_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете пожертвовать любую сумму для поддержки разработчика и его работы и помочь в разработке новых потрясающих функций!</string>
 

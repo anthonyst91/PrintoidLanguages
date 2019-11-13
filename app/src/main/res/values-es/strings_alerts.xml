@@ -71,10 +71,10 @@
     <string name="alert_choose_ip_msg">Printoid parece que actualmente no está conectado a su servidor OctoPrint.\nPor favor, elija la dirección IP (o nombre de host) que se utilizará para este comando SSH</string>
 
     <string name="alert_select_tool_title">Seleccionar extrusor</string>
-    <string name="alert_select_tool_message">Seleccionar el extrusor de la impresora para %s:</string>
+    <string name="alert_select_tool_message">Seleccionar el extrusora para %s:</string>
     <string name="alert_select_tool_message_retraction">retracción</string>
     <string name="alert_select_tool_message_extrusion">extrusión</string>
-    <string name="alert_select_tool_extruder">extrusor de impresora %1$d (extrusor%2$d)</string>
+    <string name="alert_select_tool_extruder">Extrusora %1$d (extrusor%2$d)</string>
     <string name="alert_select_tool_keep_for">Mantener extrusor en memoria por los próximos 30 seg</string>
     <string name="alert_select_tool_error">No se puede seleccionar extrusor%d</string>
 
@@ -95,7 +95,7 @@
     <string name="new_octoprint_version">Nueva versión de OctoPrint disponible! (v%s)</string>
     <string name="new_octoprint_release_candidate">Nuevo candidato a la versión de OctoPrint disponible! (v%s)</string>
 
-    <string name="promote_premium_message">¡Apoye al desarrollador de Printoid y compre la versión PREMIUM de la aplicación!\n\nPrintoid PREMIUM es la mejor herramienta para su (s) impresora (s) 3D: transmisión de video, comandos personalizados, soporte de los complementos de OctoPrint, visores 2D y 3D, Widgets, integración con RollingUp (administrador de spool) y mucho más!</string>
+    <string name="promote_premium_message">¡Apoye al desarrollador de Printoid y compre la versión <b>PREMIUM</b> de la aplicación!\n\nPrintoid <b>PREMIUM</b> es la mejor herramienta para su (s) impresora (s) 3D: transmisión de video, comandos personalizados, soporte de los complementos de OctoPrint, visores 2D y 3D, Widgets, integración con RollingUp (administrador de spool) y mucho más!</string>
 
     <string name="promote_donation_message">¿Te gusta Printoid Premium? ¿Es esta aplicación su mejor compañero para su impresora 3D?\n\nSi es así, y si lo desea, ¡puedes donar la cantidad que elijas para apoyar al desarrollador y su trabajo, y ayudar al desarrollo de nuevas y sorprendentes características!</string>
 
