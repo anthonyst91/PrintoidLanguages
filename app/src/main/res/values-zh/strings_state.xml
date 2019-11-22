@@ -43,6 +43,8 @@
     <string name="failures">失败:</string>
     <string name="success">成功:</string>
     <string name="cost">费用:</string>
+    <string name="filament_total_label">总长丝:</string>
+    <string name="filament_tool_nb_label">灯丝挤出机 %d:</string>
 
     <string name="size_label">大小:</string>
     <string name="time_label">时间:</string>
