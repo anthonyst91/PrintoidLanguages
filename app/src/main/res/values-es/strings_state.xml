@@ -43,6 +43,8 @@
     <string name="success">Éxito:</string>
     <string name="cost">Coste:</string>
     <string name="remaining_time_label">Termina en:</string>
+    <string name="filament_total_label">Filamento total:</string>
+    <string name="filament_tool_nb_label">Filament extrusora %d:</string>
 
     <string name="size_label">Tamaño:</string>
     <string name="time_label">Tiempo:</string>

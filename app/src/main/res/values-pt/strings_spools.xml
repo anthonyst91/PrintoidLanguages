@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">Nenhum valor de comprimento de arquivo</string>
     <string name="spools_file_length_zero_message">O Printoid não pode recuperar o tamanho desse arquivo.\n\nVerifique se o seu servidor OctoPrint possui o valor correto.\n\nObserve também que o OctoPrint precisa de algum tempo para calcular uma estimativa do tamanho do arquivo após carregar um novo arquivo e é por isso que, às vezes, o valor do comprimento é igual a 0.</string>
 
+    <string name="spools_tool_total_filament">TODOS</string>
+    <string name="spools_select_tool">Selecione a fonte do filamento</string>
+
 </resources>

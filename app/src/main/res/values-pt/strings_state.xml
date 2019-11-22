@@ -49,6 +49,8 @@
     <string name="failures">Falha:</string>
     <string name="success">Sucesso:</string>
     <string name="cost">Custo:</string>
+    <string name="filament_total_label">Filamento total:</string>
+    <string name="filament_tool_nb_label">Filamento extrusora %d:</string>
 
     <string name="size_label">Tamanho:</string>
     <string name="time_label">Tempo:</string>

@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">文件没有耗材长度信息</string>
     <string name="spools_file_length_zero_message">Printoid无法获取该文件的耗材长度信息.\n\n请检查您的OctoPrint服务是否有正确的值.\n\n同时请注意在上传文件后, OctoPrint需要花一定的时间来计算耗材长度. 这就是为什么有些时候耗材长度的值会是0. </string>
 
+    <string name="spools_tool_total_filament">所有</string>
+    <string name="spools_select_tool">选择灯丝的来源</string>
+
 </resources>
