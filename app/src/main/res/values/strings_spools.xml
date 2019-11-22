@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">No file length value</string>
     <string name="spools_file_length_zero_message">Printoid can not retrieve the length of this file.\n\nPlease check if your OctoPrint server has the correct value.\n\nPlease also note that OctoPrint needs a few time to compute an estimation of the file length after uploading a new file, that\'s why sometimes the value of the length is equals to 0.</string>
 
+    <string name="spools_tool_total_filament">ALL</string>
+    <string name="spools_select_tool">Select the source of filament</string>
+
 </resources>

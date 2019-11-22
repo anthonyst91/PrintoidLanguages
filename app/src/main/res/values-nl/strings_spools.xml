@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">Geen lengte gedetecteerd</string>
     <string name="spools_file_length_zero_message">Printoid kent de filamentlengte voor dit bestand niet.\n\nControleer of OctoPrint deze waarde kent.\n\nHoud er ook rekening mee dat OctoPrint enige tijd nodig heeft om de schatting van de benodigde hoeveelheid filament te berekenen. Daarom is deze waarde soms gelijk aan 0.</string>
 
+    <string name="spools_tool_total_filament">ALLE</string>
+    <string name="spools_select_tool">Selecteer de bron van filament</string>
+
 </resources>

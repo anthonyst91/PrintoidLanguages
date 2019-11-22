@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">Keine Länge erkannt</string>
     <string name="spools_file_length_zero_message">Printoid kennt die Filamentlänge für diese Datei nicht.\n\nBitte überprüfen Sie, dass OctoPrint diesen Wert kennt.\n\nBitte beachten Sie auch, dass OctoPrint einige Zeit benötigt, um die geschätzte Filamentmenge zu berechnen, weshalb dieser Wert manchmal 0 ist.</string>
 
+    <string name="spools_tool_total_filament">ALLE</string>
+    <string name="spools_select_tool">Wählen Sie die Filamentquelle</string>
+
 </resources>

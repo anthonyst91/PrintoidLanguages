@@ -10,4 +10,7 @@
     <string name="spools_file_length_zero_title">Не обнаружена длина</string>
     <string name="spools_file_length_zero_message">Printoid не знает длину нити для этого файла.\n\nУбедитесь, что OctoPrint знает это значение.\n\nТакже обратите внимание, что OctoPrint требуется некоторое время, чтобы рассчитать оценку необходимого количества нити, поэтому иногда это значение равно 0.</string>
 
+    <string name="spools_tool_total_filament">ВСЕ</string>
+    <string name="spools_select_tool">Выберите источник накаливания</string>
+
 </resources>
