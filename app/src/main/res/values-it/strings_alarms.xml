@@ -11,6 +11,7 @@
     <string name="alarm_type_temperature_chamber">Temperatura Camera</string>
     <string name="alarm_type_gcode_command">comando GCODE eseguito</string>
     <string name="alarm_type_z_height">Altezza Z</string>
+    <string name="alarm_type_printer_state">Stato della stampante</string>
 
     <string name="alerts_list_empty">Nessun avviso creato</string>
 
@@ -22,6 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Avvisare quando il Camera raggiunge questa temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Avvisa quando viene eseguito questo comando GCODE</string>
     <string name="alarm_setting_value_z_height">Avvisa quando l\'ugello raggiunge questa altezza (mm)</string>
+    <string name="alarm_setting_value_printer_state">Avvisa quando lo stato della stampante è cambiato</string>
     <string name="alarm_settins_value">Valore di allerta</string>
     <string name="alarm_setting_vibration_pattern">Modello di vibrazione</string>
 
@@ -54,5 +56,6 @@
     <string name="alarm_notification_temperature_hot_chamber">Temperatura Camera: %.1f°</string>
     <string name="alarm_notification_gcode_command">comando GCODE eseguito: %s</string>
     <string name="alarm_notification_z_height">Altezza Z raggiunta: %.2f</string>
+    <string name="alarm_notification_printer_state">Nuovo stato: %s</string>
 
 </resources>

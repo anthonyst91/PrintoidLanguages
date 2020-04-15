@@ -11,6 +11,7 @@
     <string name="alarm_type_temperature_chamber">Температура камеры</string>
     <string name="alarm_type_gcode_command">Выполнение команды GCODE</string>
     <string name="alarm_type_z_height">Высота Z</string>
+    <string name="alarm_type_printer_state">Состояние принтера</string>
 
     <string name="alerts_list_empty">Не создано оповещений</string>
 
@@ -22,6 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Предупредить когда камеры нагреется до температуры (°)</string>
     <string name="alarm_setting_value_gcode_command">Предупредить при выполнении этой команды GCODE</string>
     <string name="alarm_setting_value_z_height">Предупредить когда сопло достигнет этой высоты (mm)</string>
+    <string name="alarm_setting_value_printer_state">Оповещение при изменении состояния принтера</string>
     <string name="alarm_settins_value">Значение</string>
     <string name="alarm_setting_vibration_pattern">Вибрационный шаблон</string>
 
@@ -54,5 +56,6 @@
     <string name="alarm_notification_temperature_hot_chamber">Температура камеры: %.1f°</string>
     <string name="alarm_notification_gcode_command">Выполняется команда GCODE: %s</string>
     <string name="alarm_notification_z_height">Достигнута высота Z: %.2f</string>
+    <string name="alarm_notification_printer_state">Новое государство: %s</string>
 
 </resources>
