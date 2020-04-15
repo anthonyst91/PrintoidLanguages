@@ -28,7 +28,7 @@
     <string name="setting_title_account">Printoid account</string>
     <string name="setting_title_keyboard">Controls with a keyboard</string>
 
-    <string name="setting_enable_notif">Enable the notifications</string>
+    <string name="setting_enable_notif">Enable the background notifications</string>
     <string name="setting_battery_optimizations">Enable Android battery optimizations for Printoid</string>
     <string name="setting_enable_unread_messages">Show unread messages</string>
     <string name="setting_enable_changelogs">New version warnings</string>
@@ -128,7 +128,9 @@
     <string name="setting_max_chamber_temp">Max heated chamber temp.</string>
     <string name="setting_dashboard_mode">Dashboard mode</string>
     <string name="setting_enable_shared_nozzle">Shared nozzle</string>
+    <string name="setting_enable_push_notifs">Enable push notifications</string>
 
+    <string name="setting_enable_push_notifs_tip">Get updated values in real-time in background</string>
     <string name="setting_enable_shared_nozzle_tip">Single nozzle and heater shared among its extruders</string>
     <string name="setting_dashboard_mode_tip">Change the way to display info on the main screen</string>
     <string name="setting_enable_hot_chamber_tip">Adjust and show heated chamber temperature</string>
@@ -144,7 +146,7 @@
     <string name="setting_battery_optimizations_tip">Battery optimizations can kill the Printoid process</string>
     <string name="setting_enable_unread_messages_tip">Notifications on new articles on the website</string>
     <string name="setting_enable_changelogs_tip">Alert when a new version is available on Google Play</string>
-    <string name="setting_enable_notif_tip">Keep the app in background with notifications</string>
+    <string name="setting_enable_notif_tip">Keep the app in background with a notification</string>
     <string name="setting_enable_check_connection_tip">Ensure Printoid is still able to communicate</string>
     <string name="setting_enable_always_prompt_tty_tip">Show serial ports when connecting printer regardless the default one</string>
     <string name="setting_enable_axis_control_display_tip">Display the axis controls in overlay above the streaming</string>
