@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Melding bij deze temperatuur van het kamer (°)</string>
     <string name="alarm_setting_value_gcode_command">Melding bij executie van dit GCODE commando</string>
     <string name="alarm_setting_value_z_height">Melding bij bereiken deze hoogte (mm)</string>
-    <string name="alarm_setting_value_printer_state">Waarschuwing wanneer de printerstatus is gewijzigd</string>
+    <string name="alarm_setting_value_printer_state">Waarschuwing wanneer de printerstatus is gewijzigd in</string>
     <string name="alarm_settins_value">Alarmering waarde</string>
     <string name="alarm_setting_vibration_pattern">Vibratie patroon</string>
 

@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Warnung wenn das heiße Kammer diese Temperatur erreicht (°)</string>
     <string name="alarm_setting_value_gcode_command">Warnung wenn dieser GCODE-Befehl ausgeführt wird</string>
     <string name="alarm_setting_value_z_height">Alarm, wenn die Düse diese Höhe erreicht (mm)</string>
-    <string name="alarm_setting_value_printer_state">Benachrichtigung, wenn sich der Druckerstatus geändert hat</string>
+    <string name="alarm_setting_value_printer_state">Benachrichtigung, wenn sich der Druckerstatus in geändert hat</string>
     <string name="alarm_settins_value">Alarmwert</string>
     <string name="alarm_setting_vibration_pattern">Schwingungsmuster</string>
 

@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Alert when heated chamber reach this temperature (°)</string>
     <string name="alarm_setting_value_gcode_command">Alert when this GCODE command is executed</string>
     <string name="alarm_setting_value_z_height">Alert when nozzle reach this height (mm)</string>
-    <string name="alarm_setting_value_printer_state">Alert when the printer state changed</string>
+    <string name="alarm_setting_value_printer_state">Alert when the printer state changed to</string>
     <string name="alarm_settins_value">Alert value</string>
     <string name="alarm_setting_vibration_pattern">Vibration pattern</string>
 

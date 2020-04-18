@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Alerta quando a câmara aquecida atingir esta temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerta quando este comando GCODE for executado</string>
     <string name="alarm_setting_value_z_height">Alerta quando o bico atingir esta altura (mm)</string>
-    <string name="alarm_setting_value_printer_state">Alerta quando o estado da impressora mudou</string>
+    <string name="alarm_setting_value_printer_state">Alerta quando o estado da impressora mudou para</string>
     <string name="alarm_settins_value">Valor do alerta</string>
     <string name="alarm_setting_vibration_pattern">Padrão de vibração</string>
     <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>

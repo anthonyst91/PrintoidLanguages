@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Alerte de température de la chambre chauffante (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerte à l\'exécution de la commande GCODE</string>
     <string name="alarm_setting_value_z_height">Alerte à la hauteur de la tête (mm)</string>
-    <string name="alarm_setting_value_printer_state">Alerte au changement d\'état de l\'imprimante</string>
+    <string name="alarm_setting_value_printer_state">Alerte au changement d\'état de l\'imprimante vers</string>
     <string name="alarm_settins_value">Valeur de l\'alerte</string>
     <string name="alarm_setting_vibration_pattern">Pattern de vibration</string>
 

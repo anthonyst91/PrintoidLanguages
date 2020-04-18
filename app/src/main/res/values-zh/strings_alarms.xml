@@ -23,7 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">当加热箱达到该温度(°)时提醒</string>
     <string name="alarm_setting_value_gcode_command">当该GCODE指令执行时提醒</string>
     <string name="alarm_setting_value_z_height">当打印头达到该高度(mm)时提醒</string>
-    <string name="alarm_setting_value_printer_state">打印机状态更改时发出警报</string>
+    <string name="alarm_setting_value_printer_state">在打印机状态更改为时发出警报</string>
     <string name="alarm_settins_value">提醒触发数值</string>
     <string name="alarm_setting_vibration_pattern">震动模式</string>
 
