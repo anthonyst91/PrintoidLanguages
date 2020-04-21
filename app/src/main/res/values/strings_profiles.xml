@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">Do not edit this value without technical knowledge</string>
 
+    <string name="config_title_alert_config_warning">OctoPrint profile warning</string>
     <string name="config_title_alert_config">OctoPrint profile error</string>
     <string name="config_title_alert_saved">OctoPrint profiles saved</string>
     <string name="config_title_alert_saved_msg">OctoPrint profiles successfully saved!</string>
@@ -35,7 +36,7 @@
     <string name="config_error_printer_name">Invalid profile name, please verify your value</string>
     <string name="config_error_ip">You should provide at least an IP.\n\nDo you need some assistance?</string>
     <string name="config_error_inversion_ip">You have entered a LAN IP in the WAN IP field.\n\nDo you need some assistance?</string>
-    <string name="config_error_same_ip">You have entered the same IP for both LAN and WAN fields.\n\nDo you need some assistance?</string>
+    <string name="config_error_same_ip">You have entered the same IP for both LAN and WAN fields.\n\nIs it what you expect?</string>
     <string name="config_error_port">Invalid port value.\n\nDo you need some assistance?</string>
     <string name="config_error_lan_port">Invalid LAN port value, port 22 is associated to the SSH protocol (Printoid communicates with OctoPrint over HTTP).\n\nDo you need some assistance?</string>
     <string name="config_error_wan_port">Invalid WAN port value, port 22 is associated to the SSH protocol (Printoid communicates with OctoPrint over HTTP).\n\nDo you need some assistance?</string>
