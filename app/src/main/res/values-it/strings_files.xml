@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Questa cartella non contiene file 3D!</string>
 
+    <string name="file_success_failure_never_printed">File non ancora stampato</string>
+    <string name="file_success_failure_amount">File stampato con successo %1$d volte e fallito %2$d volte</string>
+
 </resources>

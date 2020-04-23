@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">这个目录不包括3D文件!</string>
 
+    <string name="file_success_failure_never_printed">文件尚未打印</string>
+    <string name="file_success_failure_amount">文件打印成功%1$d次，失败%2$d次</string>
+
 </resources>
