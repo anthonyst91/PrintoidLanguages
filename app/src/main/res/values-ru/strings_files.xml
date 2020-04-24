@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Эта папка не содержит 3D-файлов!</string>
 
+    <string name="file_success_failure_never_printed">Файл еще не распечатан</string>
+    <string name="file_success_failure_amount">Файл напечатан с успехом %1$d раза и не удалось %2$d раза</string>
+
 </resources>

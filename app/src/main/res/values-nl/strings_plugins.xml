@@ -13,6 +13,7 @@
     <string name="plugin_desc_enclosure">Beheers vrijwel alles wat je zou willen doen op je Raspberry Pi/OctoPrint/behuizing.</string>
     <string name="plugin_desc_navbartemp">Weergavetemperaturen op de navigatiebalk van OctoPrint. Voor gebruikers van Raspberry Pi kan deze plug-in de CPU-temperatuur van de Raspberry Pi weergeven in de titelbalk van de app.</string>
     <string name="plugin_desc_octolapse">Octolapse is ontworpen om gestabiliseerde timelapses van uw afdrukken te maken met zo weinig mogelijk moeite, en het is uiterst configureerbaar. Nu kunt u een zijdezachte timelapse maken zonder aangepaste camerabevestiging, geen aanpassingen van de GCode vereist.</string>
+    <string name="plugin_desc_prusathumbnail">Deze plug-in zal de ingesloten miniaturen uit PrusaSlicer gcode-bestanden extraheren waarbij het ini-bestand van het printerprofiel de miniatuuroptie heeft geconfigureerd. Dit is standaardgedrag voor het Prusa Mini-printerprofiel.</string>
 
     <string name="plugin_message_psu">De plug-in PSU-besturing moet op uw OctoPrint-server zijn geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
     <string name="plugin_message_tp_link">De TP-Link SmartPlug moet op uw OctoPrint-server worden geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>

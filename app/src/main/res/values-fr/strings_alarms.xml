@@ -11,6 +11,7 @@
     <string name="alarm_type_temperature_chamber">Température de la chambre chauffante</string>
     <string name="alarm_type_gcode_command">Exécution de commande GCODE</string>
     <string name="alarm_type_z_height">Hauteur en Z</string>
+    <string name="alarm_type_printer_state">Etat de l\'imprimante</string>
 
     <string name="alerts_list_empty">Pas encore d\'alerte crée</string>
 
@@ -22,6 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Alerte de température de la chambre chauffante (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerte à l\'exécution de la commande GCODE</string>
     <string name="alarm_setting_value_z_height">Alerte à la hauteur de la tête (mm)</string>
+    <string name="alarm_setting_value_printer_state">Alerte au changement d\'état de l\'imprimante vers</string>
     <string name="alarm_settins_value">Valeur de l\'alerte</string>
     <string name="alarm_setting_vibration_pattern">Pattern de vibration</string>
 
@@ -54,5 +56,6 @@
     <string name="alarm_notification_temperature_hot_chamber">Température de la chambre chauffante : %.1f</string>
     <string name="alarm_notification_gcode_command">Commande GCODE exécutée : %s</string>
     <string name="alarm_notification_z_height">Hauteur Z atteinte : %.2f</string>
+    <string name="alarm_notification_printer_state">Nouvel état : %s</string>
 
 </resources>

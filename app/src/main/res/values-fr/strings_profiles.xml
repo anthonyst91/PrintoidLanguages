@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">Ne pas éditer cette valeur sans connaissances techniques</string>
 
+    <string name="config_title_alert_config_warning">Warning de configuration</string>
     <string name="config_title_alert_changed">Profil(s) modifié(s)</string>
     <string name="config_title_alert_changed_msg">Un (ou plusieurs) profil d\'imprimante a changé, souhaitez-vous enregistrer la nouvelle configuration ?</string>
     <string name="config_title_alert_config">Erreur de configuration</string>
@@ -36,7 +37,7 @@
     <string name="config_error_printer_name">Le nom du profil semble invalide, veuillez vérifier la valeur saisie</string>
     <string name="config_error_ip">Vous devez entrez au moins une adresse IP.\n\nAvez-vous besoin d\'assistance ?</string>
     <string name="config_error_inversion_ip">Vous avez saisi une IP LAN dans le champ IP WAN.\n\nAvez-vous besoin d\'assistance ?</string>
-    <string name="config_error_same_ip">Vous avez saisi la même adresse IP dans les champs LAN et WAN.\n\nAvez-vous besoin d\'assistance ?</string>
+    <string name="config_error_same_ip">Vous avez saisi la même adresse IP dans les champs LAN et WAN.\n\nEst-ce ce dont vous avez réellement besoin ?</string>
     <string name="config_error_port">Valeur de port invalide.\n\nAvez-vous besoin d\'assistance ?</string>
     <string name="config_error_lan_port">Valeur de port LAN invalide, le port 22 est associé au protocole SSH (Printoid communique avec OctoPrint via HTTP).\n\nAvez-vous besoin d\'assistance ?</string>
     <string name="config_error_wan_port">Valeur de port WAN invalide, le port 22 est associé au protocole SSH (Printoid communique avec OctoPrint via HTTP).\n\nAvez-vous besoin d\'assistance ?</string>

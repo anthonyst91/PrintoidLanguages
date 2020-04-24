@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">Não edite este valor sem conhecimento técnico</string>
 
+    <string name="config_title_alert_config_warning">Aviso de perfil OctoPrint</string>
     <string name="config_title_alert_config">Erro de perfil do OctoPrint</string>
     <string name="config_title_alert_saved">Perfis do OctoPrint salvos</string>
     <string name="config_title_alert_saved_msg">Perfis do OctoPrint salvos com sucesso!</string>
@@ -34,8 +35,8 @@
     <string name="config_title_alert_changed_msg">Seus perfis OctoPrint foram alterados, você deseja salvar a nova configuração?</string>
     <string name="config_error_printer_name">Nome de perfil inválido, verifique seu valor</string>
     <string name="config_error_ip">Você deve fornecer pelo menos um IP.\n\nPrecisa de alguma ajuda?</string>
-    <string name="config_error_inversion_ip">Você digitou um IP da LAN no campo IP da WAN.\n\nVocê precisa de ajuda??</string>
-    <string name="config_error_same_ip">Você digitou o mesmo IP para os campos LAN e WAN.\n\nVocê precisa de ajuda??</string>
+    <string name="config_error_inversion_ip">Você digitou um IP da LAN no campo IP da WAN.\n\nVocê precisa de ajuda?</string>
+    <string name="config_error_same_ip">Você digitou o mesmo IP para os campos LAN e WAN.\n\nÉ o que você espera?</string>
     <string name="config_error_port">Valor de porta inválido.\n\nVocê precisa de ajuda?</string>
     <string name="config_error_lan_port">Valor de porta LAN inválido, a porta 22 está associada ao protocolo SSH (o Printoid se comunica com o OctoPrint via HTTP).\n\nVocê precisa de ajuda?</string>
     <string name="config_error_wan_port">Valor de porta WAN inválido, a porta 22 está associada ao protocolo SSH (o Printoid se comunica com o OctoPrint por HTTP).\n\nVocê precisa de ajuda?</string>

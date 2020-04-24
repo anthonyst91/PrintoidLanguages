@@ -13,6 +13,7 @@
     <string name="plugin_desc_enclosure">Контролируйте практически все, что вы можете делать на Raspberry Pi/OctoPrint/Enclosure.</string>
     <string name="plugin_desc_navbartemp">Отображение температуры на навигационной панели OctoPrint. Для пользователей Raspberry Pi этот плагин позволяет автоматически отображать температуру процессора Raspberry Pi в строке заголовка приложения.</string>
     <string name="plugin_desc_octolapse">Octolapse разработан для того, чтобы стабилизировать интервалы между отпечатками с минимальными трудностями, и это чрезвычайно настраивается. Теперь вы можете создать гладкую гладкую замедленную съемку без специального монтирования камеры, никаких настроек GCode не требуется.</string>
+    <string name="plugin_desc_prusathumbnail">Этот плагин будет извлекать встроенные миниатюры из файлов gcode PrusaSlicer, где в ini-файле профиля принтера настроена опция миниатюр. Это поведение по умолчанию для профиля принтера Prusa Mini.</string>
 
     <string name="plugin_message_psu">Плагин PSU Control должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>

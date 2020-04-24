@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">Deze waarden niet aanpassen zonder technische kennis</string>
 
+    <string name="config_title_alert_config_warning">OctoPrint profielwaarschuwing</string>
     <string name="config_title_alert_changed">Profiel(en) veranderd</string>
     <string name="config_title_alert_changed_msg">Één (of meerdere) printer profielen zijn aangepast, wilt u de nieuwe configuratie opslaan?</string>
     <string name="config_title_alert_config">Configuratie fout</string>
@@ -36,7 +37,7 @@
     <string name="config_error_printer_name">De profiel naam lijkt ongeldig, controleer de opgegeven waarde</string>
     <string name="config_error_ip">U dient tenminste een IP adres in te geven.\n\nHeeft u hulp nodig?</string>
     <string name="config_error_inversion_ip">U heeft een IP LAN adres opgegeven in het veld voor een WAN adres.\n\nHeeft u hulp nodig?</string>
-    <string name="config_error_same_ip">U heeft hetzelfde adres opgegeven voor het LAN en het WAN adres.\n\nHeeft u hulp nodig?</string>
+    <string name="config_error_same_ip">U heeft hetzelfde adres opgegeven voor het LAN en het WAN adres.\n\nIs het wat je verwacht?</string>
     <string name="config_error_port">Ongeldige poort.\n\nHeeft u hulp nodig?</string>
     <string name="config_error_lan_port">Ongeldige LAN poort. Poort 22 is gereserveerd voor het SSH protocol (Printoid communiceert met OctoPrint via HTTP).\n\nHeeft u hulp nodig?</string>
     <string name="config_error_wan_port">Ongeldige WAN poort. Poort 22 is gereserveerd voor het SSH protocol (Printoid communiceert met OctoPrint via HTTP).\n\nHeeft u hulp nodig?</string>

@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">Не изменяйте это значение без технических знаний</string>
 
+    <string name="config_title_alert_config_warning">Предупреждение профиля OctoPrint</string>
     <string name="config_title_alert_config">Ошибка настройки</string>
     <string name="config_title_alert_saved">Настройки сохранены</string>
     <string name="config_title_alert_saved_msg">Настройки успешно сохранены!</string>
@@ -35,7 +36,7 @@
     <string name="config_error_printer_name">Неверное имя принтера, пожалуйста проверьте</string>
     <string name="config_error_ip">Вы должны указать хотя бы IP адрес.\n\nВам помочь?</string>
     <string name="config_error_inversion_ip">Вы ввели локальный IP адрес в WAN IP поле.\n\nВам помочь?</string>
-    <string name="config_error_same_ip">Вы ввели одинаковый IP адрес в обоих LAN и WAN полях.\n\nВам помочь?</string>
+    <string name="config_error_same_ip">Вы ввели одинаковый IP адрес в обоих LAN и WAN полях.\n\nЭто то, что вы ожидаете?</string>
     <string name="config_error_port">Неверное значение порта.\n\nВам помочь?</string>
     <string name="config_error_lan_port">Недопустимое значение порта LAN, порт 22 связан с протоколом SSH (Printoid общается с OctoPrint через HTTP).\n\nВам помочь?</string>
     <string name="config_error_wan_port">Недопустимое значение порта WAN, порт 22 связан с протоколом SSH (Printoid общается с OctoPrint через HTTP).\n\nВам помочь?</string>

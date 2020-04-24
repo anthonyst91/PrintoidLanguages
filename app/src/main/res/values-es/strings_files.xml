@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Esta carpeta no contiene archivos 3D!</string>
 
+    <string name="file_success_failure_never_printed">Archivo nunca impreso todavía</string>
+    <string name="file_success_failure_amount">Archivo impreso con éxito %1$d veces y falló %2$d veces</string>
+
 </resources>

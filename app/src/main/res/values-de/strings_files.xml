@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Dieser Ordner enthält keine 3D-Dateien!</string>
 
+    <string name="file_success_failure_never_printed">Datei noch nie gedruckt</string>
+    <string name="file_success_failure_amount">Datei erfolgreich gedruckt %1$d-mal und %2$d-mal in Schach</string>
+
 </resources>

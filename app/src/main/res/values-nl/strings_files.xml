@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Deze map bevat geen 3D-bestanden!</string>
 
+    <string name="file_success_failure_never_printed">Bestand nog nooit afgedrukt</string>
+    <string name="file_success_failure_amount">Bestand %1$d keer met succes afgedrukt en %2$d keer mislukt</string>
+
 </resources>

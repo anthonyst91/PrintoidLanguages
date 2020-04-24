@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">This folder contains no 3D files!</string>
 
+    <string name="file_success_failure_never_printed">File never printed yet</string>
+    <string name="file_success_failure_amount">File printed with success %1$d time(s) and failed %2$d time(s)</string>
+
 </resources>

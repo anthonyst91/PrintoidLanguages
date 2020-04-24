@@ -4,10 +4,11 @@
     <string name="shortcut_load">Carga</string>
     <string name="shortcut_print">Imprimir</string>
     <string name="shortcut_input">Imputar</string>
-    <string name="shortcut_render3D">Vista 3D</string>
-    <string name="shortcut_render2D">Vista 2D</string>
-    <string name="shortcut_download">Descargar</string>
+    <string name="shortcut_render3D">3D</string>
+    <string name="shortcut_render2D">2D</string>
+    <string name="shortcut_download">Desca.</string>
     <string name="shortcut_delete">Borrar</string>
     <string name="shortcut_slice">Laminar</string>
+    <string name="shortcut_move">Moverse</string>
 
 </resources>

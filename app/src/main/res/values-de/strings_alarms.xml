@@ -11,6 +11,7 @@
     <string name="alarm_type_temperature_chamber">Heizung Kammer-Temperatur</string>
     <string name="alarm_type_gcode_command">GCODE Befehlsausführung</string>
     <string name="alarm_type_z_height">Z Höhe</string>
+    <string name="alarm_type_printer_state">Druckerstatus</string>
 
     <string name="alerts_list_empty">Keine Warnungen erstellt</string>
 
@@ -22,6 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Warnung wenn das heiße Kammer diese Temperatur erreicht (°)</string>
     <string name="alarm_setting_value_gcode_command">Warnung wenn dieser GCODE-Befehl ausgeführt wird</string>
     <string name="alarm_setting_value_z_height">Alarm, wenn die Düse diese Höhe erreicht (mm)</string>
+    <string name="alarm_setting_value_printer_state">Benachrichtigung, wenn sich der Druckerstatus in geändert hat</string>
     <string name="alarm_settins_value">Alarmwert</string>
     <string name="alarm_setting_vibration_pattern">Schwingungsmuster</string>
 
@@ -54,5 +56,6 @@
     <string name="alarm_notification_temperature_hot_chamber">Beheizte Kammer-Temperatur: %.1f°</string>
     <string name="alarm_notification_gcode_command">GCODE-Befehl ausgeführt: %s</string>
     <string name="alarm_notification_z_height">Z-Höhe erreicht: %.2f</string>
+    <string name="alarm_notification_printer_state">Neuer Staat: %s</string>
 
 </resources>

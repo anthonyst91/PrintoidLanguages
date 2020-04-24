@@ -129,7 +129,9 @@
     <string name="setting_max_chamber_temp">Max verwarmde kamertemperatuur.</string>
     <string name="setting_dashboard_mode">Hoofdschermmodus</string>
     <string name="setting_enable_shared_nozzle">Gedeeld mondstuk</string>
+    <string name="setting_enable_push_notifs">Schakel pushmeldingen in</string>
 
+    <string name="setting_enable_push_notifs_tip">Ontvang bijgewerkte waarden in realtime op de achtergrond</string>
     <string name="setting_enable_shared_nozzle_tip">Enkele spuitmond en verwarmer gedeeld onder zijn extruders</string>
     <string name="setting_dashboard_mode_tip">Wijzig de manier om informatie op het hoofdscherm weer te geven</string>
     <string name="setting_enable_hot_chamber_tip">Pas de temperatuur van de verwarmde kamer aan en toon deze</string>

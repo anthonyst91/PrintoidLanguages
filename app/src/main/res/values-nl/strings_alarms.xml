@@ -11,6 +11,7 @@
     <string name="alarm_type_temperature_chamber">Temperatuur kamer</string>
     <string name="alarm_type_gcode_command">GCODE commando uitvoering</string>
     <string name="alarm_type_z_height">Z hoogte</string>
+    <string name="alarm_type_printer_state">Printerstatus</string>
 
     <string name="alerts_list_empty">Geen alarmeringen actief</string>
 
@@ -22,6 +23,7 @@
     <string name="alarm_setting_value_temperature_chamber">Melding bij deze temperatuur van het kamer (°)</string>
     <string name="alarm_setting_value_gcode_command">Melding bij executie van dit GCODE commando</string>
     <string name="alarm_setting_value_z_height">Melding bij bereiken deze hoogte (mm)</string>
+    <string name="alarm_setting_value_printer_state">Waarschuwing wanneer de printerstatus is gewijzigd in</string>
     <string name="alarm_settins_value">Alarmering waarde</string>
     <string name="alarm_setting_vibration_pattern">Vibratie patroon</string>
 
@@ -55,5 +57,6 @@
     <string name="alarm_notification_temperature_hot_chamber">Temperatuur van kamer: %.1f°</string>
     <string name="alarm_notification_gcode_command">GCODE commando: %s</string>
     <string name="alarm_notification_z_height">Z-Hoogte bereikt: %.2f</string>
+    <string name="alarm_notification_printer_state">Nieuwe staat: %s</string>
 
 </resources>

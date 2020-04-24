@@ -27,6 +27,7 @@
 
     <string name="config_websocket_detail_msg">请勿编辑此项除非您知道这是什么</string>
 
+    <string name="config_title_alert_config_warning">OctoPrint配置文件警告</string>
     <string name="config_title_alert_config">OctoPrint配置项错误</string>
     <string name="config_title_alert_saved">OctoPrint配置项已保存</string>
     <string name="config_title_alert_saved_msg">OctoPrint配置项成功保存!</string>
@@ -35,7 +36,7 @@
     <string name="config_error_printer_name">无效的配置项名称, 请检查您输入的值</string>
     <string name="config_error_ip">您至少提供一个IP地址.\n\n是否需要帮助?</string>
     <string name="config_error_inversion_ip">您在WAN IP字段输入了一个LAN IP地址.\n\n是否需要帮助?</string>
-    <string name="config_error_same_ip">您在LAN和WAN字段输入了同一个IP地址.\n\n是否需要帮助?</string>
+    <string name="config_error_same_ip">您在LAN和WAN字段输入了同一个IP地址.\n\n是您所期望的吗</string>
     <string name="config_error_port">无效的端口号.\n\n是否需要帮助?</string>
     <string name="config_error_lan_port">无效的LAN端口号,端口号22属于SSH协议(Printoid通过HTTP与OctoPrint通讯).\n\n是否需要帮助?</string>
     <string name="config_error_wan_port">无效的WAN端口号,端口号22属于SSH协议(Printoid通过HTTP与OctoPrint通讯).\n\n是否需要帮助?</string>

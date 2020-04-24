@@ -78,4 +78,7 @@
 
     <string name="upload_empty_folder">Ce dossier ne contient aucun fichier 3D !</string>
 
+    <string name="file_success_failure_never_printed">Fichier encore jamais imprimé</string>
+    <string name="file_success_failure_amount">Fichier imprimé %1$d fois avec succès et %2$d fois en échec</string>
+
 </resources>

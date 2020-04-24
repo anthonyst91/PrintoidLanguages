@@ -14,6 +14,7 @@
     <string name="plugin_desc_enclosure">支持几乎所有您想对树莓派/OctoPrint/保温箱进行的操作.</string>
     <string name="plugin_desc_navbartemp">在OctoPrint导航栏显示温度信息. 对于树莓派用户, 该插件自动会在应用导航栏显示树莓派CPU温度.</string>
     <string name="plugin_desc_octolapse">Octolapse被设计成用于制作稳定的3D打印延时摄影, 同时操作尽可能保存简单, 此外它还可以进行高度配置. 现在您不需要改装摄像头或者自定义GCODE就能够制作出丝滑流畅的延时摄影.</string>
+    <string name="plugin_desc_prusathumbnail">该插件将从PrusaSlicer gcode文件中提取嵌入式缩略图，其中打印机的配置文件ini文件已配置了缩略图选项。 这是Prusa Mini打印机配置文件的默认行为。</string>
 
     <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
