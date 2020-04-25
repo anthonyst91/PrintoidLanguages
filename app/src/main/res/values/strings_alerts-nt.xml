@@ -16,4 +16,6 @@
 
     <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
 
+    <string name="notif_channel_name_push_notifs" translatable="false">Push notifications</string>
+
 </resources>
