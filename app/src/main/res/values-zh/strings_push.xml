@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Printoid插件：可操作！</string>
+    <string name="push_alert_event_print_complete">打印完成！</string>
+    <string name="push_alert_event_print_progress">打印进度：%s%%</string>
+    <string name="push_alert_event_printer_state">打印机状态已更改为：%s</string>
+    <string name="push_alert_event_printer_error">打印机进入错误状态！</string>
+    <string name="push_alert_event_bed_cool">打印机底座警报：低于目标！</string>
+    <string name="push_alert_event_bed_warm">打印机底座警报：超出目标！</string>
+    <string name="push_alert_event_mmu">MMU需要用户协助</string>
+    <string name="push_alert_event_paused">打印机暂停，等待您！</string>
+    <string name="push_alert_event_tool_cool">打印机头温度警报！</string>
+    <string name="push_alert_event_palette">Palette2发生错误，打印已暂停：%s</string>
+    <string name="push_alert_event_layer">图层已更改：%s</string>
+
+    <string name="push_alert_not_supported">提醒：%s</string>
+    <string name="push_alert_not_supported_value">提醒：%1$s（%2$s</string>
+
+</resources>

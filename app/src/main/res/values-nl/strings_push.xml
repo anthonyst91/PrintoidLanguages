@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Printoid-plug-in: OPERATIONEEL!</string>
+    <string name="push_alert_event_print_complete">Afdrukken voltooid!</string>
+    <string name="push_alert_event_print_progress">Afdrukvoortgang: %s%%</string>
+    <string name="push_alert_event_printer_state">Printerstatus gewijzigd in: %s</string>
+    <string name="push_alert_event_printer_error">Printer ging in foutstatus!</string>
+    <string name="push_alert_event_bed_cool">Printerbedwaarschuwing: onder doel!</string>
+    <string name="push_alert_event_bed_warm">Printerbedwaarschuwing: boven doel!</string>
+    <string name="push_alert_event_mmu">MMU vereist gebruikersondersteuning</string>
+    <string name="push_alert_event_paused">Printer onderbroken, wachtend op jou!</string>
+    <string name="push_alert_event_tool_cool">Printerkop temperatuurwaarschuwing!</string>
+    <string name="push_alert_event_palette">Er is een fout opgetreden op Palette2, afdruk onderbroken: %s</string>
+    <string name="push_alert_event_layer">Laag gewijzigd: %s</string>
+
+    <string name="push_alert_not_supported">Waarschuwing: %s</string>
+    <string name="push_alert_not_supported_value">Melding: %1$s (%2$s)</string>
+
+</resources>
