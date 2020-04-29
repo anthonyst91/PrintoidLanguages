@@ -28,7 +28,7 @@
     <string name="setting_title_account">Printoid account</string>
     <string name="setting_title_keyboard">Controlli con una tastiera</string>
 
-    <string name="setting_enable_notif">Abilita le notifiche</string>
+    <string name="setting_enable_notif">Abilita la modalità in background</string>
     <string name="setting_battery_optimizations">Abilita le ottimizzazioni della batteria Android per Printoid</string>
     <string name="setting_enable_unread_messages">Mostra messaggi non letti</string>
     <string name="setting_enable_changelogs">Avvertenze sulla nuova versione</string>
@@ -146,7 +146,7 @@
     <string name="setting_battery_optimizations_tip">Le ottimizzazioni della batteria possono terminare il processo di Printoid</string>
     <string name="setting_enable_unread_messages_tip">Notifiche su nuovi articoli sul sito web</string>
     <string name="setting_enable_changelogs_tip">Avvisa quando una nuova versione è disponibile su Google Play</string>
-    <string name="setting_enable_notif_tip">Mantieni l\'app in background con le notifiche</string>
+    <string name="setting_enable_notif_tip">Continua a parlare di Printoid con OctoPrint in background</string>
     <string name="setting_enable_check_connection_tip">Assicurarsi che Printoid sia ancora in grado di comunicare</string>
     <string name="setting_enable_always_prompt_tty_tip">Mostra le porte seriali quando si collega la stampante indipendentemente dall\'impostazione predefinitae</string>
     <string name="setting_enable_axis_control_display_tip">Mostra i controlli degli assi in sovrapposizione sopra lo streaming</string>

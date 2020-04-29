@@ -28,7 +28,7 @@
     <string name="setting_title_account">Printoid帐号</string>
     <string name="setting_title_keyboard">使用键盘控制</string>
 
-    <string name="setting_enable_notif">启用通知提醒</string>
+    <string name="setting_enable_notif">启用背景模式</string>
     <string name="setting_battery_optimizations">为Printoid启用安卓电池优化</string>
     <string name="setting_enable_unread_messages">显示未读消息</string>
     <string name="setting_enable_changelogs">新版本提醒</string>
@@ -146,7 +146,7 @@
     <string name="setting_battery_optimizations_tip">电池优化功能可能会杀掉Printoid进程</string>
     <string name="setting_enable_unread_messages_tip">网站发布新文章时进行提醒</string>
     <string name="setting_enable_changelogs_tip">当GooglePlay上架新版本时进行提醒</string>
-    <string name="setting_enable_notif_tip">用通知栏保持应用在后台运行</string>
+    <string name="setting_enable_notif_tip">保持Printoid在后台与OctoPrint对话</string>
     <string name="setting_enable_check_connection_tip">保证Printoid仍可以通讯</string>
     <string name="setting_enable_always_prompt_tty_tip">无视默认选项, 在连接打印机时显示所有串口端口</string>
     <string name="setting_enable_axis_control_display_tip">在视频监控画面上显示轴控制按钮</string>
