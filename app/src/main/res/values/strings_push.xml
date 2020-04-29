@@ -4,18 +4,17 @@
     <string name="push_alert_event_test">Printoid Plugin: OPERATIONAL!</string>
     <string name="push_alert_event_print_complete">Print completed!</string>
     <string name="push_alert_event_print_progress">Print progress: %s%%</string>
+    <string name="push_alert_event_printer_state">Printer state changed to: %s</string>
+    <string name="push_alert_event_printer_error">Printer went in error state!</string>
     <string name="push_alert_event_bed_cool">Printer bed alert: below target!</string>
     <string name="push_alert_event_bed_warm">Printer bed alert: above target!</string>
     <string name="push_alert_event_mmu">MMU requires user assistance</string>
     <string name="push_alert_event_paused">Printer paused, waiting for you!</string>
     <string name="push_alert_event_tool_cool">Printer head temperature alert!</string>
-    <string name="push_alert_event_palette">Error occurred on Palette2, print paused</string>
+    <string name="push_alert_event_palette">Error occurred on Palette2, print paused: %s</string>
     <string name="push_alert_event_layer">Layer changed: %s</string>
 
     <string name="push_alert_not_supported">Alert: %s</string>
     <string name="push_alert_not_supported_value">Alert: %1$s (%2$s)</string>
-
-    <string name="push_job_print_status">Server status changed to: %s</string>
-    <string name="push_job_print_completed">Print completed!</string>
 
 </resources>

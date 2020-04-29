@@ -16,6 +16,14 @@
 
     <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
 
-    <string name="notif_channel_name_push_notifs" translatable="false">Push notifications</string>
+    <string name="notif_channel_dev_messages_notifs" translatable="false">Push messages from developer</string>
+    <string name="notif_channel_name_push_notifs" translatable="false">Printoid Plugin: default notifications</string>
+    <string name="notif_channel_name_push_printer_state" translatable="false">Printoid Plugin: printer state</string>
+    <string name="notif_channel_name_push_print_job" translatable="false">Printoid Plugin: print job events</string>
+    <string name="notif_channel_name_push_temperatures" translatable="false">Printoid Plugin: temperature alerts</string>
+    <string name="notif_channel_name_push_mmu_event" translatable="false">Printoid Plugin: MMU events</string>
+    <string name="notif_channel_name_push_user_pause" translatable="false">Printoid Plugin: paused for user action</string>
+    <string name="notif_channel_name_push_palette2" translatable="false">Printoid Plugin: Palette2 events</string>
+    <string name="notif_channel_name_push_layer_change" translatable="false">Printoid Plugin: layer changed</string>
 
 </resources>
