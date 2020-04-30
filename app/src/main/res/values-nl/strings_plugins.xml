@@ -69,4 +69,8 @@
     <string name="plugin_enclosure_rpi_input_humidity">Vochtigheid: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Doelwit</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">De Printoid-plug-in is op uw OctoPrint-server geïnstalleerd</string>
+    <string name="plugin_printoid_not_available">De Printoid-plug-in lijkt niet op uw OctoPrint-server te zijn geïnstalleerd, installeer deze en koppel hem met uw apparaat om te genieten van realtime meldingen.</string>
+
 </resources>

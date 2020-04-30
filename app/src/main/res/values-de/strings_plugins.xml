@@ -71,4 +71,8 @@
     <string name="plugin_enclosure_rpi_input_humidity">Luftfeuchtigkeit: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Ziel</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Das Printoid Plugin ist auf Ihrem OctoPrint-Server installiert</string>
+    <string name="plugin_printoid_not_available">Das Printoid-Plugin scheint nicht auf Ihrem OctoPrint-Server installiert zu sein. Installieren Sie es und koppeln Sie es mit Ihrem Gerät, um Echtzeitbenachrichtigungen zu erhalten.</string>
+
 </resources>

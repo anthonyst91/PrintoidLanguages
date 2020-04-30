@@ -78,4 +78,8 @@
     <string name="plugin_enclosure_rpi_input_humidity">Humidité : %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Cible</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Le plugin Printoid est installé sur votre serveur</string>
+    <string name="plugin_printoid_not_available">Le plugin Printoid ne semble pas installé sur votre serveur. Installez-le pour profiter des notifications en temps réel !</string>
+
 </resources>

@@ -77,4 +77,8 @@
     <string name="plugin_enclosure_rpi_input_humidity">湿度: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">目标</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Printoid插件已安装在OctoPrint服务器上</string>
+    <string name="plugin_printoid_not_available">您的OctoPrint服务器上似乎未安装Printoid插件，请安装该插件并将其与设备配对，以享受实时通知。</string>
+
 </resources>

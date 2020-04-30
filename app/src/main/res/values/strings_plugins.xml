@@ -6,6 +6,7 @@
     <string name="plugins_help_title">OctoPrint\'s plugins</string>
     <string name="plugins_help_message">This is the list of plugins currently integrated in Printoid.\n\nAll OctoPrint\'s plugin are not implemented in Printoid and I (the developer) can not integrated them all.\n\nPlease contact me at contact@printoid.net if you would like to see a new plugin in Printoid. I will reflect on its integration (if and only it is possible).</string>
 
+    <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
     <string name="plugin_desc_psu">This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.</string>
     <string name="plugin_desc_autoshutdown">Plugin for automatically shutting down the system after print is finished. Can be configured only when the server is up.</string>
     <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug via OctoPrint\'s nav bar.</string>
@@ -76,5 +77,9 @@
     <string name="plugin_enclosure_rpi_input_temperature">Temperature: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Humidity: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Target</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">The Printoid Plugin is installed on your OctoPrint server</string>
+    <string name="plugin_printoid_not_available">The Printoid Plugin seems not installed on your OctoPrint server, please install it and pair it with your device to enjoy real time notifications.</string>
 
 </resources>

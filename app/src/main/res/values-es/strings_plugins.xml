@@ -69,4 +69,8 @@
     <string name="plugin_enclosure_rpi_input_humidity">Humedad: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Objetivo</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">El complemento Printoid está instalado en su servidor OctoPrint</string>
+    <string name="plugin_printoid_not_available">El complemento Printoid parece no estar instalado en su servidor OctoPrint, instálelo y vincúlelo con su dispositivo para disfrutar de notificaciones en tiempo real.</string>
+
 </resources>
