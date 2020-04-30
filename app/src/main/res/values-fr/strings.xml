@@ -59,6 +59,7 @@
     <string name="never_ask_again">Ne plus demander</string>
     <string name="grid">Grille</string>
     <string name="tabs">Onglets</string>
+    <string name="remove">Retirer</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_chamber">Chambre chauffante</string>

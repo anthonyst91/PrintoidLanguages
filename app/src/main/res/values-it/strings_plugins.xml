@@ -80,5 +80,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">Il plug-in Printoid è installato sul server OctoPrint</string>
     <string name="plugin_printoid_not_available">Il plugin Printoid sembra non essere installato sul tuo server OctoPrint, installalo e abbinalo al tuo dispositivo per goderti le notifiche in tempo reale.</string>
+    <string name="plugin_printoid_layer">Strato</string>
+    <string name="plugin_printoid_layers_in_memory">Strati in memoria:</string>
+    <string name="plugin_printoid_layers_title">Notifiche sul layer modificate</string>
+    <string name="plugin_printoid_layers_info">Seleziona i layer per i quali desideri ricevere la notifica quando inizia la stampa (richiede l\'installazione del plug-in DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Impossibile ottenere l\'elenco dei livelli per i quali ricevere la notifica</string>
+    <string name="plugin_printoid_add_layers_success">Livello aggiunto correttamente, riceverai una notifica una volta raggiunto!</string>
+    <string name="plugin_printoid_add_layers_failure">Impossibile aggiungere il livello all\'elenco delle notifiche</string>
+    <string name="plugin_printoid_remove_layers_success">Livello rimosso con successo, non riceverai più notifiche per questo!</string>
+    <string name="plugin_printoid_remove_layers_failure">Impossibile rimuovere il livello nell\'elenco delle notifiche</string>
 
 </resources>

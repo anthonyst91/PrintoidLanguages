@@ -81,5 +81,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">O plug-in Printoid está instalado no servidor OctoPrint</string>
     <string name="plugin_printoid_not_available">O plug-in Printoid parece não estar instalado no servidor OctoPrint, instale-o e emparelhe-o com o dispositivo para receber notificações em tempo real.</string>
+    <string name="plugin_printoid_layer">Camada</string>
+    <string name="plugin_printoid_layers_in_memory">Camadas na memória:</string>
+    <string name="plugin_printoid_layers_title">Notificações na camada alteradas</string>
+    <string name="plugin_printoid_layers_info">Selecione as camadas para as quais você deseja ser notificado quando começar a ser impresso (requer a instalação do plug-in DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Falha ao obter a lista de camadas a serem notificadas para</string>
+    <string name="plugin_printoid_add_layers_success">Camada adicionada com sucesso, você receberá uma notificação quando atingido!</string>
+    <string name="plugin_printoid_add_layers_failure">Falha ao adicionar camada à lista de notificações</string>
+    <string name="plugin_printoid_remove_layers_success">Camada removida com sucesso, você deixará de receber notificações para esta!</string>
+    <string name="plugin_printoid_remove_layers_failure">Falha ao remover a camada da lista de notificações</string>
 
 </resources>

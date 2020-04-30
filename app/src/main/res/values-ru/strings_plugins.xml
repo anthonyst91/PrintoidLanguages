@@ -72,5 +72,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">Плагин Printoid установлен на вашем сервере OctoPrint</string>
     <string name="plugin_printoid_not_available">Плагин Printoid, кажется, не установлен на вашем сервере OctoPrint, пожалуйста, установите его и подключите его к вашему устройству, чтобы получать уведомления в режиме реального времени.</string>
+    <string name="plugin_printoid_layer">Слой</string>
+    <string name="plugin_printoid_layers_in_memory">Слои в памяти:</string>
+    <string name="plugin_printoid_layers_title">Уведомления на слое изменены</string>
+    <string name="plugin_printoid_layers_info">Выберите слои, о которых вы хотите получать уведомления, когда они начинают печататься (требуется установка плагина DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Не удалось получить список слоев для уведомления</string>
+    <string name="plugin_printoid_add_layers_success">Слой добавлен успешно, вы получите уведомление, когда достигнете!</string>
+    <string name="plugin_printoid_add_layers_failure">Не удалось добавить слой в список уведомлений</string>
+    <string name="plugin_printoid_remove_layers_success">Слой успешно удален, вы прекратите получать уведомления для этого!</string>
+    <string name="plugin_printoid_remove_layers_failure">Не удалось удалить слой в список уведомлений</string>
 
 </resources>

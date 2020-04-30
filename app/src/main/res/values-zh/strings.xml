@@ -59,6 +59,7 @@
     <string name="never_ask_again">不再询问</string>
     <string name="grid">格</string>
     <string name="tabs">标签</string>
+    <string name="remove">去掉</string>
 
     <string name="heated_bed">热床</string>
     <string name="heated_chamber">加热箱</string>

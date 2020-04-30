@@ -81,5 +81,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">Le plugin Printoid est installé sur votre serveur</string>
     <string name="plugin_printoid_not_available">Le plugin Printoid ne semble pas installé sur votre serveur. Installez-le pour profiter des notifications en temps réel !</string>
+    <string name="plugin_printoid_layer">Couche</string>
+    <string name="plugin_printoid_layers_in_memory">Couches en mémoire:</string>
+    <string name="plugin_printoid_layers_title">Notifications de nouvelle couche</string>
+    <string name="plugin_printoid_layers_info">Sélectionnez les couches pour lesquelles vous souhaitez être averti quand emme commence à être imprimée (nécessite l\'installation du plugin DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Échec de l\'obtention de la liste des couches pour lesquelles une notification doit être envoyée</string>
+    <string name="plugin_printoid_add_layers_success">Couche ajoutée avec succès, vous recevrez une notification lorsqu\'elle sera atteinte!</string>
+    <string name="plugin_printoid_add_layers_failure">Impossible d\'ajouter une couche à la liste des notifications</string>
+    <string name="plugin_printoid_remove_layers_success">Couche supprimée avec succès, vous ne recevrez plus de notification pour celle-ci!</string>
+    <string name="plugin_printoid_remove_layers_failure">Échec de la suppression de la couche dans la liste des notifications</string>
 
 </resources>

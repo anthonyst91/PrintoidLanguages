@@ -81,5 +81,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">The Printoid Plugin is installed on your OctoPrint server</string>
     <string name="plugin_printoid_not_available">The Printoid Plugin seems not installed on your OctoPrint server, please install it and pair it with your device to enjoy real time notifications.</string>
+    <string name="plugin_printoid_layer">Layer</string>
+    <string name="plugin_printoid_layers_in_memory">Layers in memory:</string>
+    <string name="plugin_printoid_layers_title">Notifications on layer changed</string>
+    <string name="plugin_printoid_layers_info">Select the layers you want to be notified for when it starts to be printed (requires DisplayLayerProgress plugin to be installed)</string>
+    <string name="plugin_printoid_get_layers_failure">Failed to get the list of layers to be notified for</string>
+    <string name="plugin_printoid_add_layers_success">Layer added successfully, you will receive a notification when reached!</string>
+    <string name="plugin_printoid_add_layers_failure">Failed to add layer to the list of notifications</string>
+    <string name="plugin_printoid_remove_layers_success">Layer removed successfully, you will stop receiving notification for this one!</string>
+    <string name="plugin_printoid_remove_layers_failure">Failed to remove layer to the list of notifications</string>
 
 </resources>

@@ -59,6 +59,7 @@
     <string name="never_ask_again">Never ask again</string>
     <string name="grid">Grid</string>
     <string name="tabs">Tabs</string>
+    <string name="remove">Remove</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>

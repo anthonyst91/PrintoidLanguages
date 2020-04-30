@@ -26,10 +26,10 @@
 
     <string name="plugin_not_in_this_version_title">Plugin nicht verfügbar</string>
     <string name="plugin_not_in_this_version_msg">Dieses Plugin ist in dieser Version von Printoid nicht verfügbar. Erwägen Sie ein Upgrade von Printoid, um diese Funktion in der App zu nutzen! (Überprüfen Sie auf https://printoid.net die verfügbaren Plugins pro Version.)</string>
-    
+
     <string name="plugin_autoshutdown_enable">Fahren Sie den Server nach Abschluss des Druckvorgangs herunter</string>
     <string name="plugin_autoshutdown_type">Art</string>
-    
+
     <string name="plugin_psu_enable">Aktivieren Sie die PSU</string>
 
     <!-- TPLING SMARTPLUG PLUGIN -->
@@ -48,7 +48,7 @@
     <string name="plugin_wemo_ip">WemoSwitch IP:</string>
 
     <string name="plugin_navbartemp_temperature">System-SoC-Temperatur</string>
-    
+
     <string name="plugin_octolapse_enable">Octolapse aktivieren</string>
     <string name="plugin_octolapse_status">Status:</string>
     <string name="plugin_octolapse_printer">Drucker:</string>
@@ -74,5 +74,14 @@
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_available">Das Printoid Plugin ist auf Ihrem OctoPrint-Server installiert</string>
     <string name="plugin_printoid_not_available">Das Printoid-Plugin scheint nicht auf Ihrem OctoPrint-Server installiert zu sein. Installieren Sie es und koppeln Sie es mit Ihrem Gerät, um Echtzeitbenachrichtigungen zu erhalten.</string>
+    <string name="plugin_printoid_layer">Schicht</string>
+    <string name="plugin_printoid_layers_in_memory">Ebenen im Speicher:</string>
+    <string name="plugin_printoid_layers_title">Benachrichtigungen auf Ebene geändert</string>
+    <string name="plugin_printoid_layers_info">Wählen Sie die Ebenen aus, für die Sie benachrichtigt werden möchten, wenn der Druckvorgang beginnt (das DisplayLayerProgress-Plugin muss installiert sein).</string>
+    <string name="plugin_printoid_get_layers_failure">Fehler beim Abrufen der Liste der zu benachrichtigenden Ebenen</string>
+    <string name="plugin_printoid_add_layers_success">Ebene erfolgreich hinzugefügt, erhalten Sie eine Benachrichtigung, wenn erreicht!</string>
+    <string name="plugin_printoid_add_layers_failure">Fehler beim Hinzufügen der Ebene zur Liste der Benachrichtigungen</string>
+    <string name="plugin_printoid_remove_layers_success">Ebene erfolgreich entfernt, erhalten Sie keine Benachrichtigung mehr für diese!</string>
+    <string name="plugin_printoid_remove_layers_failure">Fehler beim Entfernen der Ebene aus der Liste der Benachrichtigungen</string>
 
 </resources>

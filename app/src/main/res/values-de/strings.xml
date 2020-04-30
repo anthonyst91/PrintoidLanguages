@@ -59,6 +59,7 @@
     <string name="never_ask_again">Frag nie wieder</string>
     <string name="grid">Gitter</string>
     <string name="tabs">Laschen</string>
+    <string name="remove">Entfernen</string>
 
     <string name="heated_bed">Beheizte Bett</string>
     <string name="heated_chamber">Beheizte Kammer</string>
