@@ -107,5 +107,9 @@
     <string name="plugin_printoid_temp_bed_info">Wenn die Betttemperatur nach Abschluss des Druckvorgangs unter diesen Schwellenwert fällt, erhalten Sie von OctoPrint eine Benachrichtigung.</string>
     <string name="plugin_printoid_temp_bed_success">Auslösewert für beheiztes Bett für Temperaturbenachrichtigung auf %d eingestellt</string>
     <string name="plugin_printoid_temp_bed_failure">Fehler beim Einstellen des Auslösewerts für das Heizbett für die Temperaturbenachrichtigung!</string>
+    <string name="plugin_printoid_bed_duration_info">Wenn sich das Bett vor dem Druckvorgang für die folgende Dauer auf die Zieltemperatur erwärmt, erhalten Sie von OctoPrint eine Benachrichtigung</string>
+    <string name="plugin_printoid_bed_duration">Protokoll</string>
+    <string name="plugin_printoid_bed_duration_success">Die Warmdauer des beheizten Bettes ist auf %d Minuten eingestellt</string>
+    <string name="plugin_printoid_bed_duration_failure">Fehler beim Einstellen der Warmdauer des beheizten Bettes</string>
 
 </resources>

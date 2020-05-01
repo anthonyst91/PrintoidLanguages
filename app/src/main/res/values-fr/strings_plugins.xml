@@ -114,5 +114,9 @@
     <string name="plugin_printoid_temp_bed_info">Lorsque la température du lit chauffant baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
     <string name="plugin_printoid_temp_bed_success">Valeur seuil de température définie sur %d</string>
     <string name="plugin_printoid_temp_bed_failure">Impossible de définir la valeur seuil pour la notification de température!</string>
+    <string name="plugin_printoid_bed_duration_info">Lorsque le lit chauffant a atteint sa température pendant la durée suivante avant le début de l\'impression, OctoPrint vous enverra une notification</string>
+    <string name="plugin_printoid_bed_duration">Minutes</string>
+    <string name="plugin_printoid_bed_duration_success">Durée de chauffe du lit chauffant réglée sur %d minutes</string>
+    <string name="plugin_printoid_bed_duration_failure">Impossible de régler la durée de chauffe du lit chauffant</string>
 
 </resources>

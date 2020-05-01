@@ -114,5 +114,9 @@
     <string name="plugin_printoid_temp_bed_info">Quando a temperatura da cama cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
     <string name="plugin_printoid_temp_bed_success">Valor de disparo do leito aquecido para a notificação de temperatura definida como %d</string>
     <string name="plugin_printoid_temp_bed_failure">Falha ao definir o valor do gatilho da cama aquecida para notificação de temperatura!</string>
+    <string name="plugin_printoid_bed_duration_info">Quando a cama aquece até a temperatura desejada pela seguinte duração antes do início da impressão, o OctoPrint envia uma notificação</string>
+    <string name="plugin_printoid_bed_duration">Minutos</string>
+    <string name="plugin_printoid_bed_duration_success">Duração de aquecimento da cama aquecida definida para %d minutos</string>
+    <string name="plugin_printoid_bed_duration_failure">Falha ao definir a duração quente da cama aquecida</string>
 
 </resources>

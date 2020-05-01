@@ -105,5 +105,9 @@
     <string name="plugin_printoid_temp_bed_info">Когда температура кровати упадет ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
     <string name="plugin_printoid_temp_bed_success">Значение триггера кровати с подогревом для уведомления о температуре установлено на %d</string>
     <string name="plugin_printoid_temp_bed_failure">Не удалось установить значение триггера нагретого слоя для уведомления о температуре!</string>
+    <string name="plugin_printoid_bed_duration_info">Когда кровать нагревается до заданной температуры в течение следующего периода перед началом печати, OctoPrint отправит вам уведомление</string>
+    <string name="plugin_printoid_bed_duration">минут</string>
+    <string name="plugin_printoid_bed_duration_success">Время прогрева кровати с подогревом установлено на %d минут</string>
+    <string name="plugin_printoid_bed_duration_failure">Не удалось установить продолжительность прогрева кровати с подогревом</string>
 
 </resources>

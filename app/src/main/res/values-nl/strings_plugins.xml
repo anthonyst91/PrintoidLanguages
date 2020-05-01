@@ -105,5 +105,9 @@
     <string name="plugin_printoid_temp_bed_info">Wanneer de bedtemperatuur na het afdrukken onder deze drempel daalt, stuurt OctoPrint u een melding.</string>
     <string name="plugin_printoid_temp_bed_success">Triggerwaarde verwarmd bed voor temperatuurmelding ingesteld op %d</string>
     <string name="plugin_printoid_temp_bed_failure">Kan de triggerwaarde van het verwarmde bed niet instellen voor temperatuurmelding!</string>
+    <string name="plugin_printoid_bed_duration_info">Wanneer het bed gedurende de volgende duur opwarmt tot de gewenste temperatuur voordat het afdrukken begint, stuurt OctoPrint u een melding</string>
+    <string name="plugin_printoid_bed_duration">Minuten</string>
+    <string name="plugin_printoid_bed_duration_success">Verwarmde bed warme duur ingesteld op %d minuten</string>
+    <string name="plugin_printoid_bed_duration_failure">Kan de warme duur van het verwarmde bed niet instellen</string>
 
 </resources>

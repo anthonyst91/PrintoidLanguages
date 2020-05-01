@@ -114,5 +114,9 @@
     <string name="plugin_printoid_temp_bed_info">When bed temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
     <string name="plugin_printoid_temp_bed_success">Heated bed trigger value for temperature notification set to %d</string>
     <string name="plugin_printoid_temp_bed_failure">Failed to set heated bed trigger value for temperature notification!</string>
+    <string name="plugin_printoid_bed_duration_info">When bed warms up to the target temperature for the following duration before print starts, OctoPrint will send you a notification</string>
+    <string name="plugin_printoid_bed_duration">Minutes</string>
+    <string name="plugin_printoid_bed_duration_success">Heated bed warm duration set to %d minutes</string>
+    <string name="plugin_printoid_bed_duration_failure">Failed to set heated bed warm duration</string>
 
 </resources>

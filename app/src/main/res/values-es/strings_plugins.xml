@@ -105,5 +105,9 @@
     <string name="plugin_printoid_temp_bed_info">Cuando la temperatura de la cama cae por debajo de este umbral una vez que se completa la impresión, OctoPrint le enviará una notificación.</string>
     <string name="plugin_printoid_temp_bed_success">Valor de activación de lecho calentado para notificación de temperatura establecido en %d</string>
     <string name="plugin_printoid_temp_bed_failure">¡Error al establecer el valor de activación de la cama calentada para la notificación de temperatura!</string>
+    <string name="plugin_printoid_bed_duration_info">Cuando la cama se calienta a la temperatura objetivo durante la siguiente duración antes de que comience la impresión, OctoPrint le enviará una notificación</string>
+    <string name="plugin_printoid_bed_duration">Minutos</string>
+    <string name="plugin_printoid_bed_duration_success">La duración del calentamiento de la cama calentada se establece en %d minutos</string>
+    <string name="plugin_printoid_bed_duration_failure">No se pudo establecer la duración del calentamiento de la cama caliente</string>
 
 </resources>

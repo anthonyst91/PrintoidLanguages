@@ -113,5 +113,9 @@
     <string name="plugin_printoid_temp_bed_info">一旦打印完成，当床温降至此阈值以下时，OctoPrint将向您发送通知。</string>
     <string name="plugin_printoid_temp_bed_success">温度通知的加热床触发值设置为%d</string>
     <string name="plugin_printoid_temp_bed_failure">无法为温度通知设置加热床触发值</string>
+    <string name="plugin_printoid_bed_duration_info">在打印开始之前，如果床在以下持续时间内加热到目标温度，OctoPrint将向您发送通知</string>
+    <string name="plugin_printoid_bed_duration">分钟</string>
+    <string name="plugin_printoid_bed_duration_success">加热床加热持续时间设置为%d分钟</string>
+    <string name="plugin_printoid_bed_duration_failure">无法设置加热床的加热持续时间</string>
 
 </resources>

@@ -113,5 +113,9 @@
     <string name="plugin_printoid_temp_bed_info">Quando la temperatura del letto scende al di sotto di questa soglia una volta completata la stampa, OctoPrint ti invierà una notifica.</string>
     <string name="plugin_printoid_temp_bed_success">Il valore di trigger del letto riscaldato per la notifica della temperatura è impostato su %d</string>
     <string name="plugin_printoid_temp_bed_failure">Impossibile impostare il valore di attivazione del letto riscaldato per la notifica della temperatura!</string>
+    <string name="plugin_printoid_bed_duration_info">Quando il letto si riscalda alla temperatura target per la seguente durata prima dell\'inizio della stampa, OctoPrint ti invierà una notifica</string>
+    <string name="plugin_printoid_bed_duration">Minuti</string>
+    <string name="plugin_printoid_bed_duration_success">Durata calda del letto riscaldato impostata su %d minuti</string>
+    <string name="plugin_printoid_bed_duration_failure">Impossibile impostare la durata del riscaldamento del letto riscaldato</string>
 
 </resources>
