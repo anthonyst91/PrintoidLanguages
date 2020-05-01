@@ -89,5 +89,10 @@
     <string name="plugin_printoid_add_layers_failure">无法将图层添加到通知列表</string>
     <string name="plugin_printoid_remove_layers_success">图层已成功删除，您将停止收到此通知！</string>
     <string name="plugin_printoid_remove_layers_failure">无法将图层删除到通知列表</string>
+    <string name="plugin_printoid_snooze_mmu_title">关于MMU事件的通知</string>
+    <string name="plugin_printoid_snooze_mmu_info">当需要用户帮助时，将Prusa多种材料升级（MMU）通知静音，持续时间（以分钟为单位）</string>
+    <string name="plugin_printoid_mmu_duration">分钟</string>
+    <string name="plugin_printoid_mmu_snooze_failure">暂停MMU事件失败</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU事件在接下来的％d分钟内被暂停</string>
 
 </resources>

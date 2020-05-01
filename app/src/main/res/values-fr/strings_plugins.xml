@@ -90,5 +90,10 @@
     <string name="plugin_printoid_add_layers_failure">Impossible d\'ajouter une couche à la liste des notifications</string>
     <string name="plugin_printoid_remove_layers_success">Couche supprimée avec succès, vous ne recevrez plus de notification pour celle-ci!</string>
     <string name="plugin_printoid_remove_layers_failure">Échec de la suppression de la couche dans la liste des notifications</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notifications sur les événements MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Désactiver les notifications Prusa Multi Material Upgrade (MMU) lorsqu\'il nécessite l\'assistance de l\'utilisateur, pour une durée donnée (en minutes)</string>
+    <string name="plugin_printoid_mmu_duration">Minutes</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Impossible de mettre en pause les événements MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Les événements MMU mis en pase pour les %d prochaines minutes</string>
 
 </resources>

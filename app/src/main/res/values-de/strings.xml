@@ -61,6 +61,7 @@
     <string name="tabs">Laschen</string>
     <string name="remove">Entfernen</string>
     <string name="clear">Leer</string>
+    <string name="snooze">Dösen</string>
 
     <string name="heated_bed">Beheizte Bett</string>
     <string name="heated_chamber">Beheizte Kammer</string>

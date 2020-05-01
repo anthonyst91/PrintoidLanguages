@@ -61,6 +61,7 @@
     <string name="tabs">Schede</string>
     <string name="remove">Rimuovere</string>
     <string name="clear">Svuotare</string>
+    <string name="snooze">Sonnellino</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>

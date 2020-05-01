@@ -83,5 +83,10 @@
     <string name="plugin_printoid_add_layers_failure">Fehler beim Hinzufügen der Ebene zur Liste der Benachrichtigungen</string>
     <string name="plugin_printoid_remove_layers_success">Ebene erfolgreich entfernt, erhalten Sie keine Benachrichtigung mehr für diese!</string>
     <string name="plugin_printoid_remove_layers_failure">Fehler beim Entfernen der Ebene aus der Liste der Benachrichtigungen</string>
+    <string name="plugin_printoid_snooze_mmu_title">Benachrichtigungen zu MMU-Ereignissen</string>
+    <string name="plugin_printoid_snooze_mmu_info">Schalten Sie die MMU-Benachrichtigungen (Prusa Multi Material Upgrade) für die angegebene Dauer (in Minuten) stumm, wenn Benutzerunterstützung erforderlich ist.</string>
+    <string name="plugin_printoid_mmu_duration">Protokoll</string>
+    <string name="plugin_printoid_mmu_snooze_failure">MMU-Ereignisse konnten nicht deaktiviert werden</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU-Ereignisse dösten für die nächsten %d Minuten</string>
 
 </resources>

@@ -29,7 +29,7 @@
 
     <string name="plugin_autoshutdown_enable">Sluit de server af nadat de afdruk is voltooid</string>
     <string name="plugin_autoshutdown_type">Type</string>
-    
+
     <string name="plugin_psu_enable">Schakel PSU in</string>
 
     <string name="plugin_tplink_enable">Schakel TP-Link SmartPlug in</string>
@@ -44,7 +44,7 @@
     <string name="plugin_wemo_enable">Schakel WemoSwitch in</string>
     <string name="plugin_wemo_state">Huidige toestand:</string>
     <string name="plugin_wemo_ip">WemoSwitch IP:</string>
-    
+
     <string name="plugin_navbartemp_temperature">Systeem SoC temperatuur</string>
 
     <string name="plugin_octolapse_enable">Octolapse inschakelen</string>
@@ -81,5 +81,10 @@
     <string name="plugin_printoid_add_layers_failure">Kan laag niet toevoegen aan de lijst met meldingen</string>
     <string name="plugin_printoid_remove_layers_success">Laag met succes verwijderd, u ontvangt geen melding meer voor deze!</string>
     <string name="plugin_printoid_remove_layers_failure">Kan laag niet verwijderen uit de lijst met meldingen</string>
+    <string name="plugin_printoid_snooze_mmu_title">Meldingen over MMU-evenementen</string>
+    <string name="plugin_printoid_snooze_mmu_info">Demp de Prusa Multi Material Upgrade (MMU) -meldingen wanneer het gebruikersondersteuning vereist, voor de gegeven duur (in minuten)</string>
+    <string name="plugin_printoid_mmu_duration">Minuten</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Kan MMU-evenementen niet snoozen</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU-evenementen hebben gedurende de volgende %d minuten gesnoozed</string>
 
 </resources>

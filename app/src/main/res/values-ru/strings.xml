@@ -61,6 +61,7 @@
     <string name="tabs">Bкладки</string>
     <string name="remove">Удалить</string>
     <string name="clear">Пустой</string>
+    <string name="snooze">Bздремнуть</string>
 
     <string name="heated_bed">Стол</string>
     <string name="heated_chamber">Подогреваемая камера</string>

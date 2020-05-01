@@ -90,5 +90,10 @@
     <string name="plugin_printoid_add_layers_failure">Falha ao adicionar camada à lista de notificações</string>
     <string name="plugin_printoid_remove_layers_success">Camada removida com sucesso, você deixará de receber notificações para esta!</string>
     <string name="plugin_printoid_remove_layers_failure">Falha ao remover a camada da lista de notificações</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notificações sobre eventos MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Ignore as notificações do Prusa Multi Material Upgrade (MMU) quando precisar de assistência ao usuário, pela duração especificada (em minutos)</string>
+    <string name="plugin_printoid_mmu_duration">Minutos</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Falha ao adiar eventos MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Eventos da MMU adiados pelos próximos %d minutos</string>
 
 </resources>

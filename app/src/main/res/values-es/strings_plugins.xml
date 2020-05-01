@@ -81,5 +81,10 @@
     <string name="plugin_printoid_add_layers_failure">Error al agregar capa a la lista de notificaciones</string>
     <string name="plugin_printoid_remove_layers_success">Capa eliminada con éxito, ¡dejarás de recibir notificaciones para esta!</string>
     <string name="plugin_printoid_remove_layers_failure">Error al eliminar la capa de la lista de notificaciones</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notificaciones sobre eventos MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Silenciar las notificaciones de Prusa Multi Material Upgrade (MMU) cuando requiere asistencia del usuario, durante el tiempo dado (en minutos)</string>
+    <string name="plugin_printoid_mmu_duration">Minutos</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Error al posponer eventos MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Los eventos de MMU pospusieron los siguientes %d minutos</string>
 
 </resources>

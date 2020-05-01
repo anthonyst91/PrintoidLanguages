@@ -61,6 +61,7 @@
     <string name="tabs">Tabs</string>
     <string name="remove">Remove</string>
     <string name="clear">Clear</string>
+    <string name="snooze">Snooze</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>

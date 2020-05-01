@@ -81,5 +81,10 @@
     <string name="plugin_printoid_add_layers_failure">Не удалось добавить слой в список уведомлений</string>
     <string name="plugin_printoid_remove_layers_success">Слой успешно удален, вы прекратите получать уведомления для этого!</string>
     <string name="plugin_printoid_remove_layers_failure">Не удалось удалить слой в список уведомлений</string>
+    <string name="plugin_printoid_snooze_mmu_title">Уведомления о событиях MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Отключение уведомлений Prusa Multi Material Upgrade (MMU), когда требуется помощь пользователя, в течение заданного времени (в минутах)</string>
+    <string name="plugin_printoid_mmu_duration">минут</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Не удалось отложить события MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">События MMU откладывались в течение следующих %d минут</string>
 
 </resources>

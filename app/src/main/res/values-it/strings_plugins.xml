@@ -89,5 +89,10 @@
     <string name="plugin_printoid_add_layers_failure">Impossibile aggiungere il livello all\'elenco delle notifiche</string>
     <string name="plugin_printoid_remove_layers_success">Livello rimosso con successo, non riceverai più notifiche per questo!</string>
     <string name="plugin_printoid_remove_layers_failure">Impossibile rimuovere il livello nell\'elenco delle notifiche</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notifiche sugli eventi MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Disattiva le notifiche di Prusa Multi Material Upgrade (MMU) quando è necessaria l\'assistenza dell\'utente, per la durata indicata (in minuti)</string>
+    <string name="plugin_printoid_mmu_duration">Minuti</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Impossibile posticipare gli eventi MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Gli eventi MMU sono stati posticipati per i successivi %d minuti</string>
 
 </resources>
