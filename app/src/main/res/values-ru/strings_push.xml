@@ -5,11 +5,11 @@
     <string name="push_alert_event_print_progress">Ход печати: %s%%</string>
     <string name="push_alert_event_printer_state">Состояние принтера изменено на: %s</string>
     <string name="push_alert_event_printer_error">Принтер перешел в состояние ошибки!</string>
-    <string name="push_alert_event_bed_cool">Предупреждение о кровати принтера: ниже цели!</string>
-    <string name="push_alert_event_bed_warm">Предупреждение о принтере: выше цели!</string>
+    <string name="push_alert_event_bed_cool">Станина принтера остыла (ниже %s°C)</string>
+    <string name="push_alert_event_bed_warm">Кровать принтера достигла своей температуры! (%s°C)</string>
     <string name="push_alert_event_mmu">MMU требует помощи пользователя</string>
     <string name="push_alert_event_paused">Принтер остановился, ждет вас!</string>
-    <string name="push_alert_event_tool_cool">Предупреждение о температуре головки принтера!</string>
+    <string name="push_alert_event_tool_cool">Головка принтера остыла (ниже %s°C)</string>
     <string name="push_alert_event_palette">Произошла ошибка в Palette2, печать приостановлена: %s</string>
     <string name="push_alert_event_layer">Слой изменен: %s</string>
 

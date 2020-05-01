@@ -6,11 +6,11 @@
     <string name="push_alert_event_print_progress">Print progress: %s%%</string>
     <string name="push_alert_event_printer_state">Printer state changed to: %s</string>
     <string name="push_alert_event_printer_error">Printer went in error state!</string>
-    <string name="push_alert_event_bed_cool">Printer bed alert: below target!</string>
-    <string name="push_alert_event_bed_warm">Printer bed alert: above target!</string>
+    <string name="push_alert_event_bed_cool">Printer bed cooled down (below %s°C)</string>
+    <string name="push_alert_event_bed_warm">Printer bed reached its temperature! (%s°C)</string>
     <string name="push_alert_event_mmu">MMU requires user assistance</string>
     <string name="push_alert_event_paused">Printer paused, waiting for you!</string>
-    <string name="push_alert_event_tool_cool">Printer head temperature alert!</string>
+    <string name="push_alert_event_tool_cool">Printer head cooled down (below %s°C)</string>
     <string name="push_alert_event_palette">Error occurred on Palette2, print paused: %s</string>
     <string name="push_alert_event_layer">Layer changed: %s</string>
 

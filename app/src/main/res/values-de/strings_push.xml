@@ -5,11 +5,11 @@
     <string name="push_alert_event_print_progress">Druckfortschritt: %s%%</string>
     <string name="push_alert_event_printer_state">Der Druckerstatus wurde geändert in: %s</string>
     <string name="push_alert_event_printer_error">Drucker ging in Fehlerzustand!</string>
-    <string name="push_alert_event_bed_cool">Druckerbettalarm: unter dem Ziel!</string>
-    <string name="push_alert_event_bed_warm">Druckerbettalarm: über dem Ziel!</string>
+    <string name="push_alert_event_bed_cool">Druckerbett abgekühlt (unten %s°C)</string>
+    <string name="push_alert_event_bed_warm">Das Druckerbett hat seine Temperatur erreicht! (%s°C)</string>
     <string name="push_alert_event_mmu">MMU erfordert Benutzerunterstützung</string>
     <string name="push_alert_event_paused">Der Drucker blieb stehen und wartete auf Sie!</string>
-    <string name="push_alert_event_tool_cool">Druckkopftemperaturwarnung!</string>
+    <string name="push_alert_event_tool_cool">Druckerkopf abgekühlt (unten %s°C)</string>
     <string name="push_alert_event_palette">Auf Palette2 ist ein Fehler aufgetreten, Druck unterbrochen: %s</string>
     <string name="push_alert_event_layer">Ebene geändert: %s</string>
 
