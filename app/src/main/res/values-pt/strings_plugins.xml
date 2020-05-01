@@ -106,5 +106,7 @@
     <string name="plugin_printoid_progress_failure">Falha ao alterar as notificações de progresso</string>
     <string name="plugin_printoid_notifications_title">Gerenciar configurações de notificação</string>
     <string name="plugin_printoid_notifications_info">Gerencie as configurações de notificações (defina sons e vibrações específicos para todos os canais disponíveis)</string>
+    <string name="plugin_printoid_temp_head_title">As notificações sobre a cabeça aquecida esfriam</string>
+    <string name="plugin_printoid_temp_head_info">Quando a temperatura da extrusora cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
 
 </resources>

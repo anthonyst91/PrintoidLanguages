@@ -106,5 +106,7 @@
     <string name="plugin_printoid_progress_failure">Impossible de modifier les notifications de progression</string>
     <string name="plugin_printoid_notifications_title">Gérer les notification</string>
     <string name="plugin_printoid_notifications_info">Gérez les paramètres de notifications (définissez des sons et des vibrations spécifiques pour chaque canal disponible)</string>
+    <string name="plugin_printoid_temp_head_title">Notifications extrudeur</string>
+    <string name="plugin_printoid_temp_head_info">Lorsque la température de l\'extrudeur baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
 
 </resources>

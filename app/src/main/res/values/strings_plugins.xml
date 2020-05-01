@@ -106,5 +106,9 @@
     <string name="plugin_printoid_progress_failure">Failed to change progress notifications</string>
     <string name="plugin_printoid_notifications_title">Manage notification settings</string>
     <string name="plugin_printoid_notifications_info">Manage the notifications settings (define specific sounds and vibrations for every available channels)</string>
+    <string name="plugin_printoid_temp_head_title">Notifications on heated head cool down</string>
+    <string name="plugin_printoid_temp_head_info">When extruder temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
+    <string name="plugin_printoid_temp_head_success">Heated head trigger value for temperature notification set to %d</string>
+    <string name="plugin_printoid_temp_head_failure">Failed to set heated head trigger value for temperature notification!</string>
 
 </resources>

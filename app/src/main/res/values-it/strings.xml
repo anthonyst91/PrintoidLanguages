@@ -62,6 +62,8 @@
     <string name="remove">Rimuovere</string>
     <string name="clear">Svuotare</string>
     <string name="snooze">Sonnellino</string>
+    <string name="temperature">Temperatura</string>
+    <string name="disable">Disattivare</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>

@@ -62,6 +62,8 @@
     <string name="remove">Retirar</string>
     <string name="clear">Vazio</string>
     <string name="snooze">Soneca</string>
+    <string name="temperature">Temperatura</string>
+    <string name="disable">Desativar</string>
 
     <string name="heated_bed">Cama aquecida</string>
     <string name="heated_chamber">Câmara aquecida</string>

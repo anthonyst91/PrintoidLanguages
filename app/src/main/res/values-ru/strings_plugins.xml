@@ -97,5 +97,7 @@
     <string name="plugin_printoid_progress_failure">Не удалось изменить уведомления о прогрессе</string>
     <string name="plugin_printoid_notifications_title">Управление настройками уведомлений</string>
     <string name="plugin_printoid_notifications_info">Управление настройками уведомлений (определение конкретных звуков и вибраций для всех доступных каналов)</string>
+    <string name="plugin_printoid_temp_head_title">Уведомления о нагревании головы остыть</string>
+    <string name="plugin_printoid_temp_head_info">Когда температура экструдера падает ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
 
 </resources>
