@@ -60,6 +60,7 @@
     <string name="grid">Cuadrícula</string>
     <string name="tabs">Fichas</string>
     <string name="remove">Eliminar</string>
+    <string name="clear">Vacio</string>
 
     <string name="heated_bed">Cama calentada</string>
     <string name="heated_chamber">Cámara caliente</string>

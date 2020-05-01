@@ -60,6 +60,7 @@
     <string name="grid">Grille</string>
     <string name="tabs">Onglets</string>
     <string name="remove">Retirer</string>
+    <string name="clear">Vider</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_chamber">Chambre chauffante</string>

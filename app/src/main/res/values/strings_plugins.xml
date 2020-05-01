@@ -89,6 +89,6 @@
     <string name="plugin_printoid_add_layers_success">Layer added successfully, you will receive a notification when reached!</string>
     <string name="plugin_printoid_add_layers_failure">Failed to add layer to the list of notifications</string>
     <string name="plugin_printoid_remove_layers_success">Layer removed successfully, you will stop receiving notification for this one!</string>
-    <string name="plugin_printoid_remove_layers_failure">Failed to remove layer to the list of notifications</string>
+    <string name="plugin_printoid_remove_layers_failure">Failed to remove layer from the list of notifications</string>
 
 </resources>

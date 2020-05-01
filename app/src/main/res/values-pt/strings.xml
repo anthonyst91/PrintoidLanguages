@@ -60,6 +60,7 @@
     <string name="grid">Grade</string>
     <string name="tabs">Abas</string>
     <string name="remove">Retirar</string>
+    <string name="clear">Vazio</string>
 
     <string name="heated_bed">Cama aquecida</string>
     <string name="heated_chamber">Câmara aquecida</string>
