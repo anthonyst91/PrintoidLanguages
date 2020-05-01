@@ -33,16 +33,6 @@
         <item>Juste WAN</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>Son 1</item>
-        <item>Son 2</item>
-        <item>Son 3</item>
-        <item>Son 4</item>
-        <item>Son 5</item>
-        <item>Son 6</item>
-        <item>Son OFF</item>
-    </string-array>
-
     <string-array name="after_slicing_array">
         <item>Ne rien faire</item>
         <item>Sélectionner pour l\'impression</item>

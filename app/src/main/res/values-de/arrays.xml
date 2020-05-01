@@ -27,16 +27,6 @@
         <item>WAN only</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>Sound 1</item>
-        <item>Sound 2</item>
-        <item>Sound 3</item>
-        <item>Sound 4</item>
-        <item>Sound 5</item>
-        <item>Sound 6</item>
-        <item>Sound OFF</item>
-    </string-array>
-
     <string-array name="setting_connection_mode_array">
         <item>Auto</item>
         <item>LAN zuerst</item>

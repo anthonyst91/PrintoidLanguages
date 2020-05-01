@@ -33,16 +33,6 @@
         <item>Только WAN</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>Звук 1</item>
-        <item>Звук 2</item>
-        <item>Звук 3</item>
-        <item>Звук 4</item>
-        <item>Звук 5</item>
-        <item>Звук 6</item>
-        <item>Звук выкл</item>
-    </string-array>
-
     <string-array name="after_slicing_array">
         <item>Ничего</item>
         <item>Выбор для печати</item>
