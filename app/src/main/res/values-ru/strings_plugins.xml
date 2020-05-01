@@ -95,5 +95,7 @@
     <string name="plugin_printoid_progress_mode_at_end">Только в конце</string>
     <string name="plugin_printoid_progress_success">Для уведомлений о ходе выполнения установлено значение: %s</string>
     <string name="plugin_printoid_progress_failure">Не удалось изменить уведомления о прогрессе</string>
+    <string name="plugin_printoid_notifications_title">Управление настройками уведомлений</string>
+    <string name="plugin_printoid_notifications_info">Управление настройками уведомлений (определение конкретных звуков и вибраций для всех доступных каналов)</string>
 
 </resources>

@@ -97,5 +97,7 @@
     <string name="plugin_printoid_progress_mode_at_end">Nur am Ende</string>
     <string name="plugin_printoid_progress_success">Fortschrittsbenachrichtigungen festgelegt auf: %s</string>
     <string name="plugin_printoid_progress_failure">Fortschrittsbenachrichtigungen konnten nicht geändert werden</string>
+    <string name="plugin_printoid_notifications_title">Benachrichtigungseinstellungen verwalten</string>
+    <string name="plugin_printoid_notifications_info">Verwalten Sie die Benachrichtigungseinstellungen (definieren Sie spezifische Sounds und Vibrationen für jeden verfügbaren Kanal).</string>
 
 </resources>

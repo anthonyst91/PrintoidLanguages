@@ -95,5 +95,7 @@
     <string name="plugin_printoid_progress_mode_at_end">Alleen aan het einde</string>
     <string name="plugin_printoid_progress_success">Voortgangsmeldingen ingesteld op: %s</string>
     <string name="plugin_printoid_progress_failure">Kan voortgangsmeldingen niet wijzigen</string>
+    <string name="plugin_printoid_notifications_title">Beheer instellingen voor meldingen</string>
+    <string name="plugin_printoid_notifications_info">Beheer de instellingen voor meldingen (definieer specifieke geluiden en trillingen voor alle beschikbare kanalen)</string>
 
 </resources>

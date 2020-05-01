@@ -103,5 +103,7 @@
     <string name="plugin_printoid_progress_mode_at_end">只在最后</string>
     <string name="plugin_printoid_progress_success">进度通知设置为：%s</string>
     <string name="plugin_printoid_progress_failure">更改进度通知失败</string>
+    <string name="plugin_printoid_notifications_title">管理通知设置</string>
+    <string name="plugin_printoid_notifications_info">管理通知设置（为每个可用频道定义特定的声音和振动</string>
 
 </resources>

@@ -103,5 +103,7 @@
     <string name="plugin_printoid_progress_mode_at_end">Solo alla fine</string>
     <string name="plugin_printoid_progress_success">Notifiche di avanzamento impostate su: %s</string>
     <string name="plugin_printoid_progress_failure">Impossibile modificare le notifiche di avanzamento</string>
+    <string name="plugin_printoid_notifications_title">Gestisci le impostazioni di notifica</string>
+    <string name="plugin_printoid_notifications_info">Gestire le impostazioni delle notifiche (definire suoni e vibrazioni specifici per tutti i canali disponibili)</string>
 
 </resources>

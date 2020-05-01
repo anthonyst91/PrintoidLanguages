@@ -104,5 +104,7 @@
     <string name="plugin_printoid_progress_mode_at_end">Só no final</string>
     <string name="plugin_printoid_progress_success">Notificações de progresso definidas para: %s</string>
     <string name="plugin_printoid_progress_failure">Falha ao alterar as notificações de progresso</string>
+    <string name="plugin_printoid_notifications_title">Gerenciar configurações de notificação</string>
+    <string name="plugin_printoid_notifications_info">Gerencie as configurações de notificações (defina sons e vibrações específicos para todos os canais disponíveis)</string>
 
 </resources>
