@@ -108,5 +108,11 @@
     <string name="plugin_printoid_notifications_info">Gerencie as configurações de notificações (defina sons e vibrações específicos para todos os canais disponíveis)</string>
     <string name="plugin_printoid_temp_head_title">As notificações sobre a cabeça aquecida esfriam</string>
     <string name="plugin_printoid_temp_head_info">Quando a temperatura da extrusora cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
+    <string name="plugin_printoid_temp_head_success">Valor do gatilho da cabeça aquecida para a notificação de temperatura definida como %d</string>
+    <string name="plugin_printoid_temp_head_failure">Falha ao definir o valor do gatilho da cabeça aquecida para notificação de temperatura!</string>
+    <string name="plugin_printoid_temp_bed_title">As notificações na cama aquecida esfriam</string>
+    <string name="plugin_printoid_temp_bed_info">Quando a temperatura da cama cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
+    <string name="plugin_printoid_temp_bed_success">Valor de disparo do leito aquecido para a notificação de temperatura definida como %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Falha ao definir o valor do gatilho da cama aquecida para notificação de temperatura!</string>
 
 </resources>

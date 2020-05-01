@@ -99,5 +99,11 @@
     <string name="plugin_printoid_notifications_info">Administre la configuración de notificaciones (defina sonidos y vibraciones específicos para cada canal disponible)</string>
     <string name="plugin_printoid_temp_head_title">Notificaciones sobre enfriamiento de la cabeza calentada</string>
     <string name="plugin_printoid_temp_head_info">Cuando la temperatura del extrusor cae por debajo de este umbral una vez que se completa la impresión, OctoPrint le enviará una notificación.</string>
+    <string name="plugin_printoid_temp_head_success">Valor de activación de cabezal calentado para notificación de temperatura establecido en %d</string>
+    <string name="plugin_printoid_temp_head_failure">¡Error al establecer el valor del disparador del cabezal calentado para la notificación de temperatura!</string>
+    <string name="plugin_printoid_temp_bed_title">Notificaciones sobre cama calentada enfriar</string>
+    <string name="plugin_printoid_temp_bed_info">Cuando la temperatura de la cama cae por debajo de este umbral una vez que se completa la impresión, OctoPrint le enviará una notificación.</string>
+    <string name="plugin_printoid_temp_bed_success">Valor de activación de lecho calentado para notificación de temperatura establecido en %d</string>
+    <string name="plugin_printoid_temp_bed_failure">¡Error al establecer el valor de activación de la cama calentada para la notificación de temperatura!</string>
 
 </resources>

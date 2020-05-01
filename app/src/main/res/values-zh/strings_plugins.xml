@@ -107,5 +107,11 @@
     <string name="plugin_printoid_notifications_info">管理通知设置（为每个可用频道定义特定的声音和振动</string>
     <string name="plugin_printoid_temp_head_title">加热头冷却的通知</string>
     <string name="plugin_printoid_temp_head_info">打印完成后，当挤出机温度降至此阈值以下时，OctoPrint将向您发送通知。</string>
+    <string name="plugin_printoid_temp_head_success">温度通知的加热头触发值设置为%d</string>
+    <string name="plugin_printoid_temp_head_failure">无法设置用于通知温度的加热头触发值</string>
+    <string name="plugin_printoid_temp_bed_title">通知加热床冷却</string>
+    <string name="plugin_printoid_temp_bed_info">一旦打印完成，当床温降至此阈值以下时，OctoPrint将向您发送通知。</string>
+    <string name="plugin_printoid_temp_bed_success">温度通知的加热床触发值设置为%d</string>
+    <string name="plugin_printoid_temp_bed_failure">无法为温度通知设置加热床触发值</string>
 
 </resources>

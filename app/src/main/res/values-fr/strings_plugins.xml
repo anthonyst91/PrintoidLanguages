@@ -108,5 +108,11 @@
     <string name="plugin_printoid_notifications_info">Gérez les paramètres de notifications (définissez des sons et des vibrations spécifiques pour chaque canal disponible)</string>
     <string name="plugin_printoid_temp_head_title">Notifications extrudeur</string>
     <string name="plugin_printoid_temp_head_info">Lorsque la température de l\'extrudeur baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
+    <string name="plugin_printoid_temp_head_success">Valeur seuil de température définie sur %d</string>
+    <string name="plugin_printoid_temp_head_failure">Impossible de définir la valeur seuil pour la notification de température!</string>
+    <string name="plugin_printoid_temp_bed_title">Notifications sur le lit chauffant refroidir</string>
+    <string name="plugin_printoid_temp_bed_info">Lorsque la température du lit chauffant baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
+    <string name="plugin_printoid_temp_bed_success">Valeur seuil de température définie sur %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Impossible de définir la valeur seuil pour la notification de température!</string>
 
 </resources>

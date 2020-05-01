@@ -99,5 +99,11 @@
     <string name="plugin_printoid_notifications_info">Управление настройками уведомлений (определение конкретных звуков и вибраций для всех доступных каналов)</string>
     <string name="plugin_printoid_temp_head_title">Уведомления о нагревании головы остыть</string>
     <string name="plugin_printoid_temp_head_info">Когда температура экструдера падает ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
+    <string name="plugin_printoid_temp_head_success">Значение триггера нагреваемой головки для уведомления о температуре установлено на %d</string>
+    <string name="plugin_printoid_temp_head_failure">Не удалось установить значение триггера горячей головки для уведомления о температуре!</string>
+    <string name="plugin_printoid_temp_bed_title">Уведомления об остывании нагретой кровати</string>
+    <string name="plugin_printoid_temp_bed_info">Когда температура кровати упадет ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
+    <string name="plugin_printoid_temp_bed_success">Значение триггера кровати с подогревом для уведомления о температуре установлено на %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Не удалось установить значение триггера нагретого слоя для уведомления о температуре!</string>
 
 </resources>

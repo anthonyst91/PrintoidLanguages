@@ -101,5 +101,11 @@
     <string name="plugin_printoid_notifications_info">Verwalten Sie die Benachrichtigungseinstellungen (definieren Sie spezifische Sounds und Vibrationen für jeden verfügbaren Kanal).</string>
     <string name="plugin_printoid_temp_head_title">Benachrichtigungen über beheizten Kopf kühlen ab</string>
     <string name="plugin_printoid_temp_head_info">Wenn die Extrudertemperatur nach Abschluss des Druckvorgangs unter diesen Schwellenwert fällt, erhalten Sie von OctoPrint eine Benachrichtigung.</string>
+    <string name="plugin_printoid_temp_head_success">Auslösewert für beheizten Kopf für Temperaturbenachrichtigung auf %d eingestellt</string>
+    <string name="plugin_printoid_temp_head_failure">Fehler beim Einstellen des Auslösewerts für den beheizten Kopf für die Temperaturbenachrichtigung!</string>
+    <string name="plugin_printoid_temp_bed_title">Benachrichtigungen auf dem beheizten Bett kühlen ab</string>
+    <string name="plugin_printoid_temp_bed_info">Wenn die Betttemperatur nach Abschluss des Druckvorgangs unter diesen Schwellenwert fällt, erhalten Sie von OctoPrint eine Benachrichtigung.</string>
+    <string name="plugin_printoid_temp_bed_success">Auslösewert für beheiztes Bett für Temperaturbenachrichtigung auf %d eingestellt</string>
+    <string name="plugin_printoid_temp_bed_failure">Fehler beim Einstellen des Auslösewerts für das Heizbett für die Temperaturbenachrichtigung!</string>
 
 </resources>

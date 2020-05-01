@@ -110,5 +110,9 @@
     <string name="plugin_printoid_temp_head_info">When extruder temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
     <string name="plugin_printoid_temp_head_success">Heated head trigger value for temperature notification set to %d</string>
     <string name="plugin_printoid_temp_head_failure">Failed to set heated head trigger value for temperature notification!</string>
+    <string name="plugin_printoid_temp_bed_title">Notifications on heated bed cool down</string>
+    <string name="plugin_printoid_temp_bed_info">When bed temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
+    <string name="plugin_printoid_temp_bed_success">Heated bed trigger value for temperature notification set to %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Failed to set heated bed trigger value for temperature notification!</string>
 
 </resources>

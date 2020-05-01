@@ -99,5 +99,11 @@
     <string name="plugin_printoid_notifications_info">Beheer de instellingen voor meldingen (definieer specifieke geluiden en trillingen voor alle beschikbare kanalen)</string>
     <string name="plugin_printoid_temp_head_title">Meldingen op verwarmde kop koelen af</string>
     <string name="plugin_printoid_temp_head_info">Wanneer de extrudertemperatuur na het afdrukken onder deze drempel daalt, stuurt OctoPrint u een melding.</string>
+    <string name="plugin_printoid_temp_head_success">Triggerwaarde verwarmde kop voor temperatuurmelding ingesteld op %d</string>
+    <string name="plugin_printoid_temp_head_failure">Kan de triggerwaarde van de verwarmde kop niet instellen voor temperatuurmelding!</string>
+    <string name="plugin_printoid_temp_bed_title">Meldingen op verwarmd bed koelen af</string>
+    <string name="plugin_printoid_temp_bed_info">Wanneer de bedtemperatuur na het afdrukken onder deze drempel daalt, stuurt OctoPrint u een melding.</string>
+    <string name="plugin_printoid_temp_bed_success">Triggerwaarde verwarmd bed voor temperatuurmelding ingesteld op %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Kan de triggerwaarde van het verwarmde bed niet instellen voor temperatuurmelding!</string>
 
 </resources>

@@ -107,5 +107,11 @@
     <string name="plugin_printoid_notifications_info">Gestire le impostazioni delle notifiche (definire suoni e vibrazioni specifici per tutti i canali disponibili)</string>
     <string name="plugin_printoid_temp_head_title">Notifiche sul raffreddamento della testa riscaldata</string>
     <string name="plugin_printoid_temp_head_info">Quando la temperatura dell\'estrusore scende al di sotto di questa soglia una volta completata la stampa, OctoPrint ti invierà una notifica.</string>
+    <string name="plugin_printoid_temp_head_success">Il valore di attivazione della testa riscaldata per la notifica della temperatura è impostato su %d</string>
+    <string name="plugin_printoid_temp_head_failure">Impossibile impostare il valore di attivazione della testina riscaldata per la notifica della temperatura!</string>
+    <string name="plugin_printoid_temp_bed_title">Notifiche sul raffreddamento del letto riscaldato</string>
+    <string name="plugin_printoid_temp_bed_info">Quando la temperatura del letto scende al di sotto di questa soglia una volta completata la stampa, OctoPrint ti invierà una notifica.</string>
+    <string name="plugin_printoid_temp_bed_success">Il valore di trigger del letto riscaldato per la notifica della temperatura è impostato su %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Impossibile impostare il valore di attivazione del letto riscaldato per la notifica della temperatura!</string>
 
 </resources>
