@@ -95,5 +95,14 @@
     <string name="plugin_printoid_mmu_duration">Minutos</string>
     <string name="plugin_printoid_mmu_snooze_failure">Falha ao adiar eventos MMU</string>
     <string name="plugin_printoid_mmu_snooze_success">Eventos da MMU adiados pelos próximos %d minutos</string>
+    <string name="plugin_printoid_progress_title">Notificações sobre o andamento da impressão</string>
+    <string name="plugin_printoid_progress_info">Selecione para qual progresso será notificado quando for atingido pelo trabalho atual</string>
+    <string name="plugin_printoid_progress_mode_off">FORA</string>
+    <string name="plugin_printoid_progress_mode_every_10">A cada 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Cada 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">A cada 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Só no final</string>
+    <string name="plugin_printoid_progress_success">Notificações de progresso definidas para: %s</string>
+    <string name="plugin_printoid_progress_failure">Falha ao alterar as notificações de progresso</string>
 
 </resources>

@@ -88,5 +88,14 @@
     <string name="plugin_printoid_mmu_duration">Protokoll</string>
     <string name="plugin_printoid_mmu_snooze_failure">MMU-Ereignisse konnten nicht deaktiviert werden</string>
     <string name="plugin_printoid_mmu_snooze_success">MMU-Ereignisse dösten für die nächsten %d Minuten</string>
+    <string name="plugin_printoid_progress_title">Benachrichtigungen zum Druckfortschritt</string>
+    <string name="plugin_printoid_progress_info">Wählen Sie aus, für welchen Fortschritt Sie benachrichtigt werden sollen, wenn der aktuelle Job ihn erreicht</string>
+    <string name="plugin_printoid_progress_mode_off">AUS</string>
+    <string name="plugin_printoid_progress_mode_every_10">Alle 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Alle 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Alle 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Nur am Ende</string>
+    <string name="plugin_printoid_progress_success">Fortschrittsbenachrichtigungen festgelegt auf: %s</string>
+    <string name="plugin_printoid_progress_failure">Fortschrittsbenachrichtigungen konnten nicht geändert werden</string>
 
 </resources>

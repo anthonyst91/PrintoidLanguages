@@ -95,5 +95,14 @@
     <string name="plugin_printoid_mmu_duration">Minutes</string>
     <string name="plugin_printoid_mmu_snooze_failure">Failed to snooze MMU events</string>
     <string name="plugin_printoid_mmu_snooze_success">MMU events snoozed for the next %d minutes</string>
+    <string name="plugin_printoid_progress_title">Notifications on print progress</string>
+    <string name="plugin_printoid_progress_info">Select which progress to be notified for, when it is reached by the current job</string>
+    <string name="plugin_printoid_progress_mode_off">OFF</string>
+    <string name="plugin_printoid_progress_mode_every_10">Every 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Every 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Every 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Only at the end</string>
+    <string name="plugin_printoid_progress_success">Progress notifications set to: %s</string>
+    <string name="plugin_printoid_progress_failure">Failed to change progress notifications</string>
 
 </resources>

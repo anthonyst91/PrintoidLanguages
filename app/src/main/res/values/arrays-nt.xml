@@ -39,7 +39,7 @@
         <item>Yellow 2020</item>
     </string-array>
 
-    <string-array translatable="false" name="keyboard_type_array">
+    <string-array name="keyboard_type_array" translatable="false">
         <item>QWERTY</item>
         <item>AZERTY</item>
         <item>QWERTZ</item>
@@ -102,6 +102,22 @@
     <string-array name="dashboard_modes_array" translatable="false">
         <item>@string/grid</item>
         <item>@string/tabs</item>
+    </string-array>
+
+    <string-array name="printoid_plugin_progress_mode_array" translatable="false">
+        <item>@string/plugin_printoid_progress_mode_off</item>
+        <item>@string/plugin_printoid_progress_mode_every_10</item>
+        <item>@string/plugin_printoid_progress_mode_every_25</item>
+        <item>@string/plugin_printoid_progress_mode_every_50</item>
+        <item>@string/plugin_printoid_progress_mode_at_end</item>
+    </string-array>
+
+    <string-array name="printoid_plugin_progress_mode_values_array" translatable="false">
+        <item>0</item>
+        <item>10</item>
+        <item>25</item>
+        <item>50</item>
+        <item>10</item>
     </string-array>
 
 </resources>
