@@ -44,7 +44,7 @@
     <string name="setting_enable_overlay">Activer l\'icône flottante</string>
     <string name="setting_enable_autostart_overlay">Démarrage automatique de l\'icône flottante</string>
     <string name="setting_enable_auto_config">Récupérer la config automatiquement</string>
-    <string name="setting_enable_notif">Activer les notifications</string>
+    <string name="setting_enable_notif">Activer le mode arrière-plan</string>
     <string name="setting_tools_presets">Valeurs préchargées</string>
     <string name="setting_enable_check_connection">Verif. périodique de la connexion</string>
     <string name="setting_enable_hot_bed">Contrôle du lit chauffant</string>
@@ -147,7 +147,7 @@
     <string name="setting_enable_fix_octoprint_updates_tip">Activer seulement si impossible de se connecter à OctoPrint</string>
     <string name="setting_enable_unread_messages_tip">Notifications lors de nouveaux articles du site</string>
     <string name="setting_enable_changelogs_tip">Alerte lorsqu\'une nouvelle version est sur Google Play</string>
-    <string name="setting_enable_notif_tip">Rester en arrière plan avec des notifications</string>
+    <string name="setting_enable_notif_tip">Laisser Printoid parler à OctoPrint en arrière plan</string>
     <string name="setting_enable_check_connection_tip">Assurer la communication de Printoid</string>
     <string name="setting_enable_always_prompt_tty_tip">Afficher les ports série à la connexion, ignorant celui par défaut</string>
     <string name="setting_enable_printer_info_display_tip">Afficher les températures &amp; info impression par dessus la vidéo</string>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="plugin_name_printoid" translatable="false">Printoid Plugin</string>
     <string name="plugin_name_psu" translatable="false">PSU Control</string>
     <string name="plugin_name_autoshutdown" translatable="false">Automatic Shutdown</string>
     <string name="plugin_name_tp_link" translatable="false">TP-Link SmartPlug</string>
@@ -11,6 +12,7 @@
     <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
     <string name="plugin_name_prusathumbnail" translatable="false">PrusaSlicer Thumbnail</string>
 
+    <string name="plugin_author_printoid" translatable="false">Anthony Stéphan (@anthonyst91)</string>
     <string name="plugin_author_psu" translatable="false">Shawn Bruce (@kantlivelong)</string>
     <string name="plugin_author_autoshutdown" translatable="false">Nicanor Romero Venier(@octoprint)</string>
     <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
@@ -21,6 +23,7 @@
     <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
     <string name="plugin_author_prusathumbnail" translatable="false">(@jneilliii)</string>
 
+    <string name="plugin_url_printoid" translatable="false">https://github.com/anthonyst91/OctoPrint-Printoid</string>
     <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
     <string name="plugin_url_autoshutdown" translatable="false">https://github.com/OctoPrint/OctoPrint-AutomaticShutdown</string>
     <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
@@ -35,5 +38,22 @@
 
     <!-- PRUSASLICER THUMBNAIL PLUGIN -->
     <string name="plugin_prusathumbnail_info" translatable="false">Since PrusaSlicer only enables thumbnails by default for the Prusa Mini you may need to manually update your configuration files. Those can be found by selecting <b>Show Configuration Folder</b> from the Help menu of the application and then inside the printers sub-folder you\'ll find your printer profiles.\n\n<b>Note:</b> If you don\'t see your printer\'s ini file in the printers sub-folder; you are probably using one of the bundled Prusa Printer profiles (ie MK3S). If so you may need to create a copy of this printer profile to be able to have an ini file to edit.\n\nTo do this in PrusaSlicer go to the Printer Settings tab and Click the save button next to the printer list and give it a new name.\n\nAlternatively, push Prusa Research to update their bundled profiles to match the Mini by commenting in the issue posted on their repository here.\n\nOpen your desired printer profile in your favorite text editor and find the thumbnails = section and add the resolution that you would like to include in your sliced files, and therefore visible by this plugin. For example thumbnails = 16x16,220x124 will be the equivalent of the Prusa Mini as described above.\n\n<b>Warning:</b> the higher the resolution of the thumbnail you enter in this setting the larger your gcode file will be when sliced.</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_info" translatable="false">This plugin sends immediate push notifications to your Android devices running Printoid for OctoPrint when:\n\n
+        • The state of your printer is changing (to PRINTING, to PAUSED, to ERROR, and back to OPERATIONAL, for example)\n
+        • The print job reached a certain progress (every 10%, every 25% or at 50% only)\n
+        • Your print is now complete (progress = 100%)\n
+        • Your print reached specified layers (requires plugin DisplayLayerProgress plugin to be installed too)\n
+        • Your heated bed reached a specific temperature (useful to know when you can easily remove your prints from the bed, or when you can get smooth first layer)\n
+        • Your extruder cooled down below a specific temperature (useful to be informed when you can safely turn off your printer)\n
+        • Your printer has been paused because it requires a user action (out of filament, or manual multi color printing or M600 detection)\n
+        • Palette 2 / Pro encountered a problem while printing\n
+        • MMU requires user assistance (it requires Prusa firmware)\n
+        • Firmware errors (get security alerts like thermal runaway, probing failed, min temp error, max temp error…)\n\n
+    This plugin does not need your phone to be connected to the same network as your OctoPrint server to send the notifications. You will be able to receive the notifications even if you are out of your home and/or connected to the cellular network (3G/4G/5G) for example.\n\n
+    This plugin does not need your network to be opened to the Internet. You do not need to do port forwarding, and you do not need to setup a VPN ;)\n\n
+    Printoid does not need to be opened on your device to receive the notifications from the plugin. The app can be killed and your phone can be sleeping, you will receive the notifications whatever happens!
+    </string>
 
 </resources>

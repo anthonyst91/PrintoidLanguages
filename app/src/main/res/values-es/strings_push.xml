@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Complemento Printoid: ¡OPERACIONAL!</string>
+    <string name="push_alert_event_print_complete">Impresión completada!</string>
+    <string name="push_alert_event_print_progress">Progreso de impresión: %s%%</string>
+    <string name="push_alert_event_printer_state">El estado de la impresora cambió a: %s</string>
+    <string name="push_alert_event_printer_error">¡La impresora entró en estado de error!</string>
+    <string name="push_alert_event_bed_cool">Cama de impresora enfriada (debajo %s°C)</string>
+    <string name="push_alert_event_bed_warm">¡La cama de la impresora alcanzó su temperatura! (%s°C)</string>
+    <string name="push_alert_event_mmu">MMU requiere asistencia del usuario</string>
+    <string name="push_alert_event_paused">Impresora en pausa, esperándote!</string>
+    <string name="push_alert_event_tool_cool">Cabezal de impresora enfriado (debajo %s°C)</string>
+    <string name="push_alert_event_palette">Se produjo un error en Palette2, impresión en pausa: %s</string>
+    <string name="push_alert_event_layer">Capa cambiada: %s</string>
+
+    <string name="push_alert_not_supported">Alerta: %s</string>
+    <string name="push_alert_not_supported_value">Alerta: %1$s (%2$s)</string>
+
+</resources>

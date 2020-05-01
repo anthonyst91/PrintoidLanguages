@@ -29,7 +29,7 @@
 
     <string name="plugin_autoshutdown_enable">Sluit de server af nadat de afdruk is voltooid</string>
     <string name="plugin_autoshutdown_type">Type</string>
-    
+
     <string name="plugin_psu_enable">Schakel PSU in</string>
 
     <string name="plugin_tplink_enable">Schakel TP-Link SmartPlug in</string>
@@ -44,7 +44,7 @@
     <string name="plugin_wemo_enable">Schakel WemoSwitch in</string>
     <string name="plugin_wemo_state">Huidige toestand:</string>
     <string name="plugin_wemo_ip">WemoSwitch IP:</string>
-    
+
     <string name="plugin_navbartemp_temperature">Systeem SoC temperatuur</string>
 
     <string name="plugin_octolapse_enable">Octolapse inschakelen</string>
@@ -68,5 +68,46 @@
     <string name="plugin_enclosure_rpi_input_temperature">Temperatuur: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Vochtigheid: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Doelwit</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">De Printoid-plug-in is op uw OctoPrint-server geïnstalleerd</string>
+    <string name="plugin_printoid_not_available">De Printoid-plug-in lijkt niet op uw OctoPrint-server te zijn geïnstalleerd, installeer deze en koppel hem met uw apparaat om te genieten van realtime meldingen.</string>
+    <string name="plugin_printoid_layer">Laag</string>
+    <string name="plugin_printoid_layers_in_memory">Lagen in geheugen:</string>
+    <string name="plugin_printoid_layers_title">Meldingen op laag gewijzigd</string>
+    <string name="plugin_printoid_layers_info">Selecteer de lagen waarvoor u een melding wilt ontvangen wanneer deze wordt afgedrukt (vereist dat de DisplayLayerProgress-plug-in is geïnstalleerd)</string>
+    <string name="plugin_printoid_get_layers_failure">Kan de lijst met lagen waarvoor een melding moet worden ontvangen niet ophalen</string>
+    <string name="plugin_printoid_add_layers_success">Laag succesvol toegevoegd, u ontvangt een melding wanneer deze is bereikt!</string>
+    <string name="plugin_printoid_add_layers_failure">Kan laag niet toevoegen aan de lijst met meldingen</string>
+    <string name="plugin_printoid_remove_layers_success">Laag met succes verwijderd, u ontvangt geen melding meer voor deze!</string>
+    <string name="plugin_printoid_remove_layers_failure">Kan laag niet verwijderen uit de lijst met meldingen</string>
+    <string name="plugin_printoid_snooze_mmu_title">Meldingen over MMU-evenementen</string>
+    <string name="plugin_printoid_snooze_mmu_info">Demp de Prusa Multi Material Upgrade (MMU) -meldingen wanneer het gebruikersondersteuning vereist, voor de gegeven duur (in minuten)</string>
+    <string name="plugin_printoid_mmu_duration">Minuten</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Kan MMU-evenementen niet snoozen</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU-evenementen hebben gedurende de volgende %d minuten gesnoozed</string>
+    <string name="plugin_printoid_progress_title">Meldingen over afdrukvoortgang</string>
+    <string name="plugin_printoid_progress_info">Selecteer de voortgang waarvoor u een melding wilt ontvangen wanneer deze wordt bereikt door de huidige taak</string>
+    <string name="plugin_printoid_progress_mode_off">UIT</string>
+    <string name="plugin_printoid_progress_mode_every_10">Elke 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Elke 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Elke 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Alleen aan het einde</string>
+    <string name="plugin_printoid_progress_success">Voortgangsmeldingen ingesteld op: %s</string>
+    <string name="plugin_printoid_progress_failure">Kan voortgangsmeldingen niet wijzigen</string>
+    <string name="plugin_printoid_notifications_title">Beheer instellingen voor meldingen</string>
+    <string name="plugin_printoid_notifications_info">Beheer de instellingen voor meldingen (definieer specifieke geluiden en trillingen voor alle beschikbare kanalen)</string>
+    <string name="plugin_printoid_temp_head_title">Meldingen op verwarmde kop koelen af</string>
+    <string name="plugin_printoid_temp_head_info">Wanneer de extrudertemperatuur na het afdrukken onder deze drempel daalt, stuurt OctoPrint u een melding.</string>
+    <string name="plugin_printoid_temp_head_success">Triggerwaarde verwarmde kop voor temperatuurmelding ingesteld op %d</string>
+    <string name="plugin_printoid_temp_head_failure">Kan de triggerwaarde van de verwarmde kop niet instellen voor temperatuurmelding!</string>
+    <string name="plugin_printoid_temp_bed_title">Meldingen op verwarmd bed koelen af</string>
+    <string name="plugin_printoid_temp_bed_info">Wanneer de bedtemperatuur na het afdrukken onder deze drempel daalt, stuurt OctoPrint u een melding.</string>
+    <string name="plugin_printoid_temp_bed_success">Triggerwaarde verwarmd bed voor temperatuurmelding ingesteld op %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Kan de triggerwaarde van het verwarmde bed niet instellen voor temperatuurmelding!</string>
+    <string name="plugin_printoid_bed_duration_info">Wanneer het bed gedurende de volgende duur opwarmt tot de gewenste temperatuur voordat het afdrukken begint, stuurt OctoPrint u een melding</string>
+    <string name="plugin_printoid_bed_duration">Minuten</string>
+    <string name="plugin_printoid_bed_duration_success">Verwarmde bed warme duur ingesteld op %d minuten</string>
+    <string name="plugin_printoid_bed_duration_failure">Kan de warme duur van het verwarmde bed niet instellen</string>
 
 </resources>

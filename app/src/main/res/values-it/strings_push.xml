@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Plugin stampabile: OPERATIVO!</string>
+    <string name="push_alert_event_print_complete">Stampa completata!</string>
+    <string name="push_alert_event_print_progress">Avanzamento della stampa: %s%%</string>
+    <string name="push_alert_event_printer_state">Lo stato della stampante è cambiato in: %s</string>
+    <string name="push_alert_event_printer_error">La stampante è andata in stato di errore!</string>
+    <string name="push_alert_event_bed_cool">Il letto della stampante si è raffreddato (sotto %s°C)</string>
+    <string name="push_alert_event_bed_warm">Letto stampante ha raggiunto la sua temperatura! (%s°C)</string>
+    <string name="push_alert_event_mmu">MMU richiede assistenza all\'utente</string>
+    <string name="push_alert_event_paused">Stampante in pausa, ti aspetta!</string>
+    <string name="push_alert_event_tool_cool">Testina di stampa raffreddata (sotto %s°C)</string>
+    <string name="push_alert_event_palette">Si è verificato un errore su Palette2, stampa in pausa: %s</string>
+    <string name="push_alert_event_layer">Strato modificato: %s</string>
+
+    <string name="push_alert_not_supported">Avviso: %s</string>
+    <string name="push_alert_not_supported_value">Avviso: %1$s (%2$s)</string>
+
+</resources>

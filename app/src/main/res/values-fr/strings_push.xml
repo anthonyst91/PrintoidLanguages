@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Plugin Printoid: OPÉRATIONNEL!</string>
+    <string name="push_alert_event_print_complete">Impression terminée!</string>
+    <string name="push_alert_event_print_progress">Progression de l\'impression: %s%%</string>
+    <string name="push_alert_event_printer_state">L\'état de l\'imprimante a changé: %s</string>
+    <string name="push_alert_event_printer_error">Impimante 3D en erreur !</string>
+    <string name="push_alert_event_bed_cool">Lit chauffant refroidi (sous %s°C)</string>
+    <string name="push_alert_event_bed_warm">Lit chauffant à température (%s°C)</string>
+    <string name="push_alert_event_mmu">MMU nécessite une assistance utilisateur</string>
+    <string name="push_alert_event_paused">Imprimante en pause : action en attente !</string>
+    <string name="push_alert_event_tool_cool">Extrudeur refroidi (sous %s°C)</string>
+    <string name="push_alert_event_palette">Erreur Palette2, impression interrompue : %s</string>
+    <string name="push_alert_event_layer">Nouvelle couche : %s</string>
+
+    <string name="push_alert_not_supported">Alerte : %s</string>
+    <string name="push_alert_not_supported_value">Alerte : %1$s (%2$s)</string>
+
+</resources>

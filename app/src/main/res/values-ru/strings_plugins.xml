@@ -26,7 +26,7 @@
 
     <string name="plugin_not_in_this_version_title">Плагин недоступен</string>
     <string name="plugin_not_in_this_version_msg">Этот плагин недоступен в этой версии Printoid. Пожалуйста, рассмотрите возможность обновления Printoid, чтобы использовать эту функцию в приложении! (проверьте на https://printoid.net доступные плагины для каждой версии)</string>
-    
+
     <string name="plugin_autoshutdown_enable">Завершение работы сервера после завершения печати</string>
     <string name="plugin_autoshutdown_type">Тип</string>
 
@@ -44,7 +44,7 @@
     <string name="plugin_wemo_enable">Включить WemoSwitch</string>
     <string name="plugin_wemo_state">Текущее состояние:</string>
     <string name="plugin_wemo_ip">WemoSwitch IP:</string>
-    
+
     <string name="plugin_navbartemp_temperature">Температура системы SoC</string>
 
     <string name="plugin_octolapse_enable">Включить Octolapse</string>
@@ -68,5 +68,46 @@
     <string name="plugin_enclosure_rpi_input_temperature">Температура: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Влажность: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">цель</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Плагин Printoid установлен на вашем сервере OctoPrint</string>
+    <string name="plugin_printoid_not_available">Плагин Printoid, кажется, не установлен на вашем сервере OctoPrint, пожалуйста, установите его и подключите его к вашему устройству, чтобы получать уведомления в режиме реального времени.</string>
+    <string name="plugin_printoid_layer">Слой</string>
+    <string name="plugin_printoid_layers_in_memory">Слои в памяти:</string>
+    <string name="plugin_printoid_layers_title">Уведомления на слое изменены</string>
+    <string name="plugin_printoid_layers_info">Выберите слои, о которых вы хотите получать уведомления, когда они начинают печататься (требуется установка плагина DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Не удалось получить список слоев для уведомления</string>
+    <string name="plugin_printoid_add_layers_success">Слой добавлен успешно, вы получите уведомление, когда достигнете!</string>
+    <string name="plugin_printoid_add_layers_failure">Не удалось добавить слой в список уведомлений</string>
+    <string name="plugin_printoid_remove_layers_success">Слой успешно удален, вы прекратите получать уведомления для этого!</string>
+    <string name="plugin_printoid_remove_layers_failure">Не удалось удалить слой в список уведомлений</string>
+    <string name="plugin_printoid_snooze_mmu_title">Уведомления о событиях MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Отключение уведомлений Prusa Multi Material Upgrade (MMU), когда требуется помощь пользователя, в течение заданного времени (в минутах)</string>
+    <string name="plugin_printoid_mmu_duration">минут</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Не удалось отложить события MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">События MMU откладывались в течение следующих %d минут</string>
+    <string name="plugin_printoid_progress_title">Уведомления о ходе печати</string>
+    <string name="plugin_printoid_progress_info">Выберите, какой прогресс должен быть уведомлен, когда он достигнут текущей работой</string>
+    <string name="plugin_printoid_progress_mode_off">OFF</string>
+    <string name="plugin_printoid_progress_mode_every_10">Каждые 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Каждые 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Каждые 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Только в конце</string>
+    <string name="plugin_printoid_progress_success">Для уведомлений о ходе выполнения установлено значение: %s</string>
+    <string name="plugin_printoid_progress_failure">Не удалось изменить уведомления о прогрессе</string>
+    <string name="plugin_printoid_notifications_title">Управление настройками уведомлений</string>
+    <string name="plugin_printoid_notifications_info">Управление настройками уведомлений (определение конкретных звуков и вибраций для всех доступных каналов)</string>
+    <string name="plugin_printoid_temp_head_title">Уведомления о нагревании головы остыть</string>
+    <string name="plugin_printoid_temp_head_info">Когда температура экструдера падает ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
+    <string name="plugin_printoid_temp_head_success">Значение триггера нагреваемой головки для уведомления о температуре установлено на %d</string>
+    <string name="plugin_printoid_temp_head_failure">Не удалось установить значение триггера горячей головки для уведомления о температуре!</string>
+    <string name="plugin_printoid_temp_bed_title">Уведомления об остывании нагретой кровати</string>
+    <string name="plugin_printoid_temp_bed_info">Когда температура кровати упадет ниже этого порога после завершения печати, OctoPrint отправит вам уведомление.</string>
+    <string name="plugin_printoid_temp_bed_success">Значение триггера кровати с подогревом для уведомления о температуре установлено на %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Не удалось установить значение триггера нагретого слоя для уведомления о температуре!</string>
+    <string name="plugin_printoid_bed_duration_info">Когда кровать нагревается до заданной температуры в течение следующего периода перед началом печати, OctoPrint отправит вам уведомление</string>
+    <string name="plugin_printoid_bed_duration">минут</string>
+    <string name="plugin_printoid_bed_duration_success">Время прогрева кровати с подогревом установлено на %d минут</string>
+    <string name="plugin_printoid_bed_duration_failure">Не удалось установить продолжительность прогрева кровати с подогревом</string>
 
 </resources>

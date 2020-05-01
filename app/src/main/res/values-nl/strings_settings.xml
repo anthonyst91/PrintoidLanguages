@@ -44,7 +44,7 @@
     <string name="setting_enable_overlay">Activeer meebewegend icoon</string>
     <string name="setting_enable_autostart_overlay">Altijd starten met meebewegend icoon</string>
     <string name="setting_enable_auto_config">Haal automatisch de configuratie op</string>
-    <string name="setting_enable_notif">Activeer notificaties</string>
+    <string name="setting_enable_notif">Schakel de achtergrondmodus in</string>
     <string name="setting_enable_check_connection">Check regelmatig de verbinding</string>
     <string name="setting_enable_hot_bed">Bediening van het verwarmde bed</string>
     <string name="setting_tools_presets">Voorgeladen waarden</string>
@@ -147,7 +147,7 @@
     <string name="setting_enable_fix_octoprint_updates_tip">Alleen actief bij fout verbinding met OctoPrint</string>
     <string name="setting_enable_unread_messages_tip">Melding bij nieuwe artikelen op de site</string>
     <string name="setting_enable_changelogs_tip">Melding bij nieuwe versie op Google Play</string>
-    <string name="setting_enable_notif_tip">Hou app in de achtergrond bij meldingen</string>
+    <string name="setting_enable_notif_tip">Laat Printoid op de achtergrond met OctoPrint praten</string>
     <string name="setting_enable_check_connection_tip">Printoid houdt de verbinding in stand</string>
     <string name="setting_enable_always_prompt_tty_tip">Toon seriële poorten, onafhankelijk van standaard</string>
     <string name="setting_enable_printer_info_display_tip">Toon temperaturen &amp; print info op video beeld</string>

@@ -78,4 +78,45 @@
     <string name="plugin_enclosure_rpi_input_humidity">Humidité : %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Cible</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Le plugin Printoid est installé sur votre serveur</string>
+    <string name="plugin_printoid_not_available">Le plugin Printoid ne semble pas installé sur votre serveur. Installez-le pour profiter des notifications en temps réel !</string>
+    <string name="plugin_printoid_layer">Couche</string>
+    <string name="plugin_printoid_layers_in_memory">Couches en mémoire:</string>
+    <string name="plugin_printoid_layers_title">Notifications de nouvelle couche</string>
+    <string name="plugin_printoid_layers_info">Sélectionnez les couches pour lesquelles vous souhaitez être averti quand emme commence à être imprimée (nécessite l\'installation du plugin DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Échec de l\'obtention de la liste des couches pour lesquelles une notification doit être envoyée</string>
+    <string name="plugin_printoid_add_layers_success">Couche ajoutée avec succès, vous recevrez une notification lorsqu\'elle sera atteinte!</string>
+    <string name="plugin_printoid_add_layers_failure">Impossible d\'ajouter une couche à la liste des notifications</string>
+    <string name="plugin_printoid_remove_layers_success">Couche supprimée avec succès, vous ne recevrez plus de notification pour celle-ci!</string>
+    <string name="plugin_printoid_remove_layers_failure">Échec de la suppression de la couche dans la liste des notifications</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notifications sur les événements MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Désactiver les notifications Prusa Multi Material Upgrade (MMU) lorsqu\'il nécessite l\'assistance de l\'utilisateur, pour une durée donnée (en minutes)</string>
+    <string name="plugin_printoid_mmu_duration">Minutes</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Impossible de mettre en pause les événements MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Les événements MMU mis en pase pour les %d prochaines minutes</string>
+    <string name="plugin_printoid_progress_title">Notifications de progression d\'impression</string>
+    <string name="plugin_printoid_progress_info">Sélectionnez la progression à notifier lorsqu\'elle est atteinte par l\'impression en cours</string>
+    <string name="plugin_printoid_progress_mode_off">OFF</string>
+    <string name="plugin_printoid_progress_mode_every_10">Tous les 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Tous les 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Tous les 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Seulement à la fin</string>
+    <string name="plugin_printoid_progress_success">Notifications de progression définies sur : %s</string>
+    <string name="plugin_printoid_progress_failure">Impossible de modifier les notifications de progression</string>
+    <string name="plugin_printoid_notifications_title">Gérer les notification</string>
+    <string name="plugin_printoid_notifications_info">Gérez les paramètres de notifications (définissez des sons et des vibrations spécifiques pour chaque canal disponible)</string>
+    <string name="plugin_printoid_temp_head_title">Notifications extrudeur</string>
+    <string name="plugin_printoid_temp_head_info">Lorsque la température de l\'extrudeur baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
+    <string name="plugin_printoid_temp_head_success">Valeur seuil de température définie sur %d</string>
+    <string name="plugin_printoid_temp_head_failure">Impossible de définir la valeur seuil pour la notification de température!</string>
+    <string name="plugin_printoid_temp_bed_title">Notifications sur le lit chauffant refroidir</string>
+    <string name="plugin_printoid_temp_bed_info">Lorsque la température du lit chauffant baisse au dessous de ce seuil une fois l\'impression terminée, OctoPrint vous enverra une notification.</string>
+    <string name="plugin_printoid_temp_bed_success">Valeur seuil de température définie sur %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Impossible de définir la valeur seuil pour la notification de température!</string>
+    <string name="plugin_printoid_bed_duration_info">Lorsque le lit chauffant a atteint sa température pendant la durée suivante avant le début de l\'impression, OctoPrint vous enverra une notification</string>
+    <string name="plugin_printoid_bed_duration">Minutes</string>
+    <string name="plugin_printoid_bed_duration_success">Durée de chauffe du lit chauffant réglée sur %d minutes</string>
+    <string name="plugin_printoid_bed_duration_failure">Impossible de régler la durée de chauffe du lit chauffant</string>
+
 </resources>

@@ -33,16 +33,6 @@
         <item>WAN only</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>Geluid 1</item>
-        <item>Geluid 2</item>
-        <item>Geluid 3</item>
-        <item>Geluid 4</item>
-        <item>Geluid 5</item>
-        <item>Geluid 6</item>
-        <item>Geluid UIT</item>
-    </string-array>
-
     <string-array name="after_slicing_array">
         <item>Doe niets</item>
         <item>Selekteer om te printen</item>

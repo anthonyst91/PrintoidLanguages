@@ -6,6 +6,7 @@
     <string name="plugins_help_title">OctoPrint\'s plugins</string>
     <string name="plugins_help_message">This is the list of plugins currently integrated in Printoid.\n\nAll OctoPrint\'s plugin are not implemented in Printoid and I (the developer) can not integrated them all.\n\nPlease contact me at contact@printoid.net if you would like to see a new plugin in Printoid. I will reflect on its integration (if and only it is possible).</string>
 
+    <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
     <string name="plugin_desc_psu">This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.</string>
     <string name="plugin_desc_autoshutdown">Plugin for automatically shutting down the system after print is finished. Can be configured only when the server is up.</string>
     <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug via OctoPrint\'s nav bar.</string>
@@ -76,5 +77,46 @@
     <string name="plugin_enclosure_rpi_input_temperature">Temperature: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Humidity: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Target</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">The Printoid Plugin is installed on your OctoPrint server</string>
+    <string name="plugin_printoid_not_available">The Printoid Plugin seems not installed on your OctoPrint server, please install it and pair it with your device to enjoy real time notifications.</string>
+    <string name="plugin_printoid_layer">Layer</string>
+    <string name="plugin_printoid_layers_in_memory">Layers in memory:</string>
+    <string name="plugin_printoid_layers_title">Notifications on layer changed</string>
+    <string name="plugin_printoid_layers_info">Select the layers you want to be notified for when it starts to be printed (requires DisplayLayerProgress plugin to be installed)</string>
+    <string name="plugin_printoid_get_layers_failure">Failed to get the list of layers to be notified for</string>
+    <string name="plugin_printoid_add_layers_success">Layer added successfully, you will receive a notification when reached!</string>
+    <string name="plugin_printoid_add_layers_failure">Failed to add layer to the list of notifications</string>
+    <string name="plugin_printoid_remove_layers_success">Layer removed successfully, you will stop receiving notification for this one!</string>
+    <string name="plugin_printoid_remove_layers_failure">Failed to remove layer from the list of notifications</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notifications on MMU events</string>
+    <string name="plugin_printoid_snooze_mmu_info">Mute the Prusa Multi Material Upgrade (MMU) notifications when it requires user assistance, for the given duration (in minutes)</string>
+    <string name="plugin_printoid_mmu_duration">Minutes</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Failed to snooze MMU events</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU events snoozed for the next %d minutes</string>
+    <string name="plugin_printoid_progress_title">Notifications on print progress</string>
+    <string name="plugin_printoid_progress_info">Select which progress to be notified for, when it is reached by the current job</string>
+    <string name="plugin_printoid_progress_mode_off">OFF</string>
+    <string name="plugin_printoid_progress_mode_every_10">Every 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Every 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Every 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Only at the end</string>
+    <string name="plugin_printoid_progress_success">Progress notifications set to: %s</string>
+    <string name="plugin_printoid_progress_failure">Failed to change progress notifications</string>
+    <string name="plugin_printoid_notifications_title">Manage notification settings</string>
+    <string name="plugin_printoid_notifications_info">Manage the notifications settings (define specific sounds and vibrations for every available channels)</string>
+    <string name="plugin_printoid_temp_head_title">Notifications on heated head cool down</string>
+    <string name="plugin_printoid_temp_head_info">When extruder temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
+    <string name="plugin_printoid_temp_head_success">Heated head trigger value for temperature notification set to %d</string>
+    <string name="plugin_printoid_temp_head_failure">Failed to set heated head trigger value for temperature notification!</string>
+    <string name="plugin_printoid_temp_bed_title">Notifications on heated bed cool down</string>
+    <string name="plugin_printoid_temp_bed_info">When bed temperature falls below this threshold once print completed, OctoPrint will send you a notification.</string>
+    <string name="plugin_printoid_temp_bed_success">Heated bed trigger value for temperature notification set to %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Failed to set heated bed trigger value for temperature notification!</string>
+    <string name="plugin_printoid_bed_duration_info">When bed warms up to the target temperature for the following duration before print starts, OctoPrint will send you a notification</string>
+    <string name="plugin_printoid_bed_duration">Minutes</string>
+    <string name="plugin_printoid_bed_duration_success">Heated bed warm duration set to %d minutes</string>
+    <string name="plugin_printoid_bed_duration_failure">Failed to set heated bed warm duration</string>
 
 </resources>

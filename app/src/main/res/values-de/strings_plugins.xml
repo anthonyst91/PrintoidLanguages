@@ -26,10 +26,10 @@
 
     <string name="plugin_not_in_this_version_title">Plugin nicht verfügbar</string>
     <string name="plugin_not_in_this_version_msg">Dieses Plugin ist in dieser Version von Printoid nicht verfügbar. Erwägen Sie ein Upgrade von Printoid, um diese Funktion in der App zu nutzen! (Überprüfen Sie auf https://printoid.net die verfügbaren Plugins pro Version.)</string>
-    
+
     <string name="plugin_autoshutdown_enable">Fahren Sie den Server nach Abschluss des Druckvorgangs herunter</string>
     <string name="plugin_autoshutdown_type">Art</string>
-    
+
     <string name="plugin_psu_enable">Aktivieren Sie die PSU</string>
 
     <!-- TPLING SMARTPLUG PLUGIN -->
@@ -48,7 +48,7 @@
     <string name="plugin_wemo_ip">WemoSwitch IP:</string>
 
     <string name="plugin_navbartemp_temperature">System-SoC-Temperatur</string>
-    
+
     <string name="plugin_octolapse_enable">Octolapse aktivieren</string>
     <string name="plugin_octolapse_status">Status:</string>
     <string name="plugin_octolapse_printer">Drucker:</string>
@@ -70,5 +70,46 @@
     <string name="plugin_enclosure_rpi_input_temperature">Temperatur: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Luftfeuchtigkeit: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Ziel</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">Das Printoid Plugin ist auf Ihrem OctoPrint-Server installiert</string>
+    <string name="plugin_printoid_not_available">Das Printoid-Plugin scheint nicht auf Ihrem OctoPrint-Server installiert zu sein. Installieren Sie es und koppeln Sie es mit Ihrem Gerät, um Echtzeitbenachrichtigungen zu erhalten.</string>
+    <string name="plugin_printoid_layer">Schicht</string>
+    <string name="plugin_printoid_layers_in_memory">Ebenen im Speicher:</string>
+    <string name="plugin_printoid_layers_title">Benachrichtigungen auf Ebene geändert</string>
+    <string name="plugin_printoid_layers_info">Wählen Sie die Ebenen aus, für die Sie benachrichtigt werden möchten, wenn der Druckvorgang beginnt (das DisplayLayerProgress-Plugin muss installiert sein).</string>
+    <string name="plugin_printoid_get_layers_failure">Fehler beim Abrufen der Liste der zu benachrichtigenden Ebenen</string>
+    <string name="plugin_printoid_add_layers_success">Ebene erfolgreich hinzugefügt, erhalten Sie eine Benachrichtigung, wenn erreicht!</string>
+    <string name="plugin_printoid_add_layers_failure">Fehler beim Hinzufügen der Ebene zur Liste der Benachrichtigungen</string>
+    <string name="plugin_printoid_remove_layers_success">Ebene erfolgreich entfernt, erhalten Sie keine Benachrichtigung mehr für diese!</string>
+    <string name="plugin_printoid_remove_layers_failure">Fehler beim Entfernen der Ebene aus der Liste der Benachrichtigungen</string>
+    <string name="plugin_printoid_snooze_mmu_title">Benachrichtigungen zu MMU-Ereignissen</string>
+    <string name="plugin_printoid_snooze_mmu_info">Schalten Sie die MMU-Benachrichtigungen (Prusa Multi Material Upgrade) für die angegebene Dauer (in Minuten) stumm, wenn Benutzerunterstützung erforderlich ist.</string>
+    <string name="plugin_printoid_mmu_duration">Protokoll</string>
+    <string name="plugin_printoid_mmu_snooze_failure">MMU-Ereignisse konnten nicht deaktiviert werden</string>
+    <string name="plugin_printoid_mmu_snooze_success">MMU-Ereignisse dösten für die nächsten %d Minuten</string>
+    <string name="plugin_printoid_progress_title">Benachrichtigungen zum Druckfortschritt</string>
+    <string name="plugin_printoid_progress_info">Wählen Sie aus, für welchen Fortschritt Sie benachrichtigt werden sollen, wenn der aktuelle Job ihn erreicht</string>
+    <string name="plugin_printoid_progress_mode_off">AUS</string>
+    <string name="plugin_printoid_progress_mode_every_10">Alle 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Alle 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Alle 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Nur am Ende</string>
+    <string name="plugin_printoid_progress_success">Fortschrittsbenachrichtigungen festgelegt auf: %s</string>
+    <string name="plugin_printoid_progress_failure">Fortschrittsbenachrichtigungen konnten nicht geändert werden</string>
+    <string name="plugin_printoid_notifications_title">Benachrichtigungseinstellungen verwalten</string>
+    <string name="plugin_printoid_notifications_info">Verwalten Sie die Benachrichtigungseinstellungen (definieren Sie spezifische Sounds und Vibrationen für jeden verfügbaren Kanal).</string>
+    <string name="plugin_printoid_temp_head_title">Benachrichtigungen über beheizten Kopf kühlen ab</string>
+    <string name="plugin_printoid_temp_head_info">Wenn die Extrudertemperatur nach Abschluss des Druckvorgangs unter diesen Schwellenwert fällt, erhalten Sie von OctoPrint eine Benachrichtigung.</string>
+    <string name="plugin_printoid_temp_head_success">Auslösewert für beheizten Kopf für Temperaturbenachrichtigung auf %d eingestellt</string>
+    <string name="plugin_printoid_temp_head_failure">Fehler beim Einstellen des Auslösewerts für den beheizten Kopf für die Temperaturbenachrichtigung!</string>
+    <string name="plugin_printoid_temp_bed_title">Benachrichtigungen auf dem beheizten Bett kühlen ab</string>
+    <string name="plugin_printoid_temp_bed_info">Wenn die Betttemperatur nach Abschluss des Druckvorgangs unter diesen Schwellenwert fällt, erhalten Sie von OctoPrint eine Benachrichtigung.</string>
+    <string name="plugin_printoid_temp_bed_success">Auslösewert für beheiztes Bett für Temperaturbenachrichtigung auf %d eingestellt</string>
+    <string name="plugin_printoid_temp_bed_failure">Fehler beim Einstellen des Auslösewerts für das Heizbett für die Temperaturbenachrichtigung!</string>
+    <string name="plugin_printoid_bed_duration_info">Wenn sich das Bett vor dem Druckvorgang für die folgende Dauer auf die Zieltemperatur erwärmt, erhalten Sie von OctoPrint eine Benachrichtigung</string>
+    <string name="plugin_printoid_bed_duration">Protokoll</string>
+    <string name="plugin_printoid_bed_duration_success">Die Warmdauer des beheizten Bettes ist auf %d Minuten eingestellt</string>
+    <string name="plugin_printoid_bed_duration_failure">Fehler beim Einstellen der Warmdauer des beheizten Bettes</string>
 
 </resources>

@@ -59,6 +59,11 @@
     <string name="never_ask_again">Nooit meer vragen</string>
     <string name="grid">Rooster</string>
     <string name="tabs">Tabs</string>
+    <string name="remove">Verwijderen</string>
+    <string name="clear">Leeg</string>
+    <string name="snooze">Snooze</string>
+    <string name="temperature">Temperatuur</string>
+    <string name="disable">Uitschakelen</string>
 
     <string name="heated_bed">Bed</string>
     <string name="heated_chamber">Kamer</string>

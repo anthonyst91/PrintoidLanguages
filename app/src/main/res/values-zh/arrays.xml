@@ -27,16 +27,6 @@
         <item>快照</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>音效1</item>
-        <item>音效2</item>
-        <item>音效3</item>
-        <item>音效4</item>
-        <item>音效5</item>
-        <item>音效6</item>
-        <item>无音效</item>
-    </string-array>
-
     <string-array name="ssl_modes_array">
         <item>全部</item>
         <item>只有LAN</item>

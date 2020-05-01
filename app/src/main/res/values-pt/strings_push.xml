@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="push_alert_event_test">Plugin Printoid: OPERACIONAL!</string>
+    <string name="push_alert_event_print_complete">Impressão concluída!</string>
+    <string name="push_alert_event_print_progress">Progresso da impressão: %s%%</string>
+    <string name="push_alert_event_printer_state">Estado da impressora alterado para: %s</string>
+    <string name="push_alert_event_printer_error">A impressora entrou em estado de erro!</string>
+    <string name="push_alert_event_bed_cool">Cama da impressora resfriada (abaixo %s°C)</string>
+    <string name="push_alert_event_bed_warm">A cama da impressora atingiu a temperatura! (%s°C)</string>
+    <string name="push_alert_event_mmu">A MMU requer assistência ao usuário</string>
+    <string name="push_alert_event_paused">Impressora em pausa, esperando por você!</string>
+    <string name="push_alert_event_tool_cool">Cabeça da impressora resfriada (abaixo %s°C)</string>
+    <string name="push_alert_event_palette">Ocorreu um erro na Paleta2, impressão em pausa: %s</string>
+    <string name="push_alert_event_layer">Camada alterada: %s</string>
+
+    <string name="push_alert_not_supported">Alerta: %s</string>
+    <string name="push_alert_not_supported_value">Alerta: %1$s (%2$s)</string>
+
+</resources>

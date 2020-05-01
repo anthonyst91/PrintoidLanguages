@@ -26,7 +26,7 @@
 
     <string name="plugin_not_in_this_version_title">Plugin no disponible</string>
     <string name="plugin_not_in_this_version_msg">Este complemento no está disponible en esta versión de Printoid. Por favor, considera actualizar Printoid para disfrutar de esta función en la aplicación. (consulte en https://printoid.net los complementos disponibles por versión)</string>
-    
+
     <string name="plugin_autoshutdown_enable">Apagar el servidor después de que termine la impresión</string>
     <string name="plugin_autoshutdown_type">Tipo</string>
 
@@ -59,7 +59,7 @@
     <string name="plugin_octolapse_extruder_state">Extrusora\nestado</string>
     <string name="plugin_octolapse_position_state">Posición\nestado</string>
     <string name="plugin_octolapse_position_change">Posición\ncambiar</string>
-    
+
     <string name="plugin_enclosure_rpi_output_enable">Encender:</string>
     <string name="plugin_enclosure_rpi_output_auto_startup">Autoinicio:</string>
     <string name="plugin_enclosure_rpi_output_auto_shutdown">Apagado automatico:</string>
@@ -68,5 +68,46 @@
     <string name="plugin_enclosure_rpi_input_temperature">Temperatura: %s</string>
     <string name="plugin_enclosure_rpi_input_humidity">Humedad: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Objetivo</string>
+
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">El complemento Printoid está instalado en su servidor OctoPrint</string>
+    <string name="plugin_printoid_not_available">El complemento Printoid parece no estar instalado en su servidor OctoPrint, instálelo y vincúlelo con su dispositivo para disfrutar de notificaciones en tiempo real.</string>
+    <string name="plugin_printoid_layer">Capa</string>
+    <string name="plugin_printoid_layers_in_memory">Capas en la memoria:</string>
+    <string name="plugin_printoid_layers_title">Notificaciones en la capa cambiada</string>
+    <string name="plugin_printoid_layers_info">Seleccione las capas para las que desea recibir una notificación cuando comience a imprimirse (requiere que se instale el complemento DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Error al obtener la lista de capas para las que se notificará</string>
+    <string name="plugin_printoid_add_layers_success">Capa agregada con éxito, recibirá una notificación cuando llegue!</string>
+    <string name="plugin_printoid_add_layers_failure">Error al agregar capa a la lista de notificaciones</string>
+    <string name="plugin_printoid_remove_layers_success">Capa eliminada con éxito, ¡dejarás de recibir notificaciones para esta!</string>
+    <string name="plugin_printoid_remove_layers_failure">Error al eliminar la capa de la lista de notificaciones</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notificaciones sobre eventos MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Silenciar las notificaciones de Prusa Multi Material Upgrade (MMU) cuando requiere asistencia del usuario, durante el tiempo dado (en minutos)</string>
+    <string name="plugin_printoid_mmu_duration">Minutos</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Error al posponer eventos MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Los eventos de MMU pospusieron los siguientes %d minutos</string>
+    <string name="plugin_printoid_progress_title">Notificaciones sobre el progreso de la impresión</string>
+    <string name="plugin_printoid_progress_info">Seleccione el progreso para el que se notificará, cuando sea alcanzado por el trabajo actual</string>
+    <string name="plugin_printoid_progress_mode_off">APAGADO</string>
+    <string name="plugin_printoid_progress_mode_every_10">Cada 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Cada 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">Cada 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Solo al final</string>
+    <string name="plugin_printoid_progress_success">Notificaciones de progreso establecidas en: %s</string>
+    <string name="plugin_printoid_progress_failure">Error al cambiar las notificaciones de progreso</string>
+    <string name="plugin_printoid_notifications_title">Administrar la configuración de notificaciones</string>
+    <string name="plugin_printoid_notifications_info">Administre la configuración de notificaciones (defina sonidos y vibraciones específicos para cada canal disponible)</string>
+    <string name="plugin_printoid_temp_head_title">Notificaciones sobre enfriamiento de la cabeza calentada</string>
+    <string name="plugin_printoid_temp_head_info">Cuando la temperatura del extrusor cae por debajo de este umbral una vez que se completa la impresión, OctoPrint le enviará una notificación.</string>
+    <string name="plugin_printoid_temp_head_success">Valor de activación de cabezal calentado para notificación de temperatura establecido en %d</string>
+    <string name="plugin_printoid_temp_head_failure">¡Error al establecer el valor del disparador del cabezal calentado para la notificación de temperatura!</string>
+    <string name="plugin_printoid_temp_bed_title">Notificaciones sobre cama calentada enfriar</string>
+    <string name="plugin_printoid_temp_bed_info">Cuando la temperatura de la cama cae por debajo de este umbral una vez que se completa la impresión, OctoPrint le enviará una notificación.</string>
+    <string name="plugin_printoid_temp_bed_success">Valor de activación de lecho calentado para notificación de temperatura establecido en %d</string>
+    <string name="plugin_printoid_temp_bed_failure">¡Error al establecer el valor de activación de la cama calentada para la notificación de temperatura!</string>
+    <string name="plugin_printoid_bed_duration_info">Cuando la cama se calienta a la temperatura objetivo durante la siguiente duración antes de que comience la impresión, OctoPrint le enviará una notificación</string>
+    <string name="plugin_printoid_bed_duration">Minutos</string>
+    <string name="plugin_printoid_bed_duration_success">La duración del calentamiento de la cama calentada se establece en %d minutos</string>
+    <string name="plugin_printoid_bed_duration_failure">No se pudo establecer la duración del calentamiento de la cama caliente</string>
 
 </resources>

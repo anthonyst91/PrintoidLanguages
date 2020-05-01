@@ -29,7 +29,7 @@
     <string name="setting_title_keyboard">Steuert mit einer Tastatur</string>
 
     <string name="setting_enable_screensaver">Bildschirmschoner</string>
-    <string name="setting_enable_notif">Aktivieren Sie die Benachrichtigungen</string>
+    <string name="setting_enable_notif">Aktivieren Sie den Hintergrundmodus</string>
     <string name="setting_battery_optimizations">Aktivieren Sie Android Battery Optimizations</string>
     <string name="setting_enable_unread_messages">Ungelesene Nachrichten anzeigen</string>
     <string name="setting_enable_changelogs">Neue Version Warnungen</string>
@@ -146,7 +146,7 @@
     <string name="setting_enable_fix_octoprint_updates_tip">Nur aktivieren, wenn Verbindung mit OctoPrint nicht hergestellt werden kann</string>
     <string name="setting_enable_unread_messages_tip">Benachrichtigungen über neue Artikel auf der Website</string>
     <string name="setting_enable_changelogs_tip">Warnung, wenn eine neue Version bei Google Play verfügbar ist</string>
-    <string name="setting_enable_notif_tip">Halten Sie die App im Hintergrund mit Benachrichtigungen</string>
+    <string name="setting_enable_notif_tip">Lassen Sie Printoid im Hintergrund mit OctoPrint sprechen</string>
     <string name="setting_enable_check_connection_tip">Sicherstellen, dass Printoid immer noch kommunizieren kann</string>
     <string name="setting_enable_always_prompt_tty_tip">Zeige serielle Ports beim Verbinden mit dem Drucker unabhängig vom Standard-Port</string>
     <string name="setting_enable_axis_control_display_tip">Zeige Achsensteuerung als Einblendung auf dem Videostream</string>

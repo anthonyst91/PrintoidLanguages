@@ -78,4 +78,45 @@
     <string name="plugin_enclosure_rpi_input_humidity">Umidade: %s</string>
     <string name="plugin_enclosure_rpi_input_target_hint">Alvo</string>
 
+    <!-- PRINTOID PLUGIN -->
+    <string name="plugin_printoid_available">O plug-in Printoid está instalado no servidor OctoPrint</string>
+    <string name="plugin_printoid_not_available">O plug-in Printoid parece não estar instalado no servidor OctoPrint, instale-o e emparelhe-o com o dispositivo para receber notificações em tempo real.</string>
+    <string name="plugin_printoid_layer">Camada</string>
+    <string name="plugin_printoid_layers_in_memory">Camadas na memória:</string>
+    <string name="plugin_printoid_layers_title">Notificações na camada alteradas</string>
+    <string name="plugin_printoid_layers_info">Selecione as camadas para as quais você deseja ser notificado quando começar a ser impresso (requer a instalação do plug-in DisplayLayerProgress)</string>
+    <string name="plugin_printoid_get_layers_failure">Falha ao obter a lista de camadas a serem notificadas para</string>
+    <string name="plugin_printoid_add_layers_success">Camada adicionada com sucesso, você receberá uma notificação quando atingido!</string>
+    <string name="plugin_printoid_add_layers_failure">Falha ao adicionar camada à lista de notificações</string>
+    <string name="plugin_printoid_remove_layers_success">Camada removida com sucesso, você deixará de receber notificações para esta!</string>
+    <string name="plugin_printoid_remove_layers_failure">Falha ao remover a camada da lista de notificações</string>
+    <string name="plugin_printoid_snooze_mmu_title">Notificações sobre eventos MMU</string>
+    <string name="plugin_printoid_snooze_mmu_info">Ignore as notificações do Prusa Multi Material Upgrade (MMU) quando precisar de assistência ao usuário, pela duração especificada (em minutos)</string>
+    <string name="plugin_printoid_mmu_duration">Minutos</string>
+    <string name="plugin_printoid_mmu_snooze_failure">Falha ao adiar eventos MMU</string>
+    <string name="plugin_printoid_mmu_snooze_success">Eventos da MMU adiados pelos próximos %d minutos</string>
+    <string name="plugin_printoid_progress_title">Notificações sobre o andamento da impressão</string>
+    <string name="plugin_printoid_progress_info">Selecione para qual progresso será notificado quando for atingido pelo trabalho atual</string>
+    <string name="plugin_printoid_progress_mode_off">FORA</string>
+    <string name="plugin_printoid_progress_mode_every_10">A cada 10%</string>
+    <string name="plugin_printoid_progress_mode_every_25">Cada 25%</string>
+    <string name="plugin_printoid_progress_mode_every_50">A cada 50%</string>
+    <string name="plugin_printoid_progress_mode_at_end">Só no final</string>
+    <string name="plugin_printoid_progress_success">Notificações de progresso definidas para: %s</string>
+    <string name="plugin_printoid_progress_failure">Falha ao alterar as notificações de progresso</string>
+    <string name="plugin_printoid_notifications_title">Gerenciar configurações de notificação</string>
+    <string name="plugin_printoid_notifications_info">Gerencie as configurações de notificações (defina sons e vibrações específicos para todos os canais disponíveis)</string>
+    <string name="plugin_printoid_temp_head_title">As notificações sobre a cabeça aquecida esfriam</string>
+    <string name="plugin_printoid_temp_head_info">Quando a temperatura da extrusora cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
+    <string name="plugin_printoid_temp_head_success">Valor do gatilho da cabeça aquecida para a notificação de temperatura definida como %d</string>
+    <string name="plugin_printoid_temp_head_failure">Falha ao definir o valor do gatilho da cabeça aquecida para notificação de temperatura!</string>
+    <string name="plugin_printoid_temp_bed_title">As notificações na cama aquecida esfriam</string>
+    <string name="plugin_printoid_temp_bed_info">Quando a temperatura da cama cai abaixo desse limite após a conclusão da impressão, o OctoPrint envia uma notificação.</string>
+    <string name="plugin_printoid_temp_bed_success">Valor de disparo do leito aquecido para a notificação de temperatura definida como %d</string>
+    <string name="plugin_printoid_temp_bed_failure">Falha ao definir o valor do gatilho da cama aquecida para notificação de temperatura!</string>
+    <string name="plugin_printoid_bed_duration_info">Quando a cama aquece até a temperatura desejada pela seguinte duração antes do início da impressão, o OctoPrint envia uma notificação</string>
+    <string name="plugin_printoid_bed_duration">Minutos</string>
+    <string name="plugin_printoid_bed_duration_success">Duração de aquecimento da cama aquecida definida para %d minutos</string>
+    <string name="plugin_printoid_bed_duration_failure">Falha ao definir a duração quente da cama aquecida</string>
+
 </resources>

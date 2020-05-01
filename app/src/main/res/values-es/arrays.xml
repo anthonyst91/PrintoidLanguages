@@ -27,16 +27,6 @@
         <item>WAN only</item>
     </string-array>
 
-    <string-array name="setting_sound_array">
-        <item>Sonido 1</item>
-        <item>Sonido 2</item>
-        <item>Sonido 3</item>
-        <item>Sonido 4</item>
-        <item>Sonido 5</item>
-        <item>Sonido 6</item>
-        <item>Sonido OFF</item>
-    </string-array>
-
     <string-array name="setting_force_clock_array">
         <item>Desactivado</item>
         <item>12H</item>
