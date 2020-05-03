@@ -17,6 +17,7 @@
     <string name="plugin_desc_prusathumbnail">Questo plug-in estrarrà le miniature incorporate dai file gcode di PrusaSlicer in cui il file ini del profilo della stampante ha l\'opzione di anteprima configurata. Questo è il comportamento predefinito per il profilo della stampante Prusa Mini.</string>
     <string name="plugin_desc_printoid">Printoid Plugin per OctoPrint per ricevere notifiche push in tempo reale sullo stato della stampa e altro, anche quando l\'app è in background.</string>
     <string name="plugin_desc_ultimakerfp">Questo plugin aggiunge il supporto per i file del pacchetto formato Ultimaker (.ufp). I file del pacchetto formato Ultimaker sono basati su Open Packaging Conventions (OPC) e contengono gcode compresso e una miniatura di anteprima.</string>
+    <string name="plugin_desc_tasmota">Questo plugin serve per controllare i dispositivi ITead Sonoff che sono stati sottoposti a flashing con Sonoff-Tasmota tramite chiamate Web.</string>
 
     <string name="plugin_message_psu">Il plugin di controllo PSU deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
@@ -38,9 +39,14 @@
     <string name="plugin_psu_enable">Abilita PSU</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
-    <string name="plugin_tplink_enable">Abilita TP-Link SmartPlug</string>
+    <string name="plugin_tplink_enable">Abilita TPLink SmartPlug</string>
     <string name="plugin_tplink_state">Stato Corrente:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <!-- TASMOTA SMARTPLUG PLUGIN -->
+    <string name="plugin_tasmota_enable">Abilita Tasmota SmartPlug</string>
+    <string name="plugin_tasmota_state">Stato Corrente:</string>
+    <string name="plugin_tasmota_ip">Smartplug IP:</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tuya_enable">Abilita Tuya SmartPlug</string>

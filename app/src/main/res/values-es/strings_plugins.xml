@@ -16,6 +16,7 @@
     <string name="plugin_desc_prusathumbnail">Este complemento extraerá las miniaturas incrustadas de los archivos gcode de PrusaSlicer donde el archivo ini del perfil de la impresora tiene la opción de miniatura configurada. Este es el comportamiento predeterminado para el perfil de impresora Prusa Mini.</string>
     <string name="plugin_desc_printoid">Complemento Printoid para OctoPrint para recibir notificaciones push en tiempo real sobre su estado de impresión y más, incluso cuando la aplicación está en segundo plano.</string>
     <string name="plugin_desc_ultimakerfp">Este complemento agrega soporte para los archivos del paquete de formato Ultimaker (.ufp). Los archivos del paquete de formato Ultimaker se basan en Convenciones de Empaque Abierto (OPC) y contienen gcode comprimido y una vista previa en miniatura.</string>
+    <string name="plugin_desc_tasmota">Este complemento es para controlar dispositivos ITead Sonoff que han sido flasheados con Sonoff-Tasmota a través de llamadas web.</string>
 
     <string name="plugin_message_psu">El complemento de control de la PSU se instalará en su servidor OctoPrint. Luego aparecerá automáticamente en el menú izquierdo de la aplicación.</string>
     <string name="plugin_message_tp_link">El TP-Link SmartPlug debe instalarse en su servidor OctoPrint. Luego aparecerá automáticamente en el menú de la izquierda de la aplicación.</string>
@@ -34,9 +35,13 @@
 
     <string name="plugin_psu_enable">Habilitar PSU</string>
 
-    <string name="plugin_tplink_enable">Habilitar TP-Link SmartPlug</string>
+    <string name="plugin_tplink_enable">Habilitar TPLink SmartPlug</string>
     <string name="plugin_tplink_state">Estado actual:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <string name="plugin_tasmota_enable">Habilitar Tasmota SmartPlug</string>
+    <string name="plugin_tasmota_state">Estado actual:</string>
+    <string name="plugin_tasmota_ip">Smartplug IP:</string>
 
     <string name="plugin_tuya_enable">Habilitar Tuya SmartPlug</string>
     <string name="plugin_tuya_state">Estado actual:</string>

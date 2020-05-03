@@ -17,6 +17,7 @@
     <string name="plugin_desc_prusathumbnail">This plugin will extract the embedded thumbnails from PrusaSlicer gcode files where the printer\'s profile ini file has the thumbnail option configured. This is default behavior for the Prusa Mini printer profile.</string>
     <string name="plugin_desc_ultimakerfp">This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail.</string>
     <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
+    <string name="plugin_desc_tasmota">This plugin is to control ITead Sonoff devices that have been flashed with Sonoff-Tasmota via web calls.</string>
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
@@ -38,9 +39,14 @@
     <string name="plugin_psu_enable">Enable PSU</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
-    <string name="plugin_tplink_enable">Enable TP-Link SmartPlug</string>
+    <string name="plugin_tplink_enable">Enable TPLink SmartPlug</string>
     <string name="plugin_tplink_state">Current state:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <!-- TASMOTA SMARTPLUG PLUGIN -->
+    <string name="plugin_tasmota_enable">Enable Tasmota SmartPlug</string>
+    <string name="plugin_tasmota_state">Current state:</string>
+    <string name="plugin_tasmota_ip">Smartplug IP:</string>
 
     <!-- WEMO SWITCH PLUGIN -->
     <string name="plugin_wemo_enable">Enable WemoSwitch</string>

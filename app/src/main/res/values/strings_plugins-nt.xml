@@ -7,6 +7,7 @@
     <string name="plugin_name_tp_link" translatable="false">TP-Link SmartPlug</string>
     <string name="plugin_name_wemo" translatable="false">WemoSwitch</string>
     <string name="plugin_name_tuya" translatable="false">Tuya SmartPlug</string>
+    <string name="plugin_name_tasmota" translatable="false">Tasmota</string>
     <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
     <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
     <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
@@ -19,6 +20,7 @@
     <string name="plugin_author_tp_link" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_wemo" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_tuya" translatable="false">(@ziirish)</string>
+    <string name="plugin_author_tasmota" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
     <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
@@ -31,6 +33,7 @@
     <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
     <string name="plugin_url_wemo" translatable="false">https://github.com/jneilliii/OctoPrint-WemoSwitch</string>
     <string name="plugin_url_tuya" translatable="false">https://github.com/ziirish/OctoPrint-TuyaSmartplug</string>
+    <string name="plugin_url_tasmota" translatable="false">https://github.com/jneilliii/OctoPrint-Tasmota</string>
     <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
     <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
     <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>

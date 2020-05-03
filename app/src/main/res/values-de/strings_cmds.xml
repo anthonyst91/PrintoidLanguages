@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Schalten Sie den TPLink aus</string>
     <string name="command_tplink_turn_on_error">Schalten Sie den TPLink ein</string>
 
+    <string name="command_tasmota_turn_off_alert_title">Schalten Sie das Tasmota aus</string>
+    <string name="command_tasmota_turn_off_alert_msg">Ihr Tasmota ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>
+    <string name="command_tasmota_turn_on_alert_title">Schalten Sie das Tasmota ein</string>
+    <string name="command_tasmota_turn_on_alert_msg">Ihr Tasmota ist eigentlich ausgeschaltet.\n\nMöchtest du es jetzt einschalten?</string>
+    <string name="command_tasmota_turned_off">Tasmota ausgeschaltet</string>
+    <string name="command_tasmota_turned_on">Tasmota ist eingeschaltet</string>
+    <string name="command_tasmota_turn_off_error">Schalten Sie den Tasmota aus</string>
+    <string name="command_tasmota_turn_on_error">Schalten Sie den Tasmota ein</string>
+
     <string name="command_tuya_turn_off_alert_title">Schalten Sie das Tuya Smartplug aus</string>
     <string name="command_tuya_turn_off_alert_msg">Ihr Tuya Smartplug ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>
     <string name="command_tuya_turn_on_alert_title">Schalten Sie das Tuya Smartplug ein</string>
