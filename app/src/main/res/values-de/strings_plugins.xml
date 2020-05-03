@@ -14,6 +14,8 @@
     <string name="plugin_desc_navbartemp">Anzeige der Temperaturen in der Navigationsleiste von OctoPrint. Für Raspberry Pi-Benutzer kann dieses Plugin die CPU-Temperatur des Raspberry Pi automatisch in der Titelleiste der App anzeigen.</string>
     <string name="plugin_desc_octolapse">Octolapse wurde entwickelt, um stabilisierte Zeitraffer Ihrer Drucke mit so wenig Aufwand wie möglich zu gestalten, und es ist äußerst konfigurierbar. Jetzt können Sie eine seidige, glatte Timelapse ohne eine benutzerdefinierte Kamerahalterung erstellen. Es sind keine GCode-Anpassungen erforderlich.</string>
     <string name="plugin_desc_prusathumbnail">Dieses Plugin extrahiert die eingebetteten Miniaturansichten aus PrusaSlicer-Gcode-Dateien, in denen für die Profil-INI-Datei des Druckers die Miniaturansicht konfiguriert ist. Dies ist das Standardverhalten für das Prusa Mini-Druckerprofil.</string>
+    <string name="plugin_desc_printoid">Printoid Plugin für OctoPrint, um Push-Benachrichtigungen in Echtzeit über Ihren Druckstatus und mehr zu erhalten, selbst wenn sich die App im Hintergrund befindet.</string>
+    <string name="plugin_desc_ultimakerfp">Dieses Plugin bietet Unterstützung für Ultimaker Format Package (.ufp) -Dateien. Ultimaker Format Package-Dateien basieren auf Open Packaging Conventions (OPC) und enthalten komprimierten Gcode und eine Vorschau-Miniaturansicht.</string>
 
     <string name="plugin_message_psu">Das PSU-Control-Plugin muss auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>
     <string name="plugin_message_tp_link">Der TP-Link SmartPlug sollte auf Ihrem OctoPrint-Server installiert sein. Dann erscheint es automatisch im linken Menü der App.</string>

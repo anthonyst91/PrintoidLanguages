@@ -15,6 +15,8 @@
     <string name="plugin_desc_navbartemp">Affiche la température du système dans la barre de navigation.</string>
     <string name="plugin_desc_octolapse">Octolapse est fait pour créer des timelapses stabilisés de vos impressions, et est extremement configurable. Vous n\'avez plus besoin d\'un stand stabilisé, et aucune customisation GCODE n\'est nécessaire.</string>
     <string name="plugin_desc_prusathumbnail">Ce plugin extrait la preview des fichiers embarqué dans le GCODE généré par PrusaSlicer, lorsque le profile.ini de l\'imprimante a l\'option thumbnail activée. C\'est le comportement par défaut pour les profils de la Prusa Mini.</string>
+    <string name="plugin_desc_printoid">Printoid Plugin pour OctoPrint pour recevoir des notifications push en temps réel sur votre statut d\'impression et plus encore, même lorsque l\'application est en arrière-plan.</string>
+    <string name="plugin_desc_ultimakerfp">Ce plugin ajoute la prise en charge des fichiers Ultimaker Format Package (.ufp). Les fichiers du package de format Ultimaker sont basés sur les conventions OPC (Open Packaging Conventions) et contiennent un gcode compressé et une miniature d\'aperçu.</string>
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>

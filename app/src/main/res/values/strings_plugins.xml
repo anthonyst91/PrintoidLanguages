@@ -6,7 +6,6 @@
     <string name="plugins_help_title">OctoPrint\'s plugins</string>
     <string name="plugins_help_message">This is the list of plugins currently integrated in Printoid.\n\nAll OctoPrint\'s plugin are not implemented in Printoid and I (the developer) can not integrated them all.\n\nPlease contact me at contact@printoid.net if you would like to see a new plugin in Printoid. I will reflect on its integration (if and only it is possible).</string>
 
-    <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
     <string name="plugin_desc_psu">This OctoPrint plugin controls an ATX/AUX power supply to help reduce power consumption and noise when the printer is not in use.</string>
     <string name="plugin_desc_autoshutdown">Plugin for automatically shutting down the system after print is finished. Can be configured only when the server is up.</string>
     <string name="plugin_desc_tp_link">Work inspired by OctoPrint-PSUControl and TP-Link WiFi SmartPlug Client, this plugin controls a TP-Link Smartplug via OctoPrint\'s nav bar.</string>
@@ -16,6 +15,8 @@
     <string name="plugin_desc_navbartemp">Display temperatures on OctoPrint\'s navigation bar. For Raspberry Pi users, this plugin allows to show the Raspberry Pi\'s CPU temperature in the app title bar automatically.</string>
     <string name="plugin_desc_octolapse">Octolapse is designed to make stabilized timelapses of your prints with as little hassle as possible, and it\'s extremely configurable. Now you can create a silky smooth timelapse without a custom camera mount, no GCode customizations required.</string>
     <string name="plugin_desc_prusathumbnail">This plugin will extract the embedded thumbnails from PrusaSlicer gcode files where the printer\'s profile ini file has the thumbnail option configured. This is default behavior for the Prusa Mini printer profile.</string>
+    <string name="plugin_desc_ultimakerfp">This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail.</string>
+    <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>

@@ -11,17 +11,19 @@
     <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
     <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
     <string name="plugin_name_prusathumbnail" translatable="false">PrusaSlicer Thumbnail</string>
+    <string name="plugin_name_ultimakerfp" translatable="false">Ultimaker Format Package</string>
 
     <string name="plugin_author_printoid" translatable="false">Anthony Stéphan (@anthonyst91)</string>
     <string name="plugin_author_psu" translatable="false">Shawn Bruce (@kantlivelong)</string>
     <string name="plugin_author_autoshutdown" translatable="false">Nicanor Romero Venier(@octoprint)</string>
-    <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
-    <string name="plugin_author_wemo" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_tp_link" translatable="false">Jim Neill (@jneilliii)</string>
+    <string name="plugin_author_wemo" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_tuya" translatable="false">(@ziirish)</string>
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
     <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
-    <string name="plugin_author_prusathumbnail" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_prusathumbnail" translatable="false">Jim Neill (@jneilliii)</string>
+    <string name="plugin_author_ultimakerfp" translatable="false">Jim Neill (@jneilliii)</string>
 
     <string name="plugin_url_printoid" translatable="false">https://github.com/anthonyst91/OctoPrint-Printoid</string>
     <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
@@ -33,11 +35,15 @@
     <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
     <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
     <string name="plugin_url_prusathumbnail" translatable="false">https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails</string>
+    <string name="plugin_url_ultimakerfp" translatable="false">https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage</string>
 
     <string name="plugin_enclosure_rpi_output_pwm_hint" translatable="false">0%</string>
 
     <!-- PRUSASLICER THUMBNAIL PLUGIN -->
     <string name="plugin_prusathumbnail_info" translatable="false">Since PrusaSlicer only enables thumbnails by default for the Prusa Mini you may need to manually update your configuration files. Those can be found by selecting <b>Show Configuration Folder</b> from the Help menu of the application and then inside the printers sub-folder you\'ll find your printer profiles.\n\n<b>Note:</b> If you don\'t see your printer\'s ini file in the printers sub-folder; you are probably using one of the bundled Prusa Printer profiles (ie MK3S). If so you may need to create a copy of this printer profile to be able to have an ini file to edit.\n\nTo do this in PrusaSlicer go to the Printer Settings tab and Click the save button next to the printer list and give it a new name.\n\nAlternatively, push Prusa Research to update their bundled profiles to match the Mini by commenting in the issue posted on their repository here.\n\nOpen your desired printer profile in your favorite text editor and find the thumbnails = section and add the resolution that you would like to include in your sliced files, and therefore visible by this plugin. For example thumbnails = 16x16,220x124 will be the equivalent of the Prusa Mini as described above.\n\n<b>Warning:</b> the higher the resolution of the thumbnail you enter in this setting the larger your gcode file will be when sliced.</string>
+
+    <!-- ULTIMAKER FORMAT PACKAGE PLUGIN -->
+    <string name="plugin_ultimakerfp_info" translatable="false">This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail. This format will automatically be used by the OctoPrint Connection plugin in Cura (install via Marketplace) if this plugin is installed.\n\nThe preview thumbnail can be shown in OctoPrint from the files list by clicking the newly added image button. And in Printoid within the Files manager, without any required action!</string>
 
     <!-- PRINTOID PLUGIN -->
     <string name="plugin_printoid_info" translatable="false">This plugin sends immediate push notifications to your Android devices running Printoid for OctoPrint when:\n\n
