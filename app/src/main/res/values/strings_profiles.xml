@@ -11,6 +11,7 @@
     <string name="config_api_key">OctoPrint API Key</string>
     <string name="config_baudrate">Baudrate</string>
 
+    <string name="config_octoprint_profiles_title">OctoPrint profiles</string>
     <string name="config_octoprint_profile_title">OctoPrint profile</string>
     <string name="config_printer_first_profile_title">Configure your first OctoPrint profile</string>
     <string name="config_printer_profiles_title">OctoPrint profiles</string>
