@@ -15,6 +15,9 @@
     <string name="plugin_desc_navbartemp">Exiba temperaturas na barra de navegação do OctoPrint. Para usuários de Raspberry Pi, este plugin permite mostrar automaticamente a temperatura da CPU do Raspberry Pi na barra de título do aplicativo.</string>
     <string name="plugin_desc_octolapse">O Octolapse foi projetado para criar timelapses estabilizadas de suas impressões com o menor incômodo possível, e é extremamente configurável. Agora você pode criar um timelapse suave e sedoso sem uma montagem de câmera personalizada, sem necessidade de personalizações de GCode.</string>
     <string name="plugin_desc_prusathumbnail">Este plug-in extrai as miniaturas incorporadas dos arquivos gcode do PrusaSlicer, nos quais o arquivo ini do perfil da impressora possui a opção de miniatura configurada. Esse é o comportamento padrão do perfil da impressora Prusa Mini.</string>
+    <string name="plugin_desc_printoid">O Printoid Plugin for OctoPrint recebe notificações push em tempo real sobre o status de impressão e muito mais, mesmo quando o aplicativo está em segundo plano.</string>
+    <string name="plugin_desc_ultimakerfp">Este plugin adiciona suporte para arquivos Ultimaker Format Package (.ufp). Os arquivos do Pacote de formato Ultimaker são baseados em OPC (Open Packaging Conventions) e contêm gcode compactado e uma miniatura de visualização.</string>
+    <string name="plugin_desc_tasmota">Este plug-in é para controlar dispositivos ITead Sonoff que foram atualizados com o Sonoff-Tasmota por meio de chamadas pela web.</string>
 
     <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
     <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.</string>
@@ -37,9 +40,14 @@
     <string name="plugin_psu_enable">Ativar PSU</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
-    <string name="plugin_tplink_enable">Ativar TP-Link SmartPlug</string>
+    <string name="plugin_tplink_enable">Ativar TPLink SmartPlug</string>
     <string name="plugin_tplink_state">Estado atual:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <!-- TASMOTA SMARTPLUG PLUGIN -->
+    <string name="plugin_tasmota_enable">Ativar Tasmota SmartPlug</string>
+    <string name="plugin_tasmota_state">Estado atual:</string>
+    <string name="plugin_tasmota_ip">Smartplug IP:</string>
 
     <!-- TUYA SMARTPLUG PLUGIN -->
     <string name="plugin_tuya_enable">Ativar Tuya SmartPlug</string>

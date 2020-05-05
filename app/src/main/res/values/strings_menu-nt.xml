@@ -5,6 +5,8 @@
     <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
     <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
     <string name="menu_tplink_plugin_off" translatable="false">TP Link off</string>
+    <string name="menu_tasmota_plugin_on" translatable="false">Tasmota on</string>
+    <string name="menu_tasmota_plugin_off" translatable="false">Tasmota off</string>
     <string name="menu_tuya_plugin_on" translatable="false">Tuya on</string>
     <string name="menu_tuya_plugin_off" translatable="false">Tuya off</string>
     <string name="menu_wemo_plugin_on" translatable="false">WemoSwitch on</string>

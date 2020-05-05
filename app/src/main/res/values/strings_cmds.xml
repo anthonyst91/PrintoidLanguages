@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Turn OFF TPLink error</string>
     <string name="command_tplink_turn_on_error">Turn ON TPLink error</string>
 
+    <string name="command_tasmota_turn_off_alert_title">Turn OFF Tasmota</string>
+    <string name="command_tasmota_turn_off_alert_msg">Your Tasmota is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
+    <string name="command_tasmota_turn_on_alert_title">Turn ON Tasmota</string>
+    <string name="command_tasmota_turn_on_alert_msg">Your Tasmota is actually OFF.\n\nDo you want to turn it ON right now?</string>
+    <string name="command_tasmota_turned_off">Tasmota turned OFF</string>
+    <string name="command_tasmota_turned_on">Tasmota turned ON</string>
+    <string name="command_tasmota_turn_off_error">Turn OFF Tasmota error</string>
+    <string name="command_tasmota_turn_on_error">Turn ON Tasmota error</string>
+
     <string name="command_tuya_turn_off_alert_title">Turn OFF Tuya SmartPlug</string>
     <string name="command_tuya_turn_off_alert_msg">Your Tuya SmartPlug is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
     <string name="command_tuya_turn_on_alert_title">Turn ON Tuya SmartPlug</string>

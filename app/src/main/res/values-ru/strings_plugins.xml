@@ -14,6 +14,9 @@
     <string name="plugin_desc_navbartemp">Отображение температуры на навигационной панели OctoPrint. Для пользователей Raspberry Pi этот плагин позволяет автоматически отображать температуру процессора Raspberry Pi в строке заголовка приложения.</string>
     <string name="plugin_desc_octolapse">Octolapse разработан для того, чтобы стабилизировать интервалы между отпечатками с минимальными трудностями, и это чрезвычайно настраивается. Теперь вы можете создать гладкую гладкую замедленную съемку без специального монтирования камеры, никаких настроек GCode не требуется.</string>
     <string name="plugin_desc_prusathumbnail">Этот плагин будет извлекать встроенные миниатюры из файлов gcode PrusaSlicer, где в ini-файле профиля принтера настроена опция миниатюр. Это поведение по умолчанию для профиля принтера Prusa Mini.</string>
+    <string name="plugin_desc_printoid">Плагин Printoid для OctoPrint для получения push-уведомлений в режиме реального времени о вашем состоянии печати и т. Д., Даже если приложение находится в фоновом режиме.</string>
+    <string name="plugin_desc_ultimakerfp">Этот плагин добавляет поддержку файлов формата Ultimaker (.ufp). Файлы пакета формата Ultimaker основаны на соглашениях об открытой упаковке (OPC) и содержат сжатый код gcode и эскиз предварительного просмотра.</string>
+    <string name="plugin_desc_tasmota">Этот плагин предназначен для управления устройствами ITead Sonoff, которые были прошиты с помощью Sonoff-Tasmota через веб-вызовы.</string>
 
     <string name="plugin_message_psu">Плагин PSU Control должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
@@ -32,9 +35,13 @@
 
     <string name="plugin_psu_enable">Включить БП</string>
 
-    <string name="plugin_tplink_enable">Включить TP-Link SmartPlug</string>
+    <string name="plugin_tplink_enable">Включить TPLink SmartPlug</string>
     <string name="plugin_tplink_state">Текущее состояние:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <string name="plugin_tasmota_enable">Включить Tasmota SmartPlug</string>
+    <string name="plugin_tasmota_state">Текущее состояние:</string>
+    <string name="plugin_tasmota_ip">Smartplug IP:</string>
 
     <string name="plugin_tuya_enable">Включить Tuya SmartPlug</string>
     <string name="plugin_tuya_state">Текущее состояние:</string>

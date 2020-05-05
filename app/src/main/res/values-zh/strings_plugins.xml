@@ -15,6 +15,9 @@
     <string name="plugin_desc_navbartemp">在OctoPrint导航栏显示温度信息. 对于树莓派用户, 该插件自动会在应用导航栏显示树莓派CPU温度.</string>
     <string name="plugin_desc_octolapse">Octolapse被设计成用于制作稳定的3D打印延时摄影, 同时操作尽可能保存简单, 此外它还可以进行高度配置. 现在您不需要改装摄像头或者自定义GCODE就能够制作出丝滑流畅的延时摄影.</string>
     <string name="plugin_desc_prusathumbnail">该插件将从PrusaSlicer gcode文件中提取嵌入式缩略图，其中打印机的配置文件ini文件已配置了缩略图选项。 这是Prusa Mini打印机配置文件的默认行为。</string>
+    <string name="plugin_desc_printoid">用于OctoPrint的Printoid插件可以实时接收有关您的打印状态等的推送通知，即使该应用程序处于后台也是如此。</string>
+    <string name="plugin_desc_ultimakerfp">该插件增加了对Ultimaker格式包（.ufp）文件的支持。 Ultimaker格式软件包文件基于开放包装约定（OPC），并包含压缩的gcode和预览缩略图。</string>
+    <string name="plugin_desc_tasmota">此插件用于控制已通过Web调用随Sonoff-Tasmota刷新的ITead Sonoff设备。</string>
 
     <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
@@ -36,14 +39,20 @@
     <string name="plugin_psu_enable">打开电源</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
-    <string name="plugin_tplink_enable">打开TP-Link智能插座</string>
+    <string name="plugin_tplink_enable">打开TPLink智能插座</string>
     <string name="plugin_tplink_state">当前状态:</string>
     <string name="plugin_tplink_ip">智能插座IP:</string>
+
+    <!-- TASMOTA SMARTPLUG PLUGIN -->
+    <string name="plugin_tasmota_enable">打开Tasmota智能插座</string>
+    <string name="plugin_tasmota_state">当前状态:</string>
+    <string name="plugin_tasmota_ip">智能插座IP:</string>
 
     <!-- TPLINK SMARTPLUG PLUGIN -->
     <string name="plugin_tuya_enable">打开Tuya智能插座</string>
     <string name="plugin_tuya_state">当前状态:</string>
     <string name="plugin_tuya_ip">智能插头标签:</string>
+    
 
     <!-- WEMO SWITCH PLUGIN -->
     <string name="plugin_wemo_enable">打开Wemo智能插座</string>

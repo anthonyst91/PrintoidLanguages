@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Ошибка выключения TPLink</string>
     <string name="command_tplink_turn_on_error">Ошибка включения TPLink</string>
 
+    <string name="command_tasmota_turn_off_alert_title">Выключить Tasmota питание</string>
+    <string name="command_tasmota_turn_off_alert_msg">Ваш Tasmota питание включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли Вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_tasmota_turn_on_alert_title">Включить Tasmota питание</string>
+    <string name="command_tasmota_turn_on_alert_msg">Ваш Tasmota питание отключено.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_tasmota_turned_off">Tasmota питание отключено</string>
+    <string name="command_tasmota_turned_on">Tasmota питание включено</string>
+    <string name="command_tasmota_turn_off_error">Ошибка выключения Tasmota</string>
+    <string name="command_tasmota_turn_on_error">Ошибка включения Tasmota</string>
+
     <string name="command_tuya_turn_off_alert_title">Выключить Tuya Smartplug питание</string>
     <string name="command_tuya_turn_off_alert_msg">Ваш Tuya Smartplug питание включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли Вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
     <string name="command_tuya_turn_on_alert_title">Включить Tuya Smartplug питание</string>

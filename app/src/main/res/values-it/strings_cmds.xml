@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Errore Spegnimento TPLink</string>
     <string name="command_tplink_turn_on_error">Errore Accensione TPLink</string>
 
+    <string name="command_tasmota_turn_off_alert_title">Spegni Tasmota</string>
+    <string name="command_tasmota_turn_off_alert_msg">Il tuo Tasmota è attualmente ON.\n\nVuoi disattivarlo adesso OFF?\n\nSe si sta stampando, il lavoro corrente verrà interrotto e la stampa andrà persa.</string>
+    <string name="command_tasmota_turn_on_alert_title">Accendi Tasmota</string>
+    <string name="command_tasmota_turn_on_alert_msg">Il tuo Tasmota è attualmente OFF.\n\nVuoi accenderlo adesso ON?</string>
+    <string name="command_tasmota_turned_off">Tasmota spegni OFF</string>
+    <string name="command_tasmota_turned_on">Tasmota accendi ON</string>
+    <string name="command_tasmota_turn_off_error">Errore Spegnimento Tasmota</string>
+    <string name="command_tasmota_turn_on_error">Errore Accensione Tasmota</string>
+
     <string name="command_tuya_turn_off_alert_title">Spegni Tuya Smartplug</string>
     <string name="command_tuya_turn_off_alert_msg">Il tuo Tuya Smartplug è attualmente ON.\n\nVuoi disattivarlo adesso OFF?\n\nSe si sta stampando, il lavoro corrente verrà interrotto e la stampa andrà persa.</string>
     <string name="command_tuya_turn_on_alert_title">Accendi Tuya Smartplug</string>
