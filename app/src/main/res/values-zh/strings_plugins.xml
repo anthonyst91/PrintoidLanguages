@@ -20,6 +20,7 @@
     <string name="plugin_desc_tasmota">此插件用于控制已通过Web调用随Sonoff-Tasmota刷新的ITead Sonoff设备。</string>
 
     <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
+    <string name="plugin_message_tasmota">Tasmota插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tuya">Tuya Smartplug plugin插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_wemo">WemoSwitch plugin插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>

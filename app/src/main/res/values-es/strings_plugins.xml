@@ -19,6 +19,7 @@
     <string name="plugin_desc_tasmota">Este complemento es para controlar dispositivos ITead Sonoff que han sido flasheados con Sonoff-Tasmota a través de llamadas web.</string>
 
     <string name="plugin_message_psu">El complemento de control de la PSU se instalará en su servidor OctoPrint. Luego aparecerá automáticamente en el menú izquierdo de la aplicación.</string>
+    <string name="plugin_message_tasmota">El complemento de control de la Tasmota se instalará en su servidor OctoPrint. Luego aparecerá automáticamente en el menú izquierdo de la aplicación.</string>
     <string name="plugin_message_tp_link">El TP-Link SmartPlug debe instalarse en su servidor OctoPrint. Luego aparecerá automáticamente en el menú de la izquierda de la aplicación.</string>
     <string name="plugin_message_tuya">El Tuya Smartplug debe instalarse en su servidor OctoPrint. Luego aparecerá automáticamente en el menú de la izquierda de la aplicación.</string>
     <string name="plugin_message_wemo">El WemoSwitch debe instalarse en su servidor OctoPrint. Luego aparecerá automáticamente en el menú de la izquierda de la aplicación.</string>

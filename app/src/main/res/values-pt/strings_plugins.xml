@@ -20,6 +20,7 @@
     <string name="plugin_desc_tasmota">Este plug-in é para controlar dispositivos ITead Sonoff que foram atualizados com o Sonoff-Tasmota por meio de chamadas pela web.</string>
 
     <string name="plugin_message_psu">O plug-in PSU Control deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
+    <string name="plugin_message_tasmota">O plug-in Tasmota deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do app.</string>
     <string name="plugin_message_tp_link">O plugin TP-Link SmartPlug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.</string>
     <string name="plugin_message_tuya">O plugin Tuya Smartplug deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.</string>
     <string name="plugin_message_wemo">O plugin WemoSwitch deve ser instalado no seu servidor OctoPrint. Desta forma ele aparecerá automaticamente no menu à esquerda do aplicativo.</string>

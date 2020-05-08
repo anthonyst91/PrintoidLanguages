@@ -20,6 +20,7 @@
     <string name="plugin_desc_tasmota">Ce plugin sert à contrôler les appareils ITead Sonoff qui ont été flashés avec Sonoff-Tasmota via des appels Web.</string>
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
+    <string name="plugin_message_tasmota">Le plugin Tasmota doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tuya">Le plugin Tuya Smartplug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_wemo">Le plugin WemoSwitch doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>

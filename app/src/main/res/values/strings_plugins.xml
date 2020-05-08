@@ -21,6 +21,7 @@
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
+    <string name="plugin_message_tasmota">The Tasmota plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_wemo">The WemoSwitch plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tuya">The Tuya SmartPlug plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_enclosure">This plugin will be integrated very soon in Printoid, please be patient :) You will be informed once available.</string>
