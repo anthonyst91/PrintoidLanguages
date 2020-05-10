@@ -59,4 +59,6 @@
     <string name="alarm_notification_z_height">Altura Z alcançada: %.2f</string>
     <string name="alarm_notification_printer_state">Novo estado: %s</string>
 
+    <string name="alarm_alert_deprecated">Este recurso está obsoleto. Não defina alertas do aplicativo, mas use o novo Printoid Plugin para OctoPrint: é mais poderoso e você receberá notificações mesmo que o Printoid esteja em segundo plano!</string>
+
 </resources>
