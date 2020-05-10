@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="manual_link_website" translatable="false">https://printoid.net</string>
+    <string name="manual_link_faq" translatable="false">https://printoid.net/trick-tips/</string>
+    <string name="manual_link_news" translatable="false">https://printoid.net/blog/</string>
+
+    <string name="manual_link_installation" translatable="false">https://printoid.net/how-does-it-work/</string>
+    <string name="manual_link_connection" translatable="false">https://printoid.net/connecting-octoprint-with-printoid/</string>
+    <string name="manual_link_remote_access" translatable="false">https://printoid.net/access-octoprint-from-the-internet/</string>
+
+    <string name="manual_link_all_features" translatable="false">https://printoid.net/features/</string>
+    <string name="manual_link_dashboard" translatable="false">https://printoid.net/features-description/</string>
+    <string name="manual_link_printoid_hub" translatable="false">https://printoid.net/printoid-hub/</string>
+
+    <string name="manual_link_support_2_cameras" translatable="false">https://printoid.net/support-2-cameras/</string>
+    <string name="manual_link_camera_low_high" translatable="false">https://printoid.net/2017/01/12/trick-8-create-commands-to-start-the-webcam-in-low-high-quality/</string>
+    <string name="manual_link_floating_icon" translatable="false">https://printoid.net/2017/05/30/trick-17-how-to-use-the-streaming-floating-icon/</string>
+    <string name="manual_link_camera_tiles" translatable="false">https://printoid.net/2017/04/25/trick-11-enable-the-android-quick-setting-notification-tile-to-have-a-quick-access-to-your-streaming/</string>
+
+    <string name="manual_link_commands_gcode" translatable="false">https://printoid.net/2017/01/12/trick-7-send-custom-gcode-commands/</string>
+    <string name="manual_link_commands_ssh" translatable="false">https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/</string>
+    <string name="manual_link_commands_curl" translatable="false">https://printoid.net/2017/08/01/trick-20-send-your-own-http-commands-with-printoid-curl-like/</string>
+
+    <string name="manual_link_plugins_overview" translatable="false">https://printoid.net/supported-octoprint-plugins/</string>
+    <string name="manual_link_plugins_printoid" translatable="false">https://printoid.net/printoid-plugin-for-octoprint/</string>
+    <string name="manual_link_plugins_psu" translatable="false">https://printoid.net/2017/12/20/trick-23-how-to-control-the-psu-plugin/</string>
+    <string name="manual_link_plugins_smartplugs" translatable="false">https://printoid.net/2018/02/15/trick-26-how-to-control-the-tp-link-plugin/</string>
+
+    <string name="manual_link_control_keyboard" translatable="false">https://printoid.net/control-printoid-with-a-keyboard/</string>
+    <string name="manual_link_control_adb" translatable="false">https://printoid.net/control-printoid-with-adb/</string>
+
+    <string name="manual_link_backup" translatable="false">https://printoid.net/2017/01/09/trick-5-backup-restore-your-app/</string>
+    <string name="manual_link_rollingup" translatable="false">https://printoid.net/filament-spool-manager/</string>
+
+    <string name="manual_link_pro" translatable="false">https://printoid.net/2019/07/15/important-printoid-pro-is-unpublished/</string>
+    <string name="manual_link_premium" translatable="false">https://printoid.net/2020/02/09/unpublication-of-printoid-premium-is-some-countries/</string>
+    <string name="manual_link_premium_migration" translatable="false">https://printoid.net/2019/07/15/migrate-from-printoid-pro-to-premium/</string>
+
+    <string name="manual_link_contribute_language" translatable="false">https://printoid.net/contribute-to-the-internationalization-of-printoid/</string>
+    <string name="manual_link_contribute_partner" translatable="false">https://printoid.net/partnership-and-friendship-sites/</string>
+    <string name="manual_link_contribute_patreon" translatable="false">https://www.patreon.com/printoid</string>
+
+    <string name="manual_link_legals_thirdparts" translatable="false">https://printoid.net/third-party-software-components/</string>
+    <string name="manual_link_legals_tos" translatable="false">https://printoid.net/terms-and-conditions/</string>
+    <string name="manual_link_legals_privacy" translatable="false">https://printoid.net/privacy-policy/</string>
+    <string name="manual_link_legals_permissions" translatable="false">https://printoid.net/application-permissions-2/</string>
+
+    <string name="manual_link_more_team" translatable="false">https://printoid.net/application-permissions/</string>
+    <string name="manual_link_more_press" translatable="false">https://printoid.net/press-articles/</string>
+    <string name="manual_link_more_in_action" translatable="false">https://printoid.net/printoid-in-real-life/</string>
+
+</resources>
