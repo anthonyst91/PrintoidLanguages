@@ -64,6 +64,7 @@
     <string name="snooze">打盹</string>
     <string name="temperature">温度</string>
     <string name="disable">禁用</string>
+    <string name="abort">中止</string>
 
     <string name="heated_bed">热床</string>
     <string name="heated_chamber">加热箱</string>

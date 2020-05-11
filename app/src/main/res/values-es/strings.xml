@@ -64,6 +64,7 @@
     <string name="snooze">Dormitar</string>
     <string name="temperature">Temperatura</string>
     <string name="disable">Inhabilitar</string>
+    <string name="abort">Abortar</string>
 
     <string name="heated_bed">Cama calentada</string>
     <string name="heated_chamber">Cámara caliente</string>

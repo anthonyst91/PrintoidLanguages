@@ -64,6 +64,7 @@
     <string name="snooze">Snooze</string>
     <string name="temperature">Temperature</string>
     <string name="disable">Disable</string>
+    <string name="abort">Abort</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_chamber">Heated chamber</string>
