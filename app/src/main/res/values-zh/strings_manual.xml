@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="manual_title">Printoid手册</string>
+
+    <string name="manual_group_general">一般</string>
+    <string name="manual_group_installation">安装与配置</string>
+    <string name="manual_group_main_features">主要特点</string>
+    <string name="manual_group_camera">视频流</string>
+    <string name="manual_group_commands">自定义命令</string>
+    <string name="manual_group_plugins">OctoPrint插件</string>
+    <string name="manual_group_extended_controls">扩展控件</string>
+    <string name="manual_group_miscellaneous">杂</string>
+    <string name="manual_group_versions">Printoid版本</string>
+    <string name="manual_group_contribute">为项目做贡献</string>
+    <string name="manual_group_legals">法务</string>
+    <string name="manual_group_read_more">阅读更多…</string>
+
+    <string name="manual_info_translations_title">教程仅以英语提供</string>
+    <string name="manual_info_translations_message">本手册和教程目前以英语编写。以下页面未翻译成其他语言。</string>
+
+</resources>

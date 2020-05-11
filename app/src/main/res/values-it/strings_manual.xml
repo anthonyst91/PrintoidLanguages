@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="manual_title">Manuale stampato</string>
+
+    <string name="manual_group_general">Generale</string>
+    <string name="manual_group_installation">Installazione e configurazione</string>
+    <string name="manual_group_main_features">Caratteristiche principali</string>
+    <string name="manual_group_camera">Video streaming</string>
+    <string name="manual_group_commands">Comandi personalizzati</string>
+    <string name="manual_group_plugins">Plugin OctoPrint</string>
+    <string name="manual_group_extended_controls">Controlli estesi</string>
+    <string name="manual_group_miscellaneous">miscellaneo</string>
+    <string name="manual_group_versions">Le versioni di Printoid</string>
+    <string name="manual_group_contribute">Contribuisci al progetto</string>
+    <string name="manual_group_legals">Note legali</string>
+    <string name="manual_group_read_more">Leggi di più…</string>
+
+    <string name="manual_info_translations_title">I tutorial sono solo in inglese</string>
+    <string name="manual_info_translations_message">Il manuale e i tutorial sono scritti in inglese per il momento. Le seguenti pagine non sono tradotte in altre lingue.</string>
+
+</resources>

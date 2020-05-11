@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="manual_title">Printoid руководство</string>
+
+    <string name="manual_group_general">генеральный</string>
+    <string name="manual_group_installation">Установка и настройка</string>
+    <string name="manual_group_main_features">Основные особенности</string>
+    <string name="manual_group_camera">Видео трансляция</string>
+    <string name="manual_group_commands">Пользовательские команды</string>
+    <string name="manual_group_plugins">Плагины OctoPrint</string>
+    <string name="manual_group_extended_controls">Расширенные элементы управления</string>
+    <string name="manual_group_miscellaneous">Разное</string>
+    <string name="manual_group_versions">Принтоидные версии</string>
+    <string name="manual_group_contribute">Внести свой вклад в проект</string>
+    <string name="manual_group_legals">юридические дела</string>
+    <string name="manual_group_read_more">Читать далее…</string>
+
+    <string name="manual_info_translations_title">Учебники только на английском языке</string>
+    <string name="manual_info_translations_message">Руководство и учебные пособия на данный момент написаны на английском языке. Следующие страницы не переведены на другие языки.</string>
+
+</resources>
