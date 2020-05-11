@@ -37,6 +37,7 @@
         <item>Green 2020</item>
         <item>Purple 2020</item>
         <item>Yellow 2020</item>
+        <item>Blue 2020</item>
     </string-array>
 
     <string-array name="keyboard_type_array" translatable="false">
