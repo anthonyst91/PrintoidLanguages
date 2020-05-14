@@ -32,7 +32,7 @@
     <string name="command_sent_answer">指令执行结果</string>
     <string name="command_not_sent">发送指令时发生错误: %s</string>
     <string name="command_not_sent_reason">发送指令时发生错误: %1$s (%2$s)</string>
-    <string name="send_command_error">指令错误: %1$s (%2$d)</string>
+    <string name="send_command_error">指令错误:\n%1$s\n%2$s (%3$d)</string>
 
     <string name="command_help_for">点击此处查看 %s 指令的教程</string>
 

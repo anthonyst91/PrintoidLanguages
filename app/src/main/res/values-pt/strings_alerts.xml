@@ -116,4 +116,7 @@
     <string name="alert_choose_dashboard_mode_title">Escolha o seu modo de painel</string>
     <string name="alert_choose_dashboard_mode_message">Escolha como você deseja que o Printoid exiba seu painel (isso pode ser alterado nas configurações do aplicativo posteriormente)</string>
 
+    <string name="alert_octoprint_credentials_issue_missing">Faltam credenciais do OctoPrint para este perfil: alguns recursos podem não funcionar corretamente</string>
+    <string name="alert_octoprint_credentials_issue_forbidden">Credenciais do OctoPrint não válidas para este perfil: alguns recursos podem não funcionar corretamente</string>
+
 </resources>
