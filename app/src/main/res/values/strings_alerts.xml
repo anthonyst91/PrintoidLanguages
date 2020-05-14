@@ -108,4 +108,7 @@
     <string name="alert_choose_dashboard_mode_title">Choose your dashboard mode</string>
     <string name="alert_choose_dashboard_mode_message">Choose how you want Printoid to display your dashboard (this can be changed from the app\'s settings later)</string>
 
+    <string name="alert_octoprint_credentials_issue_missing">OctoPrint credentials missing for this profile: some features may not work properly</string>
+    <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint credentials not valid for this profile: some features may not work properly</string>
+
 </resources>

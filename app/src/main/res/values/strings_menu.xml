@@ -36,6 +36,7 @@
     <string name="menu_printer_tools">Printer tools</string>
     <string name="menu_gcode_scripts">Gcode scripts</string>
     <string name="menu_contributors">Contributors</string>
+    <string name="menu_manual">Manual &amp; tutorials</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Control</string>

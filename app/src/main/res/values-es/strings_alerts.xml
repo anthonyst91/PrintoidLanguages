@@ -108,4 +108,7 @@
     <string name="alert_choose_dashboard_mode_title">Elige tu modo de tablero</string>
     <string name="alert_choose_dashboard_mode_message">Elija cómo desea que Printoid muestre su panel de control (esto se puede cambiar desde la configuración de la aplicación más adelante)</string>
 
+    <string name="alert_octoprint_credentials_issue_missing">Faltan credenciales de OctoPrint para este perfil: algunas características pueden no funcionar correctamente</string>
+    <string name="alert_octoprint_credentials_issue_forbidden">Las credenciales de OctoPrint no son válidas para este perfil: algunas características pueden no funcionar correctamente</string>
+
 </resources>

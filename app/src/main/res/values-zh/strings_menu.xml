@@ -36,7 +36,7 @@
     <string name="menu_printer_tools">打印头</string>
     <string name="menu_gcode_scripts">Gcode脚本</string>
     <string name="menu_contributors">贡献者</string>
-
+    <string name="menu_manual">手册和教程</string>
     <string name="menu_monitor">显示器</string>
     <string name="menu_control">控制</string>
     <string name="menu_temperatures">温度</string>

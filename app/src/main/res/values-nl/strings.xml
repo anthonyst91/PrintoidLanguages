@@ -64,6 +64,7 @@
     <string name="snooze">Snooze</string>
     <string name="temperature">Temperatuur</string>
     <string name="disable">Uitschakelen</string>
+    <string name="abort">Afbreken</string>
 
     <string name="heated_bed">Bed</string>
     <string name="heated_chamber">Kamer</string>

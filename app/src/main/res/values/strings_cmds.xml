@@ -14,8 +14,8 @@
     <string name="add_command_content">Command arguments</string>
     <string name="add_command_icon">Icon</string>
     <string name="add_command_color">Icon color</string>
-    <string name="add_command_show_on_home">Show on home</string>
-    <string name="add_command_favorite">Mark as favorite</string>
+    <string name="add_command_show_on_home">Show on dashboard</string>
+    <string name="add_command_favorite">Set as favorite</string>
     <string name="add_command_request_confirmation">Confirmation</string>
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Command label</string>
@@ -32,7 +32,7 @@
     <string name="command_sent_answer">Command response</string>
     <string name="command_not_sent">Error while sending command: %s</string>
     <string name="command_not_sent_reason">Error while sending command: %1$s (%2$s)</string>
-    <string name="send_command_error">Command error: %1$s (%2$d)</string>
+    <string name="send_command_error">Command error:\n%1$s\n%2$s (%3$d)</string>
 
     <string name="command_help_for">Click here to see the tutorial for %s commands</string>
 

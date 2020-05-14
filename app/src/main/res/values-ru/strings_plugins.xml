@@ -19,6 +19,7 @@
     <string name="plugin_desc_tasmota">Этот плагин предназначен для управления устройствами ITead Sonoff, которые были прошиты с помощью Sonoff-Tasmota через веб-вызовы.</string>
 
     <string name="plugin_message_psu">Плагин PSU Control должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
+    <string name="plugin_message_tasmota">Плагин Tasmota должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_tp_link">TP-Link SmartPlug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_tuya">Tuya Smartplug должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_wemo">WemoSwitch должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
