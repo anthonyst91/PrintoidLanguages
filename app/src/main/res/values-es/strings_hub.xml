@@ -21,7 +21,7 @@
     <string name="hub_error_connection_to_server">No se puede conectar a OctoPrint</string>
 
     <string name="hub_setting_hide_second_icon">Ocultar icono de Printoid Hub</string>
-    <string name="hub_setting_hide_second_icon_tip">Oculte el segundo icono de la aplicación para iniciar Printoid Hub desde el iniciador de su aplicación</string>
+    <string name="hub_setting_hide_second_icon_tip">Oculte el segundo ícono de la aplicación para iniciar Printoid Hub desde el iniciador de su aplicación.\nSi ambos íconos desaparecen, reinicie su teléfono.</string>
 
     <string name="hub_show_camera"><u>Show camera…</u></string>
     <string name="hub_show_other_camera"><u>Show the other camera…</u></string>
