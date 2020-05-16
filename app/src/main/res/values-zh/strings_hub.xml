@@ -21,7 +21,7 @@
     <string name="hub_error_connection_to_server">无法连接到OctoPrint</string>
 
     <string name="hub_setting_hide_second_icon">隐藏Printoid中枢的应用图标</string>
-    <string name="hub_setting_hide_second_icon_tip">在应用程序启动器中隐藏用于启动Printoid中枢的第二应用程序图标</string>
+    <string name="hub_setting_hide_second_icon_tip">隐藏第二个应用程序图标以从应用程序启动器启动Printoid Hub。\n如果两个图标都消失了，请重新启动手机。</string>
 
     <string name="hub_show_camera"><u>查看摄像头…</u></string>
     <string name="hub_show_other_camera"><u>查看其它摄像头…</u></string>
