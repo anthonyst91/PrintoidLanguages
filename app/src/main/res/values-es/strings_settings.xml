@@ -129,7 +129,9 @@
     <string name="setting_dashboard_mode">Modo de pantalla principal</string>
     <string name="setting_enable_shared_nozzle">Boquilla compartida</string>
     <string name="setting_enable_push_notifs">Habilitar notificaciones push</string>
+    <string name="settings_current_server">Configure los ajustes actuales del servidor</string>
 
+    <string name="settings_current_server_tip">Configure ajustes relativos solo al servidor actual</string>
     <string name="setting_enable_push_notifs_tip">Obtenga valores actualizados en tiempo real en segundo plano</string>
     <string name="setting_enable_shared_nozzle_tip">Boquilla individual y calentador compartido entre sus extrusoras</string>
     <string name="setting_dashboard_mode_tip">Cambiar la forma de mostrar información en la pantalla principal</string>

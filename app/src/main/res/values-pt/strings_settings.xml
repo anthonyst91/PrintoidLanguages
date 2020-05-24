@@ -129,7 +129,9 @@
     <string name="setting_dashboard_mode">Modo de tela principal</string>
     <string name="setting_enable_shared_nozzle">Bico compartilhado</string>
     <string name="setting_enable_push_notifs">Ativar notificações push</string>
+    <string name="settings_current_server">Definir configurações atuais do servidor</string>
 
+    <string name="settings_current_server_tip">Definir configurações relativas apenas ao servidor atual</string>
     <string name="setting_enable_push_notifs_tip">Obtenha valores atualizados em tempo real em segundo plano</string>
     <string name="setting_enable_shared_nozzle_tip">Bico único e aquecedor compartilhados entre suas extrusoras</string>
     <string name="setting_dashboard_mode_tip">Ajuste a maneira de exibir informações na tela principal</string>

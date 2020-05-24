@@ -130,7 +130,9 @@
     <string name="setting_dashboard_mode">Hoofdschermmodus</string>
     <string name="setting_enable_shared_nozzle">Gedeeld mondstuk</string>
     <string name="setting_enable_push_notifs">Schakel pushmeldingen in</string>
+    <string name="settings_current_server">Configureer de huidige serverinstellingen</string>
 
+    <string name="settings_current_server_tip">Configureer instellingen alleen ten opzichte van de huidige server</string>
     <string name="setting_enable_push_notifs_tip">Ontvang bijgewerkte waarden in realtime op de achtergrond</string>
     <string name="setting_enable_shared_nozzle_tip">Enkele spuitmond en verwarmer gedeeld onder zijn extruders</string>
     <string name="setting_dashboard_mode_tip">Wijzig de manier om informatie op het hoofdscherm weer te geven</string>
