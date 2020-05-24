@@ -4,16 +4,16 @@
     <string name="contact_subject">Printoid Support(geïnstalleerde versies: v%1$s - %2$s)</string>
     <string name="contact_choose_client">Selecteer uw e-mail client:</string>
 
-    <string name="contact_body">Beste Printoid ontwikkelaar,\n\n
-    Hier is mijn configuratie :\n\n
-    - Tablet/telefoon:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
-    - Versie van Android:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
-    - Fingerprint:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
-    - 3D printer:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
-    - Versie van OctoPrint:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
-    Mijn bericht:\n\n\n
-    %6$s\n\n\n
-    met vriendelijke groet</string>
+    <string name="contact_body"><![CDATA[Beste Printoid ontwikkelaar,<br><br>
+    Hier is mijn configuratie :<br><br>
+    - Tablet/telefoon:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%1$s]<br>
+    - Versie van Android:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%2$s]<br>
+    - Fingerprint:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%3$s]<br>
+    - 3D printer:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%4$s]<br>
+    - Versie van OctoPrint:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%5$s]<br><br>
+    Mijn bericht:<br><br><br>
+    %6$s<br><br><br>
+    met vriendelijke groet]]></string>
 
     <string name="alert_contact_tutorials_label">Handleidingen</string>
     <string name="alert_contact_faq_label">F.A.Q.</string>
