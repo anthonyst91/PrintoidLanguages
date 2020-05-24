@@ -19,11 +19,12 @@
     <string name="config_ssh_login">SSH用户名</string>
     <string name="config_ssh_pwd">SSH密码</string>
     <string name="config_ssh_port">(远程访问端口)</string>
-    <string name="config_extended_settings">+ 扩展设置(可选)</string>
     <string name="config_go_to_profiles">编辑配置项</string>
     <string name="config_basic_auth_login">验证帐号</string>
     <string name="config_basic_auth_password">验证密码</string>
     <string name="config_websocket_path">Web socket路径</string>
+    <string name="config_basic_settings">基本设置</string>
+    <string name="config_extended_settings">高级设置</string>
 
     <string name="config_websocket_detail_msg">请勿编辑此项除非您知道这是什么</string>
 

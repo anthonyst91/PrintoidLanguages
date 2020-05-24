@@ -19,11 +19,12 @@
     <string name="config_ssh_login">Login</string>
     <string name="config_ssh_pwd">Password</string>
     <string name="config_ssh_port">(porta SSH per sessione a distanza)</string>
-    <string name="config_extended_settings">+ Impostazioni estese (opzionale)</string>
     <string name="config_go_to_profiles">Modifica profili</string>
     <string name="config_basic_auth_login">Username</string>
     <string name="config_basic_auth_password">Password</string>
     <string name="config_websocket_path">Web socket path</string>
+    <string name="config_basic_settings">Impostazioni di base</string>
+    <string name="config_extended_settings">Impostazioni avanzate</string>
 
     <string name="config_websocket_detail_msg">Non modificare questo valore senza conoscenze tecniche</string>
 
