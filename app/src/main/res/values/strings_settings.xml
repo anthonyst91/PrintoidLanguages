@@ -129,7 +129,9 @@
     <string name="setting_dashboard_mode">Dashboard mode</string>
     <string name="setting_enable_shared_nozzle">Shared nozzle</string>
     <string name="setting_enable_push_notifs">Enable push notifications</string>
+    <string name="settings_current_server">Configure current server settings</string>
 
+    <string name="settings_current_server_tip">Configure settings relative to the current server only</string>
     <string name="setting_enable_push_notifs_tip">Get updated values in real-time in background</string>
     <string name="setting_enable_shared_nozzle_tip">Single nozzle and heater shared among its extruders</string>
     <string name="setting_dashboard_mode_tip">Change the way to display info on the main screen</string>

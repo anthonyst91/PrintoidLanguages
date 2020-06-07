@@ -130,7 +130,9 @@
     <string name="setting_dashboard_mode">Mode du dashboard</string>
     <string name="setting_enable_shared_nozzle">Buse partagée</string>
     <string name="setting_enable_push_notifs">Activer les notifications push</string>
+    <string name="settings_current_server">Configurer les paramètres du serveur actuel</string>
 
+    <string name="settings_current_server_tip">Configurer les paramètres relatifs au serveur actuel uniquement</string>
     <string name="setting_enable_push_notifs_tip">Valeurs en temps réel lorsque l\'appli est en arrière-plan</string>
     <string name="setting_enable_shared_nozzle_tip">Buse chauffante partagée avec plusieurs extrudeurs</string>
     <string name="setting_dashboard_mode_tip">Changer la manière d\'afficher les infos dans l\'écran principal</string>

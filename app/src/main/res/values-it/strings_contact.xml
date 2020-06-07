@@ -4,16 +4,16 @@
     <string name="contact_subject">Printoid Supporto (versione installata: v%1$s - %2$s)</string>
     <string name="contact_choose_client">Seleziona il tuo client di posta elettronica:</string>
 
-    <string name="contact_body">Caro sviluppatore di Printoid,\n\n
-    Di seguito è la mia configurazione:\n\n
-    - Device model:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
-    - Android version:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
-    - Fingerprint:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
-    - 3D Printer:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
-    - OctoPrint version:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
-    My message:\n\n\n
-    %6$s\n\n\n
-    Best regards</string>
+    <string name="contact_body"><![CDATA[Caro sviluppatore di Printoid,<br><br>
+    Di seguito è la mia configurazione:<br><br>
+    - Device model:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%1$s]<br>
+    - Android version:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%2$s]<br>
+    - Fingerprint:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%3$s]<br>
+    - 3D Printer:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%4$s]<br>
+    - OctoPrint version:<br>&#0020;&#0020;&#0020;&#0020;&#0020;[%5$s]<br><br>
+    My message:<br><br><br>
+    %6$s<br><br><br>
+    Best regards]]></string>
 
     <string name="alert_contact_tutorials_label">Guide</string>
     <string name="alert_contact_faq_label">F.A.Q.</string>

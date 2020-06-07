@@ -129,7 +129,9 @@
     <string name="setting_dashboard_mode">Modo de tela principal</string>
     <string name="setting_enable_shared_nozzle">Ugello condiviso</string>
     <string name="setting_enable_push_notifs">Abilita notifiche push</string>
+    <string name="settings_current_server">Configura le impostazioni correnti del server</string>
 
+    <string name="settings_current_server_tip">Configurare le impostazioni relative solo al server corrente</string>
     <string name="setting_enable_push_notifs_tip">Ottieni valori aggiornati in tempo reale in background</string>
     <string name="setting_enable_shared_nozzle_tip">Ugello e riscaldatore singoli condivisi tra i suoi estrusori</string>
     <string name="setting_dashboard_mode_tip">Cambia il modo di visualizzare le informazioni sulla schermata principale</string>

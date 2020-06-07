@@ -129,7 +129,9 @@
     <string name="setting_dashboard_mode">主画面模式</string>
     <string name="setting_enable_shared_nozzle">共用喷嘴</string>
     <string name="setting_enable_push_notifs">启用推送通知</string>
+    <string name="settings_current_server">配置当前服务器设置</string>
 
+    <string name="settings_current_server_tip">仅配置相对于当前服务器的设置</string>
     <string name="setting_enable_push_notifs_tip">在后台实时获取更新的值</string>
     <string name="setting_enable_shared_nozzle_tip">挤出机共用一个喷嘴和加热器</string>
     <string name="setting_dashboard_mode_tip">更改在主屏幕上显示信息的方式</string>
