@@ -2,8 +2,8 @@
 <resources>
 
     <string name="menu_title_partners">Fogonadura</string>
-    <string name="menu_title_configuration">Configuración</string>
-    <string name="menu_title_servers">Servidores</string>
+    <string name="menu_title_configuration">Configuración de la apli</string>
+    <string name="menu_title_servers">Servidores OctoPrint</string>
     <string name="menu_title_help">Ayuda &amp; apoyo</string>
 
     <string name="menu_account">Cuenta Printoid</string>

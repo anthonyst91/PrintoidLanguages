@@ -2,7 +2,7 @@
 <resources>
 
     <string name="menu_title_partners">Partner</string>
-    <string name="menu_title_configuration">Aufbau</string>
+    <string name="menu_title_configuration">App-Konfiguration</string>
     <string name="menu_title_servers">Server</string>
     <string name="menu_title_help">Hilfe &amp; Unterstützung</string>
 

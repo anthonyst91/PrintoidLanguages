@@ -2,8 +2,8 @@
 <resources>
 
     <string name="menu_title_partners">Partners</string>
-    <string name="menu_title_configuration">Configurazione</string>
-    <string name="menu_title_servers">Servers</string>
+    <string name="menu_title_configuration">Configurazione dell\'app</string>
+    <string name="menu_title_servers">OctoPrint servers</string>
     <string name="menu_title_help">Aiuto &amp; supporto</string>
 
     <string name="menu_account">Conto Printoid</string>
