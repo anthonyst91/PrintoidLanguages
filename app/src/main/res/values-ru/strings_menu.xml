@@ -2,8 +2,8 @@
 <resources>
 
     <string name="menu_title_partners">Партнеры</string>
-    <string name="menu_title_configuration">Kонфигурация</string>
-    <string name="menu_title_servers">Серверы</string>
+    <string name="menu_title_configuration">Kонфигурация приложения</string>
+    <string name="menu_title_servers">OctoPrint cерверы</string>
     <string name="menu_title_help">Помогите &amp; помощь</string>
 
     <string name="menu_account">Printoid учетная запись</string>

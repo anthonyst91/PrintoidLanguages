@@ -2,8 +2,8 @@
 <resources>
 
     <string name="menu_title_partners">合作伙伴</string>
-    <string name="menu_title_configuration">配置</string>
-    <string name="menu_title_servers">服务器</string>
+    <string name="menu_title_configuration">应用程式设定</string>
+    <string name="menu_title_servers">OctoPrint服务器</string>
     <string name="menu_title_help">帮助与支持</string>
 
     <string name="menu_account">Printoid帐号</string>
