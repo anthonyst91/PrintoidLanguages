@@ -12,6 +12,8 @@
     <string name="add_command_label">Etichetta</string>
     <string name="add_command_command_title">Comando da eseguire</string>
     <string name="add_command_content">Argomenti di comando</string>
+    <string name="add_command_profile">Disponibile per</string>
+    <string name="add_command_profile_all">Tutti i profili</string>
     <string name="add_command_icon">Icona</string>
     <string name="add_command_color">Colore Icona</string>
     <string name="add_command_show_on_home">Mostra sulla Home</string>

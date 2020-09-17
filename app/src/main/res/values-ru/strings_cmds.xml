@@ -13,6 +13,8 @@
     <string name="add_command_command_title">Выполнить</string>
     <string name="add_command_icon">Значек</string>
     <string name="add_command_color">Цвет значка</string>
+    <string name="add_command_profile">Доступны для</string>
+    <string name="add_command_profile_all">Все профили</string>
     <string name="add_command_content">Содержание команды</string>
     <string name="add_command_argument">Aргумент</string>
     <string name="add_command_favorite">Избранная</string>

@@ -14,6 +14,8 @@
     <string name="add_command_content">指令参数</string>
     <string name="add_command_icon">图标</string>
     <string name="add_command_color">图标颜色</string>
+    <string name="add_command_profile">可以用来</string>
+    <string name="add_command_profile_all">所有个人资料</string>
     <string name="add_command_show_on_home">在首页展示</string>
     <string name="add_command_favorite">标记为喜欢</string>
     <string name="add_command_request_confirmation">确认</string>
