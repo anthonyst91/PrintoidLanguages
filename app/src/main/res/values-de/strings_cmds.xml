@@ -11,6 +11,8 @@
     <string name="add_command_curl_type">Methode</string>
     <string name="add_command_label">Befehlsname</string>
     <string name="add_command_command_title">Befehl zum Ausführen</string>
+    <string name="add_command_profile">Verfügbar für</string>
+    <string name="add_command_profile_all">Alle Profile</string>
     <string name="add_command_icon">Icon</string>
     <string name="add_command_color">Icon Farbe</string>
     <string name="add_command_show_on_home">Auf Hauptseite</string>

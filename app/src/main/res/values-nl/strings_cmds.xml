@@ -12,6 +12,8 @@
     <string name="add_command_curl_type">Methode</string>
     <string name="add_command_label">Label</string>
     <string name="add_command_command_title">Uit te voeren commando</string>
+    <string name="add_command_profile">Beschikbaar voor</string>
+    <string name="add_command_profile_all">Alle profielen</string>
     <string name="add_command_icon">Icoon</string>
     <string name="add_command_content">Argumenten van het commando</string>
     <string name="add_command_favorite">Markeer als favoriet</string>

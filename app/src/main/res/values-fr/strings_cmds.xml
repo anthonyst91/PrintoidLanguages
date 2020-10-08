@@ -12,6 +12,8 @@
     <string name="add_command_curl_type">Méthode</string>
     <string name="add_command_label">Label</string>
     <string name="add_command_command_title">Commande à exécuter</string>
+    <string name="add_command_profile">Disponible pour</string>
+    <string name="add_command_profile_all">Tous les profils</string>
     <string name="add_command_icon">Icône</string>
     <string name="add_command_content">Arguments de la commande</string>
     <string name="add_command_favorite">Marquer comme favorite</string>
