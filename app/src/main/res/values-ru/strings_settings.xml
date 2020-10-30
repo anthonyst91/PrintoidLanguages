@@ -257,8 +257,8 @@
     <string name="settings_saved">Настройки сохранены!</string>
 
     <string name="backup_status_title">Сохранение настроек</string>
-    <string name="backup_completed">Сохранение успешно завершено.\n\nФайлы находятся на Вашей SDCARD в папке /Printoid/settings/</string>
-    <string name="backup_partial">Сохранение частично завершено.\n\nФайлы находятся на Вашей SDCARD в папке /Printoid/settings/</string>
+    <string name="backup_completed">Сохранение успешно завершено.\n\nФайлы находятся на Вашей SDCARD в папке %s</string>
+    <string name="backup_partial">Сохранение частично завершено.\n\nФайлы находятся на Вашей SDCARD в папке %s</string>
     <string name="backup_completed_other">Сохранение успешно завершено.\n\nТеперь Вы можете закрыть это приложение.</string>
     <string name="backup_partial_other">Сохранение частично завершено.\n\nТеперь Вы можете закрыть это приложение.</string>
     <string name="backup_error">Ошибка сохранения, пожалуйста свяжитесь с разработчиком Printoid</string>
@@ -274,7 +274,7 @@
     <string name="restore_error_fnfe">Ошибка восстановления (FileNotFound exception), пожалуйста свяжитесь с разработчиком Printoid</string>
     <string name="restore_error_ioe">Ошибка восстановления (IO exception), пожалуйста свяжитесь с разработчиком Printoid</string>
     <string name="restore_error_cnfe">Ошибка восстановления (ClassNotFound exception), пожалуйста свяжитесь с разработчиком Printoid</string>
-    <string name="restore_error_nothing">Нечего восстановить, пожалуйста убедитесь что скопировали настройки в папку /Printoid/settings/ на Вашей SDCARD</string>
+    <string name="restore_error_nothing">Нечего восстановить, пожалуйста убедитесь что скопировали настройки в папку %s на Вашей SDCARD</string>
     <string name="restore_error_permission">Произошла ошибка с правами на чтение</string>
     <string name="restore_error_unknown">Произошла неизвестная ошибка, пожалуйста свяжитесь с разработчиком Printoid</string>
 

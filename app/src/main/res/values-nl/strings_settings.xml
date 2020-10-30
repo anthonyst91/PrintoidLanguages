@@ -257,8 +257,8 @@
     <string name="settings_saved">Instellingen opgeslagen!</string>
 
     <string name="backup_status_title">Backup manager</string>
-    <string name="backup_completed">Bewaren is gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map /Printoid/settings/</string>
-    <string name="backup_partial">Bewaren is (gedeeltelijk) gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map /Printoid/settings/</string>
+    <string name="backup_completed">Bewaren is gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map %s</string>
+    <string name="backup_partial">Bewaren is (gedeeltelijk) gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map %s</string>
     <string name="backup_completed_other">Bewaren is gelukt.\n\nU kunt de applicatie nu sluiten.</string>
     <string name="backup_partial_other">Bewaren is (gedeeltelijk) gelukt.\n\nU kunt de applicatie nu sluiten.</string>
     <string name="backup_error">Fout bij het bewaren, neem contact op met de ontwikkelaar van Printoid</string>
@@ -274,7 +274,7 @@
     <string name="restore_error_fnfe">Fout bij het herstellen (FileNotFound exception), neem contact op met de ontwikkelaar van Printoid</string>
     <string name="restore_error_ioe">Fout bij het herstellen (IO exception), neem contact op met de ontwikkelaar van Printoid</string>
     <string name="restore_error_cnfe">Fout bij het herstellen (ClassNotFound exception), neem contact op met de ontwikkelaar van Printoid</string>
-    <string name="restore_error_nothing">Kon geen herstel instellingen vinden. Copieer de instellingen naar uw SD kaart naar de map /Printoid/settings/</string>
+    <string name="restore_error_nothing">Kon geen herstel instellingen vinden. Copieer de instellingen naar uw SD kaart naar de map %s</string>
     <string name="restore_error_permission">Er is een fout opgetreden met betrekking tot de lees permissies</string>
     <string name="restore_error_unknown">Onbekende fout bij het herstellen, neem contact op met de ontwikkelaar van Printoid</string>
 

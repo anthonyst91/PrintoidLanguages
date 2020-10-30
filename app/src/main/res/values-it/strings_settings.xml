@@ -257,8 +257,8 @@
     <string name="settings_saved">Impostazioni salvate!</string>
 
     <string name="backup_status_title">Gestore Backup</string>
-    <string name="backup_completed">Backup completato con successo.\n\nI file possono essere trovati sulla tua SDCARD nella cartella /Printoid/settings/</string>
-    <string name="backup_partial">Backup completato parzialmente.\n\nI file possono essere trovati sulla tua SDCARD nella cartella /Printoid/settings/</string>
+    <string name="backup_completed">Backup completato con successo.\n\nI file possono essere trovati sulla tua SDCARD nella cartella %s</string>
+    <string name="backup_partial">Backup completato parzialmente.\n\nI file possono essere trovati sulla tua SDCARD nella cartella %s</string>
     <string name="backup_completed_other">Backup completato con successo.\n\nOra puoi chiudere questa applicazione.</string>
     <string name="backup_partial_other">Backup completato parzialmente.\n\nOra puoi chiudere questa applicazione.</string>
     <string name="backup_error_fnfe">Errore Backup (FileNotFound exception), si prega di contattare lo sviluppatore di Printoid</string>
@@ -274,7 +274,7 @@
     <string name="restore_error_fnfe">Errore Ripristino (FileNotFound exception), si prega di contattare lo sviluppatore di Printoid</string>
     <string name="restore_error_ioe">Errore Ripristino (IO exception), si prega di contattare lo sviluppatore di Printoid</string>
     <string name="restore_error_cnfe">Errore Ripristino(ClassNotFound exception), si prega di contattare lo sviluppatore di Printoid</string>
-    <string name="restore_error_nothing">Niente da ripristinare, assicurati di aver copiato la cartella /Printoid/settings/ in your SDCARD</string>
+    <string name="restore_error_nothing">Niente da ripristinare, assicurati di aver copiato la cartella %s in your SDCARD</string>
     <string name="restore_error_permission">Si è verificato un errore con il permesso di lettura</string>
     <string name="restore_error_unknown">Si è verificato un errore sconosciuto, si prega di contattare lo sviluppatore di Printoid</string>
 

@@ -65,6 +65,7 @@
     <string name="temperature">Température</string>
     <string name="disable">Désactiver</string>
     <string name="abort">Avorter</string>
+    <string name="open_location">Ouvrir</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_chamber">Chambre chauffante</string>

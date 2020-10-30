@@ -261,8 +261,8 @@
     <string name="settings_saved">Configurações salvas!</string>
 
     <string name="backup_status_title">Gerenciador de Backup</string>
-    <string name="backup_completed">Backup concluído com sucesso. \n\nOs arquivos podem ser encontrados em seu SDCARD na pasta /Printoid/settings/</string>
-    <string name="backup_partial">Backup concluído parcialmente.\n\nOs arquivos podem ser encontrados no seu SDCARD na pasta /Printoid/settings/</string>
+    <string name="backup_completed">Backup concluído com sucesso. \n\nOs arquivos podem ser encontrados em seu SDCARD na pasta %s</string>
+    <string name="backup_partial">Backup concluído parcialmente.\n\nOs arquivos podem ser encontrados no seu SDCARD na pasta %s</string>
     <string name="backup_completed_other">Backup concluído com sucesso.\n\nAgora você pode fechar este aplicativo.</string>
     <string name="backup_partial_other">Backup concluído parcialmente.\n\nAgora você pode fechar este aplicativo.</string>
     <string name="backup_error_fnfe">Erro de backup (FileNotFound exception), favor contatar o desenvolvedor do Printoid</string>
@@ -278,7 +278,7 @@
     <string name="restore_error_fnfe">Erro de restauração (FileNotFound exception), favor contatar o desenvolvedor do Printoid</string>
     <string name="restore_error_ioe">Erro de restauração (IO exception), favor contatar o desenvolvedor do Printoid</string>
     <string name="restore_error_cnfe">Erro de restauração (ClassNotFound exception), favor contatar o desenvolvedor do Printoid</string>
-    <string name="restore_error_nothing">Nada a restaurar, por favor, certifique-se de que copiou a pasta /Printoid/settings/ no seu SDCARD</string>
+    <string name="restore_error_nothing">Nada a restaurar, por favor, certifique-se de que copiou a pasta %s no seu SDCARD</string>
     <string name="restore_error_permission">Ocorreu um erro com a permissão de leitura</string>
     <string name="restore_error_unknown">Ocorreu um erro desconhecido, favor contatar o desenvolvedor do Printoid</string>
 

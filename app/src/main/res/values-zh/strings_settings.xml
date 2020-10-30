@@ -257,8 +257,8 @@
     <string name="settings_saved">配置信息已保存!</string>
 
     <string name="backup_status_title">备份管理器</string>
-    <string name="backup_completed">备份已成功完成.\n\n可以在SD卡的/Printoid/settings目录下找到对应的文件</string>
-    <string name="backup_partial">备份部分成功.\n\n可以在SD卡的/Printoid/settings目录下找到对应的文件</string>
+    <string name="backup_completed">备份已成功完成.\n\n可以在SD卡的%s目录下找到对应的文件</string>
+    <string name="backup_partial">备份部分成功.\n\n可以在SD卡的%s目录下找到对应的文件</string>
     <string name="backup_completed_other">备份已成功完成.\n\n现在您可以关闭本应用了.</string>
     <string name="backup_partial_other">备份部分成功.\n\n现在您可以关闭本应用了.</string>
     <string name="backup_error_fnfe">备份错误(FileNotFound异常), 请联系Printoid开发人员</string>
@@ -274,7 +274,7 @@
     <string name="restore_error_fnfe">恢复错误(FileNotFound异常), 请联系Printoid开发人员</string>
     <string name="restore_error_ioe">恢复错误(IO异常), 请联系Printoid开发人员</string>
     <string name="restore_error_cnfe">恢复错误(ClassNotFound异常), 请联系Printoid开发人员</string>
-    <string name="restore_error_nothing">未找到恢复文件, 请确保你把文件拷贝到了SD卡的/Printoid/settings/目录中</string>
+    <string name="restore_error_nothing">未找到恢复文件, 请确保你把文件拷贝到了SD卡的%s目录中</string>
     <string name="restore_error_permission">发生关于读权限的错误</string>
     <string name="restore_error_unknown">发送未知错误, 请联系Printoid开发人员</string>
 

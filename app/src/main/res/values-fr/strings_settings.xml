@@ -257,8 +257,8 @@
     <string name="settings_saved">Paramètres enregistrés !</string>
 
     <string name="backup_status_title">Backup manager</string>
-    <string name="backup_completed">Sauvegarde effectuée avec succès.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire /Printoid/settings/</string>
-    <string name="backup_partial">Sauvergarde effectuée partiellement.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire /Printoid/settings/</string>
+    <string name="backup_completed">Sauvegarde effectuée avec succès.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire %s</string>
+    <string name="backup_partial">Sauvergarde effectuée partiellement.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire %s</string>
     <string name="backup_completed_other">Sauvegarde effectuée avec succès.\n\nVous pouvez désormais fermer cette application.</string>
     <string name="backup_partial_other">Sauvergarde effectuée partiellement.\n\nVous pouvez désormais fermer cette application.</string>
     <string name="backup_error_fnfe">Erreur lors de la sauvegarde (FileNotFound exception), veuillez contacter le développeur de Printoid</string>
@@ -274,7 +274,7 @@
     <string name="restore_error_fnfe">Erreur lors de la restauration (FileNotFound exception), veuillez contacter le développeur de Printoid</string>
     <string name="restore_error_ioe">Erreur lors de la restauration (IO exception), veuillez contacter le développeur de Printoid</string>
     <string name="restore_error_cnfe">Erreur lors de la restauration (ClassNotFound exception), veuillez contacter le développeur de Printoid</string>
-    <string name="restore_error_nothing">Il n\'y a rien à restaurer. Assurez-vous d\'avoir copié le répertoire /Printoid/settings/ sur votre carte SD</string>
+    <string name="restore_error_nothing">Il n\'y a rien à restaurer. Assurez-vous d\'avoir copié le répertoire %s sur votre carte SD</string>
     <string name="restore_error_permission">Une erreur s\'est produite avec la permission de lecture</string>
     <string name="restore_error_unknown">Erreur iconnue lors de la restauration, veuillez contacter le développeur de Printoid</string>
 
