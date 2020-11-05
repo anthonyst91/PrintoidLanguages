@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Abilita notifiche push</string>
     <string name="settings_current_server">Configura le impostazioni correnti del server</string>
 
+    <string name="setting_move_distance_tip">La distanza che la testina di stampa deve percorrere durante l\'utilizzo dei pulsanti di controllo quando la stampante è inattiva</string>
+    <string name="baby_stepping_distance_tip">La distanza che la testina di stampa deve percorrere mentre si utilizzano i pulsanti di controllo quando la stampante sta stampando</string>
+    <string name="setting_extrusion_tip">La distanza del filamento da estrudere o ritrarre per impostazione predefinita quando si utilizzano i pulsanti di estrusione / ritrazione</string>
+    <string name="setting_feedrate_tip">Il fattore da applicare alla velocità degli spostamenti della testina di stampa durante la stampa. Si noti che questa impostazione non può visualizzare il valore corrente poiché OctoPrint non può leggerlo</string>
+    <string name="setting_flowrate_tip">Il fattore da applicare alla quantità di filamento estruso o retratto durante la stampa. Si noti che questa impostazione non può visualizzare il valore corrente poiché OctoPrint non può leggerlo</string>
     <string name="settings_current_server_tip">Configurare le impostazioni relative solo al server corrente</string>
     <string name="setting_enable_push_notifs_tip">Ottieni valori aggiornati in tempo reale in background</string>
     <string name="setting_enable_shared_nozzle_tip">Ugello e riscaldatore singoli condivisi tra i suoi estrusori</string>

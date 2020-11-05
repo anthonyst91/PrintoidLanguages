@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Habilitar notificaciones push</string>
     <string name="settings_current_server">Configure los ajustes actuales del servidor</string>
 
+    <string name="setting_move_distance_tip">La distancia que debe recorrer el cabezal de la impresora mientras utiliza los botones de control cuando la impresora está inactiva</string>
+    <string name="baby_stepping_distance_tip">La distancia que debe recorrer el cabezal de la impresora mientras utiliza los botones de control cuando la impresora está imprimiendo</string>
+    <string name="setting_extrusion_tip">La distancia del filamento a extruir o retraer de forma predeterminada cuando se utilizan los botones de extrusión / retracción</string>
+    <string name="setting_feedrate_tip">El factor que se aplicará a la velocidad de los movimientos del cabezal de la impresora durante la impresión. Tenga en cuenta que esta configuración no puede mostrar el valor actual ya que OctoPrint no puede leerlo</string>
+    <string name="setting_flowrate_tip">El factor que se aplicará a la cantidad de filamento extruido o retraído durante la impresión. Tenga en cuenta que esta configuración no puede mostrar el valor actual ya que OctoPrint no puede leerlo</string>
     <string name="settings_current_server_tip">Configure ajustes relativos solo al servidor actual</string>
     <string name="setting_enable_push_notifs_tip">Obtenga valores actualizados en tiempo real en segundo plano</string>
     <string name="setting_enable_shared_nozzle_tip">Boquilla individual y calentador compartido entre sus extrusoras</string>

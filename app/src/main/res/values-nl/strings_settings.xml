@@ -132,6 +132,11 @@
     <string name="setting_enable_push_notifs">Schakel pushmeldingen in</string>
     <string name="settings_current_server">Configureer de huidige serverinstellingen</string>
 
+    <string name="setting_move_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen wanneer de printer niet actief is</string>
+    <string name="baby_stepping_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen tijdens het afdrukken</string>
+    <string name="setting_extrusion_tip">De afstand van het te extruderen of intrekken filament standaard bij gebruik van de extrude / intrekknoppen</string>
+    <string name="setting_feedrate_tip">De factor die moet worden toegepast op de snelheid van de bewegingen van de printerkop tijdens het afdrukken. Houd er rekening mee dat deze instelling de huidige waarde niet kan weergeven, aangezien OctoPrint deze niet kan lezen</string>
+    <string name="setting_flowrate_tip">De factor die moet worden toegepast op de hoeveelheid filament die tijdens het afdrukken wordt geëxtrudeerd of ingetrokken. Houd er rekening mee dat deze instelling de huidige waarde niet kan weergeven, aangezien OctoPrint deze niet kan lezen</string>
     <string name="settings_current_server_tip">Configureer instellingen alleen ten opzichte van de huidige server</string>
     <string name="setting_enable_push_notifs_tip">Ontvang bijgewerkte waarden in realtime op de achtergrond</string>
     <string name="setting_enable_shared_nozzle_tip">Enkele spuitmond en verwarmer gedeeld onder zijn extruders</string>

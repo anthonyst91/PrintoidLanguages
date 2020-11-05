@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Push-Benachrichtigungen aktivieren</string>
     <string name="settings_current_server">Konfigurieren Sie die aktuellen Servereinstellungen</string>
 
+    <string name="setting_move_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während die Steuertasten verwendet werden, wenn sich der Drucker im Leerlauf befindet</string>
+    <string name="baby_stepping_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während der Drucker mit den Steuertasten druckt</string>
+    <string name="setting_extrusion_tip">Der Abstand des Filaments, der standardmäßig extrudiert oder zurückgezogen werden soll, wenn die Tasten zum Extrudieren / Zurückziehen verwendet werden</string>
+    <string name="setting_feedrate_tip">Der Faktor, der auf die Geschwindigkeit der Bewegungen des Druckerkopfs beim Drucken angewendet werden soll. Bitte beachten Sie, dass diese Einstellung den aktuellen Wert nicht anzeigen konnte, da OctoPrint ihn nicht lesen kann</string>
+    <string name="setting_flowrate_tip">Der Faktor, der auf die Menge des beim Drucken extrudierten oder zurückgezogenen Filaments angewendet werden soll. Bitte beachten Sie, dass diese Einstellung den aktuellen Wert nicht anzeigen konnte, da OctoPrint ihn nicht lesen kann</string>
     <string name="settings_current_server_tip">Konfigurieren Sie die Einstellungen nur für den aktuellen Server</string>
     <string name="setting_enable_push_notifs_tip">Erhalten Sie aktualisierte Werte in Echtzeit im Hintergrund</string>
     <string name="setting_enable_shared_nozzle_tip">Einzeldüse und Heizung werden von den Extrudern gemeinsam genutzt</string>

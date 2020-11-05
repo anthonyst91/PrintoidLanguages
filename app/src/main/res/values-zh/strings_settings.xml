@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">启用推送通知</string>
     <string name="settings_current_server">配置当前服务器设置</string>
 
+    <string name="setting_move_distance_tip">打印机空闲时使用控制按钮时打印机头必须行进的距离</string>
+    <string name="baby_stepping_distance_tip">打印机打印时，使用控制按钮时打印机头必须行进的距离</string>
+    <string name="setting_extrusion_tip">默认情况下，使用拉伸/收缩按钮时要拉伸或收缩的灯丝距离</string>
+    <string name="setting_feedrate_tip">打印时应用于打印头移动速度的因素。 请注意，此设置无法显示当前值，因为OctoPrint无法读取它</string>
+    <string name="setting_flowrate_tip">用于打印时挤出或缩回的长丝数量的系数。 请注意，此设置无法显示当前值，因为OctoPrint无法读取它</string>
     <string name="settings_current_server_tip">仅配置相对于当前服务器的设置</string>
     <string name="setting_enable_push_notifs_tip">在后台实时获取更新的值</string>
     <string name="setting_enable_shared_nozzle_tip">挤出机共用一个喷嘴和加热器</string>

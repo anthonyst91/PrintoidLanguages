@@ -132,6 +132,11 @@
     <string name="setting_enable_push_notifs">Activer les notifications push</string>
     <string name="settings_current_server">Configurer les paramètres du serveur actuel</string>
 
+    <string name="setting_move_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante est inactive</string>
+    <string name="baby_stepping_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante imprime</string>
+    <string name="setting_extrusion_tip">La distance du filament à extruder ou à rétracter par défaut lors de l\'utilisation des boutons extruder / rétracter</string>
+    <string name="setting_feedrate_tip">Le facteur à appliquer à la vitesse des mouvements de la tête d\'impression pendant l\'impression. Veuillez noter que ce paramètre ne peut pas afficher la valeur actuelle car OctoPrint ne peut pas la lire</string>
+    <string name="setting_flowrate_tip">Le facteur à appliquer à la quantité de filament extrudé ou rétracté lors de l\'impression. Veuillez noter que ce paramètre ne peut pas afficher la valeur actuelle car OctoPrint ne peut pas la lire</string>
     <string name="settings_current_server_tip">Configurer les paramètres relatifs au serveur actuel uniquement</string>
     <string name="setting_enable_push_notifs_tip">Valeurs en temps réel lorsque l\'appli est en arrière-plan</string>
     <string name="setting_enable_shared_nozzle_tip">Buse chauffante partagée avec plusieurs extrudeurs</string>
