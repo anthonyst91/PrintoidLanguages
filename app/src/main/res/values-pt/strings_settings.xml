@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Ativar notificações push</string>
     <string name="settings_current_server">Definir configurações atuais do servidor</string>
 
+    <string name="setting_move_distance_tip">A distância que a cabeça da impressora deve percorrer ao usar os botões de controle quando a impressora está ociosa</string>
+    <string name="baby_stepping_distance_tip">A distância que a cabeça da impressora deve percorrer ao usar os botões de controle quando a impressora está imprimindo</string>
+    <string name="setting_extrusion_tip">A distância do filamento a ser extrudado ou retraído por padrão ao usar os botões de extrusão / retração</string>
+    <string name="setting_feedrate_tip">O fator a ser aplicado à velocidade dos movimentos da cabeça de impressão durante a impressão. Observe que esta configuração não pode exibir o valor atual, pois o OctoPrint não pode lê-lo</string>
+    <string name="setting_flowrate_tip">O fator a ser aplicado à quantidade de filamento extrudado ou retraído durante a impressão. Observe que esta configuração não pode exibir o valor atual, pois o OctoPrint não pode lê-lo</string>
     <string name="settings_current_server_tip">Definir configurações relativas apenas ao servidor atual</string>
     <string name="setting_enable_push_notifs_tip">Obtenha valores atualizados em tempo real em segundo plano</string>
     <string name="setting_enable_shared_nozzle_tip">Bico único e aquecedor compartilhados entre suas extrusoras</string>
@@ -261,8 +266,8 @@
     <string name="settings_saved">Configurações salvas!</string>
 
     <string name="backup_status_title">Gerenciador de Backup</string>
-    <string name="backup_completed">Backup concluído com sucesso. \n\nOs arquivos podem ser encontrados em seu SDCARD na pasta /Printoid/settings/</string>
-    <string name="backup_partial">Backup concluído parcialmente.\n\nOs arquivos podem ser encontrados no seu SDCARD na pasta /Printoid/settings/</string>
+    <string name="backup_completed">Backup concluído com sucesso. \n\nOs arquivos podem ser encontrados em seu SDCARD na pasta %s</string>
+    <string name="backup_partial">Backup concluído parcialmente.\n\nOs arquivos podem ser encontrados no seu SDCARD na pasta %s</string>
     <string name="backup_completed_other">Backup concluído com sucesso.\n\nAgora você pode fechar este aplicativo.</string>
     <string name="backup_partial_other">Backup concluído parcialmente.\n\nAgora você pode fechar este aplicativo.</string>
     <string name="backup_error_fnfe">Erro de backup (FileNotFound exception), favor contatar o desenvolvedor do Printoid</string>
@@ -278,7 +283,7 @@
     <string name="restore_error_fnfe">Erro de restauração (FileNotFound exception), favor contatar o desenvolvedor do Printoid</string>
     <string name="restore_error_ioe">Erro de restauração (IO exception), favor contatar o desenvolvedor do Printoid</string>
     <string name="restore_error_cnfe">Erro de restauração (ClassNotFound exception), favor contatar o desenvolvedor do Printoid</string>
-    <string name="restore_error_nothing">Nada a restaurar, por favor, certifique-se de que copiou a pasta /Printoid/settings/ no seu SDCARD</string>
+    <string name="restore_error_nothing">Nada a restaurar, por favor, certifique-se de que copiou a pasta %s no seu SDCARD</string>
     <string name="restore_error_permission">Ocorreu um erro com a permissão de leitura</string>
     <string name="restore_error_unknown">Ocorreu um erro desconhecido, favor contatar o desenvolvedor do Printoid</string>
 

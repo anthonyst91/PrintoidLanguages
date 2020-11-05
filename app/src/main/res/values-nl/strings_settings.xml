@@ -132,6 +132,11 @@
     <string name="setting_enable_push_notifs">Schakel pushmeldingen in</string>
     <string name="settings_current_server">Configureer de huidige serverinstellingen</string>
 
+    <string name="setting_move_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen wanneer de printer niet actief is</string>
+    <string name="baby_stepping_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen tijdens het afdrukken</string>
+    <string name="setting_extrusion_tip">De afstand van het te extruderen of intrekken filament standaard bij gebruik van de extrude / intrekknoppen</string>
+    <string name="setting_feedrate_tip">De factor die moet worden toegepast op de snelheid van de bewegingen van de printerkop tijdens het afdrukken. Houd er rekening mee dat deze instelling de huidige waarde niet kan weergeven, aangezien OctoPrint deze niet kan lezen</string>
+    <string name="setting_flowrate_tip">De factor die moet worden toegepast op de hoeveelheid filament die tijdens het afdrukken wordt geëxtrudeerd of ingetrokken. Houd er rekening mee dat deze instelling de huidige waarde niet kan weergeven, aangezien OctoPrint deze niet kan lezen</string>
     <string name="settings_current_server_tip">Configureer instellingen alleen ten opzichte van de huidige server</string>
     <string name="setting_enable_push_notifs_tip">Ontvang bijgewerkte waarden in realtime op de achtergrond</string>
     <string name="setting_enable_shared_nozzle_tip">Enkele spuitmond en verwarmer gedeeld onder zijn extruders</string>
@@ -257,8 +262,8 @@
     <string name="settings_saved">Instellingen opgeslagen!</string>
 
     <string name="backup_status_title">Backup manager</string>
-    <string name="backup_completed">Bewaren is gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map /Printoid/settings/</string>
-    <string name="backup_partial">Bewaren is (gedeeltelijk) gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map /Printoid/settings/</string>
+    <string name="backup_completed">Bewaren is gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map %s</string>
+    <string name="backup_partial">Bewaren is (gedeeltelijk) gelukt.\n\nDe betreffende bestanden kunt u vinden op de SD kaart in de map %s</string>
     <string name="backup_completed_other">Bewaren is gelukt.\n\nU kunt de applicatie nu sluiten.</string>
     <string name="backup_partial_other">Bewaren is (gedeeltelijk) gelukt.\n\nU kunt de applicatie nu sluiten.</string>
     <string name="backup_error">Fout bij het bewaren, neem contact op met de ontwikkelaar van Printoid</string>
@@ -274,7 +279,7 @@
     <string name="restore_error_fnfe">Fout bij het herstellen (FileNotFound exception), neem contact op met de ontwikkelaar van Printoid</string>
     <string name="restore_error_ioe">Fout bij het herstellen (IO exception), neem contact op met de ontwikkelaar van Printoid</string>
     <string name="restore_error_cnfe">Fout bij het herstellen (ClassNotFound exception), neem contact op met de ontwikkelaar van Printoid</string>
-    <string name="restore_error_nothing">Kon geen herstel instellingen vinden. Copieer de instellingen naar uw SD kaart naar de map /Printoid/settings/</string>
+    <string name="restore_error_nothing">Kon geen herstel instellingen vinden. Copieer de instellingen naar uw SD kaart naar de map %s</string>
     <string name="restore_error_permission">Er is een fout opgetreden met betrekking tot de lees permissies</string>
     <string name="restore_error_unknown">Onbekende fout bij het herstellen, neem contact op met de ontwikkelaar van Printoid</string>
 

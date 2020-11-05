@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Push-Benachrichtigungen aktivieren</string>
     <string name="settings_current_server">Konfigurieren Sie die aktuellen Servereinstellungen</string>
 
+    <string name="setting_move_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während die Steuertasten verwendet werden, wenn sich der Drucker im Leerlauf befindet</string>
+    <string name="baby_stepping_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während der Drucker mit den Steuertasten druckt</string>
+    <string name="setting_extrusion_tip">Der Abstand des Filaments, der standardmäßig extrudiert oder zurückgezogen werden soll, wenn die Tasten zum Extrudieren / Zurückziehen verwendet werden</string>
+    <string name="setting_feedrate_tip">Der Faktor, der auf die Geschwindigkeit der Bewegungen des Druckerkopfs beim Drucken angewendet werden soll. Bitte beachten Sie, dass diese Einstellung den aktuellen Wert nicht anzeigen konnte, da OctoPrint ihn nicht lesen kann</string>
+    <string name="setting_flowrate_tip">Der Faktor, der auf die Menge des beim Drucken extrudierten oder zurückgezogenen Filaments angewendet werden soll. Bitte beachten Sie, dass diese Einstellung den aktuellen Wert nicht anzeigen konnte, da OctoPrint ihn nicht lesen kann</string>
     <string name="settings_current_server_tip">Konfigurieren Sie die Einstellungen nur für den aktuellen Server</string>
     <string name="setting_enable_push_notifs_tip">Erhalten Sie aktualisierte Werte in Echtzeit im Hintergrund</string>
     <string name="setting_enable_shared_nozzle_tip">Einzeldüse und Heizung werden von den Extrudern gemeinsam genutzt</string>
@@ -257,8 +262,8 @@
     <string name="settings_saved">Einstellungen gespeichert!</string>
 
     <string name="backup_status_title">Sicherungs-Manager</string>
-    <string name="backup_completed">Sicherung erfolgreich abgeschlossen.\n\nDie Dateien wurden in /Printoid/settings/ abgelegt.</string>
-    <string name="backup_partial">Sicherung teilweise abgeschlossen.\n\nDie Dateien wurden in /Printoid/settings/ abgelegt</string>
+    <string name="backup_completed">Sicherung erfolgreich abgeschlossen.\n\nDie Dateien wurden in %s abgelegt.</string>
+    <string name="backup_partial">Sicherung teilweise abgeschlossen.\n\nDie Dateien wurden in %s abgelegt</string>
     <string name="backup_completed_other">Sicherung erfolgreich abgeschlossen.\n\nNun kann die App geschlossen werden.</string>
     <string name="backup_partial_other">Sicherung teilweise abgeschlossen.\n\nNun kann die App geschlossen werden.</string>
     <string name="backup_error">Fehler bei der Sicherung. Bitte kontaktiere den Entwickler von Printoid</string>
@@ -274,7 +279,7 @@
     <string name="restore_error_fnfe">Fehler bei der Wiederherstellung (FileNotFound exception), Bitte kontaktiere den Entwickler von Printoid</string>
     <string name="restore_error_ioe">Fehler bei der Wiederherstellung (IO exception), Bitte kontaktiere den Entwickler von Printoid</string>
     <string name="restore_error_cnfe">Fehler bei der Wiederherstellung (ClassNotFound exception), Bitte kontaktiere den Entwickler von Printoid</string>
-    <string name="restore_error_nothing">Nichts zum Wiederherstellen verfügbar. Bitte überprüfe, ob du den Ordner /Printoid/settings/ korrekt auf deine neue SD-Karte kopiert hast</string>
+    <string name="restore_error_nothing">Nichts zum Wiederherstellen verfügbar. Bitte überprüfe, ob du den Ordner %s korrekt auf deine neue SD-Karte kopiert hast</string>
     <string name="restore_error_permission">Es besteht ein Fehler bei der Leseberechtigung</string>
     <string name="restore_error_unknown">Ein unbekannter Fehler ist aufgetreten. Bitte kontaktiere den Entwickler von Printoid</string>
 

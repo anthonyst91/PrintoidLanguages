@@ -132,6 +132,11 @@
     <string name="setting_enable_push_notifs">Activer les notifications push</string>
     <string name="settings_current_server">Configurer les paramètres du serveur actuel</string>
 
+    <string name="setting_move_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante est inactive</string>
+    <string name="baby_stepping_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante imprime</string>
+    <string name="setting_extrusion_tip">La distance du filament à extruder ou à rétracter par défaut lors de l\'utilisation des boutons extruder / rétracter</string>
+    <string name="setting_feedrate_tip">Le facteur à appliquer à la vitesse des mouvements de la tête d\'impression pendant l\'impression. Veuillez noter que ce paramètre ne peut pas afficher la valeur actuelle car OctoPrint ne peut pas la lire</string>
+    <string name="setting_flowrate_tip">Le facteur à appliquer à la quantité de filament extrudé ou rétracté lors de l\'impression. Veuillez noter que ce paramètre ne peut pas afficher la valeur actuelle car OctoPrint ne peut pas la lire</string>
     <string name="settings_current_server_tip">Configurer les paramètres relatifs au serveur actuel uniquement</string>
     <string name="setting_enable_push_notifs_tip">Valeurs en temps réel lorsque l\'appli est en arrière-plan</string>
     <string name="setting_enable_shared_nozzle_tip">Buse chauffante partagée avec plusieurs extrudeurs</string>
@@ -257,8 +262,8 @@
     <string name="settings_saved">Paramètres enregistrés !</string>
 
     <string name="backup_status_title">Backup manager</string>
-    <string name="backup_completed">Sauvegarde effectuée avec succès.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire /Printoid/settings/</string>
-    <string name="backup_partial">Sauvergarde effectuée partiellement.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire /Printoid/settings/</string>
+    <string name="backup_completed">Sauvegarde effectuée avec succès.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire %s</string>
+    <string name="backup_partial">Sauvergarde effectuée partiellement.\n\nLes fichiers peuvent-être récupérés sur la carte SD dans le répertoire %s</string>
     <string name="backup_completed_other">Sauvegarde effectuée avec succès.\n\nVous pouvez désormais fermer cette application.</string>
     <string name="backup_partial_other">Sauvergarde effectuée partiellement.\n\nVous pouvez désormais fermer cette application.</string>
     <string name="backup_error_fnfe">Erreur lors de la sauvegarde (FileNotFound exception), veuillez contacter le développeur de Printoid</string>
@@ -274,7 +279,7 @@
     <string name="restore_error_fnfe">Erreur lors de la restauration (FileNotFound exception), veuillez contacter le développeur de Printoid</string>
     <string name="restore_error_ioe">Erreur lors de la restauration (IO exception), veuillez contacter le développeur de Printoid</string>
     <string name="restore_error_cnfe">Erreur lors de la restauration (ClassNotFound exception), veuillez contacter le développeur de Printoid</string>
-    <string name="restore_error_nothing">Il n\'y a rien à restaurer. Assurez-vous d\'avoir copié le répertoire /Printoid/settings/ sur votre carte SD</string>
+    <string name="restore_error_nothing">Il n\'y a rien à restaurer. Assurez-vous d\'avoir copié le répertoire %s sur votre carte SD</string>
     <string name="restore_error_permission">Une erreur s\'est produite avec la permission de lecture</string>
     <string name="restore_error_unknown">Erreur iconnue lors de la restauration, veuillez contacter le développeur de Printoid</string>
 

@@ -65,6 +65,7 @@
     <string name="temperature">Temperatur</string>
     <string name="disable">Deaktivieren</string>
     <string name="abort">Abbrechen</string>
+    <string name="open_location">Open location</string>
 
     <string name="heated_bed">Beheizte Bett</string>
     <string name="heated_chamber">Beheizte Kammer</string>

@@ -131,6 +131,11 @@
     <string name="setting_enable_push_notifs">Enable push notifications</string>
     <string name="settings_current_server">Configure current server settings</string>
 
+    <string name="setting_move_distance_tip">The distance the printer head must travel while using the control buttons when the printer is idle</string>
+    <string name="baby_stepping_distance_tip">The distance the printer head must travel while using the control buttons when the printer is printing</string>
+    <string name="setting_extrusion_tip">The distance of filament to be extruded or retracted by default when using the extrude / retract buttons</string>
+    <string name="setting_feedrate_tip">The factor to be applied to the speed of the moves of the printer head while printing. Please note that this setting could not display the current value since OctoPrint can not read it</string>
+    <string name="setting_flowrate_tip">The factor to be applied to the amount of filament extruded or retracted while printing. Please note that this setting could not display the current value since OctoPrint can not read it</string>
     <string name="settings_current_server_tip">Configure settings relative to the current server only</string>
     <string name="setting_enable_push_notifs_tip">Get updated values in real-time in background</string>
     <string name="setting_enable_shared_nozzle_tip">Single nozzle and heater shared among its extruders</string>
@@ -257,8 +262,8 @@
     <string name="settings_saved">Settings saved!</string>
 
     <string name="backup_status_title">Backup manager</string>
-    <string name="backup_completed">Backup completed with success.\n\nThe files can be found on your SDCARD in the folder /Printoid/settings/</string>
-    <string name="backup_partial">Backup completed partially.\n\nThe files can be found on your SDCARD in the folder /Printoid/settings/</string>
+    <string name="backup_completed">Backup completed with success.\n\nThe files can be found on your SDCARD in the folder %s</string>
+    <string name="backup_partial">Backup completed partially.\n\nThe files can be found on your SDCARD in the folder %s</string>
     <string name="backup_completed_other">Backup completed with success.\n\nNow you can close this application.</string>
     <string name="backup_partial_other">Backup completed partially.\n\nNow you can close this application.</string>
     <string name="backup_error_fnfe">Backup error (FileNotFound exception), please contact the developer of Printoid</string>
@@ -274,7 +279,7 @@
     <string name="restore_error_fnfe">Restoration error (FileNotFound exception), please contact the developer of Printoid</string>
     <string name="restore_error_ioe">Restoration error (IO exception), please contact the developer of Printoid</string>
     <string name="restore_error_cnfe">Restoration error (ClassNotFound exception), please contact the developer of Printoid</string>
-    <string name="restore_error_nothing">Nothing to restore, please be sure you have copied the folder /Printoid/settings/ in your SDCARD</string>
+    <string name="restore_error_nothing">Nothing to restore, please be sure you have copied the folder %s in your SDCARD</string>
     <string name="restore_error_permission">An error has occurred with the read permission</string>
     <string name="restore_error_unknown">An unknown error has occurred, please contact the developer of Printoid</string>
 
