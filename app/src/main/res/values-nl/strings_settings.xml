@@ -131,7 +131,9 @@
     <string name="setting_enable_shared_nozzle">Gedeeld mondstuk</string>
     <string name="setting_enable_push_notifs">Schakel pushmeldingen in</string>
     <string name="settings_current_server">Configureer de huidige serverinstellingen</string>
+    <string name="setting_stop_motors">Stop met het onderhouden van de motoren</string>
 
+    <string name="setting_stop_motors_tip">Stop de inactieve wacht op alle assen en extruder. In sommige gevallen veroorzaakt de idle hold vervelende geluiden, die kunnen worden gestopt door de hold uit te schakelen. Houd er rekening mee dat u kwaliteitsproblemen krijgt door inactiviteit tijdens het afdrukken uit te schakelen. Dit wordt alleen aanbevolen tussen of na printjobs.</string>
     <string name="setting_move_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen wanneer de printer niet actief is</string>
     <string name="baby_stepping_distance_tip">De afstand die de printerkop moet afleggen tijdens het gebruik van de bedieningsknoppen tijdens het afdrukken</string>
     <string name="setting_extrusion_tip">De afstand van het te extruderen of intrekken filament standaard bij gebruik van de extrude / intrekknoppen</string>

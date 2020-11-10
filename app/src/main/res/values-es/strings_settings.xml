@@ -130,7 +130,9 @@
     <string name="setting_enable_shared_nozzle">Boquilla compartida</string>
     <string name="setting_enable_push_notifs">Habilitar notificaciones push</string>
     <string name="settings_current_server">Configure los ajustes actuales del servidor</string>
+    <string name="setting_stop_motors">Deja de mantener los motores</string>
 
+    <string name="setting_stop_motors_tip">Detenga la retención inactiva en todos los ejes y extrusora. En algunos casos, la retención inactiva provoca ruidos molestos, que se pueden detener desactivando la retención. Tenga en cuenta que al desactivar la espera inactiva durante la impresión, obtendrá problemas de calidad. Esto se recomienda solo entre trabajos de impresión o después.</string>
     <string name="setting_move_distance_tip">La distancia que debe recorrer el cabezal de la impresora mientras utiliza los botones de control cuando la impresora está inactiva</string>
     <string name="baby_stepping_distance_tip">La distancia que debe recorrer el cabezal de la impresora mientras utiliza los botones de control cuando la impresora está imprimiendo</string>
     <string name="setting_extrusion_tip">La distancia del filamento a extruir o retraer de forma predeterminada cuando se utilizan los botones de extrusión / retracción</string>

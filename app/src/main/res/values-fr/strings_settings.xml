@@ -131,7 +131,9 @@
     <string name="setting_enable_shared_nozzle">Buse partagée</string>
     <string name="setting_enable_push_notifs">Activer les notifications push</string>
     <string name="settings_current_server">Configurer les paramètres du serveur actuel</string>
+    <string name="setting_stop_motors">Stopper le maintien des moteurs</string>
 
+    <string name="setting_stop_motors_tip">Arrêtez le maintien au ralenti sur tous les moteurs des axes et extrudeurs. Dans certains cas, le maintien au ralenti des steppers provoque des bruits gênants, qui peuvent être arrêtés en désactivant le maintien. Sachez qu\'en désactivant la mise en attente pendant l\'impression, vous rencontrerez des problèmes de qualité. Ceci est recommandé uniquement entre ou après les travaux d\'impression.</string>
     <string name="setting_move_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante est inactive</string>
     <string name="baby_stepping_distance_tip">La distance que la tête d\'impression doit parcourir lors de l\'utilisation des boutons de commande lorsque l\'imprimante imprime</string>
     <string name="setting_extrusion_tip">La distance du filament à extruder ou à rétracter par défaut lors de l\'utilisation des boutons extruder / rétracter</string>
