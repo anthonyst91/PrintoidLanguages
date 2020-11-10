@@ -42,7 +42,7 @@
     <string name="failures">Échec :</string>
     <string name="success">Succès :</string>
     <string name="cost">Coût :</string>
-    <string name="remaining_time_label">Fin dans:</string>
+    <string name="remaining_time_label">Fin dans</string>
     <string name="filament_total_label">Filament total:</string>
     <string name="filament_tool_nb_label">Filament extrudeur %d:</string>
 

@@ -42,7 +42,7 @@
     <string name="failures">Неудача:</string>
     <string name="success">Успех:</string>
     <string name="cost">Стоимость:</string>
-    <string name="remaining_time_label">Окончание:</string>
+    <string name="remaining_time_label">Окончание</string>
     <string name="filament_total_label">Всего накаливания:</string>
     <string name="filament_tool_nb_label">Hить экструдер %d:</string>
 

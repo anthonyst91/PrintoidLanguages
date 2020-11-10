@@ -11,7 +11,7 @@
     <string name="printer_state_printing">打印中&#8230;</string>
     <string name="printer_state_error">打印机连接错误</string>
 
-    <string name="remaining_time_label">剩余时间:</string>
+    <string name="remaining_time_label">剩余时间</string>
     <string name="file">文件: %s</string>
     <string name="file_label">文件:</string>
     <string name="file_empty">未加载文件</string>

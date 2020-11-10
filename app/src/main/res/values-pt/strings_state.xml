@@ -15,7 +15,7 @@
     <string name="dimensions_format" translatable="false">%1$.1fmm × %2$.1fmm × %3$.1fmm</string>
     <string name="dimensions_reduced_format" translatable="false">%1$.1f×%2$.1f×%3$.1f mm</string>
     <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
-    <string name="remaining_time_label">Termina em:</string>
+    <string name="remaining_time_label">Termina em</string>
     <string name="file">Arquivo: %s</string>
     <string name="file_label">Arquivo:</string>
     <string name="file_empty">Nenhum arquivo carregado</string>

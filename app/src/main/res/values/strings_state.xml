@@ -11,7 +11,7 @@
     <string name="printer_state_printing">Printing&#8230;</string>
     <string name="printer_state_error">Printer connection error</string>
 
-    <string name="remaining_time_label">Left:</string>
+    <string name="remaining_time_label">Time left</string>
     <string name="file">File: %s</string>
     <string name="file_label">File:</string>
     <string name="file_empty">No loaded file</string>
