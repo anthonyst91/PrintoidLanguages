@@ -2,7 +2,7 @@
 <resources>
 
     <string name="printer_state_loading">Loading…</string>
-    <string name="printer_state_octo_disconnected">Server not connected</string>
+    <string name="printer_state_octo_disconnected">No connection</string>
     <string name="printer_state_disconnected">Printer disconnected</string>
     <string name="printer_state_connecting">Connecting printer&#8230;</string>
     <string name="printer_state_sending_file">Sending file…</string>
