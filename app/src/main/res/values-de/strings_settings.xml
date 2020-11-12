@@ -130,7 +130,9 @@
     <string name="setting_enable_shared_nozzle">Geteilte Düse</string>
     <string name="setting_enable_push_notifs">Push-Benachrichtigungen aktivieren</string>
     <string name="settings_current_server">Konfigurieren Sie die aktuellen Servereinstellungen</string>
+    <string name="setting_stop_motors">Stoppen Sie die Wartung der Motoren</string>
 
+    <string name="setting_stop_motors_tip">Stoppen Sie den Leerlauf an allen Achsen und Extrudern. In einigen Fällen verursacht das Leerlauf-Halten störende Geräusche, die durch Deaktivieren des Haltens gestoppt werden können. Beachten Sie, dass beim Deaktivieren des Leerlaufhaltes während des Druckvorgangs Qualitätsprobleme auftreten. Dies wird nur zwischen oder nach Druckjobs empfohlen.</string>
     <string name="setting_move_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während die Steuertasten verwendet werden, wenn sich der Drucker im Leerlauf befindet</string>
     <string name="baby_stepping_distance_tip">Die Entfernung, die der Druckerkopf zurücklegen muss, während der Drucker mit den Steuertasten druckt</string>
     <string name="setting_extrusion_tip">Der Abstand des Filaments, der standardmäßig extrudiert oder zurückgezogen werden soll, wenn die Tasten zum Extrudieren / Zurückziehen verwendet werden</string>

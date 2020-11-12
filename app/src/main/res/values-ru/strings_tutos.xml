@@ -84,6 +84,7 @@
 
     <!-- END -->
     <string name="tutorial_end_message">Запустить Printoid</string>
+    <string name="tutorial_end_follow">Следите за командой:</string>
 
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Сохранение и восстановление</string>

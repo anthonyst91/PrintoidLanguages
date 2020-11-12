@@ -130,7 +130,9 @@
     <string name="setting_enable_shared_nozzle">Bico compartilhado</string>
     <string name="setting_enable_push_notifs">Ativar notificações push</string>
     <string name="settings_current_server">Definir configurações atuais do servidor</string>
+    <string name="setting_stop_motors">Pare de manter os motores</string>
 
+    <string name="setting_stop_motors_tip">Pare a espera ociosa em todos os eixos e extrusora. Em alguns casos, a espera ociosa causa ruídos irritantes, que podem ser interrompidos desativando a espera. Esteja ciente de que, ao desativar a espera durante a impressão, você obterá problemas de qualidade. Isso é recomendado apenas entre ou após trabalhos de impressão.</string>
     <string name="setting_move_distance_tip">A distância que a cabeça da impressora deve percorrer ao usar os botões de controle quando a impressora está ociosa</string>
     <string name="baby_stepping_distance_tip">A distância que a cabeça da impressora deve percorrer ao usar os botões de controle quando a impressora está imprimindo</string>
     <string name="setting_extrusion_tip">A distância do filamento a ser extrudado ou retraído por padrão ao usar os botões de extrusão / retração</string>

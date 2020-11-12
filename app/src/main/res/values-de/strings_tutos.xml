@@ -5,7 +5,7 @@
     <string name="tutorial_only_in_lite_version">Nur in der LITE-Version</string>
 
     <!-- WELCOME -->
-    <string name="tutorial_message_welcome">Willkommen bei Printoid %s</string>
+    <string name="tutorial_message_welcome">Willkommen bei\nPrintoid %s</string>
     <string name="tutorial_message_welcome_2">Dass Sie sich eine Minute Zeit nehmen, um den Inhalt der App zu erfahren</string>
 
     <!-- VERSIONS COMPARATOR -->
@@ -84,6 +84,7 @@
 
     <!-- END -->
     <string name="tutorial_end_message">Starte Printoid</string>
+    <string name="tutorial_end_follow">Folgen Sie dem Team auf:</string>
 
     <!-- BACKUP -->
     <string name="tutorial_backup_read_permission_title">Sicherung &amp; Wiederherstellung</string>

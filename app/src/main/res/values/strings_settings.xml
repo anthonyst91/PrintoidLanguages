@@ -88,6 +88,7 @@
     <string name="setting_move_distance">Traveling distance</string>
     <string name="setting_feedrate">Feed rate</string>
     <string name="setting_flowrate">Flow rate</string>
+    <string name="setting_stop_motors">Stop steppers\'s idle hold</string>
     <string name="setting_basic_auth_login">Basic auth user name</string>
     <string name="setting_basic_auth_pwd">Basic auth password</string>
     <string name="setting_enable_fullscreen">Fullscreen mode</string>
@@ -131,6 +132,7 @@
     <string name="setting_enable_push_notifs">Enable push notifications</string>
     <string name="settings_current_server">Configure current server settings</string>
 
+    <string name="setting_stop_motors_tip">Stop the idle hold on all axis and extruder. In some cases the idle hold causes annoying noises, which can be stopped by disabling the hold. Be aware that by disabling idle hold during printing, you will get quality issues. This is recommended only in between or after printjobs.</string>
     <string name="setting_move_distance_tip">The distance the printer head must travel while using the control buttons when the printer is idle</string>
     <string name="baby_stepping_distance_tip">The distance the printer head must travel while using the control buttons when the printer is printing</string>
     <string name="setting_extrusion_tip">The distance of filament to be extruded or retracted by default when using the extrude / retract buttons</string>

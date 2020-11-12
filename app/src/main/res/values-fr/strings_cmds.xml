@@ -15,12 +15,12 @@
     <string name="add_command_profile">Disponible pour</string>
     <string name="add_command_profile_all">Tous les profils</string>
     <string name="add_command_icon">Icône</string>
-    <string name="add_command_content">Arguments de la commande</string>
+    <string name="add_command_content">Body de la commande</string>
     <string name="add_command_favorite">Marquer comme favorite</string>
-    <string name="add_command_argument">Arguments</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_color">Couleur d\'icône</string>
     <string name="add_command_show_on_home">Afficher sur l\'écran principal</string>
-    <string name="add_command_request_confirmation">Confirmation</string>
+    <string name="add_command_request_confirmation">Demander confirmation</string>
     <string name="add_command_wait_result">Afficher le résultat</string>
     <string name="add_command_command">Commande</string>
     <string name="add_command_error_name">Le nom de la commande est invalide, veuillez vérifier sa valeur</string>
@@ -45,7 +45,7 @@
     1/ <b>Commandes système OctoPrint :</b> Printoid peut exécuter vos commandes configurées dans config.yaml\n\n
     2/ <b>Commandes GCODE :</b> vous pouvez envoyer des commandes à votre imprimante 3D. Cela peut-être une commande unique ou un groupe de commandes (séparés par des sauts de ligne)\n\n
     3/ <b>Commandes SSH :</b> vous pouvez envoyer des instructions à votre Raspberry Pi par SSH, comme des commandes GPIO ou exécuter un script par exemple\n\n
-    4/ <b>Commandes CURL :</b> vous pouvez envoyer des instructions à votre Raspberry Pi par commandes cURL (sous la forme command?enable=relay1 ou api/plugin/psucontrol dans Printoid, par exemple, avec un éventuel argument au format JSON)\n\n
+    4/ <b>Commandes HTTP :</b> vous pouvez envoyer des instructions à votre Raspberry Pi par commandes HTTP (sous la forme command?enable=relay1 ou api/plugin/psucontrol dans Printoid, par exemple, avec un éventuel argument au format JSON)\n\n
     Plus d\'informations sur le site web officiel : https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Maximum de commandes atteint</string>

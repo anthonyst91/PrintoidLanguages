@@ -18,7 +18,7 @@
         <item>SSH</item>
         <item>GCODE</item>
         <item>OctoPrint (system)</item>
-        <item>CURL</item>
+        <item>HTTP</item>
     </string-array>
 
     <string-array name="themes_array" translatable="false">

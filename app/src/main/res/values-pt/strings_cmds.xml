@@ -11,7 +11,7 @@
     <string name="add_command_curl_type">Método</string>
     <string name="add_command_label">Etiqueta</string>
     <string name="add_command_command_title">Comando para executar</string>
-    <string name="add_command_content">Argumentos do comando</string>
+    <string name="add_command_content">Command body</string>
     <string name="add_command_profile">Disponível para</string>
     <string name="add_command_profile_all">Todos os perfis</string>
     <string name="add_command_icon">Ícone</string>
@@ -22,7 +22,7 @@
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Etiqueta do comando</string>
     <string name="add_command_command">Comando</string>
-    <string name="add_command_argument">Argumentos</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="delete_command_title">Deletar comando</string>
     <string name="delete_command_msg">Deletar um comando não pode ser desfeito. Você tem certeza?</string>
     <string name="add_command_error_name">Nome de comando inválido. Favor verificar seu valor.</string>
@@ -45,7 +45,7 @@
     1/ <b>Comandos de sistema do OctoPrint:</b> O Printoid é capaz de executar os comandos que você definiu no arquivo config.yaml.\n\n
     2/ <b>Comandos GCODE:</b> Você pode enviar seus próprios comandos GCODE para sua impressora 3D. Pode ser um comando exclusivo ou um grupo de comandos (separados por retornos de carro).\n\n
     3/ <b>Comandos SSH:</b> Você pode enviar instruções diretamente para o seu Raspberry Pi por SSH, como o GPIO ou comandos de execução de scripts, por exemplo.\n\n
-    4/ <b>Comandos CURL:</b> Você pode enviar instruções diretamente para o seu Raspberry Pi sobre comandos CURL (deve se parecer com o comando?enable=relay1 ou api/plugin/psucontrol no Printoid, por exemplo, com um eventual argumento JSON)\n\n
+    4/ <b>Comandos HTTP:</b> Você pode enviar instruções diretamente para o seu Raspberry Pi sobre comandos HTTP (deve se parecer com o comando?enable=relay1 ou api/plugin/psucontrol no Printoid, por exemplo, com um eventual argumento JSON)\n\n
     Você encontra maiores informações no website oficial https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Quantidade máxima de comandos home atingida</string>

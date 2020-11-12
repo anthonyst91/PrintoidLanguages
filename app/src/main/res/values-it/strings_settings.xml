@@ -130,7 +130,9 @@
     <string name="setting_enable_shared_nozzle">Ugello condiviso</string>
     <string name="setting_enable_push_notifs">Abilita notifiche push</string>
     <string name="settings_current_server">Configura le impostazioni correnti del server</string>
+    <string name="setting_stop_motors">Interrompere la manutenzione dei motori</string>
 
+    <string name="setting_stop_motors_tip">Interrompere il blocco del minimo su tutti gli assi e sull\'estrusore. In alcuni casi la messa in attesa provoca fastidiosi rumori, che possono essere interrotti disabilitando la presa. Tieni presente che disabilitando la sospensione per inattività durante la stampaPare a espera ociosa em todos os eixos e extrusora. Em alguns casos, a espera ociosa causa ruídos irritantes, que podem ser interrompidos desativando a espera. Esteja ciente de que, ao desativar a espera durante a impressão, você obterá problemas de qualidade. Isso é recomendado apenas entre ou após trabalhos de impressão., otterrai problemi di qualità. Ciò è consigliato solo tra o dopo i lavori di stampa.</string>
     <string name="setting_move_distance_tip">La distanza che la testina di stampa deve percorrere durante l\'utilizzo dei pulsanti di controllo quando la stampante è inattiva</string>
     <string name="baby_stepping_distance_tip">La distanza che la testina di stampa deve percorrere mentre si utilizzano i pulsanti di controllo quando la stampante sta stampando</string>
     <string name="setting_extrusion_tip">La distanza del filamento da estrudere o ritrarre per impostazione predefinita quando si utilizzano i pulsanti di estrusione / ritrazione</string>

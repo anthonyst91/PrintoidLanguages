@@ -130,7 +130,9 @@
     <string name="setting_enable_shared_nozzle">共用喷嘴</string>
     <string name="setting_enable_push_notifs">启用推送通知</string>
     <string name="settings_current_server">配置当前服务器设置</string>
+    <string name="setting_stop_motors">停止维护引擎</string>
 
+    <string name="setting_stop_motors_tip">停止所有轴和挤出机上的空转保持。 在某些情况下，空闲保持会产生令人讨厌的噪音，可以通过禁用保持来停止噪音。 请注意，通过在打印过程中禁用空闲保持，您会遇到质量问题。 建议仅在打印作业之间或之后进行此操作。</string>
     <string name="setting_move_distance_tip">打印机空闲时使用控制按钮时打印机头必须行进的距离</string>
     <string name="baby_stepping_distance_tip">打印机打印时，使用控制按钮时打印机头必须行进的距离</string>
     <string name="setting_extrusion_tip">默认情况下，使用拉伸/收缩按钮时要拉伸或收缩的灯丝距离</string>
