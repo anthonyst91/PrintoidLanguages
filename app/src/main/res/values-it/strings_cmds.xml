@@ -11,7 +11,7 @@
     <string name="add_command_curl_type">Metodo</string>
     <string name="add_command_label">Etichetta</string>
     <string name="add_command_command_title">Comando da eseguire</string>
-    <string name="add_command_content">Argomenti di comando</string>
+    <string name="add_command_content">Body di comando</string>
     <string name="add_command_profile">Disponibile per</string>
     <string name="add_command_profile_all">Tutti i profili</string>
     <string name="add_command_icon">Icona</string>
@@ -22,7 +22,7 @@
     <string name="add_command_wait_result">Mostra la risposta al comando</string>
     <string name="add_command_name">Etichetta di comando</string>
     <string name="add_command_command">Comando</string>
-    <string name="add_command_argument">Argomento</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="delete_command_title">Cancella comando</string>
     <string name="delete_command_msg">Eliminare un comando non può essere annullato, sei sicuro?</string>
     <string name="add_command_error_name">Nome del comando non valido, verifica il tuo valore</string>

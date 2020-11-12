@@ -15,8 +15,8 @@
     <string name="add_command_color">Цвет значка</string>
     <string name="add_command_profile">Доступны для</string>
     <string name="add_command_profile_all">Все профили</string>
-    <string name="add_command_content">Содержание команды</string>
-    <string name="add_command_argument">Aргумент</string>
+    <string name="add_command_content">Command body</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_favorite">Избранная</string>
     <string name="add_command_show_on_home">Показать на главной</string>
     <string name="add_command_wait_result">Показать ответ команды</string>

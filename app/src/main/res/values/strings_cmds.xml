@@ -11,7 +11,7 @@
     <string name="add_command_curl_type">Method</string>
     <string name="add_command_label">Label</string>
     <string name="add_command_command_title">Command to execute</string>
-    <string name="add_command_content">Command arguments</string>
+    <string name="add_command_content">Command body</string>
     <string name="add_command_icon">Icon</string>
     <string name="add_command_color">Icon color</string>
     <string name="add_command_profile">Available for</string>
@@ -22,7 +22,7 @@
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Command label</string>
     <string name="add_command_command">Command</string>
-    <string name="add_command_argument">Argument</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="delete_command_title">Delete command</string>
     <string name="delete_command_msg">Delete a command can not be undone, are you sure?</string>
     <string name="add_command_error_name">Invalid command name, please verify your value</string>

@@ -11,7 +11,7 @@
     <string name="add_command_curl_type">Método</string>
     <string name="add_command_label">Etiqueta</string>
     <string name="add_command_command_title">Comando para executar</string>
-    <string name="add_command_content">Argumentos do comando</string>
+    <string name="add_command_content">Command body</string>
     <string name="add_command_profile">Disponível para</string>
     <string name="add_command_profile_all">Todos os perfis</string>
     <string name="add_command_icon">Ícone</string>
@@ -22,7 +22,7 @@
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Etiqueta do comando</string>
     <string name="add_command_command">Comando</string>
-    <string name="add_command_argument">Argumentos</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="delete_command_title">Deletar comando</string>
     <string name="delete_command_msg">Deletar um comando não pode ser desfeito. Você tem certeza?</string>
     <string name="add_command_error_name">Nome de comando inválido. Favor verificar seu valor.</string>

@@ -15,9 +15,9 @@
     <string name="add_command_profile">Beschikbaar voor</string>
     <string name="add_command_profile_all">Alle profielen</string>
     <string name="add_command_icon">Icoon</string>
-    <string name="add_command_content">Argumenten van het commando</string>
+    <string name="add_command_content">Command body</string>
     <string name="add_command_favorite">Markeer als favoriet</string>
-    <string name="add_command_argument">Argumenten</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_color">Kleur van het icoon</string>
     <string name="add_command_show_on_home">Toon op hoofdscherm</string>
     <string name="add_command_request_confirmation">Bevestiging</string>

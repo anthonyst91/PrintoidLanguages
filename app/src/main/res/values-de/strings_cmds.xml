@@ -17,8 +17,8 @@
     <string name="add_command_color">Icon Farbe</string>
     <string name="add_command_show_on_home">Auf Hauptseite</string>
     <string name="add_command_favorite">Als Favorit markieren</string>
-    <string name="add_command_content">Befehlsargumente</string>
-    <string name="add_command_argument">Streit</string>
+    <string name="add_command_content">Command body</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_request_confirmation">Bestätigung</string>
     <string name="add_command_wait_result">Befehlsantwort anzeigen</string>
     <string name="add_command_name">Name des Befehls</string>

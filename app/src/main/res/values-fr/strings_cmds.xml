@@ -15,9 +15,9 @@
     <string name="add_command_profile">Disponible pour</string>
     <string name="add_command_profile_all">Tous les profils</string>
     <string name="add_command_icon">Icône</string>
-    <string name="add_command_content">Arguments de la commande</string>
+    <string name="add_command_content">Body de la commande</string>
     <string name="add_command_favorite">Marquer comme favorite</string>
-    <string name="add_command_argument">Arguments</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_color">Couleur d\'icône</string>
     <string name="add_command_show_on_home">Afficher sur l\'écran principal</string>
     <string name="add_command_request_confirmation">Demander confirmation</string>

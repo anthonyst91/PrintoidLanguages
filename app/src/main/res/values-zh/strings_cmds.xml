@@ -11,7 +11,7 @@
     <string name="add_command_curl_type">方法</string>
     <string name="add_command_label">标签</string>
     <string name="add_command_command_title">执行的指令</string>
-    <string name="add_command_content">指令参数</string>
+    <string name="add_command_content">Command body</string>
     <string name="add_command_icon">图标</string>
     <string name="add_command_color">图标颜色</string>
     <string name="add_command_profile">可以用来</string>
@@ -22,7 +22,7 @@
     <string name="add_command_wait_result">显示指令结果</string>
     <string name="add_command_name">指令标签</string>
     <string name="add_command_command">指令</string>
-    <string name="add_command_argument">参数</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="delete_command_title">删除指令</string>
     <string name="delete_command_msg">删除指令后无法撤销, 是否确认?</string>
     <string name="add_command_error_name">无效的指令名称, 请检查您输入的值</string>

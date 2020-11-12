@@ -14,10 +14,10 @@
     <string name="add_command_profile">Disponible para</string>
     <string name="add_command_profile_all">Todos perfiles</string>
     <string name="add_command_icon">Icono</string>
-    <string name="add_command_content">Argumentos del comando</string>
+    <string name="add_command_content">Body del comando</string>
     <string name="add_command_favorite">Marcar como favorito</string>
     <string name="add_command_color">Color del icono</string>
-    <string name="add_command_argument">Argumento</string>
+    <string name="add_command_argument">Body (JSON)</string>
     <string name="add_command_show_on_home">Mostrar en principal</string>
     <string name="add_command_request_confirmation">Confirmación</string>
     <string name="add_command_wait_result">Mostrar respuesta de comando</string>
