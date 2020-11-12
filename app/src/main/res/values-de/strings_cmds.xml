@@ -45,7 +45,7 @@
     1/ <b>OctoPrint-Befehle:</b> Printoid kann Befehle ausführen, die du in config.yaml festgelegt hast.\n\n
     2/ <b>GCODE-Befehle:</b> Du kannst eigene GCODE Befehle an deinen 3D Drucker senden. Das kann ein einzelner Befehl oder auch eine Befehlsgruppe sein (getrennt durch Zeilenumbrüche)\n\n
     3/ <b>SSH-Befehle:</b> Du kannst eigene Anweisungen an deinen Raspberry Pi senden und damit z.B. GPIO Pins schalten oder Scripte ausführen.\n\n
-    4/ <b>CURL-Befehle:</b> Sie können Anweisungen an Ihre Raspberry Pi über CURL Befehle senden (sollte aussehen wie api/plugin/psucontrol oder api/plugin/psucontrol in Printoid, zum Beispiel, mit einem möglichen Argumente im JSON-Format)\n\n
+    4/ <b>HTTP-Befehle:</b> Sie können Anweisungen an Ihre Raspberry Pi über HTTP Befehle senden (sollte aussehen wie api/plugin/psucontrol oder api/plugin/psucontrol in Printoid, zum Beispiel, mit einem möglichen Argumente im JSON-Format)\n\n
     Mehr Informationen gibt es auf der offiziellen Website: https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Maximale Zahl erreicht</string>

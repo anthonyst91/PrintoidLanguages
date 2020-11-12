@@ -45,7 +45,7 @@
     1/ <b>OctoPrint系统指令:</b> Printoid可以执行您在config.yaml里定义的指令\n\n
     2/ <b>GCODE指令:</b> 您可以发送自定义GCODE指令到3D打印机. 指令可以是单独一条也可以是多条为一组(通过回车符分割)\n\n
     3/ <b>SSH指令:</b> 您可以通过SSH向树莓派发送指令，例如GPIO操作或者执行脚本等\n\n
-    4/ <b>CURL指令:</b> 您可以通过CURL命令向树莓派发送指令(在Printoid中指令类似command?enable=relay1或者api/plugin/psucontrol再跟着一个JSON参数)\n\n
+    4/ <b>HTTP指令:</b> 您可以通过HTTP命令向树莓派发送指令(在Printoid中指令类似command?enable=relay1或者api/plugin/psucontrol再跟着一个JSON参数)\n\n
     更多信息可以在官网查看 https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">首页指令已达到上限</string>

@@ -45,7 +45,7 @@
     1/ <b>Comandos de sistema de OctoPrint:</b> Printoid es capaz de ejecutar los comandos que haya definido en el archivo config.yaml\n\n
     2/ <b>Comandos GCODE:</b> Usted puede enviar sus propios comandos GCODE a su impresora 3D. Puede ser un único comando o un grupo de comandos (separados por saltos de línea)\n\n
     3/ <b>Comandos SSH:</b> Usted puede enviar instrucciones a su Raspberry Pi, como GPIO o comandos de ejecución de script por ejemplo\n\n
-    4/ <b>Comandos CURL:</b> Puede enviar instrucciones a su Raspberry Pi a través de los comandos CURL (debe parecer command?enable=relay1 o api/plugin/psucontrol en Printoid, por ejemplo, con un posible argumento en formato JSON)\n\n
+    4/ <b>Comandos HTTP:</b> Puede enviar instrucciones a su Raspberry Pi a través de los comandos HTTP (debe parecer command?enable=relay1 o api/plugin/psucontrol en Printoid, por ejemplo, con un posible argumento en formato JSON)\n\n
     Mas información en el sitio web oficial https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Máximo alcanzado de comandos de inicio</string>

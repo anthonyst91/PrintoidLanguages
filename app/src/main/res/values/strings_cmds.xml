@@ -18,7 +18,7 @@
     <string name="add_command_profile_all">All profiles</string>
     <string name="add_command_show_on_home">Show on dashboard</string>
     <string name="add_command_favorite">Set as favorite</string>
-    <string name="add_command_request_confirmation">Confirmation</string>
+    <string name="add_command_request_confirmation">Ask for confirmation</string>
     <string name="add_command_wait_result">Show command response</string>
     <string name="add_command_name">Command label</string>
     <string name="add_command_command">Command</string>
@@ -45,7 +45,7 @@
     1/ <b>OctoPrint system commands:</b> Printoid is able to execute the commands you have defined in config.yaml\n\n
     2/ <b>GCODE commands:</b> you can send your own GCODE commands to your 3D printer. Can be a unique command or a group of commands (separated by carriage returns)\n\n
     3/ <b>SSH commands:</b> you can send instructions to your Raspberry Pi over SSH, such as GPIO or script execution commands for example\n\n
-    4/ <b>CURL commands:</b> you can send instructions to your Raspberry Pi over CURL commands (should looks like command?enable=relay1 or api/plugin/psucontrol in Printoid, for example, with an eventual JSON argument)\n\n
+    4/ <b>HTTP commands:</b> you can send instructions to your Raspberry Pi over HTTP commands (should looks like command?enable=relay1 or api/plugin/psucontrol in Printoid, for example, with an eventual JSON argument)\n\n
     More informations on the official website https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Max home commands reached</string>

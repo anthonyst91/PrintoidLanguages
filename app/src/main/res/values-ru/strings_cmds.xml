@@ -45,7 +45,7 @@
     1/ <b>Системные команды OctoPrint:</b> Printoid может выполнить команды определенные в config.yaml\n\n
     2/ <b>GCODE команды:</b> Вы можете выполнить Ваши GCODE команды. Команда может быть одна или целая группа команд (разделенных Enter)\n\n
     3/ <b>SSH команды:</b> вы можете управлять Вашим Raspberry Pi, например GPIO или скриптами\n\n
-    4/ <b>CURL команды:</b> Вы можете посылать команды Raspberry Pi поверх команд CURL (например, команда выглядит command?enable=relay1 или api/plugin/psucontrol в Printoid, с возможным аргументом в формате JSON)\n\n
+    4/ <b>HTTP команды:</b> Вы можете посылать команды Raspberry Pi поверх команд HTTP (например, команда выглядит command?enable=relay1 или api/plugin/psucontrol в Printoid, с возможным аргументом в формате JSON)\n\n
     Подробнее на https://printoid.net</string>
 
     <string name="max_home_commands_reached_title">Достигнуто максимальное количество команд</string>

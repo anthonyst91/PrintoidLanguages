@@ -45,7 +45,7 @@
     1/ <b>OctoPrint systeem commando\'s:</b> Printoid kan uw in config.yaml geconfigureerde commando\'s uitvoeren\n\n
     2/ <b>GCODE Commando\'s:</b> U kunt commando\'s naar uw 3D printer sturen. Dit kan een enkel commando zijn, maar ook een groep commando\'s (één commando per regel)\n\n
     3/ <b>SSH commando\'s:</b> U kunt via SSH instructies naar uw Raspberry Pi sturen, bijvoorbeeld GPIO commando\'s of commando\'s om een script uit te voeren\n\n
-    4/ <b>CURL commando\'s:</b> U kunt via cURL instructies naar uw Raspberry Pi sturen (Voorbeelden daarvan: command?enable=relay1 of api/plugin/psucontrol in Printoid met eventueel benodigde JSON vormige argumenten)\n\n
+    4/ <b>HTTP commando\'s:</b> U kunt via HTTP instructies naar uw Raspberry Pi sturen (Voorbeelden daarvan: command?enable=relay1 of api/plugin/psucontrol in Printoid met eventueel benodigde JSON vormige argumenten)\n\n
     Meer informatie vindt u op de officiële website: https://printoid.net</string>
 	    
 
