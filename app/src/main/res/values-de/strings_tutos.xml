@@ -9,7 +9,7 @@
     <string name="tutorial_message_welcome_2">Dass Sie sich eine Minute Zeit nehmen, um den Inhalt der App zu erfahren</string>
 
     <!-- VERSIONS COMPARATOR -->
-    <string name="tutorial_comparator_title">Versionen Komparator</string>
+    <string name="tutorial_comparator_title">Versionen Vergleich</string>
     <string name="tutorial_comparator_premium_content">Video, benutzerdefinierte Steuerelemente, 2D-Viewer &amp; 3D, Echtzeitsimulator, erweiterte Steuerung, Widgets &amp; mehr…</string>
     <string name="tutorial_comparator_lite_content">Kostenloses Basic Feature Pack &amp; kein Zeitlimit</string>
     <string name="tutorial_comparator_button_1">Vergleichen Sie die Versionen</string>
