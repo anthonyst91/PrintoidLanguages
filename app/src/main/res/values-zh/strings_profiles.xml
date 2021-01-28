@@ -111,6 +111,8 @@
     <string name="config_wan_ip_help">公网IP或者域名是用于从公网访问您服务器的路由器公网地址. 请阅读以下教程https://printoid.net</string>
     <string name="config_api_key_help">您的OctoPrint服务器API密钥可以在OctoPrint网页界面中找到, 位于配置界面的API选项</string>
 
+    <string name="config_wan_tip_octoeverywhere">提示：使用OctoEverywhere插件可从任何地方安全访问服务器！</string>
+
     <string name="config_ssl_help"><![CDATA[HTTPS(使用SSL/TLS协议)可以与您的服务器加密通讯. 该功能需要事先在您的服务器上启用\n\n<b>如果您的服务器上未配置此功能，请不要激活它，否则连接将无法正常工作</b>]]></string>
     <string name="config_basic_auth_help">您的HTTP代理认证信息.该功能需要事先在您的服务器上启用</string>
     <string name="config_octoprint_credentials_help">您用于登录OctoPrint网页界面的认证信息.将用于终端和集成的插件</string>
