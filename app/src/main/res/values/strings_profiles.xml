@@ -111,6 +111,9 @@
     <string name="config_wan_ip_help">The WAN IP (or hostname) is the public address of your router to reach your server from the Internet. Please read the instructions available on https://printoid.net</string>
     <string name="config_api_key_help">Your OctoPrint server API key can be found in the settings of its web interface, within the API section</string>
 
+    <string name="config_wan_tip_octoeverywhere">Tip: use the OctoEverywhere plugin for a secured access to your server from everywhere!</string>
+    <string name="config_wan_tip_octoeverywhere_link_label" translatable="false">@string/manual_group_read_more</string>
+
     <string name="config_ssl_help"><![CDATA[HTTPS (with SSL/TLS protocols) allows a secured communication with your server. This needs to be activated within your server configuration first.<br><br><b><font color=#FF4444>Do not activate this feature if it is not configured on your server, otherwise connection won\'t work.</font></b>]]></string>
     <string name="config_basic_auth_help">Your HTTP Basic Authentication credentials. This needs to be activated within your server configuration first</string>
     <string name="config_octoprint_credentials_help">The credentials you use to sign-in on your OctoPrint web interface. This could be required by the terminal and the plugins integrations</string>

@@ -42,8 +42,9 @@
     <string name="tutorial_multi_profiles_title">Verbinding met OctoPrint vereenvoudigd</string>
     <string name="tutorial_multi_profiles_message">Bedien en bekijk zoveel OctoPrint servers en 3D printers als u maar wenst!</string>
     <string name="tutorial_multi_profiles_message_2">Ondersteunt LAN- en WAN-configuratie, basisverificatie, SSL / TLS (HTTPS), TLS-certificaat, SSH …</string>
+    <string name="tutorial_multi_profiles_message_3">Ondersteunt de OctoEverywhere-plug-in voor een veilige verbinding met uw server van overal ter wereld!</string>
     <string name="tutorial_multi_profiles_button_1">OctoPrint-verbinding</string>
-    <string name="tutorial_multi_profiles_button_2">Buitenverbinding (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_2">Buitenverbinding (3G/4G/5G…)</string>
     <string name="tutorial_multi_profiles_button_3">Pas de instellingen aan</string>
 
     <!-- 2D / 3D RENDERERS -->

@@ -18,6 +18,7 @@
     <string name="plugin_desc_ultimakerfp">This plugin adds support for Ultimaker Format Package (.ufp) files. Ultimaker Format Package files are based on Open Packaging Conventions (OPC) and contain compressed gcode and a preview thumbnail.</string>
     <string name="plugin_desc_printoid">Printoid Plugin for OctoPrint to receive push notifications in real time about your print status and more, even when the app is in background.</string>
     <string name="plugin_desc_tasmota">This plugin is to control ITead Sonoff devices that have been flashed with Sonoff-Tasmota via web calls.</string>
+    <string name="plugin_desc_octo_everywhere" translatable="false">@string/tutorial_multi_profiles_message_3</string>
 
     <string name="plugin_message_psu">The PSU Control plugin shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>
     <string name="plugin_message_tp_link">The TP-Link SmartPlug shall be installed on your OctoPrint server. Then it will automatically appear in the left menu of the app.</string>

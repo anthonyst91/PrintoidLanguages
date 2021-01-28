@@ -41,10 +41,11 @@
     <!-- MULTI PROFILES -->
     <string name="tutorial_multi_profiles_title">Easy connection to OctoPrint servers</string>
     <string name="tutorial_multi_profiles_message">Control and manage as many OctoPrint servers and 3D printers as you need!</string>
-    <string name="tutorial_multi_profiles_message_2">Support LAN and WAN configurations, basic authentication, SSL/TLS (HTTPS), TLS certificate, SSH…</string>
+    <string name="tutorial_multi_profiles_message_2">Supports LAN and WAN configurations, basic authentication, SSL/TLS (HTTPS), TLS certificate, SSH…</string>
+    <string name="tutorial_multi_profiles_message_3">Supports the OctoEverywhere plugin for a safe connection to your server from everywhere in the world!</string>
     <string name="tutorial_multi_profiles_button_1">How to connect?</string>
-    <string name="tutorial_multi_profiles_button_2">Connect from outside (3G/4G)</string>
-    <string name="tutorial_multi_profiles_button_3">Adjusting the settings</string>
+    <string name="tutorial_multi_profiles_button_2">Connect from outside (3G/4G/5G…)</string>
+    <string name="tutorial_multi_profiles_button_3">Adjust the settings</string>
 
     <!-- 2D / 3D RENDERERS -->
     <string name="tutorial_render_title">2D &amp; 3D visualizers</string>

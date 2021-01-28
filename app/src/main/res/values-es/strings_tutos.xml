@@ -42,8 +42,9 @@
     <string name="tutorial_multi_profiles_title">Conexión a OctoPrint simplificada</string>
     <string name="tutorial_multi_profiles_message">¡Control y gestión de varios servidores OctoPrint e impresoras 3D en caso necesario!</string>
     <string name="tutorial_multi_profiles_message_2">Admite configuración de LAN y WAN, autenticación básica, SSL / TLS (HTTPS), certificado TLS, SSH …</string>
+    <string name="tutorial_multi_profiles_message_3">Admite el complemento OctoEverywhere para una conexión segura a su servidor desde cualquier lugar del mundo.</string>
     <string name="tutorial_multi_profiles_button_1">Conexión a OctoPrint</string>
-    <string name="tutorial_multi_profiles_button_2">Conexión exterior (3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_2">Conexión exterior (3G/4G/5G…)</string>
     <string name="tutorial_multi_profiles_button_3">Ajusta las configuracións</string>
 
     <!-- 2D / 3D RENDERERS -->

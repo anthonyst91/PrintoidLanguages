@@ -42,8 +42,9 @@
     <string name="tutorial_multi_profiles_title">方便地与OctoPrint服务器建立连接</string>
     <string name="tutorial_multi_profiles_message">控制并管理多组OctoPrint服务器和打印机!</string>
     <string name="tutorial_multi_profiles_message_2">支持局域网和广域网配置, 基础认证, SSL/TLS (HTTPS), TLS证书, SSH…</string>
+    <string name="tutorial_multi_profiles_message_3">支持OctoEverywhere插件，可从世界各地安全连接到您的服务器！</string>
     <string name="tutorial_multi_profiles_button_1">如何连接?</string>
-    <string name="tutorial_multi_profiles_button_2">在远程访问(3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_2">在远程访问(3G/4G/5G…)</string>
     <string name="tutorial_multi_profiles_button_3">调整设置参数</string>
 
     <!-- 2D / 3D RENDERERS -->

@@ -112,6 +112,8 @@
     <string name="config_wan_ip_help">L\'IP WAN (ou nom d\'hôte) est l\'adresse utilisée pour contacter votre serveur depuis Internet. Veuillez lire les instructions sur https://printoid.net</string>
     <string name="config_api_key_help">La clé d\'API d\'OctoPrint se trouve dans les paramètres de son interface web, dans la section API</string>
 
+    <string name="config_wan_tip_octoeverywhere">Astuce: utilisez le plugin OctoEverywhere pour un accès sécurisé à votre serveur de partout!</string>
+
     <string name="config_ssl_help"><![CDATA[HTTPS (via protocoles SSL/TLS) permet une communication sécurisée avec votre serveur. Cela doit être activé dans la configuration de votre serveur au préalable<br><br><b><font color=#FF4444>N\'activez pas cette option si cela n\'est pas configuré sur votre serveur, sinon la connexion ne fonctionnera pas.</font></b>]]></string>
     <string name="config_basic_auth_help">Vos identifiants d\'Authentification Basique HTTP. Cela doit être activé dans la configuration de votre serveur au préalable</string>
     <string name="config_octoprint_credentials_help">Vos identifiants pour vous connecter dans l\'interface web d\'OctoPrint. Cela peut être requis par le terminal de commandes et les plugins</string>
