@@ -38,6 +38,7 @@
     <string name="menu_contributors">Colaboradores</string>
     <string name="menu_manual">Manual &amp; tutos</string>
     <string name="menu_system_commands">Comandos del sistema</string>
+    <string name="menu_help_dev">Apoya al desarrollador</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Controlar</string>

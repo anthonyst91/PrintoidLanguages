@@ -110,4 +110,6 @@
     <string name="alert_octoprint_credentials_issue_missing">Für dieses Profil fehlen die OctoPrint-Anmeldeinformationen: Einige Funktionen funktionieren möglicherweise nicht ordnungsgemäß</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint-Anmeldeinformationen sind für dieses Profil nicht gültig: Einige Funktionen funktionieren möglicherweise nicht ordnungsgemäß</string>
 
+    <string name="help_developer_message">Sie können dem Entwickler für die App danken oder ihm helfen, die App und die Dienste am Leben zu erhalten, indem Sie den Betrag Ihrer Wahl spenden! </string>
+
 </resources>

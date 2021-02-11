@@ -111,4 +111,6 @@
     <string name="alert_octoprint_credentials_issue_missing">Identifiants OctoPrint manquants pour ce profil: certaines fonctionnalités peuvent ne pas fonctionner correctement</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Identifiants OctoPrint non valides pour ce profil: certaines fonctionnalités peuvent ne pas fonctionner correctement</string>
 
+    <string name="help_developer_message">Vous pouvez remercier le développeur ou bien l\'aider à maintenir l\'appli et ses services en vie en lui donnant le montant de votre choix !</string>
+
 </resources>

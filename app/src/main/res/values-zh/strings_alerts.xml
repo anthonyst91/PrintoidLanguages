@@ -110,4 +110,6 @@
     <string name="alert_octoprint_credentials_issue_missing">此配置文件缺少OctoPrint凭据：某些功能可能无法正常使用</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint凭证对此配置文件无效：某些功能可能无法正常使用</string>
 
+    <string name="help_developer_message">您可以通过捐赠自己选择的数量来感谢开发人员提供的应用程序，或帮助他保持应用程序和服务的生命力！</string>
+
 </resources>
