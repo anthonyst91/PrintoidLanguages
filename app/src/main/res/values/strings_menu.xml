@@ -12,7 +12,7 @@
     <string name="menu_connecting_printer">Connecting printer</string>
     <string name="menu_disconnect_printer">Disconnect printer</string>
     <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Commands</string>
+    <string name="menu_commands">Custom commands</string>
     <string name="menu_full_screen">Expand view</string>
     <string name="menu_full_screen_streaming">Expand video</string>
     <string name="menu_full_screen_realtime_visualizer">Expand visualizer</string>
@@ -37,6 +37,8 @@
     <string name="menu_gcode_scripts">Gcode scripts</string>
     <string name="menu_contributors">Contributors</string>
     <string name="menu_manual">Manual &amp; tutorials</string>
+    <string name="menu_system_commands">System commands</string>
+    <string name="menu_help_dev">Support the developer</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Control</string>

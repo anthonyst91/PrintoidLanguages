@@ -35,6 +35,7 @@
     <string name="command_not_sent">Erro durante o envio do comando: %s</string>
     <string name="command_not_sent_reason">Erro durante o envio do comando: %1$s (%2$s)</string>
     <string name="send_command_error">Erro do comando:\n%1$s\n%2$s (%3$d)</string>
+    <string name="command_requires_confirmation">Requer sua confirmação</string>
 
     <string name="command_help_for">Clique aqui para ver o tutorial para os comandos %s commands</string>
 

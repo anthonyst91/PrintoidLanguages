@@ -12,7 +12,7 @@
     <string name="menu_disconnect_printer">Ontkoppel de printer</string>
     <string name="menu_connecting_printer">Printer verbinden</string>
     <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Commando\'s</string>
+    <string name="menu_commands">Aangepaste opdrachten</string>
     <string name="menu_printer_profiles_settings">Servers OctoPrint</string>
     <string name="menu_app_settings">Parameters</string>
     <string name="menu_app_infos">Hulp</string>
@@ -37,6 +37,8 @@
     <string name="menu_profile_settings">Huidige serverinstellingen</string>
     <string name="menu_contributors">Medewerkers</string>
     <string name="menu_manual">Handleiding</string>
+    <string name="menu_system_commands">Systeemopdrachten</string>
+    <string name="menu_help_dev">Steun de ontwikkelaar</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Controle</string>

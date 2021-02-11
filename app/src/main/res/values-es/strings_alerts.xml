@@ -111,4 +111,6 @@
     <string name="alert_octoprint_credentials_issue_missing">Faltan credenciales de OctoPrint para este perfil: algunas características pueden no funcionar correctamente</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Las credenciales de OctoPrint no son válidas para este perfil: algunas características pueden no funcionar correctamente</string>
 
+    <string name="help_developer_message">¡Puede agradecer al desarrollador por la aplicación o ayudarlo a mantener la aplicación y los servicios activos, donando la cantidad que elija!</string>
+
 </resources>

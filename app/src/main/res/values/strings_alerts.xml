@@ -111,4 +111,6 @@
     <string name="alert_octoprint_credentials_issue_missing">OctoPrint credentials missing for this profile: some features may not work properly</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint credentials not valid for this profile: some features may not work properly</string>
 
+    <string name="help_developer_message">You can thanks the developer for the app or help him to maintain the app and services alive, by donating the amount of your choice!</string>
+
 </resources>

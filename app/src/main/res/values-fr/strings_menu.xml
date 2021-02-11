@@ -12,7 +12,7 @@
     <string name="menu_disconnect_printer">Déconnecter l\'imprimante</string>
     <string name="menu_connecting_printer">Connexion à l\'imprimante</string>
     <string name="menu_video_streaming">Streaming vidéo</string>
-    <string name="menu_commands">Commandes</string>
+    <string name="menu_commands">Commandes personnalisées</string>
     <string name="menu_printer_profiles_settings">Serveurs OctoPrint</string>
     <string name="menu_app_settings">Paramètres de l\'app</string>
     <string name="menu_app_infos">Assistance</string>
@@ -37,6 +37,8 @@
     <string name="menu_profile_settings">Paramètres serveur actuel</string>
     <string name="menu_contributors">Contributeurs</string>
     <string name="menu_manual">Manuel &amp; tutos</string>
+    <string name="menu_system_commands">Commandes système</string>
+    <string name="menu_help_dev">Supporter le développeur</string>
 
     <string name="menu_monitor">Monitorer</string>
     <string name="menu_control">Contrôler</string>

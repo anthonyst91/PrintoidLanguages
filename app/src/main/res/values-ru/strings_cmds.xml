@@ -35,6 +35,7 @@
     <string name="command_not_sent">Ошибка при отправки команды: %s</string>
     <string name="command_not_sent_reason">Ошибка при отправки команды: %1$s (%2$s)</string>
     <string name="send_command_error">Ошибка команды:\n%1$s\n%2$s (%3$d)</string>
+    <string name="command_requires_confirmation">Требуется ваше подтверждение</string>
 
     <string name="command_help_for">Нажмите здесь для показа %s справки</string>
 

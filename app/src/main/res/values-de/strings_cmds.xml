@@ -35,6 +35,7 @@
     <string name="command_not_sent">Fehler beim Senden des Befehls: %s</string>
     <string name="command_not_sent_reason">Fehler beim Senden des Befehls: %1$s (%2$s)</string>
     <string name="send_command_error">Fehler im Befehl:\n%1$s\n%2$s (%3$d)</string>
+    <string name="command_requires_confirmation">Benötigt Ihre Bestätigung</string>
 
     <string name="command_help_for">Klicken Sie hier für die Anleitung %s Aufträge</string>
 

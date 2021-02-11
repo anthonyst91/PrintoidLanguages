@@ -110,4 +110,6 @@
     <string name="alert_octoprint_credentials_issue_missing">Для этого профиля отсутствуют учетные данные OctoPrint: некоторые функции могут работать неправильно</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Учетные данные OctoPrint недопустимы для этого профиля: некоторые функции могут работать некорректно</string>
 
+    <string name="help_developer_message">Вы можете поблагодарить разработчика за приложение или помочь ему поддерживать приложение и сервисы в рабочем состоянии, пожертвовав сумму по вашему выбору!</string>
+
 </resources>

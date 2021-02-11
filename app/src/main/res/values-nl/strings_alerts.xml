@@ -110,4 +110,6 @@
     <string name="alert_octoprint_credentials_issue_missing">OctoPrint-inloggegevens ontbreken voor dit profiel: sommige functies werken mogelijk niet correct</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint-inloggegevens zijn niet geldig voor dit profiel: sommige functies werken mogelijk niet correct</string>
 
+    <string name="help_developer_message">U kunt de ontwikkelaar bedanken voor de app of hem helpen de app en services in leven te houden door het bedrag van uw keuze te doneren!</string>
+
 </resources>
