@@ -35,6 +35,7 @@
     <string name="command_not_sent">发送指令时发生错误: %s</string>
     <string name="command_not_sent_reason">发送指令时发生错误: %1$s (%2$s)</string>
     <string name="send_command_error">指令错误:\n%1$s\n%2$s (%3$d)</string>
+    <string name="command_requires_confirmation">需要您的确认</string>
 
     <string name="command_help_for">点击此处查看 %s 指令的教程</string>
 

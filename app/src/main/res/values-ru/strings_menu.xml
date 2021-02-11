@@ -12,7 +12,7 @@
     <string name="menu_disconnect_printer">Отключить принтер</string>
     <string name="menu_connecting_printer">Подключение принтера</string>
     <string name="menu_video_streaming">Видео</string>
-    <string name="menu_commands">Команды</string>
+    <string name="menu_commands">Пользовательские команды</string>
     <string name="menu_full_screen">На полный экран</string>
     <string name="menu_full_screen_streaming">Видео на весь экран</string>
     <string name="menu_full_screen_commands">Команды на весь экран</string>
@@ -40,6 +40,7 @@
     <string name="menu_control">Kонтроль</string>
     <string name="menu_temperatures">Tемпература</string>
     <string name="menu_manual">Руководство</string>
+    <string name="menu_system_commands">Системные команды</string>
 
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>
     <string name="menu_lite_text_promote">Удалите рекламу и наслаждайтесь полнофункциональной версией PREMIUM!</string>

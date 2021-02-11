@@ -12,7 +12,7 @@
     <string name="menu_disconnect_printer">Desconectar impresora</string>
     <string name="menu_connecting_printer">Conexión de la impresora</string>
     <string name="menu_video_streaming">Video streaming</string>
-    <string name="menu_commands">Comandos</string>
+    <string name="menu_commands">Comandos personalizados</string>
     <string name="menu_full_screen">Expandir vista</string>
     <string name="menu_full_screen_streaming">Expandir video</string>
     <string name="menu_full_screen_realtime_visualizer">Expandir visor</string>
@@ -37,6 +37,7 @@
     <string name="menu_profile_settings">Configuración servidor actual</string>
     <string name="menu_contributors">Colaboradores</string>
     <string name="menu_manual">Manual &amp; tutos</string>
+    <string name="menu_system_commands">Comandos del sistema</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Controlar</string>

@@ -12,7 +12,7 @@
     <string name="menu_connecting_printer">正在连接打印机</string>
     <string name="menu_disconnect_printer">断开打印机连接</string>
     <string name="menu_video_streaming">视频监控</string>
-    <string name="menu_commands">命令终端</string>
+    <string name="menu_commands">自定义命令</string>
     <string name="menu_full_screen">全屏视图</string>
     <string name="menu_full_screen_streaming">全屏视频监控</string>
     <string name="menu_full_screen_realtime_visualizer">全屏预览器</string>
@@ -40,6 +40,7 @@
     <string name="menu_monitor">显示器</string>
     <string name="menu_control">控制</string>
     <string name="menu_temperatures">温度</string>
+    <string name="menu_system_commands">系统指令</string>
 
     <string name="menu_lite_label_promote">你是否喜欢Printoid精简版?</string>
     <string name="menu_lite_text_promote">快来支持开发人员并享用功能完整的旗舰版!</string>
