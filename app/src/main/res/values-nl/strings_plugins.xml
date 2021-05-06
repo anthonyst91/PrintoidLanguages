@@ -57,12 +57,6 @@
 
     <string name="plugin_octolapse_enable">Octolapse inschakelen</string>
     <string name="plugin_octolapse_status">Status:</string>
-    <string name="plugin_octolapse_printer">Printer:</string>
-    <string name="plugin_octolapse_stabilization">Stabilisatie:</string>
-    <string name="plugin_octolapse_snapshot">Momentopname:</string>
-    <string name="plugin_octolapse_rendering">rendering:</string>
-    <string name="plugin_octolapse_camera">Camera:</string>
-    <string name="plugin_octolapse_debug">debug:</string>
     <string name="plugin_octolapse_trigger_state">Trigger\nstate</string>
     <string name="plugin_octolapse_extruder_state">Extruder\nstate</string>
     <string name="plugin_octolapse_position_state">Positie\nstate</string>

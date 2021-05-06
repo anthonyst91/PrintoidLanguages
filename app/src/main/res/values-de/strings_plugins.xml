@@ -60,12 +60,6 @@
 
     <string name="plugin_octolapse_enable">Octolapse aktivieren</string>
     <string name="plugin_octolapse_status">Status:</string>
-    <string name="plugin_octolapse_printer">Drucker:</string>
-    <string name="plugin_octolapse_stabilization">Stabilisierung:</string>
-    <string name="plugin_octolapse_snapshot">Schnappschuss:</string>
-    <string name="plugin_octolapse_rendering">Rendering:</string>
-    <string name="plugin_octolapse_camera">Kamera:</string>
-    <string name="plugin_octolapse_debug">Debuggen:</string>
     <string name="plugin_octolapse_trigger_state">Trigger\nstate</string>
     <string name="plugin_octolapse_extruder_state">Extruder\nStaat</string>
     <string name="plugin_octolapse_position_state">Position\nZustand</string>

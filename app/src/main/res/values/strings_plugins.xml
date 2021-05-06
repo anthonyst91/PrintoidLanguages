@@ -66,12 +66,13 @@
     <!-- OCTOLAPSE PLUGIN -->
     <string name="plugin_octolapse_enable">Enable Octolapse</string>
     <string name="plugin_octolapse_status">Status:</string>
-    <string name="plugin_octolapse_printer">Printer:</string>
-    <string name="plugin_octolapse_stabilization">Stabilization:</string>
-    <string name="plugin_octolapse_snapshot">Snapshot:</string>
-    <string name="plugin_octolapse_rendering">Rendering:</string>
-    <string name="plugin_octolapse_camera">Camera:</string>
-    <string name="plugin_octolapse_debug">Debug:</string>
+    <string name="plugin_octolapse_snapshot_count" translatable="false">Snapshot count:</string>
+    <string name="plugin_octolapse_printer" translatable="false">Printer:</string>
+    <string name="plugin_octolapse_stabilization" translatable="false">Stabilization:</string>
+    <string name="plugin_octolapse_triggers" translatable="false">Trigger:</string>
+    <string name="plugin_octolapse_rendering" translatable="false">Rendering:</string>
+    <string name="plugin_octolapse_camera" translatable="false">Camera:</string>
+    <string name="plugin_octolapse_logging" translatable="false">Logging:</string>
     <string name="plugin_octolapse_trigger_state">Trigger\nstate</string>
     <string name="plugin_octolapse_extruder_state">Extruder\nstate</string>
     <string name="plugin_octolapse_position_state">Position\nstate</string>
