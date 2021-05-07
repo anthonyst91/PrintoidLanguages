@@ -17,6 +17,7 @@
     <string name="plugin_desc_printoid">Complemento Printoid para OctoPrint para recibir notificaciones push en tiempo real sobre su estado de impresión y más, incluso cuando la aplicación está en segundo plano.</string>
     <string name="plugin_desc_ultimakerfp">Este complemento agrega soporte para los archivos del paquete de formato Ultimaker (.ufp). Los archivos del paquete de formato Ultimaker se basan en Convenciones de Empaque Abierto (OPC) y contienen gcode comprimido y una vista previa en miniatura.</string>
     <string name="plugin_desc_tasmota">Este complemento es para controlar dispositivos ITead Sonoff que han sido flasheados con Sonoff-Tasmota a través de llamadas web.</string>
+    <string name="plugin_desc_toptemp">Printoid utiliza este complemento para obtener la velocidad actual del ventilador y actualizar el control deslizante en consecuencia.</string>
 
     <string name="plugin_message_psu">El complemento de control de la PSU se instalará en su servidor OctoPrint. Luego aparecerá automáticamente en el menú izquierdo de la aplicación.</string>
     <string name="plugin_message_tasmota">El complemento de control de la Tasmota se instalará en su servidor OctoPrint. Luego aparecerá automáticamente en el menú izquierdo de la aplicación.</string>
@@ -57,12 +58,6 @@
 
     <string name="plugin_octolapse_enable">Habilitar Octolapse</string>
     <string name="plugin_octolapse_status">Estado:</string>
-    <string name="plugin_octolapse_printer">Impresora:</string>
-    <string name="plugin_octolapse_stabilization">Estabilización:</string>
-    <string name="plugin_octolapse_snapshot">Instantánea:</string>
-    <string name="plugin_octolapse_rendering">Representación:</string>
-    <string name="plugin_octolapse_camera">Cámara:</string>
-    <string name="plugin_octolapse_debug">Depurar:</string>
     <string name="plugin_octolapse_trigger_state">Trigger\nestado</string>
     <string name="plugin_octolapse_extruder_state">Extrusora\nestado</string>
     <string name="plugin_octolapse_position_state">Posición\nestado</string>
@@ -117,5 +112,8 @@
     <string name="plugin_printoid_bed_duration">Minutos</string>
     <string name="plugin_printoid_bed_duration_success">La duración del calentamiento de la cama calentada se establece en %d minutos</string>
     <string name="plugin_printoid_bed_duration_failure">No se pudo establecer la duración del calentamiento de la cama caliente</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">Velocidad del ventilador</string>
 
 </resources>
