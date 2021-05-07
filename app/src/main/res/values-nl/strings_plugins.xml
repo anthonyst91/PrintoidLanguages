@@ -17,6 +17,7 @@
     <string name="plugin_desc_printoid">Printoid-plug-in voor OctoPrint om push-notificaties in realtime te ontvangen over uw printstatus en meer, zelfs wanneer de app op de achtergrond is.</string>
     <string name="plugin_desc_ultimakerfp">Deze plug-in voegt ondersteuning toe voor Ultimaker Format Package (.ufp) -bestanden. Ultimaker Format Package-bestanden zijn gebaseerd op Open Packaging Conventions (OPC) en bevatten gecomprimeerde gcode en een voorbeeldminiatuur.</string>
     <string name="plugin_desc_tasmota">Deze plug-in is bedoeld om ITead Sonoff-apparaten te bedienen die zijn geflitst met Sonoff-Tasmota via weboproepen.</string>
+    <string name="plugin_desc_toptemp">Deze plug-in wordt door Printoid gebruikt om de huidige ventilatorsnelheid te krijgen en de schuifregelaar dienovereenkomstig bij te werken.</string>
 
     <string name="plugin_message_psu">De plug-in PSU-besturing moet op uw OctoPrint-server zijn geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
     <string name="plugin_message_tasmota">De plug-in Tasmota-besturing moet op uw OctoPrint-server zijn geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
@@ -111,5 +112,8 @@
     <string name="plugin_printoid_bed_duration">Minuten</string>
     <string name="plugin_printoid_bed_duration_success">Verwarmde bed warme duur ingesteld op %d minuten</string>
     <string name="plugin_printoid_bed_duration_failure">Kan de warme duur van het verwarmde bed niet instellen</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">Huidige ventilatorsnelheid</string>
 
 </resources>

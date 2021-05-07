@@ -11,6 +11,7 @@
     <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
     <string name="plugin_name_octo_everywhere" translatable="false">OctoEverywhere</string>
     <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
+    <string name="plugin_name_toptemp" translatable="false">Top Temp (get fan speed)</string>
     <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
     <string name="plugin_name_prusathumbnail" translatable="false">PrusaSlicer Thumbnail</string>
     <string name="plugin_name_ultimakerfp" translatable="false">Ultimaker Format Package</string>
@@ -25,6 +26,7 @@
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_octo_everywhere" translatable="false">Quinn Damerell (@quinndamerell)</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
+    <string name="plugin_author_toptemp" translatable="false">(@LazeMSS)</string>
     <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
     <string name="plugin_author_prusathumbnail" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_ultimakerfp" translatable="false">Jim Neill (@jneilliii)</string>
@@ -39,6 +41,7 @@
     <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
     <string name="plugin_url_octo_everywhere" translatable="false">https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere</string>
     <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
+    <string name="plugin_url_toptemp" translatable="false">https://github.com/LazeMSS/OctoPrint-TopTemp</string>
     <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
     <string name="plugin_url_prusathumbnail" translatable="false">https://github.com/jneilliii/OctoPrint-PrusaSlicerThumbnails</string>
     <string name="plugin_url_ultimakerfp" translatable="false">https://github.com/jneilliii/OctoPrint-UltimakerFormatPackage</string>

@@ -18,6 +18,7 @@
     <string name="plugin_desc_printoid">Printoid Plugin per OctoPrint per ricevere notifiche push in tempo reale sullo stato della stampa e altro, anche quando l\'app è in background.</string>
     <string name="plugin_desc_ultimakerfp">Questo plugin aggiunge il supporto per i file del pacchetto formato Ultimaker (.ufp). I file del pacchetto formato Ultimaker sono basati su Open Packaging Conventions (OPC) e contengono gcode compresso e una miniatura di anteprima.</string>
     <string name="plugin_desc_tasmota">Questo plugin serve per controllare i dispositivi ITead Sonoff che sono stati sottoposti a flashing con Sonoff-Tasmota tramite chiamate Web.</string>
+    <string name="plugin_desc_toptemp">Questo plugin viene utilizzato da Printoid per ottenere la velocità corrente della ventola e aggiornare il dispositivo di scorrimento di conseguenza.</string>
 
     <string name="plugin_message_psu">Il plugin di controllo PSU deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
     <string name="plugin_message_tasmota">Il plugin di controllo Tasmota deve essere installato sul server OctoPrint. Quindi apparirà automaticamente nel menu di sinistra dell\'app.</string>
@@ -120,5 +121,8 @@
     <string name="plugin_printoid_bed_duration">Minuti</string>
     <string name="plugin_printoid_bed_duration_success">Durata calda del letto riscaldato impostata su %d minuti</string>
     <string name="plugin_printoid_bed_duration_failure">Impossibile impostare la durata del riscaldamento del letto riscaldato</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">Velocità della ventola</string>
 
 </resources>

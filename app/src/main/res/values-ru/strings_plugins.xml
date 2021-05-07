@@ -17,6 +17,7 @@
     <string name="plugin_desc_printoid">Плагин Printoid для OctoPrint для получения push-уведомлений в режиме реального времени о вашем состоянии печати и т. Д., Даже если приложение находится в фоновом режиме.</string>
     <string name="plugin_desc_ultimakerfp">Этот плагин добавляет поддержку файлов формата Ultimaker (.ufp). Файлы пакета формата Ultimaker основаны на соглашениях об открытой упаковке (OPC) и содержат сжатый код gcode и эскиз предварительного просмотра.</string>
     <string name="plugin_desc_tasmota">Этот плагин предназначен для управления устройствами ITead Sonoff, которые были прошиты с помощью Sonoff-Tasmota через веб-вызовы.</string>
+    <string name="plugin_desc_toptemp">Этот плагин используется Printoid для получения текущей скорости вращения вентилятора и соответствующего обновления ползунка.</string>
 
     <string name="plugin_message_psu">Плагин PSU Control должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
     <string name="plugin_message_tasmota">Плагин Tasmota должен быть установлен на вашем сервере OctoPrint. Затем он автоматически появится в левом меню приложения.</string>
@@ -111,5 +112,8 @@
     <string name="plugin_printoid_bed_duration">минут</string>
     <string name="plugin_printoid_bed_duration_success">Время прогрева кровати с подогревом установлено на %d минут</string>
     <string name="plugin_printoid_bed_duration_failure">Не удалось установить продолжительность прогрева кровати с подогревом</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">Текущая скорость вентилятора</string>
 
 </resources>

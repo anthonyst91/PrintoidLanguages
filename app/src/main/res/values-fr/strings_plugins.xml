@@ -18,6 +18,7 @@
     <string name="plugin_desc_printoid">Printoid Plugin pour OctoPrint pour recevoir des notifications push en temps réel sur votre statut d\'impression et plus encore, même lorsque l\'application est en arrière-plan.</string>
     <string name="plugin_desc_ultimakerfp">Ce plugin ajoute la prise en charge des fichiers Ultimaker Format Package (.ufp). Les fichiers du package de format Ultimaker sont basés sur les conventions OPC (Open Packaging Conventions) et contiennent un gcode compressé et une miniature d\'aperçu.</string>
     <string name="plugin_desc_tasmota">Ce plugin sert à contrôler les appareils ITead Sonoff qui ont été flashés avec Sonoff-Tasmota via des appels Web.</string>
+    <string name="plugin_desc_toptemp">Ce plugin est utilisé par Printoid pour récupérer la valeur de la vitesse du ventilateur actuel, afin de mettre à jour le slider.</string>
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tasmota">Le plugin Tasmota doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
@@ -121,5 +122,8 @@
     <string name="plugin_printoid_bed_duration">Minutes</string>
     <string name="plugin_printoid_bed_duration_success">Durée de chauffe du lit chauffant réglée sur %d minutes</string>
     <string name="plugin_printoid_bed_duration_failure">Impossible de régler la durée de chauffe du lit chauffant</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">Vitesse du ventilateur</string>
 
 </resources>

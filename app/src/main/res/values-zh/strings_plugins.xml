@@ -18,6 +18,7 @@
     <string name="plugin_desc_printoid">用于OctoPrint的Printoid插件可以实时接收有关您的打印状态等的推送通知，即使该应用程序处于后台也是如此。</string>
     <string name="plugin_desc_ultimakerfp">该插件增加了对Ultimaker格式包（.ufp）文件的支持。 Ultimaker格式软件包文件基于开放包装约定（OPC），并包含压缩的gcode和预览缩略图。</string>
     <string name="plugin_desc_tasmota">此插件用于控制已通过Web调用随Sonoff-Tasmota刷新的ITead Sonoff设备。</string>
+    <string name="plugin_desc_toptemp">Printoid使用此插件来获取当前风扇速度并相应地更新滑块。</string>
 
     <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
     <string name="plugin_message_tasmota">Tasmota插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
@@ -121,5 +122,8 @@
     <string name="plugin_printoid_bed_duration">分钟</string>
     <string name="plugin_printoid_bed_duration_success">加热床加热持续时间设置为%d分钟</string>
     <string name="plugin_printoid_bed_duration_failure">无法设置加热床的加热持续时间</string>
+
+    <!-- TOP TEMP PLUGIN -->
+    <string name="plugin_toptemp_fan_speed">当前风扇转速</string>
 
 </resources>
