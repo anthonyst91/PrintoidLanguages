@@ -10,6 +10,7 @@
     <string name="printer_state_printing">Printing&#8230;</string>
     <string name="printer_state_ready">Klaar om te printen</string>
     <string name="printer_state_error">Fout Verbinding Printer</string>
+    <string name="printer_state_starting">Beginnend&#8230;</string>
 
     <string name="file">Bestand: %s</string>
     <string name="file_label">Bestand :</string>

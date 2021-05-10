@@ -10,6 +10,7 @@
     <string name="printer_state_printing">Impression&#8230;</string>
     <string name="printer_state_ready">Prêt à imprimer</string>
     <string name="printer_state_error">Erreur connexion imprimante</string>
+    <string name="printer_state_starting">Démarrage&#8230;</string>
 
     <string name="file">Fichier : %s</string>
     <string name="file_label">Fichier :</string>
