@@ -55,5 +55,15 @@
     <string name="onboarding_confirmation_message">U bent bijna klaar!\n
         Zoek uw configuratie na en controleer nogmaals alle waarden die u hebt opgegeven.</string>
 
+    <string name="onboarding_public_choice_title">Toegang op afstand (via internet)</string>
+    <string name="onboarding_public_choice_message">Kies hoe u wilt dat Printoid verbinding maakt met uw OctoPrint-server wanneer uw apparaat niet op hetzelfde netwerk is aangesloten (wanneer u bijvoorbeeld niet thuis bent).</string>
+    <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(beveiligd en geen complexiteit)</string>
+    <string name="onboarding_public_choice_message_manual">Handmatig\n(netwerkconfiguratie vereisen)</string>
+    <string name="onboarding_public_choice_message_later">Configureer later</string>
+
+    <string name="onboarding_public_octoeverywhere_pricing">Prijsstelling</string>
+    <string name="onboarding_public_octoeverywhere_error_title">Er is iets fout gegaan…</string>
+    <string name="onboarding_public_octoeverywhere_error_message">De verbinding met OctoEverywhere kan op dit moment niet tot stand worden gebracht. Probeer het later opnieuw.</string>
+
 
 </resources>

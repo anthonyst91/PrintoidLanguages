@@ -54,5 +54,14 @@
     <string name="onboarding_confirmation_title">Confirmación</string>
     <string name="onboarding_confirmation_message">¡Ya casi termina!\nRevise su configuración y vuelva a verificar todos los valores que ha proporcionado.</string>
 
+    <string name="onboarding_public_choice_title">Acceso distante (a través de Internet) </string>
+    <string name="onboarding_public_choice_message">Elija cómo desea que Printoid se conecte a su servidor OctoPrint cuando su dispositivo no esté conectado a la misma red (cuando no esté en casa, por ejemplo).</string>
+    <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(seguro y sin complejidad)</string>
+    <string name="onboarding_public_choice_message_manual">A mano\n(requieren configuración de red)</string>
+    <string name="onboarding_public_choice_message_later">Configurar más tarde</string>
+
+    <string name="onboarding_public_octoeverywhere_pricing">Precios</string>
+    <string name="onboarding_public_octoeverywhere_error_title">Algo salió mal…</string>
+    <string name="onboarding_public_octoeverywhere_error_message">La conexión con OctoEverywhere no se puede establecer por el momento. Vuelve a intentarlo más tarde.</string>
 
 </resources>

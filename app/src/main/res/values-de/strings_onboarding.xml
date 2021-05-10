@@ -55,4 +55,14 @@
     <string name="onboarding_confirmation_message">Sie sind fast fertig!\n
         Bitte überprüfen Sie Ihre Konfiguration und überprüfen Sie alle von Ihnen angegebenen Werte.</string>
 
+    <string name="onboarding_public_choice_title">Fernzugriff (über das Internet) </string>
+    <string name="onboarding_public_choice_message">Wählen Sie aus, wie Printoid eine Verbindung zu Ihrem OctoPrint-Server herstellen soll, wenn Ihr Gerät nicht mit demselben Netzwerk verbunden ist (z. B. wenn Sie nicht zu Hause sind).</string>
+    <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(gesichert und keine Komplexität)</string>
+    <string name="onboarding_public_choice_message_manual">Manuell\n(Netzwerkkonfiguration erforderlich)</string>
+    <string name="onboarding_public_choice_message_later">Später konfigurieren</string>
+
+    <string name="onboarding_public_octoeverywhere_pricing">Preisgestaltung</string>
+    <string name="onboarding_public_octoeverywhere_error_title">Etwas ist schief gelaufen…</string>
+    <string name="onboarding_public_octoeverywhere_error_message">Die Verbindung zu OctoEverywhere kann derzeit nicht hergestellt werden. Bitte versuchen Sie es später erneut.</string>
+
 </resources>
