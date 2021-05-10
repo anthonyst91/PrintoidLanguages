@@ -119,5 +119,9 @@
     <string name="config_octoprint_credentials_help">Vos identifiants pour vous connecter dans l\'interface web d\'OctoPrint. Cela peut être requis par le terminal de commandes et les plugins</string>
     <string name="config_ssh_credentials_help">Vos identifiants pour vous connecter à votre machine hôte, utilisé pour les commandes SSH personnalisées. Définissez un port publique pour un accès distant si besoin</string>
 
+    <string name="config_octoeverywhere">Connexion avec OctoEverywhere</string>
+    <string name="config_octoeverywhere_help">Connectez votre serveur OctoPrint à OctoEverywhere pour avoir une connexion rapide et sécurisée à votre imprimante 3D (même en dehors de chez vous) sans configuration complexe !</string>
+    <string name="config_octoeverywhere_button_connect">Connecter maintenant</string>
+    <string name="config_octoeverywhere_button_disconnect">Déconnecter OctoEverywhere</string>
 
 </resources>
