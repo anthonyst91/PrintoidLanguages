@@ -78,6 +78,8 @@
     <string name="plugin_octolapse_extruder_state">Extruder\nstate</string>
     <string name="plugin_octolapse_position_state">Position\nstate</string>
     <string name="plugin_octolapse_position_change">Position\nchange</string>
+    <string name="plugin_octolapse_preprocessing_title" translatable="false">Octolapse pre-processing…</string>
+    <string name="plugin_octolapse_preprocessing_message" translatable="false">Remaining: %1$s / Elapsed: %2$s / Line: %3$d</string>
 
     <!-- ENCLOSURE PLUGIN -->
     <string name="plugin_enclosure_rpi_output_enable">Turn ON:</string>
