@@ -60,6 +60,7 @@
     <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(安全且没有复杂性)</string>
     <string name="onboarding_public_choice_message_manual">手动地 (需要网络配置)</string>
     <string name="onboarding_public_choice_message_later">稍后配置</string>
+    <string name="onboarding_public_choice_message_octoeverywhere_details">需要付费订阅</string>
 
     <string name="onboarding_public_octoeverywhere_pricing">价钱</string>
     <string name="onboarding_public_octoeverywhere_error_title">出问题了… </string>

@@ -60,6 +60,7 @@
     <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(seguro e sem complexidade)</string>
     <string name="onboarding_public_choice_message_manual">Manualmente\n(requer configuração de rede)</string>
     <string name="onboarding_public_choice_message_later">Configurar mais tarde</string>
+    <string name="onboarding_public_choice_message_octoeverywhere_details">Requer uma assinatura paga</string>
 
     <string name="onboarding_public_octoeverywhere_pricing">Preços</string>
     <string name="onboarding_public_octoeverywhere_error_title">Algo deu errado…</string>

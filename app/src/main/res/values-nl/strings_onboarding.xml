@@ -60,6 +60,7 @@
     <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(beveiligd en geen complexiteit)</string>
     <string name="onboarding_public_choice_message_manual">Handmatig\n(netwerkconfiguratie vereisen)</string>
     <string name="onboarding_public_choice_message_later">Configureer later</string>
+    <string name="onboarding_public_choice_message_octoeverywhere_details">Vereist een betaald abonnement</string>
 
     <string name="onboarding_public_octoeverywhere_pricing">Prijsstelling</string>
     <string name="onboarding_public_octoeverywhere_error_title">Er is iets fout gegaan…</string>
