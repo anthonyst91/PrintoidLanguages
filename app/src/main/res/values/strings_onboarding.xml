@@ -66,5 +66,6 @@
     <string name="onboarding_public_octoeverywhere_error_title">Something went wrong…</string>
     <string name="onboarding_public_octoeverywhere_error_message">The connection with OctoEverywhere can\'t be established for the moment. Please retry later.</string>
     <string name="onboarding_public_octoeverywhere_warning" translatable="false">14-days free trial if you create your account from Printoid.\nOctoEverywhere is not powered by the developer of Printoid. All credits go to Quinn Damerell.</string>
+    <string name="onboarding_public_octoeverywhere_connected" translatable="false">Connected with OctoEverywhere!</string>
 
 </resources>
