@@ -25,6 +25,7 @@
         <item>视频播放器</item>
         <item>网页视图</item>
         <item>快照</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">

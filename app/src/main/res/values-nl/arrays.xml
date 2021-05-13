@@ -25,6 +25,7 @@
         <item>Video speler</item>
         <item>Web pagina</item>
         <item>Snapshots</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">

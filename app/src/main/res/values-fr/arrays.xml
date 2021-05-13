@@ -19,6 +19,7 @@
         <item>Lecteur vidéo</item>
         <item>Vue web</item>
         <item>Snapshot</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="setting_connection_mode_array">

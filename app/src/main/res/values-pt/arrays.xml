@@ -25,6 +25,7 @@
         <item>Visão player</item>
         <item>Visão Web</item>
         <item>Captura de imagem</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">
