@@ -118,5 +118,9 @@
     <string name="config_octoprint_credentials_help">Учетные данные, которые вы используете для входа в веб-интерфейс OctoPrint. Это может потребоваться для интеграции терминала и плагинов</string>
     <string name="config_ssh_credentials_help">Учетные данные, которые вы используете для входа на хост-компьютер вашего сервера, используются для функции пользовательских команд SSH. Определите значение общего порта для удаленного доступа SSH, если это необходимо</string>
 
+    <string name="config_octoeverywhere">Связь с OctoEverywhere</string>
+    <string name="config_octoeverywhere_help">Подключите сервер OctoPrint к OctoEverywhere, чтобы получить быстрое и безопасное соединение с вашим 3D-принтером через Интернет (даже когда вас нет дома) без какой-либо сложной конфигурации!</string>
+    <string name="config_octoeverywhere_button_connect">Подключиться сейчас</string>
+    <string name="config_octoeverywhere_button_disconnect">Отключить OctoEverywhere</string>
 
 </resources>

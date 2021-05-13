@@ -10,6 +10,7 @@
     <string name="printer_state_paused">Пауза печати</string>
     <string name="printer_state_printing">Печать&#8230;</string>
     <string name="printer_state_error">Ошибка подключения принтера</string>
+    <string name="printer_state_starting">Запуск&#8230;</string>
 
     <string name="file">Файл: %s</string>
     <string name="file_label">Файл:</string>

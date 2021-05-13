@@ -115,5 +115,9 @@
     <string name="config_octoprint_credentials_help">De inloggegevens die u gebruikt om in te loggen op uw OctoPrint webinterface. Dit kan vereist zijn door de integratie van de terminal en de plug-ins</string>
     <string name="config_ssh_credentials_help">De referenties die u gebruikt om in te loggen op de hostcomputer van uw server, gebruikt voor de aangepaste SSH-opdrachtenfunctie. Definieer een openbare poortwaarde voor een verre SSH-toegang indien nodig</string>
 
+    <string name="config_octoeverywhere">Verbinding met OctoEverywhere</string>
+    <string name="config_octoeverywhere_help">Verbind uw OctoPrint-server met OctoEverywhere om een snelle en beveiligde verbinding te krijgen met uw 3D-printer via internet (zelfs als u niet thuis bent) zonder ingewikkelde configuratie!</string>
+    <string name="config_octoeverywhere_button_connect">Verbind nu</string>
+    <string name="config_octoeverywhere_button_disconnect">Koppel OctoEverywhere los</string>
 
 </resources>

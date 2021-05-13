@@ -118,4 +118,9 @@
     <string name="config_octoprint_credentials_help">您用于登录OctoPrint网页界面的认证信息.将用于终端和集成的插件</string>
     <string name="config_ssh_credentials_help">您用于登录SSH服务的认证信息, 将用于自定义SSH指令功能. 如果需要远程访问, 请定义一个公网SSH端口号</string>
 
+    <string name="config_octoeverywhere">与OctoEverywhere连接</string>
+    <string name="config_octoeverywhere_help">将您的OctoPrint服务器连接到OctoEverywhere，以通过Internet（即使您不在家时）也可以快速安全地连接到3D打印机，而无需进行任何复杂的配置！ </string>
+    <string name="config_octoeverywhere_button_connect">现在连接</string>
+    <string name="config_octoeverywhere_button_disconnect">断开OctoEverywhere的连接</string>
+
 </resources>

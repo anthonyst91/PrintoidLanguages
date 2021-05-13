@@ -19,6 +19,7 @@
         <item>Videoplayer</item>
         <item>Webansicht</item>
         <item>Einzelbild</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">

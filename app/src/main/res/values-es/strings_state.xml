@@ -10,6 +10,7 @@
     <string name="printer_state_paused">Impresión pausada</string>
     <string name="printer_state_printing">Imprimiendo&#8230;</string>
     <string name="printer_state_error">Error de conexión de la impresora</string>
+    <string name="printer_state_starting">Empezando&#8230;</string>
 
     <string name="file">Archivo: %s</string>
     <string name="file_label">Fichero:</string>

@@ -19,6 +19,7 @@
         <item>Reproductor de vídeo</item>
         <item>Vista web</item>
         <item>Instantánea</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">

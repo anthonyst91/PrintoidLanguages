@@ -55,5 +55,16 @@
     <string name="onboarding_confirmation_title">确认</string>
     <string name="onboarding_confirmation_message">您差不多完成了!\n请仔细检查您的配置以及参数是否正确.</string>
 
+    <string name="onboarding_public_choice_title">远程访问（通过Internet)</string>
+    <string name="onboarding_public_choice_message">当您的设备未连接到同一网络时（例如，当您不在家时），选择希望Printoid连接到OctoPrint服务器的方式。</string>
+    <string name="onboarding_public_choice_message_octoeverywhere">OctoEverywhere\n(安全且没有复杂性)</string>
+    <string name="onboarding_public_choice_message_manual">手动地 (需要网络配置)</string>
+    <string name="onboarding_public_choice_message_later">稍后配置</string>
+    <string name="onboarding_public_choice_message_octoeverywhere_details">需要付费订阅</string>
+
+    <string name="onboarding_public_octoeverywhere_pricing">价钱</string>
+    <string name="onboarding_public_octoeverywhere_error_title">出问题了… </string>
+    <string name="onboarding_public_octoeverywhere_error_message">目前无法与OctoEverywhere建立连接。 请稍后重试</string>
+
 
 </resources>

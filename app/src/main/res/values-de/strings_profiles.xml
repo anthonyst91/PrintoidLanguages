@@ -118,4 +118,9 @@
     <string name="config_octoprint_credentials_help">Die Anmeldeinformationen, die Sie für die Anmeldung bei Ihrer OctoPrint-Weboberfläche verwenden. Dies kann für die Integration des Terminals und der Plugins erforderlich sein</string>
     <string name="config_ssh_credentials_help">Die Anmeldeinformationen, die Sie zum Anmelden auf dem Host-Computer Ihres Servers verwenden, die für die Funktion für benutzerdefinierte SSH-Befehle verwendet werden. Definieren Sie bei Bedarf einen öffentlichen Port-Wert für einen entfernten SSH-Zugriff</string>
 
+    <string name="config_octoeverywhere">Verbindung mit OctoEverywhere</string>
+    <string name="config_octoeverywhere_help">Verbinden Sie Ihren OctoPrint-Server mit OctoEverywhere, um eine schnelle und sichere Verbindung zu Ihrem 3D-Drucker über das Internet (auch wenn Sie nicht zu Hause sind) ohne komplexe Konfiguration herzustellen!</string>
+    <string name="config_octoeverywhere_button_connect">Verbinde jetzt</string>
+    <string name="config_octoeverywhere_button_disconnect">Trennen Sie OctoEverywhere</string>
+
 </resources>

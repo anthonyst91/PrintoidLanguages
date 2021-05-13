@@ -10,6 +10,7 @@
     <string name="printer_state_paused">打印已暂停</string>
     <string name="printer_state_printing">打印中&#8230;</string>
     <string name="printer_state_error">打印机连接错误</string>
+    <string name="printer_state_starting">开始&#8230;</string>
 
     <string name="remaining_time_label">剩余时间</string>
     <string name="file">文件: %s</string>

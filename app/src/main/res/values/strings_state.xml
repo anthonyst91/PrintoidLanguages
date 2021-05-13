@@ -10,6 +10,7 @@
     <string name="printer_state_paused">Print paused</string>
     <string name="printer_state_printing">Printing&#8230;</string>
     <string name="printer_state_error">Printer connection error</string>
+    <string name="printer_state_starting">Starting&#8230;</string>
 
     <string name="remaining_time_label">Time left</string>
     <string name="file">File: %s</string>

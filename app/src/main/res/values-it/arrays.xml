@@ -25,6 +25,7 @@
         <item>Video player</item>
         <item>Vista Web</item>
         <item>Snapshot</item>
+        <item>RTSP</item>
     </string-array>
 
     <string-array name="ssl_modes_array">
