@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">定制控制</string>
+
+    <string name="customize_controls_category_misc">各种各样的</string>
+
+    <string name="customize_controls_disclaimer_long_press">长按您已设置为再次更改此页面以更改其行为的自定义操作图标。</string>
+    <string name="customize_controls_disclaimer_commands">选择要直接从仪表板执行的命令之一。 从命令菜单配置命令。</string>
+    <string name="customize_controls_disclaimer_plugins">选择一个可用插件以从仪表板快速访问它。</string>
+
+    <string name="customize_controls_misc_empty">空的</string>
+
+</resources>

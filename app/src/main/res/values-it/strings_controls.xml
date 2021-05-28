@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Controlli personalizzati</string>
+
+    <string name="customize_controls_category_misc">Varie</string>
+
+    <string name="customize_controls_disclaimer_long_press">Premi a lungo su un\'icona di azione personalizzata che hai già impostato per aprire di nuovo questa pagina per modificarne il comportamento.</string>
+    <string name="customize_controls_disclaimer_commands">Seleziona uno dei tuoi comandi da eseguire direttamente dalla dashboard. Configura i tuoi comandi dal menu Comandi.</string>
+    <string name="customize_controls_disclaimer_plugins">Seleziona uno dei plugin disponibili per accedervi rapidamente dalla dashboard.</string>
+
+    <string name="customize_controls_misc_empty">Vuoto</string>
+
+</resources>

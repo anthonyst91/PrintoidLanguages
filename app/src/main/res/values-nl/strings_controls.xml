@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Aangepaste bedieningselementen</string>
+
+    <string name="customize_controls_category_misc">Diversen</string>
+
+    <string name="customize_controls_disclaimer_long_press">Druk lang op een aangepast actiepictogram dat u al hebt ingesteld om deze pagina opnieuw te openen om het gedrag ervan te veranderen.</string>
+    <string name="customize_controls_disclaimer_commands">Selecteer een van uw opdrachten om rechtstreeks vanaf het dashboard uit te voeren. Configureer uw opdrachten vanuit het menu Opdrachten.</string>
+    <string name="customize_controls_disclaimer_plugins">Selecteer een van de beschikbare plug-ins om er snel toegang toe te hebben vanaf het dashboard.</string>
+
+    <string name="customize_controls_misc_empty">Leeg</string>
+
+</resources>
