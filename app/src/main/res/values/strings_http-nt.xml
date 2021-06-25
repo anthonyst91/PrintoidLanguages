@@ -93,7 +93,18 @@
     <string name="http_server_error_invalid_certificate" translatable="false">Invalid SSL Certificate</string>
     <string name="http_server_error_railgun_error" translatable="false">Railgun Error</string>
 
-    <!-- UNSUPPORTED & UNOFFICIAL CODES -->
+    <!-- CODES 6XX - OctoEverywhere errors -->
+    <string name="http_octoeverywhere_error_server" translatable="false">OctoEverywhere went wrong, try again later</string>
+    <string name="http_octoeverywhere_error_printer_not_connected" translatable="false">Your 3D printer is not connected to OctoEverywhere</string>
+    <string name="http_octoeverywhere_error_connection_timed_out" translatable="false">The OctoPrint instance is connected to OctoEveywhere, but it took too long to respond to the request</string>
+    <string name="http_octoeverywhere_error_connection_not_found" translatable="false">The OctoEverywhere app connection subdomain used didn\'t map to a valid app connection</string>
+    <string name="http_octoeverywhere_error_connection_expired" translatable="false">The OctoEverywhere app connection can no longer be used (revoked, expired, or account deleted)</string>
+    <string name="http_octoeverywhere_error_account_expired" translatable="false">The OctoEverywhere account is no longer a supporter account. Please upgrade to supporter to continue using the OctoEverywhere service.</string>
+    <string name="http_octoeverywhere_error_invalid_credentials" translatable="false">The OctoEverywhere app connection requires basic HTTP auth or a Bearer token. The credentials were either missing or incorrect.</string>
+    <string name="http_octoeverywhere_error_download_limit_exceeded" translatable="false">The OctoEverywhere HTTP response body was exceeded the max download size for this user\'s account.</string>
+    <string name="http_octoeverywhere_error_upload_limit_exceeded" translatable="false">The OctoEverywhere HTTP response body was exceeded the max upload size for this user\'s account.</string>
+
+    <!-- CODES 8XX - Unsupported and unofficial codes -->
 
     <string name="http_exception_connect" translatable="false">Connect Exception</string>
     <string name="http_error_unknown" translatable="false">Unknown Error</string>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Kundenspezifische Steuerung</string>
+
+    <string name="customize_controls_category_misc">Sonstiges</string>
+
+    <string name="customize_controls_disclaimer_long_press">Drücken Sie lange auf ein benutzerdefiniertes Aktionssymbol, das Sie bereits festgelegt haben, um diese Seite erneut zu öffnen, um ihr Verhalten zu ändern .</string>
+    <string name="customize_controls_disclaimer_commands">Wählen Sie einen Ihrer Befehle aus, die direkt im Dashboard ausgeführt werden sollen. Konfigurieren Sie Ihre Befehle über das Menü Befehle.</string>
+    <string name="customize_controls_disclaimer_plugins">Wählen Sie eines der verfügbaren Plugins aus, um über das Dashboard schnell darauf zugreifen zu können.</string>
+
+    <string name="customize_controls_misc_empty">Leer</string>
+
+</resources>

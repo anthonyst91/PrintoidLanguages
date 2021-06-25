@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Control personalizado</string>
+
+    <string name="customize_controls_category_misc">Diverso</string>
+
+    <string name="customize_controls_disclaimer_long_press">Mantenga presionado un ícono de acción personalizada que ya haya configurado para abrir esta página nuevamente para cambiar su comportamiento.</string>
+    <string name="customize_controls_disclaimer_commands">Seleccione uno de sus comandos para que se ejecute directamente desde el panel de control. Configure sus comandos desde el menú Comandos.</string>
+    <string name="customize_controls_disclaimer_plugins">Seleccione uno de los complementos disponibles para tener un acceso rápido a él desde el tablero.</string>
+
+    <string name="customize_controls_misc_empty">Vacío</string>
+
+</resources>

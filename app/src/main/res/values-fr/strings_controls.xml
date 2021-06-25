@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Contrôles personnalisés</string>
+
+    <string name="customize_controls_category_misc">Divers</string>
+
+    <string name="customize_controls_disclaimer_long_press">Appuyez longuement sur une icône d\'action personnalisée que vous avez déjà définie pour ouvrir à nouveau cette page afin de modifier son comportement.</string>
+    <string name="customize_controls_disclaimer_commands">Sélectionnez l\'une de vos commandes à exécuter directement depuis le tableau de bord. Configurez vos commandes depuis le menu Commandes.</string>
+    <string name="customize_controls_disclaimer_plugins">Sélectionnez l\'un des plugins disponibles pour y accéder rapidement depuis le tableau de bord.</string>
+
+    <string name="customize_controls_misc_empty">Vide</string>
+
+</resources>

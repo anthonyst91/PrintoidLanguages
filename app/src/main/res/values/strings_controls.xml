@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Customized control</string>
+
+    <string name="customize_controls_category_misc">Miscellaneous</string>
+
+    <string name="customize_controls_disclaimer_long_press">Long press on a custom action icon you\'ve already set to open this page again in order to change its behavior.</string>
+    <string name="customize_controls_disclaimer_commands">Select one of your commands to be executed directly from the dashboard. Configure your commands from the Commands menu.</string>
+    <string name="customize_controls_disclaimer_plugins">Select one of the available plugins to have a quick access to it from the dashboard.</string>
+
+    <string name="customize_controls_misc_empty">Empty</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_title">Индивидуальный контроль</string>
+
+    <string name="customize_controls_category_misc">Разнообразный</string>
+
+    <string name="customize_controls_disclaimer_long_press">Нажмите и удерживайте значок настраиваемого действия, который вы уже настроили, чтобы снова открыть эту страницу, чтобы изменить ее поведение..</string>
+    <string name="customize_controls_disclaimer_commands">Выберите одну из ваших команд для выполнения прямо на панели управления. Сконфигурируйте свои команды из меню "Команды".</string>
+    <string name="customize_controls_disclaimer_plugins">Выберите один из доступных плагинов, чтобы получить к нему быстрый доступ с панели управления..</string>
+
+    <string name="customize_controls_misc_empty">Пустой</string>
+
+</resources>

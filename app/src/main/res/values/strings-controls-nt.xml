@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="customize_controls_category_commands" translatable="false">@string/commands_panel_label</string>
+    <string name="customize_controls_category_plugins" translatable="false">@string/plugins_title</string>
+
+</resources>
