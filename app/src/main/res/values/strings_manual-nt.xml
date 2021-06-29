@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    
+
     <string name="manual_title_website" translatable="false">The official website</string>
     <string name="manual_body_website" translatable="false">Browse the official website of the Printoid application</string>
 
@@ -18,6 +18,9 @@
 
     <string name="manual_title_remote_access" translatable="false">Connection over the Internet</string>
     <string name="manual_body_remote_access" translatable="false">How to connect to your OctoPrint server from \'outside\' of your local network</string>
+
+    <string name="manual_title_octoeverywhere" translatable="false">Connection with OctoEverywhere</string>
+    <string name="manual_body_octoeverywhere" translatable="false">How to connect to your OctoPrint server with OctoEverywhere, for an easy and secured distant connection</string>
 
     <string name="manual_title_all_features" translatable="false">Discover all the features</string>
     <string name="manual_body_all_features" translatable="false">Learn more about all the features embedded in the app</string>
@@ -121,6 +124,7 @@
     <string name="manual_link_installation" translatable="false">https://printoid.net/how-does-it-work/</string>
     <string name="manual_link_connection" translatable="false">https://printoid.net/connecting-octoprint-with-printoid/</string>
     <string name="manual_link_remote_access" translatable="false">https://printoid.net/access-octoprint-from-the-internet/</string>
+    <string name="manual_link_octoeverywhere" translatable="false">https://printoid.net/configure-octoeverywhere/</string>
 
     <string name="manual_link_all_features" translatable="false">https://printoid.net/features/</string>
     <string name="manual_link_dashboard" translatable="false">https://printoid.net/features-description/</string>
