@@ -105,8 +105,8 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s sent</string>
 
-    <string name="alert_choose_dashboard_mode_title">Choose your dashboard mode</string>
-    <string name="alert_choose_dashboard_mode_message">Choose how you want Printoid to display your dashboard (this can be changed from the app\'s settings later)</string>
+    <string name="alert_choose_dashboard_mode_title">Dashboard layout</string>
+    <string name="alert_choose_dashboard_mode_message">\nSelect your preferred dashboard layout.\n\n• GRID: Everything is displayed in the same page\n\n• TABS: Navigate between pages with a navigation bar\n\nYou can switch to another dashboard layout at any time.</string>
 
     <string name="alert_octoprint_credentials_issue_missing">OctoPrint credentials missing for this profile: some features may not work properly</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint credentials not valid for this profile: some features may not work properly</string>

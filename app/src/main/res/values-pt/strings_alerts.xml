@@ -113,8 +113,8 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s enviei</string>
 
-    <string name="alert_choose_dashboard_mode_title">Escolha o seu modo de painel</string>
-    <string name="alert_choose_dashboard_mode_message">Escolha como você deseja que o Printoid exiba seu painel (isso pode ser alterado nas configurações do aplicativo posteriormente)</string>
+    <string name="alert_choose_dashboard_mode_title">Layout do painel</string>
+    <string name="alert_choose_dashboard_mode_message">\nSelecione o layout de painel de sua preferência.\n\n• GRADE: tudo é exibido na mesma página\n\n• ABAS: Navegue entre as páginas com uma barra de navegação\n\nVocê pode alternar para outro layout de painel a qualquer momento.</string>
 
     <string name="alert_octoprint_credentials_issue_missing">Faltam credenciais do OctoPrint para este perfil: alguns recursos podem não funcionar corretamente</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Credenciais do OctoPrint não válidas para este perfil: alguns recursos podem não funcionar corretamente</string>

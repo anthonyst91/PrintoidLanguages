@@ -104,8 +104,8 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s verzonden</string>
 
-    <string name="alert_choose_dashboard_mode_title">Kies uw dashboardmodus</string>
-    <string name="alert_choose_dashboard_mode_message">Kies hoe u wilt dat Printoid uw dashboard weergeeft (dit kan later worden gewijzigd via de instellingen van de app)</string>
+    <string name="alert_choose_dashboard_mode_title">Dashboard-indeling</string>
+    <string name="alert_choose_dashboard_mode_message">\nSelecteer de gewenste dashboardlay-out.\n\n• ROOSTER: Alles wordt op dezelfde pagina weergegeven\n\n• TABS: Navigeer tussen pagina\'s met een navigatiebalk\n\nU kunt op elk moment overschakelen naar een andere dashboardlay-out.</string>
 
     <string name="alert_octoprint_credentials_issue_missing">OctoPrint-inloggegevens ontbreken voor dit profiel: sommige functies werken mogelijk niet correct</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint-inloggegevens zijn niet geldig voor dit profiel: sommige functies werken mogelijk niet correct</string>
