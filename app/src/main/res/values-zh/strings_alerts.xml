@@ -104,8 +104,8 @@
 
     <string name="alert_baby_stepping_sent">微量调整(BabyStep) %s 已发送</string>
 
-    <string name="alert_choose_dashboard_mode_title">选择仪表板模式</string>
-    <string name="alert_choose_dashboard_mode_message">选择您希望Printoid显示仪表板的方式（可以稍后在应用程序的设置中进行更改</string>
+    <string name="alert_choose_dashboard_mode_title">仪表盘布局</string>
+    <string name="alert_choose_dashboard_mode_message">\n选择您喜欢的仪表板布局。\n\n• 格：所有内容都显示在同一页面中\n\n• 标签：使用导航栏在页面之间导航\n\n您可以随时切换到另一个仪表板布局。</string>
 
     <string name="alert_octoprint_credentials_issue_missing">此配置文件缺少OctoPrint凭据：某些功能可能无法正常使用</string>
     <string name="alert_octoprint_credentials_issue_forbidden">OctoPrint凭证对此配置文件无效：某些功能可能无法正常使用</string>

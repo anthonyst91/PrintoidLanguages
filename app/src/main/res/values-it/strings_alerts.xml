@@ -105,8 +105,8 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s inviato</string>
 
-    <string name="alert_choose_dashboard_mode_title">Scegli la modalità dashboard</string>
-    <string name="alert_choose_dashboard_mode_message">Scegli come desideri che Printoid visualizzi la dashboard (questa può essere modificata in seguito dalle impostazioni dell\'app)</string>
+    <string name="alert_choose_dashboard_mode_title">Layout del cruscotto</string>
+    <string name="alert_choose_dashboard_mode_message">\nSeleziona il tuo layout di dashboard preferito.\n\n• GRIGLIA: tutto viene visualizzato nella stessa pagina\n\n• SCHEDE: naviga tra le pagine con una barra di navigazione\n\nPuoi passare a un altro layout di dashboard in qualsiasi momento.</string>
 
     <string name="alert_octoprint_credentials_issue_missing">Mancano le credenziali di OctoPrint per questo profilo: alcune funzionalità potrebbero non funzionare correttamente</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Credenziali OctoPrint non valide per questo profilo: alcune funzionalità potrebbero non funzionare correttamente</string>

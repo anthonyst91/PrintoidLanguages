@@ -105,8 +105,8 @@
 
     <string name="alert_baby_stepping_sent">Baby Stepping %s envoyé</string>
 
-    <string name="alert_choose_dashboard_mode_title">Choisissez votre mode de tableau de bord</string>
-    <string name="alert_choose_dashboard_mode_message">Choisissez la façon dont vous souhaitez que Printoid affiche votre tableau de bord (vous pourrez le modifier ultérieurement dans les paramètres de l\'application).</string>
+    <string name="alert_choose_dashboard_mode_title">Disposition du dashboard</string>
+    <string name="alert_choose_dashboard_mode_message">\nSélectionnez la disposition du dashboard que vous préférez.\n\n• GRILLE: Tout est affiché dans la même page\n\n• ONGLETS: Naviguez entre les pages via une barre de navigation\n\nVous pouvez passer à une autre disposition à tout moment.</string>
 
     <string name="alert_octoprint_credentials_issue_missing">Identifiants OctoPrint manquants pour ce profil: certaines fonctionnalités peuvent ne pas fonctionner correctement</string>
     <string name="alert_octoprint_credentials_issue_forbidden">Identifiants OctoPrint non valides pour ce profil: certaines fonctionnalités peuvent ne pas fonctionner correctement</string>
