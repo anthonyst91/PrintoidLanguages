@@ -12,6 +12,9 @@
     <string name="push_alert_event_tool_cool">Головка принтера остыла (ниже %s°C)</string>
     <string name="push_alert_event_palette">Произошла ошибка в Palette2, печать приостановлена: %s</string>
     <string name="push_alert_event_layer">Слой изменен: %s</string>
+    <string name="push_alert_event_tool_warm">Printer head warmed (%s°C)</string>
+    <string name="push_alert_event_soc_temp_exceeded">SoC temperature exceeded (above %s°C)</string>
+    <string name="push_alert_event_thermal_runaway">Possible thermal runaway detected!</string>
 
     <string name="push_alert_not_supported">Оповещение: %s</string>
     <string name="push_alert_not_supported_value">Оповещение: %1$s (%2$s)</string>

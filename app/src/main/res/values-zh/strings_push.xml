@@ -12,6 +12,9 @@
     <string name="push_alert_event_tool_cool">打印机头冷却 (下面%s°C)</string>
     <string name="push_alert_event_palette">Palette2发生错误，打印已暂停：%s</string>
     <string name="push_alert_event_layer">图层已更改：%s</string>
+    <string name="push_alert_event_tool_warm">Printer head warmed (%s°C)</string>
+    <string name="push_alert_event_soc_temp_exceeded">SoC temperature exceeded (above %s°C)</string>
+    <string name="push_alert_event_thermal_runaway">Possible thermal runaway detected!</string>
 
     <string name="push_alert_not_supported">提醒：%s</string>
     <string name="push_alert_not_supported_value">提醒：%1$s（%2$s)</string>
