@@ -25,5 +25,6 @@
     <string name="notif_channel_name_push_user_pause" translatable="false">Printoid Plugin: paused for user action</string>
     <string name="notif_channel_name_push_palette2" translatable="false">Printoid Plugin: Palette2 events</string>
     <string name="notif_channel_name_push_layer_change" translatable="false">Printoid Plugin: layer changed</string>
+    <string name="notif_channel_name_push_emergency" translatable="false">Printoid Plugin: emergencies</string>
 
 </resources>

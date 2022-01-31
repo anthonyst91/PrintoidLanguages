@@ -12,6 +12,9 @@
     <string name="push_alert_event_tool_cool">Extrudeur refroidi (sous %s°C)</string>
     <string name="push_alert_event_palette">Erreur Palette2, impression interrompue : %s</string>
     <string name="push_alert_event_layer">Nouvelle couche : %s</string>
+    <string name="push_alert_event_tool_warm">Extrudeur à température (%s°C)</string>
+    <string name="push_alert_event_soc_temp_exceeded">Température SoC dépassée (au dessus de %s°C)</string>
+    <string name="push_alert_event_thermal_runaway">Possible emballement thermique détecté !</string>
 
     <string name="push_alert_not_supported">Alerte : %s</string>
     <string name="push_alert_not_supported_value">Alerte : %1$s (%2$s)</string>

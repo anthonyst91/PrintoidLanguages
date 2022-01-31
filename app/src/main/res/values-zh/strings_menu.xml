@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">合作伙伴</string>
     <string name="menu_title_configuration">应用程式设定</string>
-    <string name="menu_title_servers">OctoPrint服务器</string>
+    <string name="menu_title_servers">我的 OctoPrint 服务器</string>
     <string name="menu_title_help">帮助与支持</string>
+    <string name="menu_title_features">特征</string>
+    <string name="menu_title_current_server">当前服务器</string>
 
     <string name="menu_account">Printoid帐号</string>
     <string name="menu_connect_server">连接到OctoPrint</string>
@@ -20,7 +22,7 @@
     <string name="menu_full_screen_slicer">全屏切片操作</string>
     <string name="menu_full_screen_more_tools">全屏打印头操作</string>
     <string name="menu_minimize">最小化视图</string>
-    <string name="menu_printer_profiles_settings">OctoPrint服务器</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">应用参数</string>
     <string name="menu_profile_settings">当前服务器的设置</string>
     <string name="menu_alarms">提醒管理器</string>

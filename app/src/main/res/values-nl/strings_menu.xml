@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">Vennoot</string>
     <string name="menu_title_configuration">App-configuratie</string>
-    <string name="menu_title_servers">Servers OctoPrint</string>
+    <string name="menu_title_servers">Mijn OctoPrint-servers</string>
     <string name="menu_title_help">Hulp &amp; ondersteuning</string>
+    <string name="menu_title_features">Functies</string>
+    <string name="menu_title_current_server">Huidige server</string>
 
     <string name="menu_account">Printoid-account</string>
     <string name="menu_connect_server">Koppel OctoPrint</string>
@@ -13,7 +15,7 @@
     <string name="menu_connecting_printer">Printer verbinden</string>
     <string name="menu_video_streaming">Video streaming</string>
     <string name="menu_commands">Aangepaste opdrachten</string>
-    <string name="menu_printer_profiles_settings">Servers OctoPrint</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Parameters</string>
     <string name="menu_app_infos">Hulp</string>
     <string name="menu_octoprint_web">Web-interface OctoPrint</string>

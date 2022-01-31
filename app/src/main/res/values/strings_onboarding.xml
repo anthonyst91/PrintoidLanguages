@@ -25,7 +25,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint API key</string>
     <string name="onboarding_api_key_message">Printoid needs the OctoPrint API key to connect to your server.\n
-        The API key can be found in the settings of your OctoPrint web interface, in the menu \'API\'. The \'Enable\' checkbox has to be checked.</string>
+        The API key can be found in the settings of your OctoPrint web interface, in the menu \'Application Keys\'. Register a new application key for your Printoid app.</string>
     <string name="onboarding_api_key_error">Please provide your OctoPrint API key</string>
 
     <string name="onboarding_baudrate_title">Printer\'s baudrate</string>

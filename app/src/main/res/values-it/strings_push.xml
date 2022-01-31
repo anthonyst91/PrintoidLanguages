@@ -12,6 +12,9 @@
     <string name="push_alert_event_tool_cool">Testina di stampa raffreddata (sotto %s°C)</string>
     <string name="push_alert_event_palette">Si è verificato un errore su Palette2, stampa in pausa: %s</string>
     <string name="push_alert_event_layer">Strato modificato: %s</string>
+    <string name="push_alert_event_tool_warm">Printer head warmed (%s°C)</string>
+    <string name="push_alert_event_soc_temp_exceeded">SoC temperature exceeded (above %s°C)</string>
+    <string name="push_alert_event_thermal_runaway">Possible thermal runaway detected!</string>
 
     <string name="push_alert_not_supported">Avviso: %s</string>
     <string name="push_alert_not_supported_value">Avviso: %1$s (%2$s)</string>

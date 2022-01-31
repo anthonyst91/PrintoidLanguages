@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">Partners</string>
     <string name="menu_title_configuration">Configurazione dell\'app</string>
-    <string name="menu_title_servers">OctoPrint servers</string>
+    <string name="menu_title_servers">I miei server OctoPrint</string>
     <string name="menu_title_help">Aiuto &amp; supporto</string>
+    <string name="menu_title_features">Caratteristiche</string>
+    <string name="menu_title_current_server">Server correnti</string>
 
     <string name="menu_account">Conto Printoid</string>
     <string name="menu_connect_server">Connetti OctoPrint</string>
@@ -20,7 +22,7 @@
     <string name="menu_full_screen_slicer">Espandi slicer</string>
     <string name="menu_full_screen_more_tools">Espandi attrezzi</string>
     <string name="menu_minimize">Riduci visualizzazione</string>
-    <string name="menu_printer_profiles_settings">OctoPrint servers</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Impostazioni App</string>
     <string name="menu_alarms">Menu Avvisi</string>
     <string name="menu_plugins">OctoPrint plugins</string>

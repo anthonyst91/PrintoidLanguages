@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">Fogonadura</string>
     <string name="menu_title_configuration">Configuración de la apli</string>
-    <string name="menu_title_servers">Servidores OctoPrint</string>
+    <string name="menu_title_servers">Mis servidores OctoPrint</string>
     <string name="menu_title_help">Ayuda &amp; apoyo</string>
+    <string name="menu_title_features">Características</string>
+    <string name="menu_title_current_server">Servidor actual</string>
 
     <string name="menu_account">Cuenta Printoid</string>
     <string name="menu_connect_server">Conectar OctoPrint</string>
@@ -20,7 +22,7 @@
     <string name="menu_full_screen_slicer">Expandir slicer</string>
     <string name="menu_full_screen_more_tools">Expandir herramientas</string>
     <string name="menu_minimize">Minimizar</string>
-    <string name="menu_printer_profiles_settings">Servidores Octoprint</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Configuración de la apli</string>
     <string name="menu_app_infos">Ayuda</string>
     <string name="menu_octoprint_web">Interfaz-Web Octoprint</string>

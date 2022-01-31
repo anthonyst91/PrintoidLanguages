@@ -24,7 +24,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint-API-Schlüssel</string>
     <string name="onboarding_api_key_message">Printoid benötigt den OctoPrint-API-Schlüssel, um eine Verbindung zu Ihrem Server herzustellen.\n
-        Den API-Schlüssel finden Sie in den Einstellungen Ihrer OctoPrint-Weboberfläche im Menü \'API\'. Das Kontrollkästchen "Aktivieren" muss aktiviert sein.</string>
+        Den API-Schlüssel finden Sie in den Einstellungen Ihrer OctoPrint-Weboberfläche im Menü \'Anwendungsschlüssel\'. Registrieren Sie einen neuen Anwendungsschlüssel für Ihre Printoid-App.</string>
     <string name="onboarding_api_key_error">Bitte geben Sie Ihren OctoPrint-API-Schlüssel an</string>
 
     <string name="onboarding_baudrate_title">Baudrate des Druckers</string>

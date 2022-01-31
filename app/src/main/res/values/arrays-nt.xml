@@ -122,4 +122,11 @@
         <item>10</item>
     </string-array>
 
+    <string-array name="printoid_plugin_sounds" translatable="false">
+        <item>default</item>
+        <item>sound-1.mp3</item>
+        <item>sound-2.mp3</item>
+        <item>sound-3.mp3</item>
+    </string-array>
+
 </resources>

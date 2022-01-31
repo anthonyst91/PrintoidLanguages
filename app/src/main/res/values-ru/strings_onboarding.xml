@@ -24,7 +24,7 @@
 
     <string name="onboarding_api_key_title">Ключ API OctoPrint</string>
     <string name="onboarding_api_key_message">Для подключения к вашему серверу Printoid требуется ключ API OctoPrint.\n
-        Ключ API можно найти в настройках веб-интерфейса OctoPrint, в меню «API». Флажок «Включить» должен быть отмечен.</string>
+        Ключ API можно найти в настройках вашего веб-интерфейса OctoPrint, в меню «Ключи приложений». Зарегистрируйте новый ключ приложения для вашего приложения Printoid.</string>
     <string name="onboarding_api_key_error">Пожалуйста, предоставьте свой ключ API OctoPrint</string>
 
     <string name="onboarding_baudrate_title">Скорость печати принтера</string>
