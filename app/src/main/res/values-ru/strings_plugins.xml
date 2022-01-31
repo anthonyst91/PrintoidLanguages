@@ -112,6 +112,27 @@
     <string name="plugin_printoid_bed_duration">минут</string>
     <string name="plugin_printoid_bed_duration_success">Время прогрева кровати с подогревом установлено на %d минут</string>
     <string name="plugin_printoid_bed_duration_failure">Не удалось установить продолжительность прогрева кровати с подогревом</string>
+    <string name="plugin_printoid_thermal_protection_title">Thermal protection notifications</string>
+    <string name="plugin_printoid_thermal_protection_info">When current print job was paused waiting for user, OctoPrint will send notification. Useful when running out of filament or need to change color of filament (M600). The following setting controls the frequency notifications will be sent. A low number might end up spamming user. A value of 0 will disable this type of notifications</string>
+    <string name="plugin_printoid_thermal_protection_max_temp_diff">Max Temperature difference (°C)</string>
+    <string name="plugin_printoid_thermal_protection_bed_should_inc_temp">Bed should increase temp in (sec)</string>
+    <string name="plugin_printoid_thermal_protection_hotend_should_inc_temp">Hotend should increase temp in (sec)</string>
+    <string name="plugin_printoid_thermal_protection_chamber_should_inc_temp">Chamber should increase temp in (sec)</string>
+    <string name="plugin_printoid_thermal_protection_delay_between_notif">Delay between notifications (min)</string>
+    <string name="plugin_printoid_thermal_protection_success">Thermal protection parameters changed</string>
+    <string name="plugin_printoid_thermal_protection_failure">Failed to set thermal protection parameters</string>
+    <string name="plugin_printoid_printer_paused_title">Printer paused notifications</string>
+    <string name="plugin_printoid_printer_paused_message">When current print job was paused waiting for user, OctoPrint will send notification. Useful when running out of filament or need to change color of filament (M600). The following setting controls the frequency notifications will be sent. A low number might end up spamming user. A value of 0 will disable this type of notifications</string>
+    <string name="plugin_printoid_printer_paused_success">Printer paused notification delay set to %d minutes</string>
+    <string name="plugin_printoid_printer_paused_failure">Failed to set printer paused notification delay</string>
+    <string name="plugin_printoid_soc_temperature_title">System On a Chip (SoC) Notifications</string>
+    <string name="plugin_printoid_soc_temperature_message">When SoC temperature goes above threshold, OctoPrint will send notification. New single-board computers like RPi 4 tend to run hot. A value of 0 will disable the notifications below.</string>
+    <string name="plugin_printoid_soc_temperature_success">SoC temperature threshold set to %d°C</string>
+    <string name="plugin_printoid_soc_temperature_failure">Failed to set SoC temperature threshold</string>
+    <string name="plugin_printoid_soc_temperature">Temperature (°C)</string>
+    <string name="plugin_printoid_notification_sound">Notifications sound</string>
+    <string name="plugin_printoid_notification_sound_success">Notifications sound set to %s</string>
+    <string name="plugin_printoid_notification_sound_failure">Failed to set notifications sound</string>
 
     <!-- TOP TEMP PLUGIN -->
     <string name="plugin_toptemp_fan_speed">Текущая скорость вентилятора</string>
