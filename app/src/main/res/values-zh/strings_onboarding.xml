@@ -25,7 +25,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint API密钥</string>
     <string name="onboarding_api_key_message">Printoid需要您的API密钥才能连接到您的OctoPrint服务.\n
-        可以在您的OctoPrint网页界面中找到, 位置在API菜单项中. \'启用\' 勾选框必须被勾选.</string>
+        API 密钥可以在 OctoPrint 网络界面的设置中，在菜单“应用程序密钥”中找到。 为您的 Printoid 应用程序注册一个新的应用程序密钥。</string>
     <string name="onboarding_api_key_error">请提供您的OctoPrint API密钥</string>
 
     <string name="onboarding_baudrate_title">打印机波特率</string>

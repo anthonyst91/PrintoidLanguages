@@ -24,7 +24,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint API-sleutel</string>
     <string name="onboarding_api_key_message">Printoid heeft de OctoPrint API-sleutel nodig om verbinding te maken met uw server.\n
-        De API-sleutel is te vinden in de instellingen van uw OctoPrint webinterface, in het menu \'API\'. Het selectievakje \'Inschakelen\' moet worden aangevinkt.</string>
+        De API key vind je in de instellingen van je OctoPrint webinterface, in het menu \'Application Keys\'. Registreer een nieuwe applicatiesleutel voor uw Printoid-app..</string>
     <string name="onboarding_api_key_error">Geef uw OctoPrint API-sleutel op</string>
 
     <string name="onboarding_baudrate_title">Printer baudrate</string>

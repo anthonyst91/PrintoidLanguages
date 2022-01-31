@@ -25,7 +25,7 @@
 
     <string name="onboarding_api_key_title">Clé d\'API OctoPrint</string>
     <string name="onboarding_api_key_message">Printoid a besoin de la clé d\'API de votre serveur OctoPrint pour le contacter.\n
-        La clé d\'API se trouve dans les paramètres d\'OctoPrint, dans le menu \'API\'. La checkbox \'Enable\' doit être cochée.</string>
+        La clé API se trouve dans les paramètres de votre interface Web OctoPrint, dans le menu \'Application Keys\'. Enregistrez une nouvelle clé d\'application pour votre application Printoid.</string>
     <string name="onboarding_api_key_error">Fournissez la clé d\'API de votre OctoPrint</string>
 
     <string name="onboarding_baudrate_title">Baudrate de l\'imprimante</string>

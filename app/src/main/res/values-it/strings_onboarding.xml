@@ -25,7 +25,7 @@
 
     <string name="onboarding_api_key_title">OctoPrint Chiave API</string>
     <string name="onboarding_api_key_message">Printoid ha bisogno della chiave API OctoPrint per connettersi al tuo server.\n
-        La chiave API può essere trovata nelle impostazioni dell\'interfaccia web di OctoPrint, nel menu \'API\'. La casella deve essere \'Abilitata\'.</string>
+        La chiave API si trova nelle impostazioni dell\'interfaccia web di OctoPrint, nel menu \'Chiavi dell\'applicazione\'. Registra una nuova chiave dell\'applicazione per la tua app Printoid.</string>
     <string name="onboarding_api_key_error">Si prega di fornire la chiave API OctoPrint</string>
 
     <string name="onboarding_baudrate_title">Baudrate Stampante</string>
