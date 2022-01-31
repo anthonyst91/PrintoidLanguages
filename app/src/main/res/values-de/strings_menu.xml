@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">Partner</string>
     <string name="menu_title_configuration">App-Konfiguration</string>
-    <string name="menu_title_servers">Server</string>
+    <string name="menu_title_servers">Meine OctoPrint-Server</string>
     <string name="menu_title_help">Hilfe &amp; Unterstützung</string>
+    <string name="menu_title_features">Merkmale</string>
+    <string name="menu_title_current_server">Aktueller Server</string>
 
     <string name="menu_account">Printoid-Konto</string>
     <string name="menu_connect_server">OctoPrint verbinden</string>
@@ -20,7 +22,7 @@
     <string name="menu_full_screen_slicer">Slicer maximieren</string>
     <string name="menu_full_screen_more_tools">Extruder maximieren</string>
     <string name="menu_minimize">Minimieren</string>
-    <string name="menu_printer_profiles_settings">OctoPrint Server</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Parameter der Anwendung</string>
     <string name="menu_app_infos">Hilfe</string>
     <string name="menu_octoprint_web">OctoPrint Webansicht</string>

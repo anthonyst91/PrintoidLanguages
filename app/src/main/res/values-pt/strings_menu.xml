@@ -3,8 +3,10 @@
 
     <string name="menu_title_partners">Parceiros</string>
     <string name="menu_title_configuration">configuração do apli</string>
-    <string name="menu_title_servers">Servidores OctoPrint</string>
+    <string name="menu_title_servers">Meus servidores OctoPrint</string>
     <string name="menu_title_help">Ajuda &amp; suporte</string>
+    <string name="menu_title_features">Recursos</string>
+    <string name="menu_title_current_server">Servidor atual</string>
 
     <string name="menu_account">Printoid conta</string>
     <string name="menu_connect_server">Conectar o OctoPrint</string>
@@ -20,7 +22,7 @@
     <string name="menu_full_screen_slicer">Expandir fatiador</string>
     <string name="menu_full_screen_more_tools">Expandir ferramentas</string>
     <string name="menu_minimize">Minimizar visualização</string>
-    <string name="menu_printer_profiles_settings">Servidores OctoPrint</string>
+    <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Configurações do app</string>
     <string name="menu_alarms">Gerenciador de alertas</string>
     <string name="menu_plugins">Plugins do OctoPrint</string>
