@@ -43,6 +43,7 @@
     <string name="tutorial_multi_profiles_message">Controle e gerencie quantos servidores OctoPrint e impressoras 3D você quiser!</string>
     <string name="tutorial_multi_profiles_message_2">Suporta configuração de LAN e WAN, autenticação básica, SSL / TLS (HTTPS), certificado TLS, SSH…</string>
     <string name="tutorial_multi_profiles_message_3">Suporta o plugin OctoEverywhere para uma conexão segura ao seu servidor de qualquer lugar do mundo!</string>
+    <string name="tutorial_multi_profiles_message_4">Supports The Spaghetti Detective - Access Anywhere plugin for a safe connection to your server from everywhere in the world!</string>
     <string name="tutorial_multi_profiles_button_1">Como conectar?</string>
     <string name="tutorial_multi_profiles_button_2">Conecte-se de fora (3G/4G/5G…)</string>
     <string name="tutorial_multi_profiles_button_3">Ajustando as configurações</string>
