@@ -68,4 +68,12 @@
     <string name="onboarding_public_octoeverywhere_warning" translatable="false">14-days free trial if you create your account from Printoid.\nOctoEverywhere is not powered by the developer of Printoid. All credits go to Quinn Damerell.</string>
     <string name="onboarding_public_octoeverywhere_connected" translatable="false">Connected with OctoEverywhere!</string>
 
+    <string name="onboarding_public_choice_message_tsd" translatable="false">The Spaghetti Detective</string>
+    <string name="onboarding_public_choice_message_tsd_details">May require a paid subscription</string>
+    <string name="onboarding_public_tsd_pricing" translatable="false">@string/onboarding_public_octoeverywhere_pricing</string>
+    <string name="onboarding_public_tsd_warning" translatable="false">30-days free trial if you create your account now.\nThe Spaghetti Detective is not powered by the developer of Printoid. All credits go to Kenneth Jiang, Neil Hailey and the contributors of the project.</string>
+    <string name="onboarding_public_tsd_error_title" translatable="false">@string/onboarding_public_octoeverywhere_error_title</string>
+    <string name="onboarding_public_tsd_error_message">The connection with The Spaghetti Detective can\'t be established for the moment. Please retry later.</string>
+    <string name="onboarding_public_tsd_connected" translatable="false">Connected with The Spaghetti Detective !</string>
+
 </resources>

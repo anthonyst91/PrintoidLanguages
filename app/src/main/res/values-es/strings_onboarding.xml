@@ -65,4 +65,7 @@
     <string name="onboarding_public_octoeverywhere_error_title">Algo salió mal…</string>
     <string name="onboarding_public_octoeverywhere_error_message">La conexión con OctoEverywhere no se puede establecer por el momento. Vuelve a intentarlo más tarde.</string>
 
+    <string name="onboarding_public_choice_message_tsd_details">May require a paid subscription</string>
+    <string name="onboarding_public_tsd_error_message">The connection with The Spaghetti Detective can\'t be established for the moment. Please retry later.</string>
+
 </resources>
