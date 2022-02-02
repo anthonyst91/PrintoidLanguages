@@ -46,6 +46,7 @@
     <string name="cost">Cost:</string>
     <string name="filament_total_label">Total filament:</string>
     <string name="filament_tool_nb_label">Filament tool %d:</string>
+    <string name="current_z_label">Current Z:</string>
 
     <string name="size_label">Size:</string>
     <string name="time_label">Time:</string>

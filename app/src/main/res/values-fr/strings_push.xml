@@ -1,5 +1,22 @@
 <resources>
 
+    <string name="push_alert_title_event_test">Notification test pour %s</string>
+    <string name="push_alert_title_event_print_complete">Impression terminée pour %s</string>
+    <string name="push_alert_title_event_print_progress">Progression pour %s</string>
+    <string name="push_alert_title_event_printer_state">Etat changé pour %s</string>
+    <string name="push_alert_title_event_printer_error">Imprimante en erreur pour %s</string>
+    <string name="push_alert_title_event_bed_cool">Lit chauffant refroidit pour %s</string>
+    <string name="push_alert_title_event_bed_warm">Lit chauffant à température pour %s</string>
+    <string name="push_alert_title_event_mmu">Notification MMU pour %s</string>
+    <string name="push_alert_title_event_paused">Imprimante en pause pour %s</string>
+    <string name="push_alert_title_event_tool_cool">Extrudeur refroidit pour %s</string>
+    <string name="push_alert_title_event_palette">Erreur Palette2 pour %s</string>
+    <string name="push_alert_title_event_layer">Notification de couche pour %s</string>
+    <string name="push_alert_title_event_tool_warm">Extrudeur à température pour %s</string>
+    <string name="push_alert_title_event_soc_temp_exceeded">Alerte de température pour %s</string>
+    <string name="push_alert_title_event_thermal_runaway">Alerte de température pour %s</string>
+    <string name="push_alert_title_not_supported">Nouvelle notification pour %s</string>
+
     <string name="push_alert_event_test">Plugin Printoid: OPÉRATIONNEL!</string>
     <string name="push_alert_event_print_complete">Impression terminée!</string>
     <string name="push_alert_event_print_progress">Progression de l\'impression: %s%%</string>
