@@ -18,6 +18,7 @@
 
     <string name="notif_channel_dev_messages_notifs" translatable="false">Push messages from developer</string>
     <string name="notif_channel_name_push_notifs" translatable="false">Printoid Plugin: default notifications</string>
+    <string name="notif_channel_name_push_gcode_commands" translatable="false">Printoid Plugin: GCODE commands events</string>
     <string name="notif_channel_name_push_printer_state" translatable="false">Printoid Plugin: printer state</string>
     <string name="notif_channel_name_push_print_job" translatable="false">Printoid Plugin: print job events</string>
     <string name="notif_channel_name_push_temperatures" translatable="false">Printoid Plugin: temperature alerts</string>
@@ -26,5 +27,6 @@
     <string name="notif_channel_name_push_palette2" translatable="false">Printoid Plugin: Palette2 events</string>
     <string name="notif_channel_name_push_layer_change" translatable="false">Printoid Plugin: layer changed</string>
     <string name="notif_channel_name_push_emergency" translatable="false">Printoid Plugin: emergencies</string>
+    <string name="notif_channel_name_push_print_completed" translatable="false">Printoid Plugin: print completed</string>
 
 </resources>

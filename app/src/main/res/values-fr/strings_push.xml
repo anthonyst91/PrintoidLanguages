@@ -16,6 +16,7 @@
     <string name="push_alert_title_event_soc_temp_exceeded">Alerte de température pour %s</string>
     <string name="push_alert_title_event_thermal_runaway">Alerte de température pour %s</string>
     <string name="push_alert_title_not_supported">Nouvelle notification pour %s</string>
+    <string name="push_alert_title_event_gcode_command">Commande GCODE envoyée pour %s</string>
 
     <string name="push_alert_event_test">Plugin Printoid: OPÉRATIONNEL!</string>
     <string name="push_alert_event_print_complete">Impression terminée!</string>
@@ -32,6 +33,7 @@
     <string name="push_alert_event_tool_warm">Extrudeur à température (%s°C)</string>
     <string name="push_alert_event_soc_temp_exceeded">Température SoC dépassée (au dessus de %s°C)</string>
     <string name="push_alert_event_thermal_runaway">Possible emballement thermique détecté !</string>
+    <string name="push_alert_event_gcode_command">La commande GCODE %s a été envoyée à votre iimprimante 3D !</string>
 
     <string name="push_alert_not_supported">Alerte : %s</string>
     <string name="push_alert_not_supported_value">Alerte : %1$s (%2$s)</string>

@@ -16,6 +16,7 @@
     <string name="push_alert_title_event_soc_temp_exceeded">SoC temperature alert for %s</string>
     <string name="push_alert_title_event_thermal_runaway">Thermal runaway alert for %s</string>
     <string name="push_alert_title_not_supported">New notification for %s</string>
+    <string name="push_alert_title_event_gcode_command">GCODE command sent for %s</string>
 
     <string name="push_alert_event_test">Plugin stampabile: OPERATIVO!</string>
     <string name="push_alert_event_print_complete">Stampa completata!</string>
@@ -32,6 +33,7 @@
     <string name="push_alert_event_tool_warm">Printer head warmed (%s°C)</string>
     <string name="push_alert_event_soc_temp_exceeded">SoC temperature exceeded (above %s°C)</string>
     <string name="push_alert_event_thermal_runaway">Possible thermal runaway detected!</string>
+    <string name="push_alert_event_gcode_command">The GCODE command %s has been sent to your 3D printer!</string>
 
     <string name="push_alert_not_supported">Avviso: %s</string>
     <string name="push_alert_not_supported_value">Avviso: %1$s (%2$s)</string>
