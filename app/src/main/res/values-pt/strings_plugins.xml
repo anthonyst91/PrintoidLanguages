@@ -143,6 +143,15 @@
     <string name="plugin_printoid_notification_sound">Notifications sound</string>
     <string name="plugin_printoid_notification_sound_success">Notifications sound set to %s</string>
     <string name="plugin_printoid_notification_sound_failure">Failed to set notifications sound</string>
+    <string name="plugin_printoid_gcode">GCODE command</string>
+    <string name="plugin_printoid_gcode_in_memory">GCODE commands in memory:</string>
+    <string name="plugin_printoid_gcode_title">Notifications on GCODE commands sent</string>
+    <string name="plugin_printoid_gcode_info">Select the GCODE commands you want to be notified for when it is sent to your 3D printer</string>
+    <string name="plugin_printoid_get_gcode_failure">Failed to get the list of GCODE commands to be notified for</string>
+    <string name="plugin_printoid_add_gcode_success">GCODE commands added successfully, you will receive a notification when sent to your printer!</string>
+    <string name="plugin_printoid_add_gcode_failure">Failed to add GCODE commands to the list of notifications</string>
+    <string name="plugin_printoid_remove_gcode_success">GCODE commands removed successfully, you will stop receiving notification for this one!</string>
+    <string name="plugin_printoid_remove_gcode_failure">Failed to remove GCODE commands from the list of notifications</string>
 
     <!-- TOP TEMP PLUGIN -->
     <string name="plugin_toptemp_fan_speed">Velocidade do ventilador</string>

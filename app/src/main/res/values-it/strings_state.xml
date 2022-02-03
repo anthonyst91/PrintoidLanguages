@@ -46,6 +46,7 @@
     <string name="cost">Costo:</string>
     <string name="filament_total_label">Filamento totale:</string>
     <string name="filament_tool_nb_label">Filamento estrusore %d:</string>
+    <string name="current_z_label">Current Z:</string>
 
     <string name="size_label">Taglia:</string>
     <string name="time_label">Tempo:</string>

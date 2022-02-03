@@ -66,5 +66,8 @@
     <string name="onboarding_public_octoeverywhere_error_title">Algo deu errado…</string>
     <string name="onboarding_public_octoeverywhere_error_message">A conexão com OctoEverywhere não pode ser estabelecida no momento. Por favor tente mais tarde.</string>
 
+    <string name="onboarding_public_choice_message_tsd_details">May require a paid subscription</string>
+    <string name="onboarding_public_tsd_error_message">The connection with The Spaghetti Detective can\'t be established for the moment. Please retry later.</string>
+
 
 </resources>

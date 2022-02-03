@@ -46,6 +46,7 @@
     <string name="remaining_time_label">Endet in</string>
     <string name="filament_total_label">Gesamtfaden:</string>
     <string name="filament_tool_nb_label">Filament extruder %d:</string>
+    <string name="current_z_label">Current Z:</string>
 
     <string name="size_label">Größe:</string>
     <string name="time_label">Zeit:</string>

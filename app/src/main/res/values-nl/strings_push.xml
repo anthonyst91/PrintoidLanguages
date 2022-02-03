@@ -1,5 +1,23 @@
 <resources>
 
+    <string name="push_alert_title_event_test">Test notification for %s</string>
+    <string name="push_alert_title_event_print_complete">Print completed for %s</string>
+    <string name="push_alert_title_event_print_progress">Progress changed for %s</string>
+    <string name="push_alert_title_event_printer_state">Printer state changed for %s</string>
+    <string name="push_alert_title_event_printer_error">Printer error for %s</string>
+    <string name="push_alert_title_event_bed_cool">Bed cooled down for %s</string>
+    <string name="push_alert_title_event_bed_warm">Bed temperature reached for %s</string>
+    <string name="push_alert_title_event_mmu">MMU notification for %s</string>
+    <string name="push_alert_title_event_paused">Printer paused for %s</string>
+    <string name="push_alert_title_event_tool_cool">Head cooled down for %s</string>
+    <string name="push_alert_title_event_palette">Palette2 error for %s</string>
+    <string name="push_alert_title_event_layer">Layer changed for %s</string>
+    <string name="push_alert_title_event_tool_warm">Head temperature reached for %s</string>
+    <string name="push_alert_title_event_soc_temp_exceeded">SoC temperature alert for %s</string>
+    <string name="push_alert_title_event_thermal_runaway">Thermal runaway alert for %s</string>
+    <string name="push_alert_title_not_supported">New notification for %s</string>
+    <string name="push_alert_title_event_gcode_command">GCODE command sent for %s</string>
+
     <string name="push_alert_event_test">Printoid-plug-in: OPERATIONEEL!</string>
     <string name="push_alert_event_print_complete">Afdrukken voltooid!</string>
     <string name="push_alert_event_print_progress">Afdrukvoortgang: %s%%</string>
@@ -15,6 +33,7 @@
     <string name="push_alert_event_tool_warm">Printer head warmed (%s°C)</string>
     <string name="push_alert_event_soc_temp_exceeded">SoC temperature exceeded (above %s°C)</string>
     <string name="push_alert_event_thermal_runaway">Possible thermal runaway detected!</string>
+    <string name="push_alert_event_gcode_command">The GCODE command %s has been sent to your 3D printer!</string>
 
     <string name="push_alert_not_supported">Waarschuwing: %s</string>
     <string name="push_alert_not_supported_value">Melding: %1$s (%2$s)</string>

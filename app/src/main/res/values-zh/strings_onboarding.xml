@@ -66,5 +66,7 @@
     <string name="onboarding_public_octoeverywhere_error_title">出问题了… </string>
     <string name="onboarding_public_octoeverywhere_error_message">目前无法与OctoEverywhere建立连接。 请稍后重试</string>
 
+    <string name="onboarding_public_choice_message_tsd_details">May require a paid subscription</string>
+    <string name="onboarding_public_tsd_error_message">The connection with The Spaghetti Detective can\'t be established for the moment. Please retry later.</string>
 
 </resources>
