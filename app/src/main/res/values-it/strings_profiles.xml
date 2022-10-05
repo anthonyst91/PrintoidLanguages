@@ -125,7 +125,7 @@
 
     <string name="config_tsd">Connection with Obico</string>
     <string name="config_tsd_help">Connect your OctoPrint server to Obico in order to get a fast and secured connection to your 3D printer over the Internet (even when you are not at home) with no complex configuration at all!</string>
-    <string name="config_tsd_button_disconnect">Disconnect TSD</string>
+    <string name="config_tsd_button_disconnect">Disconnect Obico</string>
 
     <string name="config_wan_tip_tsd">Tip: use the Obico plugin for a secured access to your server from everywhere!</string>
 

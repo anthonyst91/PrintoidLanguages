@@ -75,4 +75,10 @@
     <string name="printing_completed_success_title">Printing ended</string>
     <string name="printing_completed_success_message">Printing ended with success!</string>
 
+    <string name="octoeverywhere_gadget_quality_score" translatable="false">Print quality: %s</string>
+    <string name="octoeverywhere_gadget_quality_score_neutral" translatable="false">neutral</string>
+    <string name="octoeverywhere_gadget_quality_score_bad" translatable="false">bad</string>
+    <string name="octoeverywhere_gadget_quality_score_poor" translatable="false">poor</string>
+    <string name="octoeverywhere_gadget_quality_score_good" translatable="false">good</string>
+
 </resources>
