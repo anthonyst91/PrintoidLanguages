@@ -10,7 +10,7 @@
     <string name="plugin_name_tasmota" translatable="false">Tasmota</string>
     <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
     <string name="plugin_name_octo_everywhere" translatable="false">OctoEverywhere</string>
-    <string name="plugin_name_tsd" translatable="false">The Spaghetti Detective - Access Anywhere</string>
+    <string name="plugin_name_tsd" translatable="false">Obico - Access Anywhere</string>
     <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
     <string name="plugin_name_toptemp" translatable="false">Top Temp (get fan speed)</string>
     <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
@@ -26,7 +26,7 @@
     <string name="plugin_author_tasmota" translatable="false">Jim Neill (@jneilliii)</string>
     <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
     <string name="plugin_author_octo_everywhere" translatable="false">Quinn Damerell (@quinndamerell)</string>
-    <string name="plugin_author_tsd" translatable="false">TSD Team</string>
+    <string name="plugin_author_tsd" translatable="false">Obico Team</string>
     <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
     <string name="plugin_author_toptemp" translatable="false">(@LazeMSS)</string>
     <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
@@ -42,7 +42,7 @@
     <string name="plugin_url_tasmota" translatable="false">https://github.com/jneilliii/OctoPrint-Tasmota</string>
     <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
     <string name="plugin_url_octo_everywhere" translatable="false">https://github.com/QuinnDamerell/OctoPrint-OctoEverywhere</string>
-    <string name="plugin_url_tsd" translatable="false">https://github.com/TheSpaghettiDetective/OctoPrint-TheSpaghettiDetective/</string>
+    <string name="plugin_url_tsd" translatable="false">https://github.com/TheSpaghettiDetective/OctoPrint-Obico</string>
     <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
     <string name="plugin_url_toptemp" translatable="false">https://github.com/LazeMSS/OctoPrint-TopTemp</string>
     <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
@@ -84,10 +84,10 @@
 
     <!-- TSD PLUGIN -->
     <string name="plugin_tsd_info" translatable="false">An OctoPrint plugin that gives you complete, free, and secure access to your OctoPrint instance (plugins, camera, remote control, and more) from everywhere!\n\n
-        The Spaghetti Detective - Access Anywhere allows you access to the full OctoPrint web portal on all of your devices and also with Printoid!\n\n
-        The Spaghetti Detective is 100% safe and secure. The system doesn\'t require any complicated setup - just install the plugin, create an account, and you\'re done!
+        Obico - Access Anywhere allows you access to the full OctoPrint web portal on all of your devices and also with Printoid!\n\n
+        Obico is 100% safe and secure. The system doesn\'t require any complicated setup - just install the plugin, create an account, and you\'re done!
     </string>
-    <string name="plugin_tsd_button_website" translatable="false">Thespaghettidetective.com</string>
+    <string name="plugin_tsd_button_website" translatable="false">obico.io</string>
     <string name="plugin_tsd_button_configure" translatable="false">Configure in Printoid</string>
 
 </resources>

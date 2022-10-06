@@ -42,6 +42,7 @@
     <string name="menu_manual">Manual &amp; tutorials</string>
     <string name="menu_system_commands">System commands</string>
     <string name="menu_help_dev">Support the developer</string>
+    <string name="menu_octoeverywhere_gadget" translatable="false">OctoEverywhere Gadget</string>
 
     <string name="menu_monitor">Monitor</string>
     <string name="menu_control">Control</string>

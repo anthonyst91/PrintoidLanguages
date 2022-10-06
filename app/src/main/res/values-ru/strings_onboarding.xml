@@ -67,6 +67,6 @@
     <string name="onboarding_public_octoeverywhere_error_message">Связь с OctoEverywhere пока не может быть установлена. Повторите попытку позже.</string>
 
     <string name="onboarding_public_choice_message_tsd_details">May require a paid subscription</string>
-    <string name="onboarding_public_tsd_error_message">The connection with The Spaghetti Detective can\'t be established for the moment. Please retry later.</string>
+    <string name="onboarding_public_tsd_error_message">The connection with Obico can\'t be established for the moment. Please retry later.</string>
 
 </resources>

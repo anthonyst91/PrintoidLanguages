@@ -96,7 +96,7 @@
     <!-- CODES 4XX - TSD errors -->
     <string name="https_tsd_over_free_tunneling_cap" translatable="false">Your Spaghetti Detective account came over free tunneling monthly cap</string>
     <string name="https_tsd_octoprint_not_connected" translatable="false">Your OctoPrint server is not connected to your Spaghetti Detective account</string>
-    <string name="https_tsd_timed_out" translatable="false">Connection over The Spaghetti Detective timed out</string>
+    <string name="https_tsd_timed_out" translatable="false">Connection over Obico timed out</string>
 
     <!-- CODES 6XX - OctoEverywhere errors -->
     <string name="http_octoeverywhere_error_server" translatable="false">OctoEverywhere went wrong, try again later</string>
