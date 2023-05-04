@@ -5,7 +5,7 @@
     <string name="tutorial_only_in_lite_version">Only in the LITE version</string>
 
     <!-- WELCOME -->
-    <string name="tutorial_message_welcome">Welcome in\nPrintoid %s</string>
+    <string name="tutorial_message_welcome">Welcome to\nPrintoid %s</string>
     <string name="tutorial_message_welcome_2">This short introduction will show you the content of the application</string>
 
     <!-- VERSIONS COMPARATOR -->
