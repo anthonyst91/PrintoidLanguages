@@ -27,6 +27,7 @@
     <string name="printed_time">已打印时间: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">已打印时间:</string>
+    <string name="printed_time_label_only">已打印时间</string>
     <string name="file_type_stl">文件类型: 模型</string>
     <string name="file_type_gcode">文件类型: 机器指令</string>
     <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
@@ -47,6 +48,8 @@
     <string name="filament_total_label">总长丝:</string>
     <string name="filament_tool_nb_label">灯丝挤出机 %d:</string>
     <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label_only">Current Z</string>
+    <string name="final_z_label_only">Final Z</string>
 
     <string name="size_label">大小:</string>
     <string name="time_label">时间:</string>

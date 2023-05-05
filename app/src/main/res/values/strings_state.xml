@@ -27,6 +27,7 @@
     <string name="printed_time">Print time: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">Print time:</string>
+    <string name="printed_time_label_only">Print time</string>
     <string name="file_type_stl">File type: model</string>
     <string name="file_type_gcode">File type: machine code</string>
     <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
@@ -47,6 +48,8 @@
     <string name="filament_total_label">Total filament:</string>
     <string name="filament_tool_nb_label">Filament tool %d:</string>
     <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label_only">Current Z</string>
+    <string name="final_z_label_only">Final Z</string>
 
     <string name="size_label">Size:</string>
     <string name="time_label">Time:</string>

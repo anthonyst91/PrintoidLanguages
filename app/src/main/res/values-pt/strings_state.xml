@@ -33,6 +33,7 @@
     <string name="printed_time">Tempo de impressão: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">Tempo de impressão:</string>
+    <string name="printed_time_label_only">Tempo</string>
     <string name="file_type_stl">Tipo de arquivo: modelo</string>
     <string name="file_type_gcode">Tipo de arquivo: código de máquina</string>
     <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
@@ -53,6 +54,8 @@
     <string name="filament_total_label">Filamento total:</string>
     <string name="filament_tool_nb_label">Filamento extrusora %d:</string>
     <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label_only">Current Z</string>
+    <string name="final_z_label_only">Final Z</string>
 
     <string name="size_label">Tamanho:</string>
     <string name="time_label">Tempo:</string>

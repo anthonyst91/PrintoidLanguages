@@ -25,6 +25,7 @@
     <string name="printed">%1$s/%2$s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">Tijdsduur:</string>
+    <string name="printed_time_label_only">Tijdsduur</string>
     <string name="printed_empty">&#8212;</string>
     <string name="printed_label">Geprint:</string>
     <string name="printed_time">Tijdsduur: %s</string>
@@ -47,6 +48,8 @@
     <string name="filament_total_label">Totaal gloeidraad:</string>
     <string name="filament_tool_nb_label">Gloeidraad extruder %d:</string>
     <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label_only">Current Z</string>
+    <string name="final_z_label_only">Final Z</string>
 
     <string name="size_label">Grootte:</string>
     <string name="time_label">Tijd:</string>

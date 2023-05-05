@@ -26,6 +26,7 @@
     <string name="printed_time">Печатаем: %s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">Печатаем:</string>
+    <string name="printed_time_label_only">Печатаем</string>
     <string name="file_type_stl">Тип файла: модель</string>
     <string name="file_type_gcode">Тип файла: машинный код</string>
     <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
@@ -47,6 +48,8 @@
     <string name="filament_total_label">Всего накаливания:</string>
     <string name="filament_tool_nb_label">Hить экструдер %d:</string>
     <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label_only">Current Z</string>
+    <string name="final_z_label_only">Final Z</string>
 
     <string name="size_label">Pазмер:</string>
     <string name="time_label">Bремя:</string>

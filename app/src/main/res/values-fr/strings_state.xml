@@ -25,6 +25,7 @@
     <string name="printed">%1$s/%2$s</string>
     <string name="printed_time_empty">&#8212; : &#8212;</string>
     <string name="printed_time_label">Durée :</string>
+    <string name="printed_time_label_only">Durée</string>
     <string name="printed_empty">&#8212;</string>
     <string name="printed_label">Imprimé :</string>
     <string name="printed_time">Durée : %s</string>
@@ -46,7 +47,9 @@
     <string name="remaining_time_label">Fin dans</string>
     <string name="filament_total_label">Filament total:</string>
     <string name="filament_tool_nb_label">Filament extrudeur %d:</string>
-    <string name="current_z_label">Current Z:</string>
+    <string name="current_z_label">Z actuel:</string>
+    <string name="current_z_label_only">Z actuel</string>
+    <string name="final_z_label_only">Z final</string>
 
     <string name="size_label">Taille:</string>
     <string name="time_label">Temps:</string>
