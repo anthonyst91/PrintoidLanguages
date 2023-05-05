@@ -11,8 +11,7 @@
 
     <string name="notification_file">Файл: %s</string>
     <string name="notification_progress">Прогресс: %1$.1f%% (по оценкам) - %2$.1f%% (реальный)</string>
-    <string name="notification_time_progress">Oценка прогресса: %.1f%%</string>
-    <string name="notification_gcode_progress">Pеальный прогресс: %.1f%%</string>
+    <string name="notification_gcode_progress">Прогресс: %.1f%%</string>
     <string name="notification_remaining_time">Осталось: %s</string>
     <string name="notification_end_time">Время окончания: %s</string>
     <string name="notification_temperature">Температура: %1$.1f° / %2$.1f°</string>

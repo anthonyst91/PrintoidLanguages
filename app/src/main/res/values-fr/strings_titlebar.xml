@@ -16,7 +16,7 @@
     <string name="title_bar_toggle_printer_state">Etat du serveur</string>
     <string name="title_bar_toggle_extruders_temp">Température extrudeurs</string>
     <string name="title_bar_toggle_hot_bed">Température lit chauffant</string>
-    <string name="title_bar_toggle_gcode_progress">Progression GCODE</string>
+    <string name="title_bar_toggle_gcode_progress">Progression de l\'impression</string>
     <string name="title_bar_toggle_time_progress">Progression temps</string>
     <string name="title_bar_toggle_remaining_time">Temps restant</string>
     <string name="title_bar_toggle_file_name">Nom du fichier</string>

@@ -11,8 +11,7 @@
 
     <string name="notification_file">Datei: %s</string>
     <string name="notification_progress">Fortschritt: %1$.1f%% (geschätzte) - %2$.1f%% (real)</string>
-    <string name="notification_time_progress">Geschätzter Fortschritt: %.1f%%</string>
-    <string name="notification_gcode_progress">Echter Fortschritt: %.1f%%</string>
+    <string name="notification_gcode_progress">Fortschritt: %.1f%%</string>
     <string name="notification_remaining_time">Verbleibende Zeit: %s</string>
     <string name="notification_end_time">Fertig um: %s</string>
     <string name="notification_temperature">Temperatur: %1$.1f° / %2$.1f°</string>

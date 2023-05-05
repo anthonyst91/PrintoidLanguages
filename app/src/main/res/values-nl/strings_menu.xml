@@ -14,6 +14,7 @@
     <string name="menu_disconnect_printer">Ontkoppel de printer</string>
     <string name="menu_connecting_printer">Printer verbinden</string>
     <string name="menu_video_streaming">Video streaming</string>
+    <string name="menu_video">Video</string>
     <string name="menu_commands">Aangepaste opdrachten</string>
     <string name="menu_printer_profiles_settings">@string/menu_title_servers</string>
     <string name="menu_app_settings">Parameters</string>

@@ -14,6 +14,7 @@
     <string name="menu_connecting_printer">Connecting printer</string>
     <string name="menu_disconnect_printer">Disconnect printer</string>
     <string name="menu_video_streaming">Video streaming</string>
+    <string name="menu_video">Video</string>
     <string name="menu_commands">Custom commands</string>
     <string name="menu_full_screen">Expand view</string>
     <string name="menu_full_screen_streaming">Expand video</string>

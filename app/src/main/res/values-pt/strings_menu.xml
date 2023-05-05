@@ -14,6 +14,7 @@
     <string name="menu_connecting_printer">Conectando a impressora</string>
     <string name="menu_disconnect_printer">Desconectar a impressora</string>
     <string name="menu_video_streaming">Streaming de vídeo</string>
+    <string name="menu_video">Vídeo</string>
     <string name="menu_commands">Comandos personalizados</string>
     <string name="menu_full_screen">Expandir vista</string>
     <string name="menu_full_screen_streaming">Expandir vídeo</string>

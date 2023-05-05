@@ -14,6 +14,7 @@
     <string name="menu_connecting_printer">正在连接打印机</string>
     <string name="menu_disconnect_printer">断开打印机连接</string>
     <string name="menu_video_streaming">视频监控</string>
+    <string name="menu_video">视频监控</string>
     <string name="menu_commands">自定义命令</string>
     <string name="menu_full_screen">全屏视图</string>
     <string name="menu_full_screen_streaming">全屏视频监控</string>

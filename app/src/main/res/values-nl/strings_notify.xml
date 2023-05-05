@@ -11,8 +11,7 @@
 
     <string name="notification_file">Bestand: %s</string>
     <string name="notification_progress">Voortgang: %1$.1f%% (geschatte) - %2$.1f%% (echte)</string>
-    <string name="notification_time_progress">Geschatte voortgang: %.1f%%</string>
-    <string name="notification_gcode_progress">Echte vooruitgang: %.1f%%</string>
+    <string name="notification_gcode_progress">Voortgang: %.1f%%</string>
     <string name="notification_remaining_time">Resterende tijd: %s</string>
     <string name="notification_end_time">Geschatte eindtijd: %s</string>
     <string name="notification_temperature">Temperatuur: %1$.1f° / %2$.1f°</string>

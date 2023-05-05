@@ -11,8 +11,7 @@
 
     <string name="notification_file">文件: %s</string>
     <string name="notification_progress">进度: %1$.1f%% (预计) - %2$.1f%% (真实)</string>
-    <string name="notification_time_progress">估计进度: %.1f%%</string>
-    <string name="notification_gcode_progress">真正的进步: %.1f%%</string>
+    <string name="notification_gcode_progress">进度: %.1f%%</string>
     <string name="notification_remaining_time">剩余时间: %s</string>
     <string name="notification_end_time">结束时间: %s</string>
     <string name="notification_temperature">温度: %1$.1f° / %2$.1f°</string>
