@@ -60,6 +60,8 @@ android {
         checkReleaseBuilds true
         abortOnError true
     }
+
+    namespace 'fr.yochi376.printoid.languages'
 }
 
 dependencies {
